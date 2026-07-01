@@ -187,8 +187,15 @@ html,body{
 .chip.flag{ background:rgba(255,255,255,0.08); color:var(--cream-80); border:1px solid rgba(255,255,255,0.14); }
 .chip.stale{ background:var(--warn); color:var(--navy-dark); }
 
-.silo{ height:96px; margin:14px 0 4px; }
-.silo svg{ height:100%; width:auto; }
+.media{
+  height:200px; margin:16px 0 4px;
+  border:1px solid rgba(255,255,255,0.10);
+  border-radius:12px; overflow:hidden;
+  background:linear-gradient(180deg, rgba(255,255,255,0.05), rgba(255,255,255,0.02));
+  display:flex; align-items:center; justify-content:center;
+}
+.media img{ width:100%; height:100%; object-fit:cover; display:block; }
+.media svg{ height:96px; width:auto; }
 
 .stats{
   display:grid; grid-template-columns:1.1fr 1fr 1.2fr 1.5fr;
@@ -280,7 +287,7 @@ html,body{
         <span class="chip flag" id="d-flag">US</span>
         <span class="chip stale" id="d-stale" style="display:none">STALE</span>
       </div>
-      <div class="silo" id="d-silo"></div>
+      <div class="media" id="d-media"></div>
       <div class="stats">
         <div class="stat">
           <div class="lbl">Speed</div>
@@ -357,6 +364,8 @@ const TICK_MS        = 200;    // single master tick
 const HOME           = { lat:42.7358, lon:-83.4188, name:'Clarkston' };
 const MIN_ACTIVE     = 1;      // fewer freighters than this shows the standby screen
 const IDLE_FACT_SECONDS = 9;   // seconds each standby fact holds before rotating
+const PHOTO_DIR      = 'photos/';   // repo folder; drop <MMSI>.jpg files here
+const PHOTO_EXT      = '.jpg';      // photo file extension to look for
 
 /* ==========================================================================
    MOCK DATA — real Great Lakes freighters, plausible positions.
@@ -539,6 +548,28 @@ function feature(i){
   cardOut = false;
 }
 
+const photoStatus = {};   // mmsi -> true (has photo) | false (none found)
+
+function setMedia(v){
+  const box = document.getElementById('d-media');
+  const url = PHOTO_DIR + v.mmsi + PHOTO_EXT;
+  if(photoStatus[v.mmsi] === true){          // known photo: show it immediately
+    box.innerHTML = `<img src="${url}" alt="">`;
+    return;
+  }
+  box.innerHTML = SILO[siloKey(v)];          // silhouette first, so it is never blank
+  if(photoStatus[v.mmsi] === false) return;  // already know there is no photo
+  const img = new Image();                   // probe for a photo, swap it in if found
+  img.onload = ()=>{
+    photoStatus[v.mmsi] = true;
+    if(vessels[featured] && vessels[featured].mmsi === v.mmsi){
+      box.innerHTML = `<img src="${url}" alt="">`;
+    }
+  };
+  img.onerror = ()=>{ photoStatus[v.mmsi] = false; };
+  img.src = url;
+}
+
 function paintCard(v){
   const flag = flagFor(v.mmsi);
   const dist = Math.round(haversineMiles(HOME.lat,HOME.lon,v.lat,v.lon));
@@ -551,7 +582,7 @@ function paintCard(v){
   document.getElementById('d-type').textContent = typeLabel(v.type);
   document.getElementById('d-flag').textContent = flag.code;
   document.getElementById('d-stale').style.display = stale ? 'inline-block':'none';
-  document.getElementById('d-silo').innerHTML = SILO[siloKey(v)];
+  setMedia(v);
   document.getElementById('d-sog').innerHTML = `${v.sog.toFixed(1)}<small>kn</small>`;
   document.getElementById('d-mph').textContent = `${mph} mph`;
   document.getElementById('d-compass').innerHTML = compassSVG(v.heading ?? v.cog);
