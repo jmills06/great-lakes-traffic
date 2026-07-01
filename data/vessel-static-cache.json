@@ -566,5 +566,53 @@
     "beam": 7,
     "destination": "",
     "callsign": "WAB9757"
+  },
+  "368156510": {
+    "name": "EMERALD LADY",
+    "type": 60,
+    "length": 30,
+    "beam": 9,
+    "destination": "CHICAGO,IL",
+    "callsign": "WDL7035"
+  },
+  "316045065": {
+    "name": "SHOWBOAT",
+    "type": 79,
+    "length": 21,
+    "beam": 8,
+    "destination": "",
+    "callsign": ""
+  },
+  "367578130": {
+    "name": "RIVER VIEW",
+    "type": 60,
+    "length": 7,
+    "beam": 5,
+    "destination": "USCHI<>USCHI",
+    "callsign": "WDG8497"
+  },
+  "368249990": {
+    "name": "ENCHANTMENT",
+    "type": 69,
+    "length": 0,
+    "beam": 0,
+    "destination": "",
+    "callsign": "WDM9147"
+  },
+  "316051091": {
+    "name": "ALGOBERTA",
+    "type": 80,
+    "length": 143,
+    "beam": 23,
+    "destination": "CANAN",
+    "callsign": "VABY"
+  },
+  "244283000": {
+    "name": "IVER BRIGHT",
+    "type": 89,
+    "length": 110,
+    "beam": 18,
+    "destination": "CASNI",
+    "callsign": "PCCB"
   }
 }
