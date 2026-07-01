@@ -190,5 +190,13 @@
     "beam": 23,
     "destination": "DETROIT SMC ROUGE",
     "callsign": "CZ9891"
+  },
+  "338888000": {
+    "name": "CLYDE S. VANENKEVORT",
+    "type": 31,
+    "length": 41,
+    "beam": 15,
+    "destination": "DETROIT SHORTCUT C1",
+    "callsign": "WDJ4194"
   }
 }
