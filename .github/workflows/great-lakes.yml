@@ -1,23 +1,21 @@
 name: Great Lakes Vessel Collector
 
-# Repo path: .github/workflows/great-lakes.yml
-
 on:
   schedule:
-    - cron: "*/10 * * * *"   # every 10 min (GitHub's floor is 5; runs can be delayed under load)
-  workflow_dispatch:          # lets you run it by hand from the Actions tab
+    - cron: "7,17,27,37,47,57 * * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write             # allow the job to commit the data files
+  contents: write
 
 concurrency:
   group: great-lakes-collector
-  cancel-in-progress: false   # never interrupt a run mid-listen
+  cancel-in-progress: false
 
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 5        # well above the ~55s listen window
+    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
 
