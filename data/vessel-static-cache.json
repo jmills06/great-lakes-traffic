@@ -198,5 +198,93 @@
     "beam": 15,
     "destination": "DETROIT SHORTCUT C1",
     "callsign": "WDJ4194"
+  },
+  "316045082": {
+    "name": "MV THOMAS RENNIE",
+    "type": 0,
+    "length": 0,
+    "beam": 0,
+    "destination": "",
+    "callsign": "VC4161"
+  },
+  "366978440": {
+    "name": "MISSOURI",
+    "type": 52,
+    "length": 30,
+    "beam": 9,
+    "destination": "DULUTH/SUPERIOR",
+    "callsign": "WAI9279"
+  },
+  "316044324": {
+    "name": "ORIOLE",
+    "type": 69,
+    "length": 21,
+    "beam": 7,
+    "destination": "",
+    "callsign": "CFI9997"
+  },
+  "316002873": {
+    "name": "OCEAN GOLF",
+    "type": 52,
+    "length": 25,
+    "beam": 10,
+    "destination": "HAMILTON",
+    "callsign": "FGYJ"
+  },
+  "316049426": {
+    "name": "YANKEE LADY 3",
+    "type": 60,
+    "length": 35,
+    "beam": 8,
+    "destination": "",
+    "callsign": ""
+  },
+  "367398450": {
+    "name": "LITTLE LADY",
+    "type": 60,
+    "length": 21,
+    "beam": 8,
+    "destination": "USCHI<>US",
+    "callsign": "WCZ2897"
+  },
+  "636024470": {
+    "name": "GOLDEN PALM",
+    "type": 80,
+    "length": 150,
+    "beam": 23,
+    "destination": "CASNI",
+    "callsign": "5LST6"
+  },
+  "369812000": {
+    "name": "CAROLINE MCKEE",
+    "type": 52,
+    "length": 41,
+    "beam": 11,
+    "destination": "CLEVELAND",
+    "callsign": "WDK8680"
+  },
+  "366988420": {
+    "name": "MEREDITH ASHTON",
+    "type": 52,
+    "length": 33,
+    "beam": 10,
+    "destination": "WASHBURN",
+    "callsign": "WDL5580"
+  },
+  "367073840": {
+    "name": "JAMES J. VERSLUIS",
+    "type": 52,
+    "length": 0,
+    "beam": 0,
+    "destination": "CHICAGO",
+    "callsign": "WDD9506"
+  },
+  "367364840": {
+    "name": "SHAKE A LEG",
+    "type": 60,
+    "length": 17,
+    "beam": 2,
+    "destination": "USCHI<>USCHI",
+    "callsign": "WDE5311"
   }
 }

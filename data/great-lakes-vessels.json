@@ -1,33 +1,19 @@
 {
-  "updated": "2026-07-01T18:53:44Z",
+  "updated": "2026-07-01T19:01:33Z",
   "vessels": [
     {
-      "mmsi": 316023808,
-      "name": "BAIE COMEAU",
-      "type": 70,
-      "lat": 43.11405,
-      "lon": -79.19545,
-      "sog": 0,
-      "cog": 289,
-      "heading": 7,
-      "length": 225,
-      "beam": 24,
-      "destination": "HAMILTON",
-      "lastReport": "2026-07-01T18:53:13Z"
-    },
-    {
-      "mmsi": 266463000,
-      "name": "THUN VENERN",
+      "mmsi": 636024470,
+      "name": "GOLDEN PALM",
       "type": 80,
-      "lat": 43.15561,
-      "lon": -79.19375,
-      "sog": 0.1,
-      "cog": 157,
-      "heading": 174,
+      "lat": 43.09238,
+      "lon": -82.33096,
+      "sog": 0,
+      "cog": 141,
+      "heading": 199,
       "length": 150,
       "beam": 23,
-      "destination": "CA SNI",
-      "lastReport": "2026-07-01T18:52:34Z"
+      "destination": "CASNI",
+      "lastReport": "2026-07-01T19:01:20Z"
     }
   ]
 }
