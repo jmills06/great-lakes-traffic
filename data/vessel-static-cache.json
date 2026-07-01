@@ -430,5 +430,77 @@
     "beam": 24,
     "destination": "THUNDER BAY",
     "callsign": "VDAC"
+  },
+  "316003123": {
+    "name": "JIIMAAN",
+    "type": 60,
+    "length": 61,
+    "beam": 15,
+    "destination": "",
+    "callsign": "CFI9556"
+  },
+  "338185247": {
+    "name": "FISCHER HAYDEN",
+    "type": 52,
+    "length": 0,
+    "beam": 0,
+    "destination": "BUFFALO",
+    "callsign": "WDA4498"
+  },
+  "316005377": {
+    "name": "CAPE STORM",
+    "type": 51,
+    "length": 15,
+    "beam": 5,
+    "destination": "SAR PORT WELLER",
+    "callsign": ""
+  },
+  "367043240": {
+    "name": "PATRICIAHOEY",
+    "type": 0,
+    "length": 0,
+    "beam": 0,
+    "destination": "",
+    "callsign": "WC4737"
+  },
+  "367516930": {
+    "name": "MACEY LAUREN",
+    "type": 50,
+    "length": 22,
+    "beam": 8,
+    "destination": "",
+    "callsign": "WDG2565"
+  },
+  "316048672": {
+    "name": "KWASIND",
+    "type": 69,
+    "length": 22,
+    "beam": 6,
+    "destination": "",
+    "callsign": "CFA5854"
+  },
+  "367050160": {
+    "name": "BURNS HARBOR",
+    "type": 70,
+    "length": 304,
+    "beam": 32,
+    "destination": "SUPERIOR",
+    "callsign": "WDC6027"
+  },
+  "316015050": {
+    "name": "ALGOTERRA",
+    "type": 82,
+    "length": 144,
+    "beam": 23,
+    "destination": "SARNIA",
+    "callsign": "VCZR"
+  },
+  "366938770": {
+    "name": "H LEE WHITE",
+    "type": 70,
+    "length": 215,
+    "beam": 24,
+    "destination": "CLEVELAND",
+    "callsign": "WZD2465"
   }
 }
