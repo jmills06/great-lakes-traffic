@@ -310,5 +310,69 @@
     "beam": 0,
     "destination": "WINDSOR",
     "callsign": ""
+  },
+  "368351910": {
+    "name": "FLOUR POWER",
+    "type": 37,
+    "length": 19,
+    "beam": 6,
+    "destination": "DULUTH MN",
+    "callsign": "WDP4163"
+  },
+  "316003880": {
+    "name": "EVERLAST",
+    "type": 80,
+    "length": 164,
+    "beam": 22,
+    "destination": "SARNIA",
+    "callsign": "CFG8057"
+  },
+  "316013215": {
+    "name": "ALGOCANADA",
+    "type": 81,
+    "length": 130,
+    "beam": 20,
+    "destination": "NANTICOKE",
+    "callsign": "CFN5193"
+  },
+  "366947250": {
+    "name": "BLUE HERON",
+    "type": 90,
+    "length": 27,
+    "beam": 8,
+    "destination": "SUPERIOR.WI",
+    "callsign": "WCX7521"
+  },
+  "366825870": {
+    "name": "BRAVO",
+    "type": 0,
+    "length": 15,
+    "beam": 5,
+    "destination": "",
+    "callsign": "WDA5940"
+  },
+  "209016000": {
+    "name": "TORRENT",
+    "type": 70,
+    "length": 185,
+    "beam": 24,
+    "destination": "CA TOR",
+    "callsign": "5BWL2"
+  },
+  "316046951": {
+    "name": "TORONTO ELITE",
+    "type": 69,
+    "length": 23,
+    "beam": 6,
+    "destination": "TORONTOON",
+    "callsign": "CFA3479"
+  },
+  "367776910": {
+    "name": "ISLAND TIME",
+    "type": 99,
+    "length": 0,
+    "beam": 0,
+    "destination": "",
+    "callsign": "WDHB"
   }
 }
