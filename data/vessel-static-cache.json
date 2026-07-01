@@ -510,5 +510,45 @@
     "beam": 12,
     "destination": "USCHI><USCHI",
     "callsign": "WBU4276"
+  },
+  "316017550": {
+    "name": "MCASPHALT ADVANTAGE",
+    "type": 80,
+    "length": 140,
+    "beam": 24,
+    "destination": "SARNIA",
+    "callsign": "VAAT"
+  },
+  "367627830": {
+    "name": "CITYVIEW",
+    "type": 99,
+    "length": 31,
+    "beam": 11,
+    "destination": "",
+    "callsign": "WDH5424"
+  },
+  "366951920": {
+    "name": "SUMMER OF GEORGE",
+    "type": 69,
+    "length": 39,
+    "beam": 7,
+    "destination": "PASSENGER",
+    "callsign": "WDH3538"
+  },
+  "316001878": {
+    "name": "SEAHOUND",
+    "type": 52,
+    "length": 20,
+    "beam": 5,
+    "destination": "HAMILTON",
+    "callsign": "CFN5015"
+  },
+  "304604000": {
+    "name": "LAKE ERIE",
+    "type": 9,
+    "length": 185,
+    "beam": 24,
+    "destination": "THUNDER BAY",
+    "callsign": "V2CF1"
   }
 }

@@ -1,19 +1,33 @@
 {
-  "updated": "2026-07-01T20:31:34Z",
+  "updated": "2026-07-01T20:46:28Z",
   "vessels": [
     {
-      "mmsi": 316002063,
-      "name": "SEA EAGLE II",
-      "type": 52,
-      "lat": 42.28466,
-      "lon": -83.13794,
+      "mmsi": 316023808,
+      "name": "BAIE COMEAU",
+      "type": 70,
+      "lat": 43.11647,
+      "lon": -79.19503,
       "sog": 0,
-      "cog": 42,
-      "heading": 149,
-      "length": 164,
+      "cog": 24,
+      "heading": 8,
+      "length": 225,
+      "beam": 24,
+      "destination": "HAMILTON",
+      "lastReport": "2026-07-01T20:46:13Z"
+    },
+    {
+      "mmsi": 266463000,
+      "name": "THUN VENERN",
+      "type": 80,
+      "lat": 43.13174,
+      "lon": -79.19299,
+      "sog": 0,
+      "cog": 182,
+      "heading": 183,
+      "length": 150,
       "beam": 23,
-      "destination": "DETROIT SMC ROUGE",
-      "lastReport": "2026-07-01T20:31:32Z"
+      "destination": "CA SNI",
+      "lastReport": "2026-07-01T20:46:03Z"
     }
   ]
 }
