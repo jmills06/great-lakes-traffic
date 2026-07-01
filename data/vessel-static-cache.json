@@ -374,5 +374,61 @@
     "beam": 0,
     "destination": "",
     "callsign": "WDHB"
+  },
+  "316048477": {
+    "name": "ODYSSEY TORONTO",
+    "type": 99,
+    "length": 46,
+    "beam": 11,
+    "destination": "",
+    "callsign": "CHA2135"
+  },
+  "367531970": {
+    "name": "GOTTA GO NOW",
+    "type": 6,
+    "length": 19,
+    "beam": 5,
+    "destination": "NAVY_PIER",
+    "callsign": "WDG4007"
+  },
+  "367102450": {
+    "name": "TENACIOUS",
+    "type": 99,
+    "length": 21,
+    "beam": 8,
+    "destination": "",
+    "callsign": "WDC9450"
+  },
+  "316001096": {
+    "name": "MOLLY M1",
+    "type": 31,
+    "length": 28,
+    "beam": 8,
+    "destination": "PORT WELLER",
+    "callsign": "CYKB"
+  },
+  "303514000": {
+    "name": "ALLIANCE",
+    "type": 69,
+    "length": 24,
+    "beam": 6,
+    "destination": "DETROIT",
+    "callsign": "WDC8119"
+  },
+  "368039870": {
+    "name": "ODYSSEY CHICAGO_IVER",
+    "type": 60,
+    "length": 43,
+    "beam": 9,
+    "destination": "CHICAGO",
+    "callsign": "WDK2887"
+  },
+  "316017110": {
+    "name": "ALGOMA ENDEAVOUR",
+    "type": 70,
+    "length": 225,
+    "beam": 24,
+    "destination": "THUNDER BAY",
+    "callsign": "VDAC"
   }
 }
