@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1080, height=1920">
+<title>Great Lakes Traffic — The Everyday Ham</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&family=Source+Sans+Pro:wght@300;400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+
+<style>
+/* ==========================================================================
+   THE EVERYDAY HAM — GREAT LAKES TRAFFIC
+   1080 x 1920 portrait DakBoard signage, non-interactive display only.
+   ========================================================================== */
+
+:root{
+  --navy:        #152333;
+  --navy-dark:   #0d1620;
+  --navy-light:  #1e3347;
+  --orange:      #ff7030;
+  --cream:       #fdf8e5;
+  --cream-80:    rgba(253,248,229,0.80);
+  --cream-50:    rgba(253,248,229,0.50);
+  --cream-30:    rgba(253,248,229,0.30);
+  --good:        #2ecc71;
+  --warn:        #f39c12;
+}
+
+*{ margin:0; padding:0; box-sizing:border-box; }
+
+html,body{
+  width:1080px; height:1920px;
+  overflow:hidden;
+  cursor:none;
+  background:var(--navy-dark);
+  color:var(--cream);
+  font-family:'Source Sans Pro',sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+
+#stage{
+  position:relative;
+  width:1080px; height:1920px;
+  display:flex; flex-direction:column;
+  background:
+    radial-gradient(circle at 12% 6%,  rgba(255,112,48,0.14), transparent 42%),
+    radial-gradient(circle at 88% 96%, rgba(255,112,48,0.10), transparent 42%),
+    linear-gradient(160deg, var(--navy-light) 0%, var(--navy) 45%, var(--navy-dark) 100%);
+}
+
+/* ---------- HEADER ---------- */
+#header{
+  height:150px; flex:0 0 150px;
+  padding:26px 40px 0 40px;
+  position:relative; z-index:5;
+}
+.brandline{
+  display:flex; align-items:baseline; gap:14px;
+  font-family:'Oswald',sans-serif; font-weight:500;
+  text-transform:uppercase; letter-spacing:.22em;
+  font-size:15px; color:var(--orange);
+}
+.brandline .call{ color:var(--cream-50); letter-spacing:.28em; }
+.titlerow{
+  display:flex; align-items:flex-end; justify-content:space-between;
+  margin-top:8px;
+}
+.titlerow h1{
+  font-family:'Oswald',sans-serif; font-weight:300;
+  font-size:58px; line-height:1; letter-spacing:.01em;
+  color:var(--cream);
+}
+.titlerow h1 b{ font-weight:600; color:var(--orange); }
+.headmeta{ text-align:right; }
+.headmeta .clock{
+  font-family:'Oswald',sans-serif; font-weight:400;
+  font-size:34px; letter-spacing:.06em; color:var(--cream);
+}
+.headmeta .clock .z{
+  font-size:16px; color:var(--orange);
+  border:1px solid var(--orange); border-radius:5px;
+  padding:1px 6px; margin-left:8px; vertical-align:middle;
+  letter-spacing:.15em;
+}
+.headmeta .count{
+  font-size:14px; text-transform:uppercase; letter-spacing:.18em;
+  color:var(--cream-50); margin-top:6px;
+}
+.headmeta .count b{ color:var(--orange); font-weight:600; }
+.rule{
+  height:2px; margin-top:14px;
+  background:linear-gradient(90deg, var(--orange) 0%, rgba(255,112,48,0.15) 55%, transparent 100%);
+}
+
+/* ---------- MAP ---------- */
+#map{
+  flex:1 1 auto;
+  width:1080px;
+  background:var(--navy-dark);
+  pointer-events:none;      /* display-only, no interaction */
+}
+.leaflet-container{ background:var(--navy-dark); font-family:'Source Sans Pro',sans-serif; }
+.leaflet-control-attribution{
+  background:rgba(13,22,32,0.6) !important;
+  color:var(--cream-30) !important;
+  font-size:9px !important;
+}
+.leaflet-control-attribution a{ color:var(--cream-50) !important; }
+
+/* HUD targeting reticle over the featured vessel */
+.reticle{ position:relative; width:120px; height:120px; }
+.reticle .ring{
+  position:absolute; inset:0; border-radius:50%;
+  border:2px solid var(--orange);
+  animation:retPulse 1.8s ease-in-out infinite;
+}
+.reticle .spin{
+  position:absolute; inset:14px; border-radius:50%;
+  border:2px dashed rgba(255,112,48,0.7);
+  animation:retSpin 9s linear infinite;
+}
+.reticle .cross::before,
+.reticle .cross::after{
+  content:''; position:absolute; background:var(--orange);
+}
+.reticle .cross::before{ left:50%; top:-6px; width:2px; height:22px; transform:translateX(-1px); }
+.reticle .cross::after { top:50%; left:-6px; height:2px; width:22px; transform:translateY(-1px); }
+.reticle .dot{
+  position:absolute; left:50%; top:50%; width:8px; height:8px;
+  margin:-4px 0 0 -4px; border-radius:50%;
+  background:var(--orange); box-shadow:0 0 12px var(--orange);
+}
+@keyframes retPulse{ 0%,100%{ transform:scale(0.92); opacity:.55 } 50%{ transform:scale(1.06); opacity:1 } }
+@keyframes retSpin { to{ transform:rotate(360deg) } }
+
+/* ---------- DOSSIER CARD ---------- */
+#dossier{
+  height:660px; flex:0 0 660px;
+  position:relative; z-index:5;
+  padding:30px 40px 34px 40px;
+  background:linear-gradient(180deg, rgba(13,22,32,0) 0%, rgba(13,22,32,0.55) 18%, var(--navy-dark) 55%);
+}
+.card{
+  position:relative; height:100%;
+  border:1px solid rgba(255,255,255,0.10);
+  border-left:6px solid var(--orange);
+  border-radius:16px;
+  background:linear-gradient(180deg, rgba(30,51,71,0.55), rgba(13,22,32,0.55));
+  box-shadow:0 -8px 40px rgba(0,0,0,0.45), 0 0 60px rgba(255,112,48,0.06);
+  overflow:hidden;
+  padding:26px 34px;
+  transform:translateY(105%); opacity:0;
+  transition:transform .8s cubic-bezier(.16,.84,.32,1), opacity .7s ease;
+}
+.card.show{ transform:translateY(0); opacity:1; }
+.card .scan{
+  position:absolute; inset:0; pointer-events:none; opacity:.5;
+  background:repeating-linear-gradient(0deg,
+     transparent 0, transparent 3px,
+     rgba(255,112,48,0.05) 3px, rgba(255,112,48,0.05) 4px);
+  height:200%; animation:scan 7s linear infinite;
+}
+@keyframes scan{ to{ transform:translateY(-50%) } }
+
+.eyebrow{
+  font-family:'Oswald',sans-serif; text-transform:uppercase;
+  letter-spacing:.24em; font-size:14px; color:var(--orange);
+  display:flex; align-items:center; gap:12px;
+}
+.eyebrow::after{
+  content:''; flex:1; height:1px;
+  background:linear-gradient(90deg, rgba(255,112,48,0.6), transparent);
+}
+
+.namerow{ display:flex; align-items:flex-end; gap:16px; margin-top:10px; flex-wrap:wrap; }
+.shipname{
+  font-family:'Oswald',sans-serif; font-weight:300;
+  font-size:64px; line-height:.95; color:var(--cream);
+}
+.chip{
+  font-family:'Oswald',sans-serif; font-weight:500;
+  text-transform:uppercase; letter-spacing:.12em; font-size:15px;
+  padding:5px 11px; border-radius:6px; margin-bottom:8px;
+}
+.chip.type{ background:var(--orange); color:var(--navy-dark); }
+.chip.flag{ background:rgba(255,255,255,0.08); color:var(--cream-80); border:1px solid rgba(255,255,255,0.14); }
+.chip.stale{ background:var(--warn); color:var(--navy-dark); }
+
+.silo{ height:96px; margin:14px 0 4px; }
+.silo svg{ height:100%; width:auto; }
+
+.stats{
+  display:grid; grid-template-columns:1.1fr 1fr 1.2fr 1.5fr;
+  gap:18px; margin-top:16px;
+  padding-top:18px; border-top:1px solid rgba(255,255,255,0.08);
+}
+.stat .lbl{
+  font-family:'Oswald',sans-serif; text-transform:uppercase;
+  letter-spacing:.16em; font-size:13px; color:var(--cream-50);
+  margin-bottom:6px;
+}
+.stat .big{
+  font-family:'Oswald',sans-serif; font-weight:300;
+  font-size:46px; line-height:1; color:var(--cream);
+}
+.stat .big small{ font-size:18px; color:var(--cream-50); margin-left:4px; }
+.stat .sub{ font-size:15px; color:var(--cream-50); margin-top:4px; }
+.stat .dest{
+  font-family:'Oswald',sans-serif; font-weight:400;
+  font-size:30px; line-height:1.05; color:var(--orange);
+}
+
+.hdgwrap{ display:flex; align-items:center; gap:14px; }
+.hdgwrap .val{ font-family:'Oswald',sans-serif; font-weight:300; font-size:40px; color:var(--cream); }
+.compass{ width:64px; height:64px; flex:0 0 64px; }
+
+.footer{
+  position:absolute; left:34px; right:34px; bottom:20px;
+  display:flex; justify-content:space-between; align-items:center;
+  font-size:15px; color:var(--cream-50);
+}
+.footer .beam b{ color:var(--cream); font-weight:600; }
+.footer .beam .accent{ color:var(--orange); }
+.footer .age .live{ color:var(--good); }
+.footer .age .stale{ color:var(--warn); }
+</style>
+</head>
+<body>
+<div id="stage">
+
+  <div id="header">
+    <div class="brandline">The Everyday Ham <span class="call">K8JKU</span></div>
+    <div class="titlerow">
+      <h1>GREAT LAKES <b>TRAFFIC</b></h1>
+      <div class="headmeta">
+        <div class="clock" id="clock">--:--<span class="z">UTC</span></div>
+        <div class="count"><b id="vcount">0</b> vessels tracked</div>
+      </div>
+    </div>
+    <div class="rule"></div>
+  </div>
+
+  <div id="map"></div>
+
+  <div id="dossier">
+    <div class="card" id="card">
+      <div class="scan"></div>
+      <div class="eyebrow">Live Vessel Focus</div>
+      <div class="namerow">
+        <div class="shipname" id="d-name">—</div>
+        <span class="chip type" id="d-type">CARGO</span>
+        <span class="chip flag" id="d-flag">US</span>
+        <span class="chip stale" id="d-stale" style="display:none">STALE</span>
+      </div>
+      <div class="silo" id="d-silo"></div>
+      <div class="stats">
+        <div class="stat">
+          <div class="lbl">Speed</div>
+          <div class="big" id="d-sog">0<small>kn</small></div>
+          <div class="sub" id="d-mph">0 mph</div>
+        </div>
+        <div class="stat">
+          <div class="lbl">Heading</div>
+          <div class="hdgwrap">
+            <svg class="compass" id="d-compass" viewBox="0 0 64 64"></svg>
+            <div class="val" id="d-hdg">—</div>
+          </div>
+        </div>
+        <div class="stat">
+          <div class="lbl">Size (L × B)</div>
+          <div class="big" id="d-size" style="font-size:38px">—</div>
+          <div class="sub" id="d-size-m">—</div>
+        </div>
+        <div class="stat">
+          <div class="lbl">Bound For</div>
+          <div class="dest" id="d-dest">—</div>
+        </div>
+      </div>
+      <div class="footer">
+        <div class="beam" id="d-beam">—</div>
+        <div class="age" id="d-age">—</div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script>
+/* ==========================================================================
+   TUNING CONSTANTS
+   ========================================================================== */
+const DATA_URL       = null;   // set to your JSON URL to go live; null = use mock data below
+const CYCLE_SECONDS  = 14;     // seconds each vessel holds focus
+const FLY_SECONDS    = 2.4;    // map flyTo duration when locking on
+const CARD_OUT_LEAD  = 1.1;    // seconds before cycle end that the card slides out
+const FOCUS_ZOOM     = 8.4;    // zoom level when locked onto a vessel
+const OVERVIEW       = { center:[45.2,-84.3], zoom:6 };
+const STALE_MINUTES  = 20;     // report age past which a vessel is flagged STALE
+const REFRESH_SECONDS= 300;    // how often to re-fetch live data (5 min)
+const TICK_MS        = 200;    // single master tick
+const HOME           = { lat:42.7358, lon:-83.4188, name:'Clarkston' };
+
+/* ==========================================================================
+   MOCK DATA — real Great Lakes freighters, plausible positions.
+   Live JSON shape (great-lakes-vessels.json):
+     { "updated":"2026-07-01T15:00:00Z",
+       "vessels":[ { "mmsi":366123000,"name":"PAUL R TREGURTHA","type":70,
+                     "lat":46.50,"lon":-84.35,"sog":9.8,"cog":92,"heading":93,
+                     "length":309,"beam":32,"destination":"TWO HARBORS, MN",
+                     "lastReport":"2026-07-01T14:57:00Z" } ] }
+   type: AIS ship-type code (70-79 cargo, 80-89 tanker, 52 tug). length/beam in metres.
+   ========================================================================== */
+const MOCK_VESSELS = [
+  { mmsi:366123000, name:'PAUL R TREGURTHA', type:70, lat:46.50, lon:-84.35, sog:9.8,  cog:92,  heading:93,  length:309, beam:32, destination:'TWO HARBORS, MN',  lastReportMin:3  },
+  { mmsi:366772000, name:'ARTHUR M ANDERSON',type:70, lat:44.60, lon:-82.60, sog:11.4, cog:300, heading:301, length:234, beam:21, destination:'GARY, IN',        lastReportMin:6  },
+  { mmsi:366909000, name:'EDWIN H GOTT',      type:70, lat:46.90, lon:-87.20, sog:12.1, cog:200, heading:199, length:306, beam:32, destination:'SILVER BAY, MN',  lastReportMin:2  },
+  { mmsi:366916000, name:'EDGAR B SPEER',     type:70, lat:46.75, lon:-91.90, sog:0.2,  cog:0,   heading:145, length:306, beam:32, destination:'AT ANCHOR',       lastReportMin:9  },
+  { mmsi:366902000, name:'MESABI MINER',      type:70, lat:43.30, lon:-87.10, sog:13.0, cog:95,  heading:96,  length:306, beam:32, destination:'ST CLAIR, MI',    lastReportMin:4  },
+  { mmsi:366905000, name:'JAMES R BARKER',    type:70, lat:44.10, lon:-87.00, sog:10.7, cog:165, heading:164, length:306, beam:32, destination:'INDIANA HARBOR',  lastReportMin:5  },
+  { mmsi:366999000, name:'AMERICAN CENTURY',  type:70, lat:45.40, lon:-86.60, sog:12.6, cog:50,  heading:51,  length:306, beam:32, destination:'ESCANABA, MI',    lastReportMin:7  },
+  { mmsi:316001000, name:'CSL NIAGARA',       type:70, lat:42.20, lon:-80.60, sog:11.9, cog:250, heading:251, length:225, beam:23, destination:'HAMILTON, ON',    lastReportMin:4  },
+  { mmsi:316039000, name:'ALGOMA CONVEYOR',   type:70, lat:43.30, lon:-82.10, sog:10.3, cog:75,  heading:74,  length:225, beam:24, destination:'SARNIA, ON',      lastReportMin:8  },
+  { mmsi:538005000, name:'FEDERAL YUKON',     type:70, lat:42.00, lon:-81.30, sog:9.1,  cog:120, heading:121, length:200, beam:24, destination:'MONTREAL, QC',    lastReportMin:11 },
+  { mmsi:316023000, name:'MANITOULIN',        type:70, lat:42.10, lon:-83.13, sog:7.4,  cog:210, heading:209, length:195, beam:23, destination:'WINDSOR, ON',     lastReportMin:6  },
+  { mmsi:316015000, name:'G3 MARQUIS',        type:70, lat:48.10, lon:-87.60, sog:12.2, cog:285, heading:284, length:226, beam:24, destination:'THUNDER BAY, ON',  lastReportMin:3  }
+];
+
+/* ==========================================================================
+   HELPERS
+   ========================================================================== */
+const R_EARTH_MI = 3958.8;
+const toRad = d => d*Math.PI/180;
+const toDeg = r => r*180/Math.PI;
+
+function haversineMiles(la1,lo1,la2,lo2){
+  const dLa=toRad(la2-la1), dLo=toRad(lo2-lo1);
+  const a=Math.sin(dLa/2)**2 + Math.cos(toRad(la1))*Math.cos(toRad(la2))*Math.sin(dLo/2)**2;
+  return R_EARTH_MI*2*Math.atan2(Math.sqrt(a),Math.sqrt(1-a));
+}
+function bearingDeg(la1,lo1,la2,lo2){
+  const y=Math.sin(toRad(lo2-lo1))*Math.cos(toRad(la2));
+  const x=Math.cos(toRad(la1))*Math.sin(toRad(la2))-Math.sin(toRad(la1))*Math.cos(toRad(la2))*Math.cos(toRad(lo2-lo1));
+  return (toDeg(Math.atan2(y,x))+360)%360;
+}
+const COMPASS16 = ['N','NNE','NE','ENE','E','ESE','SE','SSE','S','SSW','SW','WSW','W','WNW','NW','NNW'];
+const compassPoint = deg => COMPASS16[Math.round(deg/22.5)%16];
+
+function flagFor(mmsi){
+  const mid = Math.floor(mmsi/1000000);
+  if(mid>=366 && mid<=369) return {code:'US',   name:'United States'};
+  if(mid===316)            return {code:'CA',   name:'Canada'};
+  if(mid===538)            return {code:'MH',   name:'Marshall Is.'};
+  if(mid===636)            return {code:'LR',   name:'Liberia'};
+  if(mid===248||mid===215||mid===256||mid===229) return {code:'MT', name:'Malta'};
+  return {code:'INTL', name:'International'};
+}
+function typeLabel(t){
+  if(t>=80 && t<=89) return 'TANKER';
+  if(t===52)         return 'TUG';
+  if(t>=70 && t<=79) return 'CARGO';
+  return 'VESSEL';
+}
+// silhouette family: lakers get the self-unloader profile, salties a boxier ocean profile
+function siloKey(v){
+  const f = flagFor(v.mmsi).code;
+  if(v.type===52) return 'tug';
+  if(f==='US' || f==='CA') return 'laker';
+  return 'saltie';
+}
+const SILO = {
+  laker:`<svg viewBox="0 0 420 90" xmlns="http://www.w3.org/2000/svg">
+    <path d="M6 60 L410 60 L392 78 L26 78 Z" fill="#ff7030"/>
+    <rect x="150" y="34" width="230" height="26" fill="#1e3347" stroke="#ff7030" stroke-width="2"/>
+    <rect x="34" y="30" width="46" height="30" fill="#fdf8e5"/>
+    <rect x="42" y="16" width="30" height="16" fill="#fdf8e5"/>
+    <line x1="150" y1="60" x2="150" y2="20" stroke="#ff7030" stroke-width="3"/>
+    <line x1="150" y1="20" x2="300" y2="44" stroke="#ff7030" stroke-width="3"/>
+    <rect x="368" y="24" width="16" height="36" fill="#fdf8e5"/>
+  </svg>`,
+  saltie:`<svg viewBox="0 0 420 90" xmlns="http://www.w3.org/2000/svg">
+    <path d="M10 58 L406 58 L388 78 L30 78 Z" fill="#ff7030"/>
+    <rect x="300" y="26" width="70" height="32" fill="#fdf8e5"/>
+    <rect x="322" y="8" width="20" height="18" fill="#fdf8e5"/>
+    <rect x="70" y="42" width="14" height="16" fill="#1e3347" stroke="#ff7030" stroke-width="2"/>
+    <rect x="130" y="42" width="14" height="16" fill="#1e3347" stroke="#ff7030" stroke-width="2"/>
+    <rect x="190" y="42" width="14" height="16" fill="#1e3347" stroke="#ff7030" stroke-width="2"/>
+    <line x1="60" y1="42" x2="60" y2="18" stroke="#fdf8e5" stroke-width="3"/>
+    <line x1="200" y1="42" x2="200" y2="18" stroke="#fdf8e5" stroke-width="3"/>
+  </svg>`,
+  tug:`<svg viewBox="0 0 420 90" xmlns="http://www.w3.org/2000/svg">
+    <path d="M120 60 L320 60 L300 80 L150 80 Z" fill="#ff7030"/>
+    <rect x="180" y="24" width="80" height="36" fill="#fdf8e5"/>
+    <rect x="198" y="8" width="44" height="18" fill="#fdf8e5"/>
+    <rect x="272" y="18" width="16" height="42" fill="#1e3347" stroke="#ff7030" stroke-width="2"/>
+  </svg>`
+};
+
+function compassSVG(heading){
+  return `
+    <circle cx="32" cy="32" r="29" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.18)" stroke-width="1.5"/>
+    <text x="32" y="12" fill="rgba(253,248,229,0.5)" font-size="9" text-anchor="middle" font-family="Oswald">N</text>
+    <text x="32" y="58" fill="rgba(253,248,229,0.35)" font-size="8" text-anchor="middle" font-family="Oswald">S</text>
+    <text x="57" y="35" fill="rgba(253,248,229,0.35)" font-size="8" text-anchor="middle" font-family="Oswald">E</text>
+    <text x="7"  y="35" fill="rgba(253,248,229,0.35)" font-size="8" text-anchor="middle" font-family="Oswald">W</text>
+    <g transform="rotate(${heading} 32 32)">
+      <polygon points="32,9 27,34 32,29 37,34" fill="#ff7030"/>
+      <polygon points="32,55 28,34 32,39 36,34" fill="rgba(253,248,229,0.4)"/>
+    </g>
+    <circle cx="32" cy="32" r="3" fill="#ff7030"/>`;
+}
+
+const mToFt = m => Math.round(m*3.28084);
+
+/* ==========================================================================
+   MAP + MARKERS
+   ========================================================================== */
+const map = L.map('map',{
+  zoomControl:false, attributionControl:true,
+  dragging:false, touchZoom:false, scrollWheelZoom:false,
+  doubleClickZoom:false, boxZoom:false, keyboard:false,
+  inertia:false, fadeAnimation:true, zoomAnimation:true
+}).setView(OVERVIEW.center, OVERVIEW.zoom);
+
+L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{
+  subdomains:'abcd', maxZoom:12,
+  attribution:'&copy; OpenStreetMap &copy; CARTO'
+}).addTo(map);
+
+const canvasRenderer = L.canvas({ padding:0.5 });
+
+let vessels = [];
+let markers = [];
+let reticle = null;
+let featured = 0;
+let cycleStart = 0;
+let cardOut = false;
+let dataStamp = '';
+
+function buildMarkers(){
+  markers.forEach(m=>map.removeLayer(m));
+  markers = [];
+  vessels.forEach((v,i)=>{
+    const m = L.circleMarker([v.lat,v.lon],{
+      renderer:canvasRenderer, radius:5,
+      color:'#fdf8e5', weight:1.5, opacity:0.7,
+      fillColor:'#fdf8e5', fillOpacity:0.35
+    }).addTo(map);
+    markers.push(m);
+  });
+  if(reticle){ map.removeLayer(reticle); reticle=null; }
+  reticle = L.marker([vessels[0].lat,vessels[0].lon],{
+    interactive:false,
+    icon:L.divIcon({ className:'', iconSize:[120,120], iconAnchor:[60,60],
+      html:`<div class="reticle"><div class="ring"></div><div class="spin"></div><div class="cross"></div><div class="dot"></div></div>` })
+  }).addTo(map);
+}
+
+/* ==========================================================================
+   FOCUS CYCLE
+   ========================================================================== */
+function feature(i){
+  const v = vessels[i];
+  markers.forEach((m,j)=>{
+    const on = (j===i);
+    m.setStyle({
+      color: on?'#ff7030':'#fdf8e5',
+      fillColor: on?'#ff7030':'#fdf8e5',
+      fillOpacity: on?0.9:0.35, opacity: on?1:0.7
+    });
+    m.setRadius(on?7:5);
+  });
+  reticle.setLatLng([v.lat,v.lon]);
+  map.flyTo([v.lat,v.lon], FOCUS_ZOOM, { duration:FLY_SECONDS, easeLinearity:0.25 });
+  paintCard(v);
+
+  const card = document.getElementById('card');
+  card.classList.remove('show');
+  void card.offsetWidth;            // restart transition
+  requestAnimationFrame(()=> card.classList.add('show'));
+  cardOut = false;
+}
+
+function paintCard(v){
+  const flag = flagFor(v.mmsi);
+  const dist = Math.round(haversineMiles(HOME.lat,HOME.lon,v.lat,v.lon));
+  const brg  = compassPoint(bearingDeg(HOME.lat,HOME.lon,v.lat,v.lon));
+  const mph  = (v.sog*1.15078).toFixed(0);
+  const ageM = ageMinutes(v);
+  const stale = ageM > STALE_MINUTES;
+
+  document.getElementById('d-name').textContent = v.name;
+  document.getElementById('d-type').textContent = typeLabel(v.type);
+  document.getElementById('d-flag').textContent = flag.code;
+  document.getElementById('d-stale').style.display = stale ? 'inline-block':'none';
+  document.getElementById('d-silo').innerHTML = SILO[siloKey(v)];
+  document.getElementById('d-sog').innerHTML = `${v.sog.toFixed(1)}<small>kn</small>`;
+  document.getElementById('d-mph').textContent = `${mph} mph`;
+  document.getElementById('d-compass').innerHTML = compassSVG(v.heading ?? v.cog);
+  document.getElementById('d-hdg').textContent = `${String(Math.round(v.heading ?? v.cog)).padStart(3,'0')}°`;
+  document.getElementById('d-size').textContent = `${mToFt(v.length).toLocaleString()} × ${mToFt(v.beam)} ft`;
+  document.getElementById('d-size-m').textContent = `${v.length} × ${v.beam} m`;
+  document.getElementById('d-dest').textContent = v.destination || 'UNREPORTED';
+  document.getElementById('d-beam').innerHTML =
+    `<b>${dist} mi</b> <span class="accent">${brg}</span> of ${HOME.name} &nbsp;·&nbsp; MMSI ${v.mmsi}`;
+}
+
+/* ==========================================================================
+   TIME + AGE
+   ========================================================================== */
+function ageMinutes(v){ return Math.max(0,(Date.now()-v._reportMs)/60000); }
+function fmtAge(min){
+  if(min<1) return 'just now';
+  if(min<60) return `${Math.floor(min)}m ago`;
+  const h=Math.floor(min/60), m=Math.floor(min%60);
+  return `${h}h ${m}m ago`;
+}
+function updateAges(){
+  const v = vessels[featured]; if(!v) return;
+  const min = ageMinutes(v);
+  const cls = min>STALE_MINUTES ? 'stale' : 'live';
+  document.getElementById('d-age').innerHTML =
+    `reported <span class="${cls}">${fmtAge(min)}</span>`;
+}
+function updateClock(){
+  const d=new Date();
+  const hh=String(d.getUTCHours()).padStart(2,'0');
+  const mm=String(d.getUTCMinutes()).padStart(2,'0');
+  document.getElementById('clock').innerHTML = `${hh}:${mm}<span class="z">UTC</span>`;
+}
+
+/* ==========================================================================
+   DATA LOAD
+   ========================================================================== */
+function normalize(raw){
+  return raw.map(v=>{
+    const ms = v.lastReport ? Date.parse(v.lastReport.endsWith('Z')?v.lastReport:v.lastReport+'Z')
+                            : Date.now() - (v.lastReportMin||0)*60000;
+    return { ...v, _reportMs: ms };
+  });
+}
+async function loadData(){
+  if(!DATA_URL){ applyData(MOCK_VESSELS); return; }
+  try{
+    const r = await fetch(DATA_URL,{cache:'no-store'});
+    const j = await r.json();
+    const list = j.vessels || j;
+    const stamp = JSON.stringify(list.map(v=>[v.mmsi,v.lat,v.lon]));
+    if(stamp===dataStamp) return;      // signature check: skip rebuild if unchanged
+    dataStamp = stamp;
+    applyData(list);
+  }catch(e){
+    console.warn('vessel fetch failed, keeping last data', e);
+    // graceful stale handling: leave existing vessels on screen
+  }
+}
+function applyData(list){
+  const wasEmpty = vessels.length===0;
+  vessels = normalize(list);
+  document.getElementById('vcount').textContent = vessels.length;
+  buildMarkers();
+  if(wasEmpty){ featured=0; cycleStart=performance.now(); feature(0); }
+}
+
+/* ==========================================================================
+   SINGLE MASTER TICK
+   ========================================================================== */
+let lastRefresh = 0;
+function tick(){
+  const now = performance.now();
+  updateClock();
+  updateAges();
+
+  if(vessels.length){
+    const elapsed = (now - cycleStart)/1000;
+    if(!cardOut && elapsed > CYCLE_SECONDS - CARD_OUT_LEAD){
+      document.getElementById('card').classList.remove('show');
+      cardOut = true;
+    }
+    if(elapsed >= CYCLE_SECONDS){
+      featured = (featured+1) % vessels.length;
+      cycleStart = now;
+      feature(featured);
+    }
+  }
+  if(DATA_URL && (now-lastRefresh)/1000 > REFRESH_SECONDS){
+    lastRefresh = now; loadData();
+  }
+}
+
+/* ==========================================================================
+   BOOT
+   ========================================================================== */
+loadData();
+setInterval(tick, TICK_MS);
+</script>
+</body>
+</html>
