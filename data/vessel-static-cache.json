@@ -1,0 +1,58 @@
+{
+  "367648960": {
+    "name": "LUCIA",
+    "type": 60,
+    "length": 26,
+    "beam": 9,
+    "destination": "CHICAGO",
+    "callsign": "WDH7517"
+  },
+  "316048072": {
+    "name": "THOUSAND ISLANDER 3",
+    "type": 60,
+    "length": 36,
+    "beam": 10,
+    "destination": "",
+    "callsign": ""
+  },
+  "367347610": {
+    "name": "SHORELINE II",
+    "type": 99,
+    "length": 22,
+    "beam": 8,
+    "destination": "",
+    "callsign": "WCY4503"
+  },
+  "338924003": {
+    "name": "R/V LAKE EXPLORER II",
+    "type": 33,
+    "length": 27,
+    "beam": 6,
+    "destination": "SUPERIOR, WI",
+    "callsign": "WDD6962"
+  },
+  "316023274": {
+    "name": "MU22",
+    "type": 55,
+    "length": 10,
+    "beam": 4,
+    "destination": "",
+    "callsign": "MU22"
+  },
+  "305158000": {
+    "name": "BBC SINGAPORE",
+    "type": 70,
+    "length": 149,
+    "beam": 23,
+    "destination": "CAWND",
+    "callsign": "V2HX7"
+  },
+  "367350360": {
+    "name": "SPIRIT OF NAVY PIER",
+    "type": 60,
+    "length": 42,
+    "beam": 10,
+    "destination": "USCHI<>USCHI",
+    "callsign": "WCY3193"
+  }
+}
