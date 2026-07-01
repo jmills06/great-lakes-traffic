@@ -710,5 +710,13 @@
     "beam": 6,
     "destination": "USCHI<>USCHI",
     "callsign": "WDE4284"
+  },
+  "316053597": {
+    "name": "ALGOMA BEAR",
+    "type": 70,
+    "length": 226,
+    "beam": 24,
+    "destination": "HAMILTON",
+    "callsign": "VBAC"
   }
 }
