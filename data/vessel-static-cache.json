@@ -742,5 +742,53 @@
     "beam": 23,
     "destination": "LORAIN",
     "callsign": "WQZ7791"
+  },
+  "366848350": {
+    "name": "SEADOG IV",
+    "type": 60,
+    "length": 24,
+    "beam": 7,
+    "destination": "",
+    "callsign": "WDM9373"
+  },
+  "316023339": {
+    "name": "THUNDER BAY",
+    "type": 70,
+    "length": 223,
+    "beam": 24,
+    "destination": "QUEBEC CITY",
+    "callsign": "CFN6288"
+  },
+  "366896890": {
+    "name": "SIGHTSEER",
+    "type": 99,
+    "length": 0,
+    "beam": 0,
+    "destination": "",
+    "callsign": "WDL9497"
+  },
+  "368218980": {
+    "name": "DAVID R. SCHANOCK",
+    "type": 31,
+    "length": 23,
+    "beam": 8,
+    "destination": "DULUTH",
+    "callsign": "WDM5761"
+  },
+  "367401440": {
+    "name": "SEADOG III",
+    "type": 69,
+    "length": 20,
+    "beam": 6,
+    "destination": "",
+    "callsign": "WDE8090"
+  },
+  "319130200": {
+    "name": "SATORI",
+    "type": 37,
+    "length": 64,
+    "beam": 12,
+    "destination": "US CHI",
+    "callsign": "ZGHE"
   }
 }
