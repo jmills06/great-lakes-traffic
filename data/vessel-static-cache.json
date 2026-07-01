@@ -622,5 +622,29 @@
     "beam": 7,
     "destination": "BUFFALO",
     "callsign": "WDM4925"
+  },
+  "367702080": {
+    "name": "CODY BOYD",
+    "type": 0,
+    "length": 35,
+    "beam": 11,
+    "destination": "US^0A18>11P4",
+    "callsign": "WDI4796"
+  },
+  "316026694": {
+    "name": "CSL ST-LAURENT",
+    "type": 70,
+    "length": 226,
+    "beam": 24,
+    "destination": "THUNDER BAY",
+    "callsign": "CFK5152"
+  },
+  "316040355": {
+    "name": "BLAIR MCKEIL",
+    "type": 70,
+    "length": 140,
+    "beam": 21,
+    "destination": "USTOL",
+    "callsign": "VCBM"
   }
 }
