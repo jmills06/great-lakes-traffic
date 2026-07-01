@@ -550,5 +550,21 @@
     "beam": 24,
     "destination": "THUNDER BAY",
     "callsign": "V2CF1"
+  },
+  "366971370": {
+    "name": "EDWIN H. GOTT",
+    "type": 70,
+    "length": 305,
+    "beam": 32,
+    "destination": "TWO HARBORS",
+    "callsign": "WDH7558"
+  },
+  "366936590": {
+    "name": "MARLYN",
+    "type": 99,
+    "length": 20,
+    "beam": 7,
+    "destination": "",
+    "callsign": "WAB9757"
   }
 }
