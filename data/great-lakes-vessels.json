@@ -1,19 +1,47 @@
 {
-  "updated": "2026-07-01T19:01:33Z",
+  "updated": "2026-07-01T19:16:08Z",
   "vessels": [
     {
-      "mmsi": 636024470,
-      "name": "GOLDEN PALM",
-      "type": 80,
-      "lat": 43.09238,
-      "lon": -82.33096,
+      "mmsi": 316018031,
+      "name": "ALGOMA GUARDIAN",
+      "type": 70,
+      "lat": 43.28,
+      "lon": -79.80216,
       "sog": 0,
-      "cog": 141,
-      "heading": 199,
+      "cog": 284,
+      "heading": 107,
+      "length": 222,
+      "beam": 23,
+      "destination": "HAMILTON",
+      "lastReport": "2026-07-01T19:16:02Z"
+    },
+    {
+      "mmsi": 316002063,
+      "name": "SEA EAGLE II",
+      "type": 52,
+      "lat": 42.28466,
+      "lon": -83.13795,
+      "sog": 0,
+      "cog": 42,
+      "heading": 149,
+      "length": 164,
+      "beam": 23,
+      "destination": "DETROIT SMC ROUGE",
+      "lastReport": "2026-07-01T19:15:32Z"
+    },
+    {
+      "mmsi": 266463000,
+      "name": "THUN VENERN",
+      "type": 80,
+      "lat": 43.14125,
+      "lon": -79.19226,
+      "sog": 2.4,
+      "cog": 180,
+      "heading": 185,
       "length": 150,
       "beam": 23,
-      "destination": "CASNI",
-      "lastReport": "2026-07-01T19:01:20Z"
+      "destination": "CA SNI",
+      "lastReport": "2026-07-01T19:16:03Z"
     }
   ]
 }

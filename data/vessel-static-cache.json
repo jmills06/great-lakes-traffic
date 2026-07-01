@@ -286,5 +286,29 @@
     "beam": 2,
     "destination": "USCHI<>USCHI",
     "callsign": "WDE5311"
+  },
+  "368395170": {
+    "name": "NEW YORK",
+    "type": 52,
+    "length": 19,
+    "beam": 6,
+    "destination": "DETROIT",
+    "callsign": "WDP8970"
+  },
+  "316035873": {
+    "name": "ISLAND QUEEN III",
+    "type": 60,
+    "length": 30,
+    "beam": 7,
+    "destination": "",
+    "callsign": "VA3412"
+  },
+  "316003616": {
+    "name": "STORMONT",
+    "type": 99,
+    "length": 0,
+    "beam": 0,
+    "destination": "WINDSOR",
+    "callsign": ""
   }
 }
