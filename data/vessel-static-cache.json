@@ -726,5 +726,21 @@
     "beam": 24,
     "destination": "CA THU",
     "callsign": "V7HU4"
+  },
+  "316001940": {
+    "name": "FLORENCE SPIRIT",
+    "type": 70,
+    "length": 146,
+    "beam": 21,
+    "destination": "DETROIT - ZUG",
+    "callsign": "CFBC"
+  },
+  "366938710": {
+    "name": "AMERICAN MARINER",
+    "type": 70,
+    "length": 222,
+    "beam": 23,
+    "destination": "LORAIN",
+    "callsign": "WQZ7791"
   }
 }
