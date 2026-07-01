@@ -54,5 +54,69 @@
     "beam": 10,
     "destination": "USCHI<>USCHI",
     "callsign": "WCY3193"
+  },
+  "316045085": {
+    "name": "NORTHERN SPIRIT1",
+    "type": 99,
+    "length": 39,
+    "beam": 9,
+    "destination": "",
+    "callsign": "CFI9998"
+  },
+  "266463000": {
+    "name": "THUN VENERN",
+    "type": 80,
+    "length": 150,
+    "beam": 23,
+    "destination": "CA SNI",
+    "callsign": "SGTE"
+  },
+  "367745090": {
+    "name": "SKYVIEW",
+    "type": 60,
+    "length": 29,
+    "beam": 10,
+    "destination": "USCHI<>USCHI",
+    "callsign": "WDI9084"
+  },
+  "538010710": {
+    "name": "FEDERAL HAMILTON",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "CA WND",
+    "callsign": "V7A7306"
+  },
+  "316045066": {
+    "name": "MV ONGIARA",
+    "type": 0,
+    "length": 0,
+    "beam": 0,
+    "destination": "",
+    "callsign": "VC 4161"
+  },
+  "316023808": {
+    "name": "BAIE COMEAU",
+    "type": 70,
+    "length": 225,
+    "beam": 24,
+    "destination": "HAMILTON",
+    "callsign": "CFN6357"
+  },
+  "367164050": {
+    "name": "CAP STREETER",
+    "type": 99,
+    "length": 20,
+    "beam": 7,
+    "destination": "",
+    "callsign": "WCX3809"
+  },
+  "338165341": {
+    "name": "SIMPSON SHERIFF DIVE",
+    "type": 99,
+    "length": 14,
+    "beam": 12,
+    "destination": "",
+    "callsign": "SIMPSON"
   }
 }
