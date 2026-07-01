@@ -646,5 +646,21 @@
     "beam": 21,
     "destination": "USTOL",
     "callsign": "VCBM"
+  },
+  "367521420": {
+    "name": "LILA",
+    "type": 60,
+    "length": 26,
+    "beam": 9,
+    "destination": "",
+    "callsign": "WDG2997"
+  },
+  "368374380": {
+    "name": "GENESIS SPIRIT",
+    "type": 90,
+    "length": 34,
+    "beam": 11,
+    "destination": "SARNIA ONT",
+    "callsign": "WDP6629"
   }
 }
