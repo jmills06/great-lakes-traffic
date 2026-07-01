@@ -670,5 +670,13 @@
     "beam": 32,
     "destination": "CONNEAUT, OH",
     "callsign": "WXN3191"
+  },
+  "316043882": {
+    "name": "ALGOMA INTREPID",
+    "type": 70,
+    "length": 198,
+    "beam": 24,
+    "destination": "MUSKEGON",
+    "callsign": "VABC"
   }
 }
