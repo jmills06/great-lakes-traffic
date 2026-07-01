@@ -678,5 +678,37 @@
     "beam": 24,
     "destination": "MUSKEGON",
     "callsign": "VABC"
+  },
+  "316045069": {
+    "name": "MV SAM MCBRIDE",
+    "type": 0,
+    "length": 0,
+    "beam": 0,
+    "destination": "",
+    "callsign": "VC 4160"
+  },
+  "367583840": {
+    "name": "KIOWA",
+    "type": 31,
+    "length": 23,
+    "beam": 8,
+    "destination": "",
+    "callsign": "WDG9056"
+  },
+  "255915987": {
+    "name": "STENHEIM",
+    "type": 80,
+    "length": 144,
+    "beam": 23,
+    "destination": "US TOL",
+    "callsign": "CQ2445"
+  },
+  "367350620": {
+    "name": "SEADOG V",
+    "type": 60,
+    "length": 21,
+    "beam": 6,
+    "destination": "USCHI<>USCHI",
+    "callsign": "WDE4284"
   }
 }
