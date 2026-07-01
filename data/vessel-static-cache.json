@@ -118,5 +118,77 @@
     "beam": 12,
     "destination": "",
     "callsign": "SIMPSON"
+  },
+  "367307630": {
+    "name": "GIDDY UP",
+    "type": 60,
+    "length": 16,
+    "beam": 6,
+    "destination": "CHICAGO",
+    "callsign": "WDD9155"
+  },
+  "366999978": {
+    "name": "CG BRISTOL BAY",
+    "type": 52,
+    "length": 42,
+    "beam": 11,
+    "destination": "DETROIT MI",
+    "callsign": "NRLY"
+  },
+  "316018031": {
+    "name": "ALGOMA GUARDIAN",
+    "type": 70,
+    "length": 222,
+    "beam": 23,
+    "destination": "HAMILTON",
+    "callsign": "CFK9698"
+  },
+  "367376370": {
+    "name": "WYOMING",
+    "type": 99,
+    "length": 0,
+    "beam": 0,
+    "destination": "BUFFALO, NY",
+    "callsign": ""
+  },
+  "316011710": {
+    "name": "ALGOMA HARVESTER",
+    "type": 70,
+    "length": 225,
+    "beam": 24,
+    "destination": "THUNDER BAY",
+    "callsign": "XJBK"
+  },
+  "316048071": {
+    "name": "THOUSAND ISLANDER II",
+    "type": 60,
+    "length": 30,
+    "beam": 6,
+    "destination": "GANANOQUE",
+    "callsign": ""
+  },
+  "316048073": {
+    "name": "THOUSAND ISLANDER IV",
+    "type": 60,
+    "length": 36,
+    "beam": 8,
+    "destination": "GANANOQUE",
+    "callsign": "VA3436"
+  },
+  "316001701": {
+    "name": "JOHN D LEITCH",
+    "type": 70,
+    "length": 222,
+    "beam": 24,
+    "destination": "CLARKSON",
+    "callsign": "VGWM"
+  },
+  "316002063": {
+    "name": "SEA EAGLE II",
+    "type": 52,
+    "length": 164,
+    "beam": 23,
+    "destination": "DETROIT SMC ROUGE",
+    "callsign": "CZ9891"
   }
 }
