@@ -3,14 +3,14 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=1080, height=1920">
-<title>Great Lakes Traffic — The Everyday Ham</title>
+<title>Great Lakes Traffic</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&family=Source+Sans+Pro:wght@300;400;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
 
 <style>
 /* ==========================================================================
-   THE EVERYDAY HAM — GREAT LAKES TRAFFIC
+   GREAT LAKES TRAFFIC
    1080 x 1920 portrait DakBoard signage, non-interactive display only.
    ========================================================================== */
 
@@ -138,11 +138,11 @@ html,body{
 #dossier{
   height:660px; flex:0 0 660px;
   position:relative; z-index:5;
-  padding:30px 40px 34px 40px;
+  padding:0;
   background:linear-gradient(180deg, rgba(13,22,32,0) 0%, rgba(13,22,32,0.55) 18%, var(--navy-dark) 55%);
 }
 .card{
-  position:relative; height:100%;
+  position:absolute; top:30px; left:40px; right:40px; bottom:34px;
   border:1px solid rgba(255,255,255,0.10);
   border-left:6px solid var(--orange);
   border-radius:16px;
@@ -150,7 +150,7 @@ html,body{
   box-shadow:0 -8px 40px rgba(0,0,0,0.45), 0 0 60px rgba(255,112,48,0.06);
   overflow:hidden;
   padding:26px 34px;
-  transform:translateY(105%); opacity:0;
+  transform:translateY(115%); opacity:0;
   transition:transform .8s cubic-bezier(.16,.84,.32,1), opacity .7s ease;
 }
 .card.show{ transform:translateY(0); opacity:1; }
@@ -224,13 +224,40 @@ html,body{
 .footer .beam .accent{ color:var(--orange); }
 .footer .age .live{ color:var(--good); }
 .footer .age .stale{ color:var(--warn); }
+
+/* ---------- IDLE / STANDBY ---------- */
+.idle-body{ display:flex; align-items:center; gap:38px; margin-top:30px; }
+.radar{
+  position:relative; width:236px; height:236px; flex:0 0 236px; border-radius:50%;
+  background:radial-gradient(circle, rgba(255,112,48,0.08), transparent 72%);
+}
+.radar svg{ position:absolute; inset:0; width:100%; height:100%; }
+.radar .sweep{
+  position:absolute; inset:0; border-radius:50%;
+  background:conic-gradient(from 0deg, rgba(255,112,48,0.42), rgba(255,112,48,0) 72deg);
+  animation:radarSweep 4s linear infinite;
+}
+@keyframes radarSweep{ to{ transform:rotate(360deg) } }
+.idle-text{ flex:1 1 auto; }
+.idle-head{
+  font-family:'Oswald',sans-serif; font-weight:300;
+  font-size:54px; line-height:1.02; color:var(--cream);
+}
+.idle-sub{ font-size:21px; color:var(--cream-50); margin-top:12px; }
+.idle-fact{
+  margin-top:28px; padding-top:22px;
+  border-top:1px solid rgba(255,255,255,0.08);
+  font-size:23px; line-height:1.45; color:var(--cream-80);
+  transition:opacity .5s ease;
+}
+.idle-fact b{ color:var(--orange); font-weight:600; }
 </style>
 </head>
 <body>
 <div id="stage">
 
   <div id="header">
-    <div class="brandline">The Everyday Ham <span class="call">K8JKU</span></div>
+    <div class="brandline">Live Vessel Feed</div>
     <div class="titlerow">
       <h1>GREAT LAKES <b>TRAFFIC</b></h1>
       <div class="headmeta">
@@ -282,6 +309,33 @@ html,body{
         <div class="age" id="d-age">—</div>
       </div>
     </div>
+
+    <div class="card idle" id="idle">
+      <div class="scan"></div>
+      <div class="eyebrow">Standing By</div>
+      <div class="idle-body">
+        <div class="radar">
+          <svg viewBox="0 0 236 236">
+            <circle cx="118" cy="118" r="110" fill="none" stroke="rgba(253,248,229,0.12)" stroke-width="1"/>
+            <circle cx="118" cy="118" r="76"  fill="none" stroke="rgba(253,248,229,0.10)" stroke-width="1"/>
+            <circle cx="118" cy="118" r="42"  fill="none" stroke="rgba(253,248,229,0.10)" stroke-width="1"/>
+            <line x1="118" y1="8" x2="118" y2="228" stroke="rgba(253,248,229,0.07)" stroke-width="1"/>
+            <line x1="8" y1="118" x2="228" y2="118" stroke="rgba(253,248,229,0.07)" stroke-width="1"/>
+            <circle cx="118" cy="118" r="4" fill="#ff7030"/>
+          </svg>
+          <div class="sweep"></div>
+        </div>
+        <div class="idle-text">
+          <div class="idle-head" id="i-head">NO FREIGHTERS IN RANGE</div>
+          <div class="idle-sub" id="i-sub">Scanning the five lakes for cargo traffic</div>
+          <div class="idle-fact" id="i-fact">&nbsp;</div>
+        </div>
+      </div>
+      <div class="footer">
+        <div class="beam" id="i-status">In range: <b>0</b></div>
+        <div class="age" id="i-updated">awaiting first report</div>
+      </div>
+    </div>
   </div>
 
 </div>
@@ -291,7 +345,7 @@ html,body{
 /* ==========================================================================
    TUNING CONSTANTS
    ========================================================================== */
-const DATA_URL       = data/great-lakes-vessels.json;   // set to your JSON URL to go live; null = use mock data below
+const DATA_URL       = 'https://raw.githubusercontent.com/jmills06/great-lakes-traffic/main/data/great-lakes-vessels.json';   // live feed; set to null to fall back to mock data
 const CYCLE_SECONDS  = 14;     // seconds each vessel holds focus
 const FLY_SECONDS    = 2.4;    // map flyTo duration when locking on
 const CARD_OUT_LEAD  = 1.1;    // seconds before cycle end that the card slides out
@@ -301,6 +355,8 @@ const STALE_MINUTES  = 20;     // report age past which a vessel is flagged STAL
 const REFRESH_SECONDS= 300;    // how often to re-fetch live data (5 min)
 const TICK_MS        = 200;    // single master tick
 const HOME           = { lat:42.7358, lon:-83.4188, name:'Clarkston' };
+const MIN_ACTIVE     = 1;      // fewer freighters than this shows the standby screen
+const IDLE_FACT_SECONDS = 9;   // seconds each standby fact holds before rotating
 
 /* ==========================================================================
    MOCK DATA — real Great Lakes freighters, plausible positions.
@@ -441,6 +497,8 @@ let dataStamp = '';
 function buildMarkers(){
   markers.forEach(m=>map.removeLayer(m));
   markers = [];
+  if(reticle){ map.removeLayer(reticle); reticle=null; }
+  if(!vessels.length) return;                 // idle: nothing to plot
   vessels.forEach((v,i)=>{
     const m = L.circleMarker([v.lat,v.lon],{
       renderer:canvasRenderer, radius:5,
@@ -449,7 +507,6 @@ function buildMarkers(){
     }).addTo(map);
     markers.push(m);
   });
-  if(reticle){ map.removeLayer(reticle); reticle=null; }
   reticle = L.marker([vessels[0].lat,vessels[0].lon],{
     interactive:false,
     icon:L.divIcon({ className:'', iconSize:[120,120], iconAnchor:[60,60],
@@ -546,21 +603,30 @@ async function loadData(){
     const r = await fetch(DATA_URL,{cache:'no-store'});
     const j = await r.json();
     const list = j.vessels || j;
+    connOK = true;
+    if(j.updated) lastUpdated = fmtUTC(j.updated);
     const stamp = JSON.stringify(list.map(v=>[v.mmsi,v.lat,v.lon]));
     if(stamp===dataStamp) return;      // signature check: skip rebuild if unchanged
     dataStamp = stamp;
     applyData(list);
   }catch(e){
+    connOK = false;
     console.warn('vessel fetch failed, keeping last data', e);
     // graceful stale handling: leave existing vessels on screen
   }
 }
 function applyData(list){
-  const wasEmpty = vessels.length===0;
   vessels = normalize(list);
   document.getElementById('vcount').textContent = vessels.length;
   buildMarkers();
-  if(wasEmpty){ featured=0; cycleStart=performance.now(); feature(0); }
+  if(vessels.length >= MIN_ACTIVE){
+    document.getElementById('idle').classList.remove('show');
+    if(mode!=='active'){ mode='active'; featured=0; cycleStart=performance.now(); }
+    if(featured >= vessels.length) featured=0;
+    feature(featured);
+  } else {
+    enterIdle();
+  }
 }
 
 /* ==========================================================================
@@ -570,9 +636,10 @@ let lastRefresh = 0;
 function tick(){
   const now = performance.now();
   updateClock();
-  updateAges();
 
-  if(vessels.length){
+  if(vessels.length >= MIN_ACTIVE){
+    if(mode==='idle') exitIdle();
+    updateAges();
     const elapsed = (now - cycleStart)/1000;
     if(!cardOut && elapsed > CYCLE_SECONDS - CARD_OUT_LEAD){
       document.getElementById('card').classList.remove('show');
@@ -583,10 +650,78 @@ function tick(){
       cycleStart = now;
       feature(featured);
     }
+  } else {
+    if(mode!=='idle') enterIdle();
+    document.getElementById('i-updated').textContent = lastUpdated ? 'last data ' + lastUpdated : 'awaiting first report';
+    document.getElementById('i-head').textContent = connOK ? 'NO FREIGHTERS IN RANGE' : 'RECONNECTING TO FEED';
+    document.getElementById('i-sub').textContent  = connOK ? 'Scanning the five lakes for cargo traffic' : 'Data feed unavailable, retrying shortly';
+    if((now - factStart)/1000 >= IDLE_FACT_SECONDS){
+      factIndex = (factIndex+1) % FACTS.length;
+      factStart = now;
+      setFact(factIndex);
+    }
   }
+
   if(DATA_URL && (now-lastRefresh)/1000 > REFRESH_SECONDS){
     lastRefresh = now; loadData();
   }
+}
+
+/* ==========================================================================
+   IDLE / STANDBY  (shown when no freighters are within reception range)
+   ========================================================================== */
+const FACTS = [
+  'The five Great Lakes hold about <b>21%</b> of the world\'s surface fresh water.',
+  'At <b>1,013 feet</b>, the Paul R. Tregurtha is the longest ship on the lakes.',
+  'Lakers are built long and narrow to fit the locks at the <b>Soo</b> and the <b>Welland</b>.',
+  'The <b>Soo Locks</b> lift ships about 21 feet between Lake Superior and the lower lakes.',
+  'The <b>Welland Canal</b> raises ships roughly 326 feet around Niagara Falls.',
+  'A single 1,000-foot laker can carry around <b>70,000 tons</b> of iron ore.',
+  '<b>Lake Superior</b> is the largest freshwater lake on Earth by surface area.',
+  'Home-built freighters are <b>lakers</b>; ocean ships that visit are <b>salties</b>.',
+  'The <b>Arthur M. Anderson</b> was the last ship to reach the Edmund Fitzgerald in 1975.',
+  'Winter ice usually closes the Soo Locks from <b>mid-January to late March</b>.'
+];
+
+let mode = 'boot';
+let factIndex = 0;
+let factStart = 0;
+let connOK = true;
+let lastUpdated = null;
+
+function fmtUTC(iso){
+  const d = new Date(iso.endsWith('Z') ? iso : iso + 'Z');
+  if(isNaN(d)) return 'unknown';
+  return `${String(d.getUTCHours()).padStart(2,'0')}:${String(d.getUTCMinutes()).padStart(2,'0')} UTC`;
+}
+
+function setFact(i){
+  const el = document.getElementById('i-fact');
+  el.style.opacity = 0;
+  setTimeout(()=>{ el.innerHTML = FACTS[i % FACTS.length]; el.style.opacity = 1; }, 260);
+}
+
+function enterIdle(){
+  mode = 'idle';
+  document.getElementById('card').classList.remove('show');
+  map.flyTo(OVERVIEW.center, OVERVIEW.zoom, { duration:FLY_SECONDS });
+  factIndex = 0; factStart = performance.now();
+  document.getElementById('i-head').textContent    = connOK ? 'NO FREIGHTERS IN RANGE' : 'RECONNECTING TO FEED';
+  document.getElementById('i-sub').textContent     = connOK ? 'Scanning the five lakes for cargo traffic' : 'Data feed unavailable, retrying shortly';
+  document.getElementById('i-status').innerHTML    = 'In range: <b>0</b>';
+  document.getElementById('i-updated').textContent = lastUpdated ? 'last data ' + lastUpdated : 'awaiting first report';
+  const fact = document.getElementById('i-fact');
+  fact.innerHTML = FACTS[0]; fact.style.opacity = 1;
+  const idle = document.getElementById('idle');
+  idle.classList.remove('show'); void idle.offsetWidth;
+  requestAnimationFrame(()=> idle.classList.add('show'));
+}
+
+function exitIdle(){
+  document.getElementById('idle').classList.remove('show');
+  mode = 'active';
+  featured = 0; cycleStart = performance.now();
+  feature(0);
 }
 
 /* ==========================================================================
