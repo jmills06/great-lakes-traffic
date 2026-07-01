@@ -1,103 +1,61 @@
 {
-  "updated": "2026-07-01T21:46:25Z",
+  "updated": "2026-07-01T22:01:35Z",
   "vessels": [
     {
       "mmsi": 367050160,
       "name": "BURNS HARBOR",
       "type": 70,
-      "lat": 46.69984,
-      "lon": -92.01857,
+      "lat": 46.69985,
+      "lon": -92.01855,
       "sog": 0,
       "cog": 180,
       "heading": 180,
       "length": 304,
       "beam": 32,
       "destination": "SUPERIOR",
-      "lastReport": "2026-07-01T21:46:12Z"
-    },
-    {
-      "mmsi": 316023808,
-      "name": "BAIE COMEAU",
-      "type": 70,
-      "lat": 43.11647,
-      "lon": -79.19504,
-      "sog": 0,
-      "cog": 174,
-      "heading": 8,
-      "length": 225,
-      "beam": 24,
-      "destination": "HAMILTON",
-      "lastReport": "2026-07-01T21:45:53Z"
-    },
-    {
-      "mmsi": 636024470,
-      "name": "GOLDEN PALM",
-      "type": 80,
-      "lat": 43.09046,
-      "lon": -82.33401,
-      "sog": 0.2,
-      "cog": 356,
-      "heading": 78,
-      "length": 150,
-      "beam": 23,
-      "destination": "CASNI",
-      "lastReport": "2026-07-01T21:46:20Z"
+      "lastReport": "2026-07-01T22:00:21Z"
     },
     {
       "mmsi": 266463000,
       "name": "THUN VENERN",
       "type": 80,
-      "lat": 43.11545,
-      "lon": -79.19622,
-      "sog": 3.8,
-      "cog": 194,
-      "heading": 192,
+      "lat": 43.09411,
+      "lon": -79.2076,
+      "sog": 6.4,
+      "cog": 192,
+      "heading": 191,
       "length": 150,
       "beam": 23,
       "destination": "CA SNI",
-      "lastReport": "2026-07-01T21:46:22Z"
-    },
-    {
-      "mmsi": 316040355,
-      "name": "BLAIR MCKEIL",
-      "type": 70,
-      "lat": 44.26767,
-      "lon": -76.04825,
-      "sog": 8.5,
-      "cog": 239,
-      "heading": 240,
-      "length": 140,
-      "beam": 21,
-      "destination": "USTOL",
-      "lastReport": "2026-07-01T21:45:35Z"
+      "lastReport": "2026-07-01T22:00:42Z"
     },
     {
       "mmsi": 316017550,
       "name": "MCASPHALT ADVANTAGE",
       "type": 80,
-      "lat": 42.23012,
-      "lon": -83.13048,
-      "sog": 8.7,
-      "cog": 4,
-      "heading": 2,
+      "lat": 42.26513,
+      "lon": -83.11061,
+      "sog": 8.9,
+      "cog": 26,
+      "heading": 24,
       "length": 140,
       "beam": 24,
       "destination": "SARNIA",
-      "lastReport": "2026-07-01T21:45:45Z"
+      "lastReport": "2026-07-01T22:01:27Z"
     },
     {
       "mmsi": 244283000,
       "name": "IVER BRIGHT",
       "type": 89,
-      "lat": 42.93405,
-      "lon": -82.44711,
+      "lat": 42.93402,
+      "lon": -82.4471,
       "sog": 0,
-      "cog": 14,
+      "cog": 16,
       "heading": 32,
       "length": 110,
       "beam": 18,
       "destination": "CASNI",
-      "lastReport": "2026-07-01T21:45:31Z"
+      "lastReport": "2026-07-01T22:00:32Z"
     }
   ]
 }

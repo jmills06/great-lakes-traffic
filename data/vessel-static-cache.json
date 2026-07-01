@@ -662,5 +662,13 @@
     "beam": 11,
     "destination": "SARNIA ONT",
     "callsign": "WDP6629"
+  },
+  "366938730": {
+    "name": "INDIANA HARBOR",
+    "type": 70,
+    "length": 305,
+    "beam": 32,
+    "destination": "CONNEAUT, OH",
+    "callsign": "WXN3191"
   }
 }
