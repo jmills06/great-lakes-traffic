@@ -556,7 +556,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "TWO HARBORS",
+    "destination": "NANTICOKE",
     "callsign": "WDH7558"
   },
   "366936590": {
@@ -934,5 +934,45 @@
     "beam": 6,
     "destination": "TORONTO",
     "callsign": "VA4846"
+  },
+  "366904930": {
+    "name": "HERBERT C JACKSON",
+    "type": 70,
+    "length": 213,
+    "beam": 23,
+    "destination": "USSKY>USRRJ",
+    "callsign": "WL3972"
+  },
+  "367511590": {
+    "name": "DEFIANCE",
+    "type": 70,
+    "length": 38,
+    "beam": 13,
+    "destination": "CALCITE",
+    "callsign": "WDG2047"
+  },
+  "316004579": {
+    "name": "WYATT M",
+    "type": 52,
+    "length": 24,
+    "beam": 6,
+    "destination": "TORONTO",
+    "callsign": "CFN5403"
+  },
+  "316001635": {
+    "name": "RT HON PAUL J MARTIN",
+    "type": 70,
+    "length": 225,
+    "beam": 24,
+    "destination": "CHICAGO",
+    "callsign": "VGFJ"
+  },
+  "368437390": {
+    "name": "JOE DERBAS",
+    "type": 57,
+    "length": 87,
+    "beam": 22,
+    "destination": "XX XXX>US^0RL7",
+    "callsign": "WDQ5745"
   }
 }
