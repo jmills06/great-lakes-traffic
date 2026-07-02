@@ -1094,5 +1094,13 @@
     "beam": 10,
     "destination": "CHICAGO IL",
     "callsign": "WDH3529"
+  },
+  "316011905": {
+    "name": "ROBERT S. PIERSON",
+    "type": 70,
+    "length": 192,
+    "beam": 21,
+    "destination": "WINDSOR CH 69",
+    "callsign": "CFN4934"
   }
 }
