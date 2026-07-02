@@ -918,5 +918,13 @@
     "beam": 8,
     "destination": "HAMILTON",
     "callsign": "VC9004"
+  },
+  "316023341": {
+    "name": "WHITEFISH BAY",
+    "type": 70,
+    "length": 225,
+    "beam": 25,
+    "destination": "INDIANA HARBOR",
+    "callsign": "CFN6287"
   }
 }
