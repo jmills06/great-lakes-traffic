@@ -1222,5 +1222,21 @@
     "beam": 24,
     "destination": "THUNDER BAY",
     "callsign": "XJBO"
+  },
+  "367576980": {
+    "name": "SKEDADDLE",
+    "type": 0,
+    "length": 17,
+    "beam": 4,
+    "destination": "",
+    "callsign": "WDG8388"
+  },
+  "367152790": {
+    "name": "WENDELLA LTD",
+    "type": 60,
+    "length": 20,
+    "beam": 6,
+    "destination": "USCHI<>USCHI",
+    "callsign": "WBD7147"
   }
 }
