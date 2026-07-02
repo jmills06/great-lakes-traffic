@@ -1006,5 +1006,21 @@
     "beam": 24,
     "destination": "GODERICH",
     "callsign": "VDBY"
+  },
+  "316008224": {
+    "name": "ANDREA MARIE",
+    "type": 0,
+    "length": 24,
+    "beam": 7,
+    "destination": "PORT MAITLAND ONT",
+    "callsign": "VX4434"
+  },
+  "368926585": {
+    "name": "NPS BEAVER",
+    "type": 53,
+    "length": 10,
+    "beam": 3,
+    "destination": "ISLE ROYALE OPS",
+    "callsign": "BEAVER"
   }
 }
