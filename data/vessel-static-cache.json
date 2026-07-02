@@ -910,5 +910,13 @@
     "beam": 23,
     "destination": "BAIE COMEAU",
     "callsign": "CFK9796"
+  },
+  "316005239": {
+    "name": "LAPRAIRIE",
+    "type": 52,
+    "length": 22,
+    "beam": 8,
+    "destination": "HAMILTON",
+    "callsign": "VC9004"
   }
 }
