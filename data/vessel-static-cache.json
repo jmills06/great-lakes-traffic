@@ -1150,5 +1150,13 @@
     "beam": 0,
     "destination": "",
     "callsign": "WCV6835"
+  },
+  "367046160": {
+    "name": "ISLE ROYAL QUEEN IV",
+    "type": 69,
+    "length": 65,
+    "beam": 12,
+    "destination": "ISRO/COPPER",
+    "callsign": "WDC5770"
   }
 }
