@@ -886,5 +886,13 @@
     "beam": 8,
     "destination": "",
     "callsign": "EMPRESS"
+  },
+  "316049114": {
+    "name": "M.V. RIVER GAMBLER",
+    "type": 69,
+    "length": 31,
+    "beam": 13,
+    "destination": "TORONTO HARBOR",
+    "callsign": ""
   }
 }
