@@ -806,5 +806,21 @@
     "beam": 4,
     "destination": "SAR OAKVILLE",
     "callsign": "VA4293"
+  },
+  "316036419": {
+    "name": "MCKEIL SPIRIT",
+    "type": 70,
+    "length": 140,
+    "beam": 21,
+    "destination": "TORONTO",
+    "callsign": "VCAS"
+  },
+  "316052496": {
+    "name": "NORTHERN VENTURE",
+    "type": 70,
+    "length": 155,
+    "beam": 22,
+    "destination": "HAMILTON P22",
+    "callsign": "VDAK"
   }
 }
