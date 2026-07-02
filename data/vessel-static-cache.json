@@ -940,7 +940,7 @@
     "type": 70,
     "length": 213,
     "beam": 23,
-    "destination": "USSKY>USRRJ",
+    "destination": "USRRJ>USTOL",
     "callsign": "WL3972"
   },
   "367511590": {
@@ -1262,5 +1262,37 @@
     "beam": 24,
     "destination": "CASJB",
     "callsign": "CQAA3"
+  },
+  "316050853": {
+    "name": "MARILYN BELL I",
+    "type": 60,
+    "length": 30,
+    "beam": 12,
+    "destination": "",
+    "callsign": ""
+  },
+  "316035905": {
+    "name": "ALGOMA INNOVATOR",
+    "type": 70,
+    "length": 198,
+    "beam": 24,
+    "destination": "SOMBRA",
+    "callsign": "VDAS"
+  },
+  "366912650": {
+    "name": "INNISFREE",
+    "type": 69,
+    "length": 22,
+    "beam": 6,
+    "destination": "CHICAGO. >>>",
+    "callsign": "WDB5713"
+  },
+  "366853070": {
+    "name": "EVENING STAR",
+    "type": 69,
+    "length": 30,
+    "beam": 6,
+    "destination": "",
+    "callsign": "WDA8319"
   }
 }
