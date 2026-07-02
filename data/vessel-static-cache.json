@@ -1118,5 +1118,21 @@
     "beam": 6,
     "destination": "",
     "callsign": "VO7103"
+  },
+  "316045081": {
+    "name": "WM INGLIS",
+    "type": 0,
+    "length": 0,
+    "beam": 0,
+    "destination": "",
+    "callsign": "VC 4139"
+  },
+  "538004060": {
+    "name": "FEDERAL KUSHIRO",
+    "type": 70,
+    "length": 190,
+    "beam": 24,
+    "destination": "CA HAM",
+    "callsign": "V7UY9"
   }
 }
