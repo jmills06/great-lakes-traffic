@@ -846,5 +846,13 @@
     "beam": 23,
     "destination": "THUNDERBAY",
     "callsign": "V2IC8"
+  },
+  "366893910": {
+    "name": "ALPENA",
+    "type": 70,
+    "length": 153,
+    "beam": 20,
+    "destination": "ALPENA",
+    "callsign": "WAV4647"
   }
 }
