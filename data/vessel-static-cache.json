@@ -974,5 +974,13 @@
     "beam": 22,
     "destination": "XX XXX>US^0RL7",
     "callsign": "WDQ5745"
+  },
+  "368185710": {
+    "name": "PALM GROVE",
+    "type": 70,
+    "length": 22,
+    "beam": 8,
+    "destination": "ISLANDS",
+    "callsign": "WDM2166"
   }
 }
