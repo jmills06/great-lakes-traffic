@@ -1198,5 +1198,13 @@
     "beam": 23,
     "destination": "NANTICOKE",
     "callsign": "VECB"
+  },
+  "316009090": {
+    "name": "ALGOMA EQUINOX",
+    "type": 70,
+    "length": 224,
+    "beam": 24,
+    "destination": "THUNDER BAY",
+    "callsign": "XJBH"
   }
 }
