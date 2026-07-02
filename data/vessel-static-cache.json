@@ -798,5 +798,13 @@
     "beam": 9,
     "destination": "USCHI><USCHI",
     "callsign": "WDF3649"
+  },
+  "316002105": {
+    "name": "OAKVILLE RESCUE",
+    "type": 51,
+    "length": 12,
+    "beam": 4,
+    "destination": "SAR OAKVILLE",
+    "callsign": "VA4293"
   }
 }
