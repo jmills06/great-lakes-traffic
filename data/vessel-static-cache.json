@@ -1350,5 +1350,21 @@
     "beam": 7,
     "destination": "TUG ASSIST",
     "callsign": "VC6635"
+  },
+  "538011029": {
+    "name": "HURON",
+    "type": 80,
+    "length": 157,
+    "beam": 23,
+    "destination": "CAMNT->CASNI",
+    "callsign": "V7A6477"
+  },
+  "538010777": {
+    "name": "FEDERAL THUNDER BAY",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "CATHU",
+    "callsign": "V7A7413"
   }
 }
