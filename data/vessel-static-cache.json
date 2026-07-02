@@ -790,5 +790,13 @@
     "beam": 12,
     "destination": "US CHI",
     "callsign": "ZGHE"
+  },
+  "367442380": {
+    "name": "LINNEA",
+    "type": 60,
+    "length": 26,
+    "beam": 9,
+    "destination": "USCHI><USCHI",
+    "callsign": "WDF3649"
   }
 }
