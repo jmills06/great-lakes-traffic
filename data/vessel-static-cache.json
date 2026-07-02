@@ -971,7 +971,7 @@
     "name": "JOE DERBAS",
     "type": 57,
     "length": 87,
-    "beam": 22,
+    "beam": 33,
     "destination": "XX XXX>US^0RL7",
     "callsign": "WDQ5745"
   },
@@ -1334,5 +1334,13 @@
     "beam": 5,
     "destination": "USCHI><USCHI",
     "callsign": "WDF8589"
+  },
+  "369493690": {
+    "name": "CG45690",
+    "type": 51,
+    "length": 14,
+    "beam": 4,
+    "destination": "",
+    "callsign": ""
   }
 }
