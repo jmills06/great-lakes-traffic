@@ -1100,7 +1100,7 @@
     "type": 70,
     "length": 192,
     "beam": 21,
-    "destination": "WINDSOR CH 69",
+    "destination": "GODERICH CH 69",
     "callsign": "CFN4934"
   },
   "367121010": {
@@ -1326,5 +1326,13 @@
     "beam": 7,
     "destination": "USCHI><USCHI",
     "callsign": "WCZ2384"
+  },
+  "367496450": {
+    "name": "ASAP",
+    "type": 60,
+    "length": 17,
+    "beam": 5,
+    "destination": "USCHI><USCHI",
+    "callsign": "WDF8589"
   }
 }
