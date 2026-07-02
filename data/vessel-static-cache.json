@@ -1238,5 +1238,21 @@
     "beam": 6,
     "destination": "USCHI<>USCHI",
     "callsign": "WBD7147"
+  },
+  "366897080": {
+    "name": "BRIGHT STAR",
+    "type": 99,
+    "length": 30,
+    "beam": 7,
+    "destination": "",
+    "callsign": "WDB4311"
+  },
+  "316023265": {
+    "name": "MU01",
+    "type": 55,
+    "length": 10,
+    "beam": 5,
+    "destination": "",
+    "callsign": "MU01"
   }
 }
