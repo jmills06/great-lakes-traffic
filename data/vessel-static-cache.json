@@ -926,5 +926,13 @@
     "beam": 25,
     "destination": "INDIANA HARBOR",
     "callsign": "CFN6287"
+  },
+  "316025881": {
+    "name": "WM. LYON MACKENZIE",
+    "type": 51,
+    "length": 25,
+    "beam": 6,
+    "destination": "TORONTO",
+    "callsign": "VA4846"
   }
 }
