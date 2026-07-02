@@ -1038,5 +1038,13 @@
     "beam": 9,
     "destination": "CHICAGO",
     "callsign": "WDD5702"
+  },
+  "366877570": {
+    "name": "OUILMETTE",
+    "type": 60,
+    "length": 20,
+    "beam": 7,
+    "destination": "USCHI<>USCHI",
+    "callsign": "WDB2591"
   }
 }
