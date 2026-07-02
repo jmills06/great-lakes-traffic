@@ -838,5 +838,13 @@
     "beam": 32,
     "destination": "CLEVELAND",
     "callsign": "WYQ4356"
+  },
+  "305594000": {
+    "name": "BBC KOLDING",
+    "type": 70,
+    "length": 149,
+    "beam": 23,
+    "destination": "THUNDERBAY",
+    "callsign": "V2IC8"
   }
 }
