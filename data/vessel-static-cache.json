@@ -1030,5 +1030,13 @@
     "beam": 10,
     "destination": "",
     "callsign": "WBQ3867"
+  },
+  "367162320": {
+    "name": "WENDELLA",
+    "type": 60,
+    "length": 26,
+    "beam": 9,
+    "destination": "CHICAGO",
+    "callsign": "WDD5702"
   }
 }
