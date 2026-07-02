@@ -822,5 +822,21 @@
     "beam": 22,
     "destination": "HAMILTON P22",
     "callsign": "VDAK"
+  },
+  "368220270": {
+    "name": "ST-911",
+    "type": 31,
+    "length": 18,
+    "beam": 14,
+    "destination": "DETROIT",
+    "callsign": "WDM5896"
+  },
+  "366904880": {
+    "name": "MESABI MINER",
+    "type": 70,
+    "length": 305,
+    "beam": 32,
+    "destination": "CLEVELAND",
+    "callsign": "WYQ4356"
   }
 }
