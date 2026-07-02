@@ -854,5 +854,21 @@
     "beam": 20,
     "destination": "ALPENA",
     "callsign": "WAV4647"
+  },
+  "316031354": {
+    "name": "CAPT. HENRY JACKMAN",
+    "type": 70,
+    "length": 226,
+    "beam": 24,
+    "destination": "THUNDER BAY",
+    "callsign": "VECA"
+  },
+  "311050300": {
+    "name": "VICTORY II",
+    "type": 69,
+    "length": 92,
+    "beam": 16,
+    "destination": "US DET",
+    "callsign": "C6YZ8"
   }
 }
