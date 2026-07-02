@@ -1158,5 +1158,21 @@
     "beam": 12,
     "destination": "ISRO/COPPER",
     "callsign": "WDC5770"
+  },
+  "316035908": {
+    "name": "LE BATEAU MOUCHE II",
+    "type": 60,
+    "length": 30,
+    "beam": 9,
+    "destination": "",
+    "callsign": "CFE9800"
+  },
+  "538006753": {
+    "name": "FEDERAL ASAHI",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "USTOL",
+    "callsign": "V7NK7"
   }
 }
