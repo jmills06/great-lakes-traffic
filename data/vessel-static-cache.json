@@ -1294,5 +1294,21 @@
     "beam": 6,
     "destination": "",
     "callsign": "WDA8319"
+  },
+  "316036228": {
+    "name": "ALGOMA BUFFALO",
+    "type": 70,
+    "length": 194,
+    "beam": 21,
+    "destination": "HAMILTON",
+    "callsign": "VDBA"
+  },
+  "316001978": {
+    "name": "CARIBOU ISLE",
+    "type": 90,
+    "length": 23,
+    "beam": 6,
+    "destination": "BUOY OPS",
+    "callsign": "CGJF"
   }
 }
