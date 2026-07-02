@@ -990,5 +990,13 @@
     "beam": 20,
     "destination": "STONEPORT",
     "callsign": "WDE3568"
+  },
+  "316002588": {
+    "name": "CANADIAN EMPRESS",
+    "type": 65,
+    "length": 33,
+    "beam": 9,
+    "destination": "GANANOQUE",
+    "callsign": "VX6095"
   }
 }
