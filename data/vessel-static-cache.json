@@ -1318,5 +1318,13 @@
     "beam": 9,
     "destination": "USCHI<USLMJ>USCHI",
     "callsign": "WDJ6110"
+  },
+  "367396720": {
+    "name": "STAR OF CHICAGO",
+    "type": 6,
+    "length": 20,
+    "beam": 7,
+    "destination": "USCHI><USCHI",
+    "callsign": "WCZ2384"
   }
 }
