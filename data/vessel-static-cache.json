@@ -1214,5 +1214,13 @@
     "beam": 23,
     "destination": "SOREL",
     "callsign": "CFN4612"
+  },
+  "316004370": {
+    "name": "G3 MARQUIS",
+    "type": 70,
+    "length": 226,
+    "beam": 24,
+    "destination": "THUNDER BAY",
+    "callsign": "XJBO"
   }
 }
