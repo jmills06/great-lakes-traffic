@@ -1142,5 +1142,13 @@
     "beam": 0,
     "destination": "DULUTH",
     "callsign": "WDG3609"
+  },
+  "367044310": {
+    "name": "DIAMONDQUEEN",
+    "type": 0,
+    "length": 0,
+    "beam": 0,
+    "destination": "",
+    "callsign": "WCV6835"
   }
 }
