@@ -870,5 +870,21 @@
     "beam": 16,
     "destination": "US DET",
     "callsign": "C6YZ8"
+  },
+  "316001844": {
+    "name": "SPRUCEGLEN",
+    "type": 70,
+    "length": 223,
+    "beam": 24,
+    "destination": "SOREL SEC 14",
+    "callsign": "VOSL"
+  },
+  "316048588": {
+    "name": "EMPRESS OF CANADA",
+    "type": 99,
+    "length": 36,
+    "beam": 8,
+    "destination": "",
+    "callsign": "EMPRESS"
   }
 }
