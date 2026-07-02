@@ -1070,5 +1070,29 @@
     "beam": 9,
     "destination": "TORONTO",
     "callsign": "VCTG"
+  },
+  "367495590": {
+    "name": "LEADING LADY",
+    "type": 60,
+    "length": 28,
+    "beam": 10,
+    "destination": "CHICAGO IL",
+    "callsign": "WDF8507"
+  },
+  "316044371": {
+    "name": "HARVEST SPIRIT",
+    "type": 70,
+    "length": 153,
+    "beam": 23,
+    "destination": "CAGOH",
+    "callsign": "VDAY"
+  },
+  "367608260": {
+    "name": "CLASSIC LADY",
+    "type": 60,
+    "length": 28,
+    "beam": 10,
+    "destination": "CHICAGO IL",
+    "callsign": "WDH3529"
   }
 }
