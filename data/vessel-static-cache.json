@@ -1174,5 +1174,13 @@
     "beam": 24,
     "destination": "USTOL",
     "callsign": "V7NK7"
+  },
+  "316023269": {
+    "name": "MU11",
+    "type": 55,
+    "length": 12,
+    "beam": 4,
+    "destination": "",
+    "callsign": "MU11"
   }
 }
