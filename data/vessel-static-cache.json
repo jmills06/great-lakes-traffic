@@ -1022,5 +1022,13 @@
     "beam": 3,
     "destination": "ISLE ROYALE OPS",
     "callsign": "BEAVER"
+  },
+  "367325460": {
+    "name": "CARMALEE ROSE",
+    "type": 0,
+    "length": 30,
+    "beam": 10,
+    "destination": "",
+    "callsign": "WBQ3867"
   }
 }
