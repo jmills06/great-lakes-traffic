@@ -1046,5 +1046,29 @@
     "beam": 7,
     "destination": "USCHI<>USCHI",
     "callsign": "WDB2591"
+  },
+  "316003878": {
+    "name": "WILF SEYMOUR",
+    "type": 52,
+    "length": 159,
+    "beam": 24,
+    "destination": "TOLEDO",
+    "callsign": "CFG8081"
+  },
+  "538006469": {
+    "name": "FEDERAL CHURCHILL",
+    "type": 70,
+    "length": 200,
+    "beam": 23,
+    "destination": "US DLH",
+    "callsign": "V7NK3"
+  },
+  "316225000": {
+    "name": "EMPIRE SANDY",
+    "type": 36,
+    "length": 61,
+    "beam": 9,
+    "destination": "TORONTO",
+    "callsign": "VCTG"
   }
 }
