@@ -1206,5 +1206,13 @@
     "beam": 24,
     "destination": "THUNDER BAY",
     "callsign": "XJBH"
+  },
+  "316009457": {
+    "name": "KAMINISTIQUA",
+    "type": 70,
+    "length": 223,
+    "beam": 23,
+    "destination": "SOREL",
+    "callsign": "CFN4612"
   }
 }
