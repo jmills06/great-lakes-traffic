@@ -1102,5 +1102,21 @@
     "beam": 21,
     "destination": "WINDSOR CH 69",
     "callsign": "CFN4934"
+  },
+  "367121010": {
+    "name": "AMERICAN CENTURY",
+    "type": 0,
+    "length": 305,
+    "beam": 32,
+    "destination": "GARY",
+    "callsign": "WDD2876"
+  },
+  "316005305": {
+    "name": "KAJAMA",
+    "type": 60,
+    "length": 39,
+    "beam": 6,
+    "destination": "",
+    "callsign": "VO7103"
   }
 }
