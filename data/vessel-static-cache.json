@@ -1182,5 +1182,13 @@
     "beam": 4,
     "destination": "",
     "callsign": "MU11"
+  },
+  "366904940": {
+    "name": "PAUL R TREGURTHA",
+    "type": 70,
+    "length": 309,
+    "beam": 32,
+    "destination": "DULUTH",
+    "callsign": "WYR4481"
   }
 }
