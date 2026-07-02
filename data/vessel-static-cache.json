@@ -894,5 +894,21 @@
     "beam": 13,
     "destination": "TORONTO HARBOR",
     "callsign": ""
+  },
+  "368246960": {
+    "name": "HURON PRIDE",
+    "type": 50,
+    "length": 13,
+    "beam": 5,
+    "destination": "",
+    "callsign": "WDM8839"
+  },
+  "316018477": {
+    "name": "ALGOMA DISCOVERY",
+    "type": 70,
+    "length": 223,
+    "beam": 23,
+    "destination": "BAIE COMEAU",
+    "callsign": "CFK9796"
   }
 }
