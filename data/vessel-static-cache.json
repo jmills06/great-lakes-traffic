@@ -332,7 +332,7 @@
     "type": 81,
     "length": 130,
     "beam": 20,
-    "destination": "NANTICOKE",
+    "destination": "MONTREAL",
     "callsign": "CFN5193"
   },
   "366947250": {
@@ -1190,5 +1190,13 @@
     "beam": 32,
     "destination": "DULUTH",
     "callsign": "WYR4481"
+  },
+  "316055401": {
+    "name": "ALGOSOLIS",
+    "type": 82,
+    "length": 144,
+    "beam": 23,
+    "destination": "NANTICOKE",
+    "callsign": "VECB"
   }
 }
