@@ -998,5 +998,13 @@
     "beam": 9,
     "destination": "GANANOQUE",
     "callsign": "VX6095"
+  },
+  "316036229": {
+    "name": "ALGOMA COMPASS",
+    "type": 70,
+    "length": 207,
+    "beam": 24,
+    "destination": "GODERICH",
+    "callsign": "VDBY"
   }
 }
