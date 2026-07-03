@@ -1366,5 +1366,21 @@
     "beam": 24,
     "destination": "CATHU",
     "callsign": "V7A7413"
+  },
+  "316024041": {
+    "name": "STERLING ENERGY",
+    "type": 53,
+    "length": 64,
+    "beam": 10,
+    "destination": "PORT WELER",
+    "callsign": "9LD2470"
+  },
+  "316033213": {
+    "name": "MV GRANDE BAIE",
+    "type": 52,
+    "length": 26,
+    "beam": 9,
+    "destination": "CA_HAM",
+    "callsign": ""
   }
 }
