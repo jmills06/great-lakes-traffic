@@ -1494,5 +1494,13 @@
     "beam": 21,
     "destination": "CA THU",
     "callsign": "XJBZ"
+  },
+  "338866000": {
+    "name": "DIRK S. VANENKEVORT",
+    "type": 52,
+    "length": 262,
+    "beam": 24,
+    "destination": "XX XXX>US^0V8F",
+    "callsign": "WDH8351"
   }
 }
