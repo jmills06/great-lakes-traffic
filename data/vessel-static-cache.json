@@ -1422,5 +1422,21 @@
     "beam": 24,
     "destination": "CAPCO",
     "callsign": "LAGZ8"
+  },
+  "366938780": {
+    "name": "JOHN J. BOLAND",
+    "type": 70,
+    "length": 207,
+    "beam": 24,
+    "destination": "ERIE",
+    "callsign": "WZE4539"
+  },
+  "316001834": {
+    "name": "FRONTENAC",
+    "type": 70,
+    "length": 223,
+    "beam": 23,
+    "destination": "HAMILTON",
+    "callsign": "VGNB"
   }
 }
