@@ -1646,5 +1646,13 @@
     "beam": 23,
     "destination": "CASNI",
     "callsign": "CFA2990"
+  },
+  "369990307": {
+    "name": "CG29307",
+    "type": 51,
+    "length": 8,
+    "beam": 3,
+    "destination": "",
+    "callsign": ""
   }
 }
