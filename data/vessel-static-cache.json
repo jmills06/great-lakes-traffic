@@ -1534,5 +1534,21 @@
     "beam": 11,
     "destination": "USCHI<>USCHI",
     "callsign": "WDD2109"
+  },
+  "316047602": {
+    "name": "HARBOUR STAR",
+    "type": 99,
+    "length": 19,
+    "beam": 6,
+    "destination": "",
+    "callsign": ""
+  },
+  "316029092": {
+    "name": "MARINE 1",
+    "type": 55,
+    "length": 12,
+    "beam": 4,
+    "destination": "",
+    "callsign": ""
   }
 }
