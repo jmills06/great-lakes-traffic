@@ -1390,5 +1390,21 @@
     "beam": 21,
     "destination": "SAGINAW",
     "callsign": "WDD2879"
+  },
+  "316036089": {
+    "name": "ALGOMA SAULT",
+    "type": 70,
+    "length": 225,
+    "beam": 24,
+    "destination": "THUNDER BAY",
+    "callsign": "VBCD"
+  },
+  "367688370": {
+    "name": "THE ANITA DEE II",
+    "type": 60,
+    "length": 42,
+    "beam": 10,
+    "destination": "",
+    "callsign": "WDI3443"
   }
 }
