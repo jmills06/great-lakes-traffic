@@ -1582,5 +1582,13 @@
     "beam": 5,
     "destination": "",
     "callsign": "WDL7636"
+  },
+  "244040000": {
+    "name": "HUMBERGRACHT",
+    "type": 70,
+    "length": 138,
+    "beam": 21,
+    "destination": "CATHU",
+    "callsign": "PBUK"
   }
 }
