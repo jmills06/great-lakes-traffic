@@ -1622,5 +1622,29 @@
     "beam": 4,
     "destination": "",
     "callsign": "MU21"
+  },
+  "366971360": {
+    "name": "JOHN G MUNSON",
+    "type": 70,
+    "length": 234,
+    "beam": 22,
+    "destination": "TOLEDO",
+    "callsign": "WDH7557"
+  },
+  "368417090": {
+    "name": "DNR GRAND HAVEN 1",
+    "type": 55,
+    "length": 5,
+    "beam": 3,
+    "destination": "",
+    "callsign": "WDQ3464"
+  },
+  "316015060": {
+    "name": "GAIA DESGAGNES",
+    "type": 0,
+    "length": 150,
+    "beam": 23,
+    "destination": "CASNI",
+    "callsign": "CFA2990"
   }
 }
