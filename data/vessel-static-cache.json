@@ -1614,5 +1614,13 @@
     "beam": 5,
     "destination": "",
     "callsign": "WT9055"
+  },
+  "316023273": {
+    "name": "MU21",
+    "type": 55,
+    "length": 8,
+    "beam": 4,
+    "destination": "",
+    "callsign": "MU21"
   }
 }
