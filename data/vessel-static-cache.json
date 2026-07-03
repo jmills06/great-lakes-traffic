@@ -1566,5 +1566,13 @@
     "beam": 23,
     "destination": "COLBORNE",
     "callsign": "VDWB"
+  },
+  "367599370": {
+    "name": "HELEN H",
+    "type": 52,
+    "length": 28,
+    "beam": 6,
+    "destination": "DULUTH",
+    "callsign": "WDH2609"
   }
 }
