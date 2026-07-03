@@ -1406,5 +1406,13 @@
     "beam": 10,
     "destination": "",
     "callsign": "WDI3443"
+  },
+  "311000556": {
+    "name": "GARDNO",
+    "type": 0,
+    "length": 200,
+    "beam": 24,
+    "destination": "US CLE",
+    "callsign": "C6CR9"
   }
 }
