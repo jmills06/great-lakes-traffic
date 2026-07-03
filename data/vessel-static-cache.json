@@ -1446,5 +1446,13 @@
     "beam": 24,
     "destination": "CATHU> CAMTR",
     "callsign": "V7GT6"
+  },
+  "367480260": {
+    "name": "VICTORY",
+    "type": 52,
+    "length": 248,
+    "beam": 20,
+    "destination": "TOLEDO TORCO",
+    "callsign": "WDM2565"
   }
 }
