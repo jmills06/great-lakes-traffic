@@ -996,7 +996,7 @@
     "type": 65,
     "length": 33,
     "beam": 9,
-    "destination": "GANANOQUE",
+    "destination": "BROCKVILLE",
     "callsign": "VX6095"
   },
   "316036229": {
@@ -1518,5 +1518,13 @@
     "beam": 0,
     "destination": "GARY",
     "callsign": "WDH7560"
+  },
+  "316026695": {
+    "name": "CSL WELLAND",
+    "type": 70,
+    "length": 226,
+    "beam": 24,
+    "destination": "MONTREAL",
+    "callsign": "CFK5151"
   }
 }
