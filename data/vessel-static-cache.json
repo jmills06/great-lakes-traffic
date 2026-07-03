@@ -924,7 +924,7 @@
     "type": 70,
     "length": 225,
     "beam": 25,
-    "destination": "INDIANA HARBOR",
+    "destination": "SEPT-ILES",
     "callsign": "CFN6287"
   },
   "316025881": {
@@ -1382,5 +1382,13 @@
     "beam": 9,
     "destination": "CA_HAM",
     "callsign": ""
+  },
+  "367121040": {
+    "name": "AMERICAN COURAGE",
+    "type": 70,
+    "length": 194,
+    "beam": 21,
+    "destination": "SAGINAW",
+    "callsign": "WDD2879"
   }
 }
