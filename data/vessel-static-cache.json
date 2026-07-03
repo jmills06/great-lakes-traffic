@@ -1478,5 +1478,13 @@
     "beam": 24,
     "destination": "SANDUSKY",
     "callsign": "VCGJ"
+  },
+  "366930730": {
+    "name": "AMERICAN SPIRIT",
+    "type": 70,
+    "length": 302,
+    "beam": 32,
+    "destination": "CALCITE",
+    "callsign": "WCX2417"
   }
 }
