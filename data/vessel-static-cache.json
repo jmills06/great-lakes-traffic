@@ -1590,5 +1590,21 @@
     "beam": 21,
     "destination": "CATHU",
     "callsign": "PBUK"
+  },
+  "367197480": {
+    "name": "FT DEARBORN",
+    "type": 69,
+    "length": 19,
+    "beam": 8,
+    "destination": "CHICAGO",
+    "callsign": "WDJ8608"
+  },
+  "367454470": {
+    "name": "LICKETY SPLIT",
+    "type": 6,
+    "length": 17,
+    "beam": 5,
+    "destination": "USCHI<>USCHI",
+    "callsign": "WDF4668"
   }
 }
