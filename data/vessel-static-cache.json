@@ -1526,5 +1526,13 @@
     "beam": 24,
     "destination": "MONTREAL",
     "callsign": "CFK5151"
+  },
+  "367111050": {
+    "name": "VOYAGEUR",
+    "type": 6,
+    "length": 19,
+    "beam": 11,
+    "destination": "USCHI<>USCHI",
+    "callsign": "WDD2109"
   }
 }
