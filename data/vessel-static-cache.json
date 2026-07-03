@@ -1502,5 +1502,13 @@
     "beam": 24,
     "destination": "XX XXX>US^0V8F",
     "callsign": "WDH8351"
+  },
+  "367634750": {
+    "name": "THOMAS R MORRISH",
+    "type": 52,
+    "length": 20,
+    "beam": 8,
+    "destination": "BUFFALO",
+    "callsign": "WDH6111"
   }
 }
