@@ -1454,5 +1454,13 @@
     "beam": 20,
     "destination": "TOLEDO TORCO",
     "callsign": "WDM2565"
+  },
+  "316001633": {
+    "name": "CSL ASSINIBOINE",
+    "type": 70,
+    "length": 226,
+    "beam": 24,
+    "destination": "HAMILTON",
+    "callsign": "VCKQ"
   }
 }
