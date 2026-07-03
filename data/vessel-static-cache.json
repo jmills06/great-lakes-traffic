@@ -940,7 +940,7 @@
     "type": 70,
     "length": 213,
     "beam": 23,
-    "destination": "USRRJ>USTOL",
+    "destination": "USTOL>USSGM",
     "callsign": "WL3972"
   },
   "367511590": {
@@ -1546,9 +1546,17 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 12,
+    "length": 10,
     "beam": 4,
     "destination": "",
     "callsign": ""
+  },
+  "366982270": {
+    "name": "MARQUETTE",
+    "type": 69,
+    "length": 17,
+    "beam": 5,
+    "destination": "CHICAGO IL",
+    "callsign": "WDC2385"
   }
 }
