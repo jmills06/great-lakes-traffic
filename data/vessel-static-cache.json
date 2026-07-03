@@ -1558,5 +1558,13 @@
     "beam": 5,
     "destination": "CHICAGO IL",
     "callsign": "WDC2385"
+  },
+  "316001836": {
+    "name": "CSL TADOUSSAC",
+    "type": 70,
+    "length": 223,
+    "beam": 23,
+    "destination": "COLBORNE",
+    "callsign": "VDWB"
   }
 }
