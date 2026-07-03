@@ -1574,5 +1574,13 @@
     "beam": 6,
     "destination": "DULUTH",
     "callsign": "WDH2609"
+  },
+  "368162020": {
+    "name": "VAMOS",
+    "type": 99,
+    "length": 15,
+    "beam": 5,
+    "destination": "",
+    "callsign": "WDL7636"
   }
 }
