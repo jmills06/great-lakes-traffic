@@ -1486,5 +1486,13 @@
     "beam": 32,
     "destination": "CALCITE",
     "callsign": "WCX2417"
+  },
+  "316014170": {
+    "name": "EVANS SPIRIT",
+    "type": 70,
+    "length": 140,
+    "beam": 21,
+    "destination": "CA THU",
+    "callsign": "XJBZ"
   }
 }
