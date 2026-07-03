@@ -1654,5 +1654,13 @@
     "beam": 3,
     "destination": "",
     "callsign": ""
+  },
+  "368415250": {
+    "name": "IDNR 2F-725",
+    "type": 55,
+    "length": 9,
+    "beam": 2,
+    "destination": "",
+    "callsign": "2F-725"
   }
 }
