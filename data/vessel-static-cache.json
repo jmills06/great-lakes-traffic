@@ -612,7 +612,7 @@
     "type": 89,
     "length": 110,
     "beam": 18,
-    "destination": "CASNI",
+    "destination": "USDET",
     "callsign": "PCCB"
   },
   "368211020": {
@@ -1606,5 +1606,13 @@
     "beam": 5,
     "destination": "USCHI<>USCHI",
     "callsign": "WDF4668"
+  },
+  "367170850": {
+    "name": "SUNLINER",
+    "type": 60,
+    "length": 19,
+    "beam": 5,
+    "destination": "",
+    "callsign": "WT9055"
   }
 }
