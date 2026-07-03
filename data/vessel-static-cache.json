@@ -1462,5 +1462,13 @@
     "beam": 24,
     "destination": "HAMILTON",
     "callsign": "VCKQ"
+  },
+  "368251670": {
+    "name": "MARK W. BARKER",
+    "type": 79,
+    "length": 195,
+    "beam": 24,
+    "destination": "DETROIT-DBS",
+    "callsign": "WDM9326"
   }
 }
