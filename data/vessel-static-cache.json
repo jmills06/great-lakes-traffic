@@ -1510,5 +1510,13 @@
     "beam": 8,
     "destination": "BUFFALO",
     "callsign": "WDH6111"
+  },
+  "367348220": {
+    "name": "PRESQUE ISLE",
+    "type": 79,
+    "length": 0,
+    "beam": 0,
+    "destination": "GARY",
+    "callsign": "WDH7560"
   }
 }
