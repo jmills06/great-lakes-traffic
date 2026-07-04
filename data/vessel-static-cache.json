@@ -1686,5 +1686,13 @@
     "beam": 5,
     "destination": "",
     "callsign": "WDK7890"
+  },
+  "245911000": {
+    "name": "STELLA POLARIS",
+    "type": 81,
+    "length": 117,
+    "beam": 18,
+    "destination": "BE ZEL > CA HAM",
+    "callsign": "PEBD"
   }
 }
