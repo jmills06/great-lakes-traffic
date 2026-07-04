@@ -1726,5 +1726,13 @@
     "beam": 17,
     "destination": "USDET",
     "callsign": "C6YZ9"
+  },
+  "255802390": {
+    "name": "BARBRO G",
+    "type": 70,
+    "length": 190,
+    "beam": 24,
+    "destination": "BEANR>>>CAGOH",
+    "callsign": "CQOW"
   }
 }
