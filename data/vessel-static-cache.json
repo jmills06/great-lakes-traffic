@@ -1670,5 +1670,13 @@
     "beam": 23,
     "destination": "CA SNI",
     "callsign": "SBMI"
+  },
+  "316046932": {
+    "name": "ENTERPRISE 2000",
+    "type": 99,
+    "length": 38,
+    "beam": 11,
+    "destination": "TORONTO HARBOUR",
+    "callsign": ""
   }
 }
