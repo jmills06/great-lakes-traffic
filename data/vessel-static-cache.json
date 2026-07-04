@@ -1846,5 +1846,13 @@
     "beam": 7,
     "destination": "",
     "callsign": "IDAM 2"
+  },
+  "367405670": {
+    "name": "LETTIE G HOWARD",
+    "type": 36,
+    "length": 24,
+    "beam": 6,
+    "destination": "ERIE,PA",
+    "callsign": "WDE8452"
   }
 }
