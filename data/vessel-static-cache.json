@@ -1300,7 +1300,7 @@
     "type": 70,
     "length": 194,
     "beam": 21,
-    "destination": "HAMILTON",
+    "destination": "TORONTO",
     "callsign": "VDBA"
   },
   "316001978": {
@@ -1766,5 +1766,21 @@
     "beam": 24,
     "destination": "HAMILTON",
     "callsign": "V7A6849"
+  },
+  "368856000": {
+    "name": "CG SPAR",
+    "type": 99,
+    "length": 68,
+    "beam": 14,
+    "destination": "DULUTH",
+    "callsign": "NJAR"
+  },
+  "538006434": {
+    "name": "FEDERAL BISCAY",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "CHICAGO, USA",
+    "callsign": "V7NC8"
   }
 }
