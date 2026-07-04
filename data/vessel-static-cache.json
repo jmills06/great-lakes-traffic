@@ -1702,5 +1702,13 @@
     "beam": 22,
     "destination": "US LDM",
     "callsign": "LAVH8"
+  },
+  "316022391": {
+    "name": "BAIE ST.PAUL",
+    "type": 70,
+    "length": 225,
+    "beam": 24,
+    "destination": "PORT DANIEL",
+    "callsign": "CFN6120"
   }
 }
