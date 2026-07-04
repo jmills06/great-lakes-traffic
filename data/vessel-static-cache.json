@@ -1750,5 +1750,13 @@
     "beam": 11,
     "destination": "WINDSOR",
     "callsign": "CFP2006"
+  },
+  "369990421": {
+    "name": "CG29421",
+    "type": 51,
+    "length": 8,
+    "beam": 3,
+    "destination": "",
+    "callsign": "CG29421"
   }
 }
