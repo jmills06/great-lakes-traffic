@@ -188,7 +188,7 @@
     "type": 52,
     "length": 164,
     "beam": 23,
-    "destination": "DETROIT SMC ROUGE",
+    "destination": "BOWMANVILLE",
     "callsign": "CZ9891"
   },
   "338888000": {
@@ -1734,5 +1734,21 @@
     "beam": 24,
     "destination": "BEANR>>>CAGOH",
     "callsign": "CQOW"
+  },
+  "367084930": {
+    "name": "SAMUEL DE CHAMPLAIN",
+    "type": 52,
+    "length": 45,
+    "beam": 22,
+    "destination": "ALPENA",
+    "callsign": "WDC8307"
+  },
+  "316024256": {
+    "name": "SHARON M I",
+    "type": 52,
+    "length": 35,
+    "beam": 11,
+    "destination": "WINDSOR",
+    "callsign": "CFP2006"
   }
 }
