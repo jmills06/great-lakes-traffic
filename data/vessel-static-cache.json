@@ -620,7 +620,7 @@
     "type": 52,
     "length": 22,
     "beam": 7,
-    "destination": "DUNKIRK",
+    "destination": "BUFFALO",
     "callsign": "WDM4925"
   },
   "367702080": {
@@ -1420,7 +1420,7 @@
     "type": 69,
     "length": 204,
     "beam": 24,
-    "destination": "CAPCO",
+    "destination": "CATOR",
     "callsign": "LAGZ8"
   },
   "366938780": {
@@ -1452,7 +1452,7 @@
     "type": 52,
     "length": 248,
     "beam": 20,
-    "destination": "TOLEDO TORCO",
+    "destination": "STONEPORT",
     "callsign": "WDM2565"
   },
   "316001633": {
