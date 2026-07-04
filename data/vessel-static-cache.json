@@ -1878,5 +1878,13 @@
     "beam": 23,
     "destination": "TOLEDO",
     "callsign": "WDK3153"
+  },
+  "367148850": {
+    "name": "SPIRIT OF CHICAGO",
+    "type": 60,
+    "length": 55,
+    "beam": 12,
+    "destination": "USCHI><USCHI",
+    "callsign": "WDD4773"
   }
 }
