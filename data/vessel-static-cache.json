@@ -1782,5 +1782,13 @@
     "beam": 24,
     "destination": "CHICAGO, USA",
     "callsign": "V7NC8"
+  },
+  "367116070": {
+    "name": "FAIR LADY",
+    "type": 60,
+    "length": 22,
+    "beam": 8,
+    "destination": "CHICAGO IL",
+    "callsign": "WDD2500"
   }
 }
