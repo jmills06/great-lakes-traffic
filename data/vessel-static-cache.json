@@ -1662,5 +1662,13 @@
     "beam": 2,
     "destination": "",
     "callsign": "2F-725"
+  },
+  "265059000": {
+    "name": "FURE VYL",
+    "type": 80,
+    "length": 149,
+    "beam": 23,
+    "destination": "CA SNI",
+    "callsign": "SBMI"
   }
 }
