@@ -1276,7 +1276,7 @@
     "type": 70,
     "length": 198,
     "beam": 24,
-    "destination": "SOMBRA",
+    "destination": "SARNIA",
     "callsign": "VDAS"
   },
   "366912650": {
@@ -1758,5 +1758,13 @@
     "beam": 3,
     "destination": "",
     "callsign": "CG29421"
+  },
+  "538011246": {
+    "name": "FEDERAL LEXI ROSE",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "HAMILTON",
+    "callsign": "V7A6849"
   }
 }
