@@ -1806,5 +1806,13 @@
     "beam": 8,
     "destination": "TORONTO",
     "callsign": ""
+  },
+  "367060580": {
+    "name": "ANITA DEE",
+    "type": 60,
+    "length": 27,
+    "beam": 6,
+    "destination": "",
+    "callsign": "WSD4113"
   }
 }
