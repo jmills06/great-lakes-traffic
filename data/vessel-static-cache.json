@@ -1796,7 +1796,7 @@
     "type": 31,
     "length": 36,
     "beam": 20,
-    "destination": "CALUMET HBR",
+    "destination": "IND HBR",
     "callsign": "WBS5272"
   },
   "316048587": {
@@ -1814,5 +1814,13 @@
     "beam": 6,
     "destination": "",
     "callsign": "WSD4113"
+  },
+  "316047475": {
+    "name": "STELLA BOREALIS",
+    "type": 99,
+    "length": 39,
+    "beam": 8,
+    "destination": "TORONTO HARBOUR",
+    "callsign": "STELLA"
   }
 }
