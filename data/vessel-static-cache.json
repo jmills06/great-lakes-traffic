@@ -260,7 +260,7 @@
     "type": 52,
     "length": 41,
     "beam": 11,
-    "destination": "CLEVELAND",
+    "destination": "CHARLEVOIX",
     "callsign": "WDK8680"
   },
   "366988420": {
@@ -1710,5 +1710,13 @@
     "beam": 24,
     "destination": "PORT DANIEL",
     "callsign": "CFN6120"
+  },
+  "316044697": {
+    "name": "JUST N CASE",
+    "type": 30,
+    "length": 22,
+    "beam": 7,
+    "destination": "",
+    "callsign": ""
   }
 }
