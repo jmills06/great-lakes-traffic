@@ -1854,5 +1854,13 @@
     "beam": 6,
     "destination": "ERIE,PA",
     "callsign": "WDE8452"
+  },
+  "366906610": {
+    "name": "WALTER J MCCARTHY",
+    "type": 70,
+    "length": 305,
+    "beam": 32,
+    "destination": "TWO HARBORS CH 74",
+    "callsign": "WXU3434"
   }
 }
