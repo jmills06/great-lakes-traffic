@@ -1838,5 +1838,13 @@
     "beam": 4,
     "destination": "",
     "callsign": ""
+  },
+  "316048649": {
+    "name": "IDA M II",
+    "type": 60,
+    "length": 19,
+    "beam": 7,
+    "destination": "",
+    "callsign": "IDAM 2"
   }
 }
