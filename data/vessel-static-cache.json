@@ -1822,5 +1822,21 @@
     "beam": 8,
     "destination": "TORONTO HARBOUR",
     "callsign": "STELLA"
+  },
+  "367120990": {
+    "name": "AMERICAN INTEGRITY",
+    "type": 70,
+    "length": 305,
+    "beam": 32,
+    "destination": "ASHTABULA",
+    "callsign": "WDD2875"
+  },
+  "369493832": {
+    "name": "CG45732",
+    "type": 51,
+    "length": 14,
+    "beam": 4,
+    "destination": "",
+    "callsign": ""
   }
 }
