@@ -1950,5 +1950,13 @@
     "beam": 24,
     "destination": "DRUMMOND CH.69",
     "callsign": "VGGR"
+  },
+  "316042424": {
+    "name": "DONNA F",
+    "type": 30,
+    "length": 19,
+    "beam": 6,
+    "destination": "PORT DOVER",
+    "callsign": ""
   }
 }
