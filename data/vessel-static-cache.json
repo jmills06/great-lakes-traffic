@@ -1428,7 +1428,7 @@
     "type": 70,
     "length": 207,
     "beam": 24,
-    "destination": "FAIRPORT",
+    "destination": "CEDARVILLE",
     "callsign": "WZE4539"
   },
   "316001834": {
@@ -1934,5 +1934,21 @@
     "beam": 23,
     "destination": "INDIANA HARBOR",
     "callsign": "WUR8857"
+  },
+  "367725510": {
+    "name": "FANTASY",
+    "type": 99,
+    "length": 20,
+    "beam": 10,
+    "destination": "",
+    "callsign": "WAR6797"
+  },
+  "316014160": {
+    "name": "MANITOULIN",
+    "type": 70,
+    "length": 203,
+    "beam": 24,
+    "destination": "DRUMMOND CH.69",
+    "callsign": "VGGR"
   }
 }
