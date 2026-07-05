@@ -1910,5 +1910,29 @@
     "beam": 10,
     "destination": "HOME DOCK",
     "callsign": "VA6476"
+  },
+  "316050404": {
+    "name": "DAVID HORNELL",
+    "type": 60,
+    "length": 29,
+    "beam": 14,
+    "destination": "",
+    "callsign": ""
+  },
+  "366904890": {
+    "name": "HON JAMES L OBERSTAR",
+    "type": 70,
+    "length": 246,
+    "beam": 24,
+    "destination": "INDIANA HARBOR",
+    "callsign": "WL3108"
+  },
+  "366904950": {
+    "name": "LEE A. TREGURTHA",
+    "type": 70,
+    "length": 252,
+    "beam": 23,
+    "destination": "INDIANA HARBOR",
+    "callsign": "WUR8857"
   }
 }
