@@ -2046,5 +2046,13 @@
     "beam": 14,
     "destination": "SURVEY",
     "callsign": "WTEA"
+  },
+  "255916529": {
+    "name": "POLSTEAM WIGRY",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "CA THU",
+    "callsign": "CQ2778"
   }
 }
