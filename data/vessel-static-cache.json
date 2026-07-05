@@ -2070,5 +2070,13 @@
     "beam": 4,
     "destination": "USCHI><USCHI",
     "callsign": "WCR7375"
+  },
+  "316009671": {
+    "name": "OCEAN COTE-NORD",
+    "type": 50,
+    "length": 23,
+    "beam": 6,
+    "destination": "HAMILTON",
+    "callsign": ""
   }
 }
