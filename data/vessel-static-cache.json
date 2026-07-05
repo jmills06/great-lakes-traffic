@@ -1886,5 +1886,13 @@
     "beam": 12,
     "destination": "USCHI><USCHI",
     "callsign": "WDD4773"
+  },
+  "248203000": {
+    "name": "MARIA G",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "CA SJB",
+    "callsign": "9HA4557"
   }
 }
