@@ -2022,5 +2022,13 @@
     "beam": 21,
     "destination": "TOLEDO",
     "callsign": "WCF3012"
+  },
+  "366983440": {
+    "name": "JOYCE L VANENKEVORT",
+    "type": 52,
+    "length": 257,
+    "beam": 23,
+    "destination": "BREVORT",
+    "callsign": "WDB9821"
   }
 }
