@@ -1982,5 +1982,13 @@
     "beam": 10,
     "destination": "OSWEGO",
     "callsign": "WCW7977"
+  },
+  "316042422": {
+    "name": "BB MILLER",
+    "type": 30,
+    "length": 19,
+    "beam": 6,
+    "destination": "PORT DOVER",
+    "callsign": ""
   }
 }
