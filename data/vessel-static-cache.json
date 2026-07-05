@@ -2030,5 +2030,13 @@
     "beam": 23,
     "destination": "BREVORT",
     "callsign": "WDB9821"
+  },
+  "367341010": {
+    "name": "MANITOWOC",
+    "type": 70,
+    "length": 192,
+    "beam": 21,
+    "destination": "DETROIT",
+    "callsign": "WDE3569"
   }
 }
