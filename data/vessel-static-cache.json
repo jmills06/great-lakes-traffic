@@ -2062,5 +2062,13 @@
     "beam": 18,
     "destination": "MONROE",
     "callsign": "WDM2009"
+  },
+  "367023080": {
+    "name": "BLUE DOG",
+    "type": 6,
+    "length": 15,
+    "beam": 4,
+    "destination": "USCHI><USCHI",
+    "callsign": "WCR7375"
   }
 }
