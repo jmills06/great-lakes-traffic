@@ -2006,5 +2006,13 @@
     "beam": 10,
     "destination": "MARATHON FORT ST",
     "callsign": "WDJ6009"
+  },
+  "316041965": {
+    "name": "TAMARACK",
+    "type": 70,
+    "length": 123,
+    "beam": 23,
+    "destination": "BATH,ON",
+    "callsign": "CFA4550"
   }
 }
