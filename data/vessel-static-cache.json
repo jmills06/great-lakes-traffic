@@ -1924,7 +1924,7 @@
     "type": 70,
     "length": 246,
     "beam": 24,
-    "destination": "INDIANA HARBOR",
+    "destination": "STONEPORT",
     "callsign": "WL3108"
   },
   "366904950": {
@@ -1966,5 +1966,13 @@
     "beam": 13,
     "destination": "US^0VBV>0VBV",
     "callsign": "WDL2576"
+  },
+  "259070000": {
+    "name": "VIKING OCTANTIS",
+    "type": 60,
+    "length": 204,
+    "beam": 24,
+    "destination": "USCHI",
+    "callsign": "LAGY8"
   }
 }
