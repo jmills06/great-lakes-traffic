@@ -2014,5 +2014,13 @@
     "beam": 23,
     "destination": "BATH,ON",
     "callsign": "CFA4550"
+  },
+  "366904910": {
+    "name": "KAYE E BARKER",
+    "type": 70,
+    "length": 228,
+    "beam": 21,
+    "destination": "TOLEDO",
+    "callsign": "WCF3012"
   }
 }
