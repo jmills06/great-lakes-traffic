@@ -1120,12 +1120,12 @@
     "callsign": "VO7103"
   },
   "316045081": {
-    "name": "M V WILLIAM INGLIS",
+    "name": "WM INGLIS",
     "type": 60,
     "length": 0,
     "beam": 0,
     "destination": "",
-    "callsign": "VC 4159"
+    "callsign": "VC 4139"
   },
   "538004060": {
     "name": "FEDERAL KUSHIRO",
@@ -1990,5 +1990,21 @@
     "beam": 6,
     "destination": "PORT DOVER",
     "callsign": ""
+  },
+  "316022888": {
+    "name": "OCEAN TRAVERSE NORD",
+    "type": 33,
+    "length": 65,
+    "beam": 12,
+    "destination": "THUNDER BAY",
+    "callsign": "CFN6217"
+  },
+  "367793450": {
+    "name": "NEW YORK",
+    "type": 31,
+    "length": 30,
+    "beam": 10,
+    "destination": "MARATHON FORT ST",
+    "callsign": "WDJ6009"
   }
 }
