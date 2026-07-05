@@ -1894,5 +1894,21 @@
     "beam": 24,
     "destination": "CA SJB",
     "callsign": "9HA4557"
+  },
+  "366905890": {
+    "name": "JAMES R BARKER",
+    "type": 70,
+    "length": 305,
+    "beam": 32,
+    "destination": "BURNS HARBOR",
+    "callsign": "WYP8657"
+  },
+  "316048758": {
+    "name": "YANKEE LADY4",
+    "type": 69,
+    "length": 36,
+    "beam": 10,
+    "destination": "HOME DOCK",
+    "callsign": "VA6476"
   }
 }
