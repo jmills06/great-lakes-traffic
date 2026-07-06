@@ -2094,5 +2094,13 @@
     "beam": 24,
     "destination": "DULUTH",
     "callsign": "WXY6216"
+  },
+  "366937490": {
+    "name": "GL OSTRANDER",
+    "type": 52,
+    "length": 178,
+    "beam": 20,
+    "destination": "ALPENA",
+    "callsign": "WCV7620"
   }
 }
