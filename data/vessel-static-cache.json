@@ -2110,5 +2110,13 @@
     "beam": 6,
     "destination": "PORT HURON MI",
     "callsign": "WD18548"
+  },
+  "338940000": {
+    "name": "STATE OF MICHIGAN",
+    "type": 60,
+    "length": 68,
+    "beam": 13,
+    "destination": "USDLH",
+    "callsign": "WMAP"
   }
 }
