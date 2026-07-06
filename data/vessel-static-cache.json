@@ -2078,5 +2078,13 @@
     "beam": 6,
     "destination": "HAMILTON",
     "callsign": ""
+  },
+  "316002065": {
+    "name": "PETIT FORTE",
+    "type": 31,
+    "length": 131,
+    "beam": 18,
+    "destination": "BATH",
+    "callsign": "CFG3677"
   }
 }
