@@ -2126,5 +2126,13 @@
     "beam": 5,
     "destination": "DUNKIRK",
     "callsign": "WDJ6185"
+  },
+  "316001881": {
+    "name": "MISEFORD",
+    "type": 52,
+    "length": 24,
+    "beam": 7,
+    "destination": "THUNDER BAY",
+    "callsign": "CFB9483"
   }
 }
