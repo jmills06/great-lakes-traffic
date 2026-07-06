@@ -2086,5 +2086,13 @@
     "beam": 18,
     "destination": "BATH",
     "callsign": "CFG3677"
+  },
+  "367082230": {
+    "name": "JOSEPH L BLOCK",
+    "type": 79,
+    "length": 222,
+    "beam": 24,
+    "destination": "DULUTH",
+    "callsign": "WXY6216"
   }
 }
