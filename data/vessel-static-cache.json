@@ -1516,7 +1516,7 @@
     "type": 79,
     "length": 0,
     "beam": 0,
-    "destination": "GARY",
+    "destination": "SUPERIOR",
     "callsign": "WDH7560"
   },
   "316026695": {
@@ -2102,5 +2102,13 @@
     "beam": 20,
     "destination": "ALPENA",
     "callsign": "WCV7620"
+  },
+  "367739710": {
+    "name": "HURON SPIRIT",
+    "type": 50,
+    "length": 15,
+    "beam": 6,
+    "destination": "PORT HURON MI",
+    "callsign": "WD18548"
   }
 }
