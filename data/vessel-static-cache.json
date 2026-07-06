@@ -868,7 +868,7 @@
     "type": 69,
     "length": 92,
     "beam": 16,
-    "destination": "CA PCO",
+    "destination": "US CLE",
     "callsign": "C6YZ8"
   },
   "316001844": {
@@ -1084,7 +1084,7 @@
     "type": 70,
     "length": 153,
     "beam": 23,
-    "destination": "CAGOH",
+    "destination": "CAWIN",
     "callsign": "VDAY"
   },
   "367608260": {
