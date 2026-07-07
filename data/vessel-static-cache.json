@@ -2222,5 +2222,13 @@
     "beam": 4,
     "destination": "DREDGE TENDER",
     "callsign": ""
+  },
+  "366999296": {
+    "name": "DEMOLEN",
+    "type": 90,
+    "length": 33,
+    "beam": 10,
+    "destination": "DETROIT,MICHIGAN",
+    "callsign": "AEDN"
   }
 }
