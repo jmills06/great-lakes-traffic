@@ -2254,5 +2254,13 @@
     "beam": 9,
     "destination": "",
     "callsign": "AEHT"
+  },
+  "316059017": {
+    "name": "ONTARIO VENTURE",
+    "type": 70,
+    "length": 207,
+    "beam": 24,
+    "destination": "USMBC",
+    "callsign": "VEOV"
   }
 }
