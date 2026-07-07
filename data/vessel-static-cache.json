@@ -2214,5 +2214,13 @@
     "beam": 0,
     "destination": "",
     "callsign": "WDN6336"
+  },
+  "338209698": {
+    "name": "MADISON",
+    "type": 53,
+    "length": 11,
+    "beam": 4,
+    "destination": "DREDGE TENDER",
+    "callsign": ""
   }
 }
