@@ -2230,5 +2230,13 @@
     "beam": 10,
     "destination": "DETROIT,MICHIGAN",
     "callsign": "AEDN"
+  },
+  "368374620": {
+    "name": "EDWARD H",
+    "type": 52,
+    "length": 30,
+    "beam": 8,
+    "destination": "",
+    "callsign": "WDP6659"
   }
 }
