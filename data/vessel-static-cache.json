@@ -2238,5 +2238,13 @@
     "beam": 8,
     "destination": "",
     "callsign": "WDP6659"
+  },
+  "311033600": {
+    "name": "JUNO",
+    "type": 70,
+    "length": 189,
+    "beam": 24,
+    "destination": "PT AVE",
+    "callsign": "C6YJ4"
   }
 }
