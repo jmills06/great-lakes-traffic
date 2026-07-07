@@ -2142,5 +2142,21 @@
     "beam": 8,
     "destination": "WAUKEGAN",
     "callsign": "WDE3772"
+  },
+  "368183000": {
+    "name": "GREAT REPUBLIC",
+    "type": 70,
+    "length": 193,
+    "beam": 21,
+    "destination": "INDIANA HARBOR",
+    "callsign": "WDH7561"
+  },
+  "316023275": {
+    "name": "MU23",
+    "type": 55,
+    "length": 10,
+    "beam": 4,
+    "destination": "",
+    "callsign": "MU23"
   }
 }
