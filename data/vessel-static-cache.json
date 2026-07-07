@@ -2182,5 +2182,21 @@
     "beam": 16,
     "destination": "USTOL",
     "callsign": "PCUD"
+  },
+  "316001637": {
+    "name": "CSL LAURENTIEN",
+    "type": 79,
+    "length": 225,
+    "beam": 24,
+    "destination": "TORONTO",
+    "callsign": "VCJW"
+  },
+  "338021074": {
+    "name": "USEPA LAKE GUARDIAN",
+    "type": 33,
+    "length": 53,
+    "beam": 12,
+    "destination": "DULUTH",
+    "callsign": "WA09082"
   }
 }
