@@ -2116,7 +2116,7 @@
     "type": 60,
     "length": 68,
     "beam": 13,
-    "destination": "USDLH",
+    "destination": "HOUGHTON MI",
     "callsign": "WMAP"
   },
   "367173210": {
@@ -2148,7 +2148,7 @@
     "type": 70,
     "length": 193,
     "beam": 21,
-    "destination": "S CHICAGO",
+    "destination": "PORT INLAND",
     "callsign": "WDH7561"
   },
   "316023275": {
