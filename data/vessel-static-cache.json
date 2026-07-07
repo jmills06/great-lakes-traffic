@@ -1724,7 +1724,7 @@
     "type": 60,
     "length": 92,
     "beam": 17,
-    "destination": "CATOR",
+    "destination": "CAPCO",
     "callsign": "C6YZ9"
   },
   "255802390": {
@@ -2198,5 +2198,13 @@
     "beam": 12,
     "destination": "DULUTH",
     "callsign": "WA09082"
+  },
+  "316053441": {
+    "name": "ALGOLUNA",
+    "type": 89,
+    "length": 144,
+    "beam": 23,
+    "destination": "SARNIA",
+    "callsign": "VABZ"
   }
 }
