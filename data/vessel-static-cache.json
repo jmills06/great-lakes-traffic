@@ -2174,5 +2174,13 @@
     "beam": 17,
     "destination": "USDET",
     "callsign": "V7RM9"
+  },
+  "244750716": {
+    "name": "EXEBORG",
+    "type": 70,
+    "length": 145,
+    "beam": 16,
+    "destination": "USTOL",
+    "callsign": "PCUD"
   }
 }
