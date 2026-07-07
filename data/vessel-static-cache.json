@@ -252,7 +252,7 @@
     "type": 80,
     "length": 150,
     "beam": 23,
-    "destination": "CASNI",
+    "destination": "USBTR",
     "callsign": "5LST6"
   },
   "369812000": {
@@ -1396,7 +1396,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "THUNDER BAY",
+    "destination": "GODERICH",
     "callsign": "VBCD"
   },
   "367688370": {
