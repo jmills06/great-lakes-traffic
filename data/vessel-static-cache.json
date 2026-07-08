@@ -2036,7 +2036,7 @@
     "type": 70,
     "length": 192,
     "beam": 21,
-    "destination": "DETROIT",
+    "destination": "MONROE",
     "callsign": "WDE3569"
   },
   "369958000": {
@@ -2326,5 +2326,13 @@
     "beam": 0,
     "destination": "TORONTO HARBOUR",
     "callsign": ""
+  },
+  "366938760": {
+    "name": "SAM LAUD",
+    "type": 70,
+    "length": 193,
+    "beam": 21,
+    "destination": "WAUKEGAN",
+    "callsign": "WZC7602"
   }
 }
