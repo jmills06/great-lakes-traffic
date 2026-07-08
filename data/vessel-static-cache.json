@@ -644,7 +644,7 @@
     "type": 70,
     "length": 140,
     "beam": 21,
-    "destination": "USTOL",
+    "destination": "CATRR",
     "callsign": "VCBM"
   },
   "367521420": {
@@ -2341,6 +2341,14 @@
     "length": 0,
     "beam": 0,
     "destination": "ISLE ROYALE",
+    "callsign": ""
+  },
+  "338926165": {
+    "name": "CG26165",
+    "type": 51,
+    "length": 7,
+    "beam": 3,
+    "destination": "KEWEENAW ATON",
     "callsign": ""
   }
 }
