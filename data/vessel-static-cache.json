@@ -260,7 +260,7 @@
     "type": 52,
     "length": 41,
     "beam": 11,
-    "destination": "CHARLEVOIX",
+    "destination": "CHARLEVOIX MI",
     "callsign": "WDK8680"
   },
   "366988420": {
@@ -868,7 +868,7 @@
     "type": 69,
     "length": 92,
     "beam": 16,
-    "destination": "US CLE",
+    "destination": "US DET",
     "callsign": "C6YZ8"
   },
   "316001844": {
