@@ -188,7 +188,7 @@
     "type": 52,
     "length": 164,
     "beam": 23,
-    "destination": "BOWMANVILLE",
+    "destination": "HAMILTON",
     "callsign": "CZ9891"
   },
   "338888000": {
@@ -1644,7 +1644,7 @@
     "type": 0,
     "length": 150,
     "beam": 23,
-    "destination": "CASNI",
+    "destination": "CA CSC MTR",
     "callsign": "CFA2990"
   },
   "369990307": {
