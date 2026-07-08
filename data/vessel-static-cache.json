@@ -612,7 +612,7 @@
     "type": 89,
     "length": 110,
     "beam": 18,
-    "destination": "CASNI",
+    "destination": "USBCY",
     "callsign": "PCCB"
   },
   "368211020": {
@@ -1468,7 +1468,7 @@
     "type": 79,
     "length": 195,
     "beam": 24,
-    "destination": "DETROIT-DBS",
+    "destination": "MUSKEGON",
     "callsign": "WDM9326"
   },
   "316029000": {
