@@ -2278,5 +2278,21 @@
     "beam": 24,
     "destination": "USTOL",
     "callsign": "V7RE9"
+  },
+  "368261230": {
+    "name": "LEONA_B",
+    "type": 52,
+    "length": 20,
+    "beam": 8,
+    "destination": "KENOSHA",
+    "callsign": "WDN2346"
+  },
+  "316035651": {
+    "name": "MU20",
+    "type": 55,
+    "length": 9,
+    "beam": 4,
+    "destination": "",
+    "callsign": "MU20"
   }
 }
