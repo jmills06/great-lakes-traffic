@@ -2302,5 +2302,13 @@
     "beam": 10,
     "destination": "TORONTO",
     "callsign": "CFA2363"
+  },
+  "229594000": {
+    "name": "YM AMAZON",
+    "type": 70,
+    "length": 131,
+    "beam": 19,
+    "destination": "USMKE",
+    "callsign": "9HA3431"
   }
 }
