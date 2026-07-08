@@ -1028,7 +1028,7 @@
     "type": 0,
     "length": 30,
     "beam": 10,
-    "destination": "CALHBR",
+    "destination": "GARY",
     "callsign": "WBQ3867"
   },
   "367162320": {
@@ -1188,7 +1188,7 @@
     "type": 70,
     "length": 309,
     "beam": 32,
-    "destination": "BURNS HARBOR",
+    "destination": "DULUTH",
     "callsign": "WYR4481"
   },
   "316055401": {
@@ -2310,5 +2310,13 @@
     "beam": 19,
     "destination": "USMKE",
     "callsign": "9HA3431"
+  },
+  "368071490": {
+    "name": "HARBOR RUNNER",
+    "type": 31,
+    "length": 17,
+    "beam": 7,
+    "destination": "USLMJ<USLMJ",
+    "callsign": "WDK6129"
   }
 }
