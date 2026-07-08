@@ -2334,5 +2334,13 @@
     "beam": 21,
     "destination": "WAUKEGAN",
     "callsign": "WZC7602"
+  },
+  "338425976": {
+    "name": "MJO CREW",
+    "type": 99,
+    "length": 0,
+    "beam": 0,
+    "destination": "ISLE ROYALE",
+    "callsign": ""
   }
 }
