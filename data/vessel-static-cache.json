@@ -1428,7 +1428,7 @@
     "type": 70,
     "length": 207,
     "beam": 24,
-    "destination": "DULUTH",
+    "destination": "MARQUETTE",
     "callsign": "WZE4539"
   },
   "316001834": {
@@ -1868,7 +1868,7 @@
     "type": 70,
     "length": 150,
     "beam": 16,
-    "destination": "CAWND",
+    "destination": "CAMTR",
     "callsign": "PDDO"
   },
   "367159020": {
