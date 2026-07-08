@@ -2358,5 +2358,13 @@
     "beam": 3,
     "destination": "",
     "callsign": ""
+  },
+  "316048671": {
+    "name": "HIAWATHA",
+    "type": 60,
+    "length": 65,
+    "beam": 4,
+    "destination": "",
+    "callsign": "CFA5852"
   }
 }
