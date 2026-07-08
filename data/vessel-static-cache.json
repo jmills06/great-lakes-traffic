@@ -2294,5 +2294,13 @@
     "beam": 4,
     "destination": "",
     "callsign": "MU20"
+  },
+  "316033903": {
+    "name": "SALVAGE MONARCH",
+    "type": 90,
+    "length": 30,
+    "beam": 10,
+    "destination": "TORONTO",
+    "callsign": "CFA2363"
   }
 }
