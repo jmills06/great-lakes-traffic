@@ -796,7 +796,7 @@
     "type": 60,
     "length": 26,
     "beam": 9,
-    "destination": "USCHI<",
+    "destination": "USCHI><USCHI",
     "callsign": "WDF3649"
   },
   "316002105": {
@@ -1100,7 +1100,7 @@
     "type": 70,
     "length": 192,
     "beam": 21,
-    "destination": "GODERICH CH 69",
+    "destination": "WINDSOR CH 69",
     "callsign": "CFN4934"
   },
   "367121010": {
