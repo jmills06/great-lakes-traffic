@@ -2494,5 +2494,13 @@
     "beam": 8,
     "destination": "CLEVELAND CH 07",
     "callsign": "WDP4637"
+  },
+  "367409260": {
+    "name": "DOROTHY ANN",
+    "type": 57,
+    "length": 215,
+    "beam": 21,
+    "destination": "CLEVELAND SHUTTLE",
+    "callsign": "WDL2531"
   }
 }
