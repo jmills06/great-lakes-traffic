@@ -2502,5 +2502,13 @@
     "beam": 21,
     "destination": "CLEVELAND SHUTTLE",
     "callsign": "WDL2531"
+  },
+  "368477860": {
+    "name": "AYANNA JOYELLE",
+    "type": 31,
+    "length": 30,
+    "beam": 9,
+    "destination": "INDIANA HARBOR",
+    "callsign": "WDR2193"
   }
 }
