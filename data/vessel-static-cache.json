@@ -1084,7 +1084,7 @@
     "type": 70,
     "length": 153,
     "beam": 23,
-    "destination": "CAWIN",
+    "destination": "CALOP",
     "callsign": "VDAY"
   },
   "367608260": {
@@ -2406,5 +2406,13 @@
     "beam": 23,
     "destination": "CATHU",
     "callsign": "CYDD"
+  },
+  "367041840": {
+    "name": "KATHY LYNN",
+    "type": 57,
+    "length": 71,
+    "beam": 31,
+    "destination": "DREDGING CH7",
+    "callsign": "WAS4159"
   }
 }
