@@ -196,7 +196,7 @@
     "type": 31,
     "length": 41,
     "beam": 15,
-    "destination": "TOLEDO",
+    "destination": "STONEPORT",
     "callsign": "WDJ4194"
   },
   "316045082": {
@@ -1524,7 +1524,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "MONTREAL",
+    "destination": "THUNDER BAY",
     "callsign": "CFK5151"
   },
   "367111050": {
