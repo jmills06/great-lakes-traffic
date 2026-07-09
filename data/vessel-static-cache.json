@@ -2414,5 +2414,13 @@
     "beam": 31,
     "destination": "DREDGING CH7",
     "callsign": "WAS4159"
+  },
+  "316042421": {
+    "name": "R&G",
+    "type": 30,
+    "length": 19,
+    "beam": 6,
+    "destination": "",
+    "callsign": ""
   }
 }
