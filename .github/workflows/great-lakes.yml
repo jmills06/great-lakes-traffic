@@ -1,8 +1,12 @@
 name: Great Lakes Vessel Collector
 
+# Repo path: .github/workflows/great-lakes.yml
+
 on:
-  schedule:
-    - cron: "7,17,27,37,47,57 * * * *"
+  # Driven by an external scheduler (cron-job.org) hitting workflow_dispatch.
+  # The built-in schedule is left here as an optional backup; uncomment to use it.
+  # schedule:
+  #   - cron: "7,17,27,37,47,57 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -10,7 +14,7 @@ permissions:
 
 concurrency:
   group: great-lakes-collector
-  cancel-in-progress: false
+  cancel-in-progress: false   # never interrupt a run mid-listen
 
 jobs:
   collect:
@@ -18,6 +22,8 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0        # full history so the rebase-on-push works cleanly
 
       - uses: actions/setup-python@v5
         with:
@@ -36,5 +42,26 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/great-lakes-vessels.json data/vessel-static-cache.json
-          git diff --cached --quiet || git commit -m "chore: refresh Great Lakes vessel data"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: refresh Great Lakes vessel data"
+
+          # main may have moved while we were listening to AIS. Rebase our data
+          # commit onto the latest main and retry, preferring our fresh files on
+          # the rare data-vs-data conflict.
+          for attempt in 1 2 3 4 5; do
+            if git push; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Remote moved, rebasing and retrying (attempt $attempt)..."
+            git pull --rebase --autostash -X theirs origin main || true
+            sleep 3
+          done
+
+          echo "Could not push after 5 attempts." >&2
+          exit 1
