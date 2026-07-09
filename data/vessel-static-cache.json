@@ -612,7 +612,7 @@
     "type": 89,
     "length": 110,
     "beam": 18,
-    "destination": "USBCY",
+    "destination": "CASNI",
     "callsign": "PCCB"
   },
   "368211020": {
@@ -2012,7 +2012,7 @@
     "type": 70,
     "length": 123,
     "beam": 23,
-    "destination": "BATH,ON",
+    "destination": "TORONTO,ON",
     "callsign": "CFA4550"
   },
   "366904910": {
