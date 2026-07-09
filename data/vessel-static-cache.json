@@ -964,7 +964,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "THUNDER BAY",
+    "destination": "BECANCOUR",
     "callsign": "VGFJ"
   },
   "368437390": {
@@ -2084,7 +2084,7 @@
     "type": 31,
     "length": 131,
     "beam": 18,
-    "destination": "BATH",
+    "destination": "TORONTO",
     "callsign": "CFG3677"
   },
   "367082230": {
