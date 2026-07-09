@@ -548,7 +548,7 @@
     "type": 9,
     "length": 185,
     "beam": 24,
-    "destination": "THUNDER BAY",
+    "destination": "MONTREAL",
     "callsign": "V2CF1"
   },
   "366971370": {
@@ -988,7 +988,7 @@
     "type": 70,
     "length": 191,
     "beam": 20,
-    "destination": "MARYSVILLE",
+    "destination": "MISTERSKYS",
     "callsign": "WDE3568"
   },
   "316002588": {
