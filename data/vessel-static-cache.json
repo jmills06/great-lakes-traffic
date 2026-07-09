@@ -2446,5 +2446,13 @@
     "beam": 23,
     "destination": "CATHU",
     "callsign": "V2HW4"
+  },
+  "316005378": {
+    "name": "CAPE MERCY",
+    "type": 51,
+    "length": 14,
+    "beam": 4,
+    "destination": "SEARCH & RESCUE",
+    "callsign": "CG8048"
   }
 }
