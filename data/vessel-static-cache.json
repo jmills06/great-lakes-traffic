@@ -2430,5 +2430,13 @@
     "beam": 40,
     "destination": "KINGSTON",
     "callsign": "CFN4606"
+  },
+  "316045045": {
+    "name": "AMANDA MAY",
+    "type": 30,
+    "length": 17,
+    "beam": 6,
+    "destination": "PORT BURWELL",
+    "callsign": ""
   }
 }
