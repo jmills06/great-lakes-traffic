@@ -2366,5 +2366,13 @@
     "beam": 4,
     "destination": "",
     "callsign": "CFA5852"
+  },
+  "316050854": {
+    "name": "ALGOTITAN",
+    "type": 80,
+    "length": 143,
+    "beam": 23,
+    "destination": "SARNIA",
+    "callsign": "VCBA"
   }
 }
