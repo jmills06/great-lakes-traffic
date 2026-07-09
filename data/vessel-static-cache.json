@@ -2300,7 +2300,7 @@
     "type": 90,
     "length": 30,
     "beam": 10,
-    "destination": "TORONTO",
+    "destination": "HAMILTON",
     "callsign": "CFA2363"
   },
   "229594000": {
@@ -2454,5 +2454,13 @@
     "beam": 4,
     "destination": "SEARCH & RESCUE",
     "callsign": "CG8048"
+  },
+  "367120250": {
+    "name": "GOODTIME III",
+    "type": 99,
+    "length": 46,
+    "beam": 12,
+    "destination": "CLEVELAND 88A",
+    "callsign": "WAO5723"
   }
 }
