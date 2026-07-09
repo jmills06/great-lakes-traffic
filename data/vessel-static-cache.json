@@ -2422,5 +2422,13 @@
     "beam": 6,
     "destination": "",
     "callsign": ""
+  },
+  "316009423": {
+    "name": "RADIUM YELLOWKNIFE",
+    "type": 52,
+    "length": 12,
+    "beam": 40,
+    "destination": "KINGSTON",
+    "callsign": "CFN4606"
   }
 }
