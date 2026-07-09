@@ -2478,5 +2478,13 @@
     "beam": 7,
     "destination": "GANANOQUE",
     "callsign": "VA5303"
+  },
+  "367348910": {
+    "name": "J.S.ST.JOHN",
+    "type": 33,
+    "length": 51,
+    "beam": 10,
+    "destination": "ERIE,PA",
+    "callsign": "WDE4111"
   }
 }
