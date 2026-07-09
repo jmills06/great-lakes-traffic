@@ -2470,5 +2470,13 @@
     "beam": 0,
     "destination": "",
     "callsign": "CFA2819"
+  },
+  "316006946": {
+    "name": "FAIR JEANNE",
+    "type": 36,
+    "length": 33,
+    "beam": 7,
+    "destination": "GANANOQUE",
+    "callsign": "VA5303"
   }
 }
