@@ -2100,7 +2100,7 @@
     "type": 52,
     "length": 178,
     "beam": 20,
-    "destination": "ALPENA",
+    "destination": "S.CHICAGO",
     "callsign": "WCV7620"
   },
   "367739710": {
@@ -2382,5 +2382,13 @@
     "beam": 6,
     "destination": "CLEARWATER FL",
     "callsign": ""
+  },
+  "257037140": {
+    "name": "EK RIVER",
+    "type": 89,
+    "length": 154,
+    "beam": 24,
+    "destination": "CA CSN",
+    "callsign": "LAEK8"
   }
 }
