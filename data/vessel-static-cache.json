@@ -2390,5 +2390,13 @@
     "beam": 24,
     "destination": "CA CSN",
     "callsign": "LAEK8"
+  },
+  "538006473": {
+    "name": "FEDERAL CEDAR",
+    "type": 70,
+    "length": 200,
+    "beam": 23,
+    "destination": "ASHTABULA",
+    "callsign": "V7NK8"
   }
 }
