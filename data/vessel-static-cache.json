@@ -1492,7 +1492,7 @@
     "type": 70,
     "length": 140,
     "beam": 21,
-    "destination": "CA THU",
+    "destination": "CA SOR",
     "callsign": "XJBZ"
   },
   "338866000": {
@@ -2260,7 +2260,7 @@
     "type": 70,
     "length": 207,
     "beam": 24,
-    "destination": "USCAL",
+    "destination": "CASOM",
     "callsign": "VEOV"
   },
   "367679760": {
