@@ -2582,5 +2582,13 @@
     "beam": 3,
     "destination": "",
     "callsign": "WDJ4479"
+  },
+  "367148830": {
+    "name": "CHAMPION",
+    "type": 52,
+    "length": 19,
+    "beam": 7,
+    "destination": "NORTH_MANITOU_ISLAND",
+    "callsign": "WDD4771"
   }
 }
