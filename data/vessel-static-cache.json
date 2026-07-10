@@ -2510,5 +2510,21 @@
     "beam": 9,
     "destination": "INDIANA HARBOR",
     "callsign": "WDR2193"
+  },
+  "367107750": {
+    "name": "CHICAGO'S FIRST LADY",
+    "type": 69,
+    "length": 30,
+    "beam": 8,
+    "destination": "CHICAGO",
+    "callsign": "WAV4648"
+  },
+  "367129180": {
+    "name": "NIKI S",
+    "type": 52,
+    "length": 13,
+    "beam": 6,
+    "destination": "US^043W>10UE",
+    "callsign": "WDD3345"
   }
 }
