@@ -516,7 +516,7 @@
     "type": 80,
     "length": 140,
     "beam": 24,
-    "destination": "SARNIA",
+    "destination": "NANTICOKE",
     "callsign": "VAAT"
   },
   "367627830": {
@@ -2060,7 +2060,7 @@
     "type": 31,
     "length": 150,
     "beam": 18,
-    "destination": "PORT COLBORNE",
+    "destination": "MONROE",
     "callsign": "WDM2009"
   },
   "367023080": {
