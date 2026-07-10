@@ -2534,5 +2534,13 @@
     "beam": 22,
     "destination": "US^0V9C>114U",
     "callsign": "WDQ2141"
+  },
+  "316016060": {
+    "name": "AMY LYNN D",
+    "type": 52,
+    "length": 32,
+    "beam": 9,
+    "destination": "TORONTO",
+    "callsign": "CFA3308"
   }
 }
