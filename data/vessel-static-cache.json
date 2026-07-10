@@ -2550,5 +2550,13 @@
     "beam": 10,
     "destination": "CHICAGO HARBOR",
     "callsign": "WDR2166"
+  },
+  "338926344": {
+    "name": "CG22344",
+    "type": 51,
+    "length": 7,
+    "beam": 2,
+    "destination": "",
+    "callsign": "22344"
   }
 }
