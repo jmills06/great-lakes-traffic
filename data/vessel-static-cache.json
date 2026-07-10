@@ -2508,7 +2508,7 @@
     "type": 31,
     "length": 30,
     "beam": 9,
-    "destination": "INDIANA HARBOR",
+    "destination": "CALUMET HARBOR",
     "callsign": "WDR2193"
   },
   "367107750": {
@@ -2542,5 +2542,13 @@
     "beam": 9,
     "destination": "TORONTO",
     "callsign": "CFA3308"
+  },
+  "367787430": {
+    "name": "RUTH ANASTASIA",
+    "type": 52,
+    "length": 30,
+    "beam": 10,
+    "destination": "CHICAGO HARBOR",
+    "callsign": "WDR2166"
   }
 }
