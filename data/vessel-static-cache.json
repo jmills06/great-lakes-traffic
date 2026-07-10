@@ -2574,5 +2574,13 @@
     "beam": 21,
     "destination": "US^0TCH>0ZHH",
     "callsign": "WC5932"
+  },
+  "367778090": {
+    "name": "KRISTIN J",
+    "type": 52,
+    "length": 21,
+    "beam": 3,
+    "destination": "",
+    "callsign": "WDJ4479"
   }
 }
