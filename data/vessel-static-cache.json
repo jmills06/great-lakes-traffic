@@ -1972,7 +1972,7 @@
     "type": 60,
     "length": 204,
     "beam": 24,
-    "destination": "USDET",
+    "destination": "POINT PELEE",
     "callsign": "LAGY8"
   },
   "366936810": {
@@ -2598,5 +2598,13 @@
     "beam": 7,
     "destination": "",
     "callsign": "SEA PRI"
+  },
+  "368413570": {
+    "name": "AMERICAN PATRIOT",
+    "type": 60,
+    "length": 76,
+    "beam": 16,
+    "destination": "MUSKEGON, MI",
+    "callsign": "WDQ3079"
   }
 }
