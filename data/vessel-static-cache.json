@@ -948,7 +948,7 @@
     "type": 70,
     "length": 38,
     "beam": 13,
-    "destination": "CALCITE",
+    "destination": "ROUGE",
     "callsign": "WDG2047"
   },
   "316004579": {
@@ -1972,7 +1972,7 @@
     "type": 60,
     "length": 204,
     "beam": 24,
-    "destination": "USMKE",
+    "destination": "USDET",
     "callsign": "LAGY8"
   },
   "366936810": {
