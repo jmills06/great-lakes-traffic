@@ -2710,5 +2710,13 @@
     "beam": 0,
     "destination": "NORFOLK",
     "callsign": "WDL5107"
+  },
+  "248724000": {
+    "name": "STRANDJA",
+    "type": 70,
+    "length": 186,
+    "beam": 24,
+    "destination": "CATHU",
+    "callsign": "9HA2483"
   }
 }
