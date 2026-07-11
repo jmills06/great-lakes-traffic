@@ -860,7 +860,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "THUNDER BAY",
+    "destination": "QUEBEC",
     "callsign": "VECA"
   },
   "311050300": {
@@ -2630,5 +2630,13 @@
     "beam": 0,
     "destination": "CANADA",
     "callsign": "MISV2"
+  },
+  "316045525": {
+    "name": "M.V. GLENORA",
+    "type": 65,
+    "length": 39,
+    "beam": 10,
+    "destination": "",
+    "callsign": "VA 3404"
   }
 }
