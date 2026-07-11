@@ -2686,5 +2686,13 @@
     "beam": 16,
     "destination": "USDTT",
     "callsign": "PBMD"
+  },
+  "338408848": {
+    "name": "KAHN VOYAGE M/Y",
+    "type": 37,
+    "length": 17,
+    "beam": 5,
+    "destination": "CHICAGO",
+    "callsign": ""
   }
 }
