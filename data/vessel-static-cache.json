@@ -2702,5 +2702,13 @@
     "beam": 10,
     "destination": "",
     "callsign": ""
+  },
+  "368137960": {
+    "name": "LIBERTY",
+    "type": 37,
+    "length": 0,
+    "beam": 0,
+    "destination": "NORFOLK",
+    "callsign": "WDL5107"
   }
 }
