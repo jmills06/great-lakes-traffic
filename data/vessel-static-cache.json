@@ -2614,5 +2614,13 @@
     "beam": 7,
     "destination": "LITTLE SAND BAY",
     "callsign": "WDC7801"
+  },
+  "316005098": {
+    "name": "CHALLENGE",
+    "type": 69,
+    "length": 96,
+    "beam": 17,
+    "destination": "",
+    "callsign": ""
   }
 }
