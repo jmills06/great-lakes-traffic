@@ -756,7 +756,7 @@
     "type": 70,
     "length": 223,
     "beam": 24,
-    "destination": "HAMILTON",
+    "destination": "WINDSOR",
     "callsign": "CFN6288"
   },
   "366896890": {
@@ -1120,12 +1120,12 @@
     "callsign": "VO7103"
   },
   "316045081": {
-    "name": "M V WILLIAM INGLIS",
+    "name": "WM INGLIS",
     "type": 60,
     "length": 0,
     "beam": 0,
     "destination": "",
-    "callsign": "VC 4159"
+    "callsign": "VC 4139"
   },
   "538004060": {
     "name": "FEDERAL KUSHIRO",
@@ -2670,5 +2670,13 @@
     "beam": 10,
     "destination": "HOUGHTON MI",
     "callsign": "WZ2056"
+  },
+  "367558030": {
+    "name": "ANN MARIE",
+    "type": 52,
+    "length": 21,
+    "beam": 6,
+    "destination": "DETROIT",
+    "callsign": "WDG6532"
   }
 }
