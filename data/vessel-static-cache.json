@@ -2638,5 +2638,13 @@
     "beam": 10,
     "destination": "",
     "callsign": "VA 3404"
+  },
+  "316042423": {
+    "name": "OMSTEADER",
+    "type": 30,
+    "length": 20,
+    "beam": 6,
+    "destination": "PORT DOVER",
+    "callsign": ""
   }
 }
