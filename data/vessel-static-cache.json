@@ -612,7 +612,7 @@
     "type": 89,
     "length": 110,
     "beam": 18,
-    "destination": "USDET",
+    "destination": "CASNI",
     "callsign": "PCCB"
   },
   "368211020": {
@@ -2572,7 +2572,7 @@
     "type": 70,
     "length": 201,
     "beam": 21,
-    "destination": "US^0TCH>?? ???",
+    "destination": "MARQUETTE",
     "callsign": "WC5932"
   },
   "367778090": {
