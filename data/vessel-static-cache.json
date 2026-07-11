@@ -2622,5 +2622,13 @@
     "beam": 17,
     "destination": "",
     "callsign": ""
+  },
+  "232033717": {
+    "name": "PARNASSIA",
+    "type": 37,
+    "length": 0,
+    "beam": 0,
+    "destination": "CANADA",
+    "callsign": "MISV2"
   }
 }
