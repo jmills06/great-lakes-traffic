@@ -1120,12 +1120,12 @@
     "callsign": "VO7103"
   },
   "316045081": {
-    "name": "M V WILLIAM INGLIS",
+    "name": "WM INGLIS",
     "type": 60,
     "length": 0,
     "beam": 0,
     "destination": "",
-    "callsign": "VC 4159"
+    "callsign": "VC 4139"
   },
   "538004060": {
     "name": "FEDERAL KUSHIRO",
@@ -1428,7 +1428,7 @@
     "type": 70,
     "length": 207,
     "beam": 24,
-    "destination": "MARQUETTE",
+    "destination": "TOLEDO",
     "callsign": "WZE4539"
   },
   "316001834": {
