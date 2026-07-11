@@ -612,7 +612,7 @@
     "type": 89,
     "length": 110,
     "beam": 18,
-    "destination": "CASNI",
+    "destination": "USDET",
     "callsign": "PCCB"
   },
   "368211020": {
@@ -1476,7 +1476,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "SANDUSKY",
+    "destination": "TWO HARBORS",
     "callsign": "VCGJ"
   },
   "366930730": {
