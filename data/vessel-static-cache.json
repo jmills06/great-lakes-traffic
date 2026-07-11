@@ -2654,5 +2654,13 @@
     "beam": 4,
     "destination": "",
     "callsign": "CG29406"
+  },
+  "369970030": {
+    "name": "KIYI",
+    "type": 90,
+    "length": 33,
+    "beam": 9,
+    "destination": "SNUG HBRISLE ROYALE",
+    "callsign": "KAO107"
   }
 }
