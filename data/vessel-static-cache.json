@@ -2694,5 +2694,13 @@
     "beam": 5,
     "destination": "CHICAGO",
     "callsign": ""
+  },
+  "367045170": {
+    "name": "OVATION",
+    "type": 60,
+    "length": 43,
+    "beam": 10,
+    "destination": "",
+    "callsign": ""
   }
 }
