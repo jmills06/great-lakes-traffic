@@ -2718,5 +2718,13 @@
     "beam": 24,
     "destination": "CATHU",
     "callsign": "9HA2483"
+  },
+  "229654000": {
+    "name": "PERELIK",
+    "type": 70,
+    "length": 190,
+    "beam": 24,
+    "destination": "US CHI",
+    "callsign": "9HA5548"
   }
 }
