@@ -908,7 +908,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "BAIE COMEAU",
+    "destination": "HAMILTON",
     "callsign": "CFK9796"
   },
   "316005239": {
@@ -2012,7 +2012,7 @@
     "type": 70,
     "length": 123,
     "beam": 23,
-    "destination": "TORONTO,ON",
+    "destination": "CLEVELAND",
     "callsign": "CFA4550"
   },
   "366904910": {
