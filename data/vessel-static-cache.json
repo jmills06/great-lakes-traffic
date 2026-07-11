@@ -1748,7 +1748,7 @@
     "type": 52,
     "length": 35,
     "beam": 11,
-    "destination": "COURTRTE",
+    "destination": "T BAY",
     "callsign": "CFP2006"
   },
   "369990421": {
@@ -2572,7 +2572,7 @@
     "type": 70,
     "length": 201,
     "beam": 21,
-    "destination": "US^0TCH>0ZHH",
+    "destination": "US^0TCH>?? ???",
     "callsign": "WC5932"
   },
   "367778090": {
