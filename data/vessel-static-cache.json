@@ -2678,5 +2678,13 @@
     "beam": 6,
     "destination": "DETROIT",
     "callsign": "WDG6532"
+  },
+  "245278000": {
+    "name": "EEMSBORG",
+    "type": 79,
+    "length": 138,
+    "beam": 16,
+    "destination": "USDTT",
+    "callsign": "PBMD"
   }
 }
