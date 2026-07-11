@@ -2084,7 +2084,7 @@
     "type": 31,
     "length": 131,
     "beam": 18,
-    "destination": "TORONTO",
+    "destination": "BOWMANVILLE",
     "callsign": "CFG3677"
   },
   "367082230": {
@@ -2662,5 +2662,13 @@
     "beam": 9,
     "destination": "SNUG HBRISLE ROYALE",
     "callsign": "KAO107"
+  },
+  "338016759": {
+    "name": "RANGER III",
+    "type": 69,
+    "length": 46,
+    "beam": 10,
+    "destination": "HOUGHTON MI",
+    "callsign": "WZ2056"
   }
 }
