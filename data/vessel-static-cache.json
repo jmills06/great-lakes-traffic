@@ -868,7 +868,7 @@
     "type": 69,
     "length": 92,
     "beam": 16,
-    "destination": "US SSM",
+    "destination": "US MKE",
     "callsign": "C6YZ8"
   },
   "316001844": {
@@ -1780,7 +1780,7 @@
     "type": 70,
     "length": 200,
     "beam": 24,
-    "destination": "CHICAGO, USA",
+    "destination": "THUNDERBAY",
     "callsign": "V7NC8"
   },
   "367116070": {
