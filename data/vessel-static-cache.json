@@ -2822,5 +2822,13 @@
     "beam": 0,
     "destination": "CHICAGO",
     "callsign": "AESO"
+  },
+  "316001877": {
+    "name": "VAC",
+    "type": 38,
+    "length": 17,
+    "beam": 6,
+    "destination": "P0RT COLBORNE",
+    "callsign": "CFN5014"
   }
 }
