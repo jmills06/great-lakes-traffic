@@ -1052,7 +1052,7 @@
     "type": 52,
     "length": 159,
     "beam": 24,
-    "destination": "TOLEDO",
+    "destination": "MONROE",
     "callsign": "CFG8081"
   },
   "538006469": {
@@ -2774,5 +2774,13 @@
     "beam": 7,
     "destination": "KINGSTON",
     "callsign": "CGJB"
+  },
+  "316009316": {
+    "name": "M.R. KANE",
+    "type": 99,
+    "length": 20,
+    "beam": 5,
+    "destination": "TORONTO",
+    "callsign": "CFN4588"
   }
 }
