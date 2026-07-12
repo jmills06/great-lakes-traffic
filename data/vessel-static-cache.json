@@ -1476,7 +1476,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "TWO HARBORS",
+    "destination": "QUEBEC",
     "callsign": "VCGJ"
   },
   "366930730": {
@@ -2204,7 +2204,7 @@
     "type": 89,
     "length": 144,
     "beam": 23,
-    "destination": "SARNIA",
+    "destination": "NANTICOKE",
     "callsign": "VABZ"
   },
   "368298140": {
@@ -2798,5 +2798,13 @@
     "beam": 18,
     "destination": "US^0VBY>0V7K",
     "callsign": "WDL4426"
+  },
+  "316006868": {
+    "name": "KATHY MCKEIL",
+    "type": 70,
+    "length": 179,
+    "beam": 23,
+    "destination": "TOLEDO",
+    "callsign": "VDAN"
   }
 }
