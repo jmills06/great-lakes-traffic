@@ -2814,5 +2814,13 @@
     "beam": 5,
     "destination": "",
     "callsign": "EXCAL"
+  },
+  "366999283": {
+    "name": "TUG_RACINE",
+    "type": 31,
+    "length": 0,
+    "beam": 0,
+    "destination": "CHICAGO",
+    "callsign": "AESO"
   }
 }
