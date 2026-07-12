@@ -2734,5 +2734,13 @@
     "beam": 24,
     "destination": "USASF",
     "callsign": "V7A4378"
+  },
+  "338386019": {
+    "name": "VERITAS",
+    "type": 37,
+    "length": 20,
+    "beam": 6,
+    "destination": "CRUISING",
+    "callsign": ""
   }
 }
