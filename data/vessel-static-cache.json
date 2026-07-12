@@ -2806,5 +2806,13 @@
     "beam": 23,
     "destination": "TOLEDO",
     "callsign": "VDAN"
+  },
+  "338465871": {
+    "name": "EXCALIBUR",
+    "type": 99,
+    "length": 18,
+    "beam": 5,
+    "destination": "",
+    "callsign": "EXCAL"
   }
 }
