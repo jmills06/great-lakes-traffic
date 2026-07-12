@@ -2742,5 +2742,13 @@
     "beam": 6,
     "destination": "CRUISING",
     "callsign": ""
+  },
+  "367480250": {
+    "name": "OLIVE L. MOORE",
+    "type": 52,
+    "length": 222,
+    "beam": 22,
+    "destination": "RIVER ROUGE 67",
+    "callsign": "WDF7019"
   }
 }
