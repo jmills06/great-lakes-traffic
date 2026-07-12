@@ -2782,5 +2782,13 @@
     "beam": 5,
     "destination": "TORONTO",
     "callsign": "CFN4588"
+  },
+  "229656000": {
+    "name": "VERILA",
+    "type": 79,
+    "length": 190,
+    "beam": 24,
+    "destination": "CA HAM",
+    "callsign": "9HA5549"
   }
 }
