@@ -2790,5 +2790,13 @@
     "beam": 24,
     "destination": "CA HAM",
     "callsign": "9HA5549"
+  },
+  "368131310": {
+    "name": "MAGGIE RAE",
+    "type": 57,
+    "length": 129,
+    "beam": 18,
+    "destination": "US^0VBY>0V7K",
+    "callsign": "WDL4426"
   }
 }
