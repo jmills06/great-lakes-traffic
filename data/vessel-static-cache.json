@@ -2726,5 +2726,13 @@
     "beam": 24,
     "destination": "US CHI",
     "callsign": "9HA5548"
+  },
+  "538009145": {
+    "name": "FEDERAL FRANKLIN",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "USASF",
+    "callsign": "V7A4378"
   }
 }
