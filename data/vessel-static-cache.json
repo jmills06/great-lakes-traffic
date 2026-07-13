@@ -740,7 +740,7 @@
     "type": 70,
     "length": 222,
     "beam": 23,
-    "destination": "CEDARVILLE",
+    "destination": "DULUTH",
     "callsign": "WQZ7791"
   },
   "366848350": {
@@ -812,7 +812,7 @@
     "type": 70,
     "length": 140,
     "beam": 21,
-    "destination": "USROC",
+    "destination": "PICTON",
     "callsign": "VCAS"
   },
   "316052496": {
@@ -2894,5 +2894,13 @@
     "beam": 5,
     "destination": "",
     "callsign": "CG49424"
+  },
+  "369011000": {
+    "name": "CANIM",
+    "type": 37,
+    "length": 30,
+    "beam": 5,
+    "destination": "HARBOR CRUISE",
+    "callsign": "WDA4979"
   }
 }
