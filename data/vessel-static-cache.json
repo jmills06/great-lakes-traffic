@@ -2870,5 +2870,21 @@
     "beam": 4,
     "destination": "",
     "callsign": ""
+  },
+  "316023266": {
+    "name": "MU03",
+    "type": 0,
+    "length": 10,
+    "beam": 3,
+    "destination": "",
+    "callsign": "MU03"
+  },
+  "367753420": {
+    "name": "JOHN HENRY",
+    "type": 53,
+    "length": 26,
+    "beam": 8,
+    "destination": "H0LLAND",
+    "callsign": "WDI9913"
   }
 }
