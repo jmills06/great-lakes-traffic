@@ -2902,5 +2902,13 @@
     "beam": 5,
     "destination": "HARBOR CRUISE",
     "callsign": "WDA4979"
+  },
+  "367437730": {
+    "name": "JETEXPRESS 4",
+    "type": 0,
+    "length": 28,
+    "beam": 8,
+    "destination": "PORT CLINTON",
+    "callsign": "WDB6370"
   }
 }
