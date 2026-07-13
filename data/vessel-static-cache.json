@@ -2092,7 +2092,7 @@
     "type": 79,
     "length": 222,
     "beam": 24,
-    "destination": "PORT INLAND",
+    "destination": "MARQUETTE",
     "callsign": "WXY6216"
   },
   "366937490": {
@@ -2260,7 +2260,7 @@
     "type": 70,
     "length": 207,
     "beam": 24,
-    "destination": "CABMI",
+    "destination": "PORT INLAND",
     "callsign": "VEOV"
   },
   "367679760": {
