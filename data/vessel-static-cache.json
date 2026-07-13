@@ -68,7 +68,7 @@
     "type": 80,
     "length": 150,
     "beam": 23,
-    "destination": "CA OAK",
+    "destination": "CA SNI",
     "callsign": "SGTE"
   },
   "367745090": {
@@ -676,7 +676,7 @@
     "type": 70,
     "length": 198,
     "beam": 24,
-    "destination": "OSHAWA",
+    "destination": "ESSEXVILLE",
     "callsign": "VABC"
   },
   "316045069": {
