@@ -812,7 +812,7 @@
     "type": 70,
     "length": 140,
     "beam": 21,
-    "destination": "PICTON",
+    "destination": "TORONTO",
     "callsign": "VCAS"
   },
   "316052496": {
@@ -2918,5 +2918,21 @@
     "beam": 0,
     "destination": "",
     "callsign": "WAB8899"
+  },
+  "368091620": {
+    "name": "JONCAIRE II",
+    "type": 31,
+    "length": 14,
+    "beam": 6,
+    "destination": "BUFFALO RIVER",
+    "callsign": ""
+  },
+  "366864050": {
+    "name": "JETEXPRESS3",
+    "type": 0,
+    "length": 26,
+    "beam": 8,
+    "destination": "CEDAR POINT MARINA",
+    "callsign": "WDA9338"
   }
 }
