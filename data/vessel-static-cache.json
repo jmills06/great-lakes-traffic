@@ -996,7 +996,7 @@
     "type": 65,
     "length": 33,
     "beam": 9,
-    "destination": "BROCKVILLE",
+    "destination": "GANANOQUE",
     "callsign": "VX6095"
   },
   "316036229": {
@@ -2942,5 +2942,13 @@
     "beam": 4,
     "destination": "",
     "callsign": ""
+  },
+  "256242000": {
+    "name": "WICKO",
+    "type": 9,
+    "length": 190,
+    "beam": 22,
+    "destination": "US TOL",
+    "callsign": "9HA5759"
   }
 }
