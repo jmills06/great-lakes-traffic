@@ -612,7 +612,7 @@
     "type": 89,
     "length": 110,
     "beam": 18,
-    "destination": "CASNI",
+    "destination": "US OSW",
     "callsign": "PCCB"
   },
   "368211020": {
@@ -1564,7 +1564,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "CLARKSON",
+    "destination": "COLBORNE",
     "callsign": "VDWB"
   },
   "367599370": {
