@@ -156,7 +156,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "BAIE COMEAU",
+    "destination": "HAMILTON",
     "callsign": "XJBK"
   },
   "316048071": {
@@ -2846,5 +2846,13 @@
     "beam": 4,
     "destination": "",
     "callsign": ""
+  },
+  "316002280": {
+    "name": "ALGOMA CONVEYOR",
+    "type": 70,
+    "length": 226,
+    "beam": 24,
+    "destination": "GODERICH",
+    "callsign": "XJBT"
   }
 }
