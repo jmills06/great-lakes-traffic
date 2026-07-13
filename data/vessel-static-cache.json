@@ -2276,7 +2276,7 @@
     "type": 70,
     "length": 200,
     "beam": 24,
-    "destination": "USTOL",
+    "destination": "CATHU",
     "callsign": "V7RE9"
   },
   "368261230": {
@@ -2886,5 +2886,13 @@
     "beam": 8,
     "destination": "H0LLAND",
     "callsign": "WDI9913"
+  },
+  "369494424": {
+    "name": "CG49424",
+    "type": 51,
+    "length": 15,
+    "beam": 5,
+    "destination": "",
+    "callsign": "CG49424"
   }
 }
