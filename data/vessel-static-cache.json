@@ -971,7 +971,7 @@
     "name": "JOE DERBAS",
     "type": 57,
     "length": 87,
-    "beam": 12,
+    "beam": 22,
     "destination": "US^0TC6>0Z56",
     "callsign": "WDQ5745"
   },
@@ -1300,7 +1300,7 @@
     "type": 70,
     "length": 194,
     "beam": 21,
-    "destination": "CLEVELAND",
+    "destination": "THOROLD",
     "callsign": "VDBA"
   },
   "316001978": {
