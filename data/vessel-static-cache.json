@@ -844,7 +844,7 @@
     "type": 70,
     "length": 149,
     "beam": 23,
-    "destination": "THUNDERBAY",
+    "destination": "DETROIT",
     "callsign": "V2IC8"
   },
   "366893910": {
@@ -970,9 +970,9 @@
   "368437390": {
     "name": "JOE DERBAS",
     "type": 57,
-    "length": 87,
-    "beam": 22,
-    "destination": "US^0TC6>0Z56",
+    "length": 148,
+    "beam": 23,
+    "destination": "XX XXX>US^0Z56",
     "callsign": "WDQ5745"
   },
   "368185710": {
@@ -2684,7 +2684,7 @@
     "type": 79,
     "length": 138,
     "beam": 16,
-    "destination": "USDTT",
+    "destination": "USCHI",
     "callsign": "PBMD"
   },
   "338408848": {
