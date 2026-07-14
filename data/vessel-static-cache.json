@@ -2958,5 +2958,21 @@
     "beam": 10,
     "destination": "LEAMINGTON",
     "callsign": "VC4084"
+  },
+  "316048323": {
+    "name": "COLMBIA VII",
+    "type": 60,
+    "length": 21,
+    "beam": 19,
+    "destination": "",
+    "callsign": ""
+  },
+  "246771000": {
+    "name": "MUNTGRACHT",
+    "type": 70,
+    "length": 142,
+    "beam": 19,
+    "destination": "CA OSH",
+    "callsign": "PCJH"
   }
 }
