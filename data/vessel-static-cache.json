@@ -1052,7 +1052,7 @@
     "type": 52,
     "length": 159,
     "beam": 24,
-    "destination": "MONROE",
+    "destination": "MONTREAL 43N",
     "callsign": "CFG8081"
   },
   "538006469": {
@@ -2950,5 +2950,13 @@
     "beam": 22,
     "destination": "US TOL",
     "callsign": "9HA5759"
+  },
+  "316003124": {
+    "name": "PELEE ISLANDER",
+    "type": 60,
+    "length": 42,
+    "beam": 10,
+    "destination": "LEAMINGTON",
+    "callsign": "VC4084"
   }
 }
