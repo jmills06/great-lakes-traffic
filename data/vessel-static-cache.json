@@ -716,7 +716,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "TOLEDO",
+    "destination": "HAMILTON",
     "callsign": "VBAC"
   },
   "538007837": {
@@ -868,7 +868,7 @@
     "type": 69,
     "length": 92,
     "beam": 16,
-    "destination": "US MKE",
+    "destination": "US CHI",
     "callsign": "C6YZ8"
   },
   "316001844": {
