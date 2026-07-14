@@ -2990,5 +2990,13 @@
     "beam": 8,
     "destination": "LEMONT/MM300",
     "callsign": "WDJ8571"
+  },
+  "367487570": {
+    "name": "BRADSHAW MCKEE",
+    "type": 52,
+    "length": 164,
+    "beam": 16,
+    "destination": "CHARLEVOIX 74",
+    "callsign": "WDF7733"
   }
 }
