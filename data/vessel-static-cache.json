@@ -1796,7 +1796,7 @@
     "type": 31,
     "length": 36,
     "beam": 20,
-    "destination": "MONROE",
+    "destination": "CALUMET HBR",
     "callsign": "WBS5272"
   },
   "316048587": {
@@ -2974,5 +2974,13 @@
     "beam": 19,
     "destination": "CA OSH",
     "callsign": "PCJH"
+  },
+  "367050550": {
+    "name": "STEWART J CORT",
+    "type": 70,
+    "length": 305,
+    "beam": 32,
+    "destination": "SUPERIOR",
+    "callsign": "WDC6055"
   }
 }
