@@ -1436,7 +1436,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "MIDLAND",
+    "destination": "HAMILTON PIER 23",
     "callsign": "VGNB"
   },
   "538008902": {
@@ -3014,5 +3014,13 @@
     "beam": 3,
     "destination": "",
     "callsign": ""
+  },
+  "316023959": {
+    "name": "PRIDE",
+    "type": 52,
+    "length": 20,
+    "beam": 10,
+    "destination": "TUG-ASSIST",
+    "callsign": "CFN6705"
   }
 }
