@@ -876,7 +876,7 @@
     "type": 70,
     "length": 223,
     "beam": 24,
-    "destination": "THUNDER BAY",
+    "destination": "SOREL",
     "callsign": "VOSL"
   },
   "316048588": {
@@ -2012,7 +2012,7 @@
     "type": 70,
     "length": 123,
     "beam": 23,
-    "destination": "CLEVELAND",
+    "destination": "BATH,ON",
     "callsign": "CFA4550"
   },
   "366904910": {
