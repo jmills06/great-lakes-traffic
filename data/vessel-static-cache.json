@@ -3086,5 +3086,13 @@
     "beam": 0,
     "destination": "KINGSTON",
     "callsign": "VO6855"
+  },
+  "316041902": {
+    "name": "AMHERST ISLANDER II",
+    "type": 0,
+    "length": 72,
+    "beam": 20,
+    "destination": "STELLA",
+    "callsign": "CFA3205"
   }
 }
