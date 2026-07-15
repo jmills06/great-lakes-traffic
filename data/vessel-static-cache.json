@@ -3078,5 +3078,13 @@
     "beam": 9,
     "destination": "FOR ORDERS",
     "callsign": "WDD7202"
+  },
+  "316005167": {
+    "name": "KAWARTHA VOYAGEUR",
+    "type": 60,
+    "length": 0,
+    "beam": 0,
+    "destination": "KINGSTON",
+    "callsign": "VO6855"
   }
 }
