@@ -2809,9 +2809,9 @@
   },
   "338465871": {
     "name": "EXCALIBUR",
-    "type": 99,
+    "type": 37,
     "length": 18,
-    "beam": 5,
+    "beam": 6,
     "destination": "",
     "callsign": "EXCAL"
   },
