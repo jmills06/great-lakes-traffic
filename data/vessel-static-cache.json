@@ -492,7 +492,7 @@
     "type": 82,
     "length": 144,
     "beam": 23,
-    "destination": "NNR",
+    "destination": "CA NNR",
     "callsign": "VCZR"
   },
   "366938770": {
@@ -3054,5 +3054,13 @@
     "beam": 4,
     "destination": "",
     "callsign": ""
+  },
+  "316037746": {
+    "name": "NACC ARGONAUT",
+    "type": 70,
+    "length": 136,
+    "beam": 22,
+    "destination": "OSHAWA",
+    "callsign": "VDCY"
   }
 }
