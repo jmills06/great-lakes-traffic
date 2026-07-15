@@ -500,7 +500,7 @@
     "type": 70,
     "length": 215,
     "beam": 24,
-    "destination": "CLEVELAND",
+    "destination": "CEDARVILLE",
     "callsign": "WZD2465"
   },
   "367360260": {
@@ -3038,5 +3038,13 @@
     "beam": 7,
     "destination": "USLMJ<>USLMJ",
     "callsign": "WDF6698"
+  },
+  "368285150": {
+    "name": "LADY CAROLINE",
+    "type": 99,
+    "length": 29,
+    "beam": 10,
+    "destination": "CLEVELAND",
+    "callsign": "WDN4892"
   }
 }
