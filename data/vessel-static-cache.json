@@ -3102,5 +3102,13 @@
     "beam": 5,
     "destination": "US^03U4>?? ???",
     "callsign": ""
+  },
+  "368131290": {
+    "name": "BILLIE RUTH",
+    "type": 57,
+    "length": 130,
+    "beam": 17,
+    "destination": "US^0VBW>0T74",
+    "callsign": "WDL4425"
   }
 }
