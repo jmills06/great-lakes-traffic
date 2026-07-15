@@ -3070,5 +3070,13 @@
     "beam": 12,
     "destination": "SYC",
     "callsign": "WDQ7669"
+  },
+  "532040000": {
+    "name": "M/V GOODTIME I",
+    "type": 60,
+    "length": 2,
+    "beam": 9,
+    "destination": "FOR ORDERS",
+    "callsign": "WDD7202"
   }
 }
