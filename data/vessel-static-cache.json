@@ -3094,5 +3094,13 @@
     "beam": 20,
     "destination": "STELLA",
     "callsign": "CFA3205"
+  },
+  "316005375": {
+    "name": "CAPE PROVIDENCE",
+    "type": 51,
+    "length": 15,
+    "beam": 5,
+    "destination": "US^03U4>?? ???",
+    "callsign": ""
   }
 }
