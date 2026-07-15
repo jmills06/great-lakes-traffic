@@ -2204,7 +2204,7 @@
     "type": 89,
     "length": 144,
     "beam": 23,
-    "destination": "NANTICOKE",
+    "destination": "QUEBEC",
     "callsign": "VABZ"
   },
   "368298140": {
@@ -3062,5 +3062,13 @@
     "beam": 22,
     "destination": "OSHAWA",
     "callsign": "VDCY"
+  },
+  "368454950": {
+    "name": "PHANTOM",
+    "type": 37,
+    "length": 27,
+    "beam": 12,
+    "destination": "SYC",
+    "callsign": "WDQ7669"
   }
 }
