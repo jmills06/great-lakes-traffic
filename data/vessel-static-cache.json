@@ -196,7 +196,7 @@
     "type": 31,
     "length": 41,
     "beam": 15,
-    "destination": "FAIRPORT",
+    "destination": "DULUTH?",
     "callsign": "WDJ4194"
   },
   "316045082": {
@@ -1564,7 +1564,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "COLBORNE",
+    "destination": "CLARKSON",
     "callsign": "VDWB"
   },
   "367599370": {
