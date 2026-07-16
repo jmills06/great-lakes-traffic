@@ -3150,5 +3150,13 @@
     "beam": 6,
     "destination": "OSWEGO NY",
     "callsign": "WZ3377"
+  },
+  "212340000": {
+    "name": "MACCOA",
+    "type": 70,
+    "length": 185,
+    "beam": 24,
+    "destination": "CA HAM",
+    "callsign": "5BTE2"
   }
 }
