@@ -2100,7 +2100,7 @@
     "type": 52,
     "length": 178,
     "beam": 20,
-    "destination": "S.CHICAGO",
+    "destination": "DETROIT",
     "callsign": "WCV7620"
   },
   "367739710": {
@@ -3142,5 +3142,13 @@
     "beam": 9,
     "destination": "",
     "callsign": "VX8122"
+  },
+  "369970503": {
+    "name": "R/V KAHO",
+    "type": 30,
+    "length": 21,
+    "beam": 6,
+    "destination": "OSWEGO NY",
+    "callsign": "WZ3377"
   }
 }
