@@ -1500,7 +1500,7 @@
     "type": 52,
     "length": 262,
     "beam": 24,
-    "destination": "TOLEDO",
+    "destination": "CALCITE",
     "callsign": "WDH8351"
   },
   "367634750": {
@@ -1546,7 +1546,7 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 12,
+    "length": 10,
     "beam": 4,
     "destination": "",
     "callsign": ""
