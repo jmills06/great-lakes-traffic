@@ -3118,5 +3118,13 @@
     "beam": 10,
     "destination": "",
     "callsign": "VC 2691"
+  },
+  "368436110": {
+    "name": "VENTURE II",
+    "type": 37,
+    "length": 21,
+    "beam": 6,
+    "destination": "ALEXANDRIA BAY",
+    "callsign": "WDQ5603"
   }
 }
