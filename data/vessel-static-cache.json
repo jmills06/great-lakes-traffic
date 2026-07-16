@@ -2012,7 +2012,7 @@
     "type": 70,
     "length": 123,
     "beam": 23,
-    "destination": "BATH,ON",
+    "destination": "TORONTO,ON",
     "callsign": "CFA4550"
   },
   "366904910": {
@@ -2540,7 +2540,7 @@
     "type": 52,
     "length": 32,
     "beam": 9,
-    "destination": "PICTON",
+    "destination": "TORONTO",
     "callsign": "CFA3308"
   },
   "367787430": {
