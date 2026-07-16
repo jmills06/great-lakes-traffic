@@ -3110,5 +3110,13 @@
     "beam": 17,
     "destination": "US^0VBW>0T74",
     "callsign": "WDL4425"
+  },
+  "316045528": {
+    "name": "MV QUINTE LOYALIST",
+    "type": 65,
+    "length": 39,
+    "beam": 10,
+    "destination": "",
+    "callsign": "VC 2691"
   }
 }
