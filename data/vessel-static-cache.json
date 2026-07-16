@@ -428,7 +428,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "BURNS HARBOR",
+    "destination": "CLARKSON",
     "callsign": "VDAC"
   },
   "316003123": {
@@ -1876,7 +1876,7 @@
     "type": 52,
     "length": 152,
     "beam": 23,
-    "destination": "GREEN BAY",
+    "destination": "TOLEDO",
     "callsign": "WDK3153"
   },
   "367148850": {
