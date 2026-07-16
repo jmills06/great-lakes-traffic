@@ -377,7 +377,7 @@
   },
   "316048477": {
     "name": "ODYSSEY TORONTO",
-    "type": 99,
+    "type": 69,
     "length": 46,
     "beam": 11,
     "destination": "",
@@ -1193,10 +1193,10 @@
   },
   "316055401": {
     "name": "ALGOSOLIS",
-    "type": 82,
+    "type": 89,
     "length": 144,
     "beam": 23,
-    "destination": "DARTMOUTH NS",
+    "destination": "NANTICOKE",
     "callsign": "VECB"
   },
   "316009090": {
