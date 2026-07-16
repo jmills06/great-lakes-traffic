@@ -3158,5 +3158,13 @@
     "beam": 24,
     "destination": "CA HAM",
     "callsign": "5BTE2"
+  },
+  "367349940": {
+    "name": "GENERAL",
+    "type": 52,
+    "length": 21,
+    "beam": 6,
+    "destination": "NORTH MANITOU ISLAND",
+    "callsign": "WDE4192"
   }
 }
