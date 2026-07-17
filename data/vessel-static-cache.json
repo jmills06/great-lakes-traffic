@@ -916,7 +916,7 @@
     "type": 52,
     "length": 22,
     "beam": 8,
-    "destination": "HAMILTON",
+    "destination": "CA OSH",
     "callsign": "VC9004"
   },
   "316023341": {
@@ -3198,5 +3198,13 @@
     "beam": 24,
     "destination": "CA TOR",
     "callsign": "9HA5922"
+  },
+  "319917000": {
+    "name": "SPORT",
+    "type": 97,
+    "length": 45,
+    "beam": 9,
+    "destination": "USPET",
+    "callsign": "ZCTI8"
   }
 }
