@@ -3222,5 +3222,13 @@
     "beam": 9,
     "destination": "KINGSTON",
     "callsign": "ZGDQ9"
+  },
+  "316001434": {
+    "name": "LIMNOS",
+    "type": 51,
+    "length": 45,
+    "beam": 10,
+    "destination": "PRESCOTT",
+    "callsign": "CG2350"
   }
 }
