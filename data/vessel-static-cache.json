@@ -3230,5 +3230,13 @@
     "beam": 10,
     "destination": "PRESCOTT",
     "callsign": "CG2350"
+  },
+  "316014050": {
+    "name": "ALGOMA MARINER",
+    "type": 70,
+    "length": 225,
+    "beam": 23,
+    "destination": "BOWMANVILLE",
+    "callsign": "CFN5517"
   }
 }
