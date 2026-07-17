@@ -3214,5 +3214,13 @@
     "beam": 11,
     "destination": "",
     "callsign": ""
+  },
+  "319059500": {
+    "name": "BELLA VITA",
+    "type": 37,
+    "length": 46,
+    "beam": 9,
+    "destination": "KINGSTON",
+    "callsign": "ZGDQ9"
   }
 }
