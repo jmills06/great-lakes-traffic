@@ -28,7 +28,7 @@
     "type": 33,
     "length": 27,
     "beam": 6,
-    "destination": "SURVEY",
+    "destination": "SUPERIOR, WI",
     "callsign": "WDD6962"
   },
   "316023274": {
@@ -3182,5 +3182,13 @@
     "beam": 9,
     "destination": "DETROIT",
     "callsign": "WDL2418"
+  },
+  "316008225": {
+    "name": "SUSAN MICHELLE",
+    "type": 0,
+    "length": 23,
+    "beam": 6,
+    "destination": "PORT MAITLAND",
+    "callsign": ""
   }
 }
