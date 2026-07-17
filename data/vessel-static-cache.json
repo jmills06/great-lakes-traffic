@@ -68,7 +68,7 @@
     "type": 80,
     "length": 150,
     "beam": 23,
-    "destination": "CA SNI",
+    "destination": "CA MTR",
     "callsign": "SGTE"
   },
   "367745090": {
@@ -1004,7 +1004,7 @@
     "type": 70,
     "length": 207,
     "beam": 24,
-    "destination": "DETROIT ROUGE CH73",
+    "destination": "MARYSVILLE CH73",
     "callsign": "VDBY"
   },
   "316008224": {
