@@ -3166,5 +3166,13 @@
     "beam": 6,
     "destination": "NORTH MANITOU ISLAND",
     "callsign": "WDE4192"
+  },
+  "316014060": {
+    "name": "ALGOMA STRONGFIELD",
+    "type": 70,
+    "length": 223,
+    "beam": 24,
+    "destination": "BAIE COMEAU",
+    "callsign": "CFJ8305"
   }
 }
