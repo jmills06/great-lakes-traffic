@@ -268,7 +268,7 @@
     "type": 52,
     "length": 33,
     "beam": 10,
-    "destination": "MUSKEGON",
+    "destination": "BALTIMORE",
     "callsign": "WDL5580"
   },
   "367073840": {
@@ -1564,7 +1564,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "CLARKSON",
+    "destination": "COLBORNE",
     "callsign": "VDWB"
   },
   "367599370": {
