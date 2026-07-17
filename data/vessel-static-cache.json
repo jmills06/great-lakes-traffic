@@ -3206,5 +3206,13 @@
     "beam": 9,
     "destination": "USPET",
     "callsign": "ZCTI8"
+  },
+  "338926550": {
+    "name": "CG24320",
+    "type": 0,
+    "length": 11,
+    "beam": 11,
+    "destination": "",
+    "callsign": ""
   }
 }
