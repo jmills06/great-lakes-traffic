@@ -3254,5 +3254,13 @@
     "beam": 10,
     "destination": "LUDINGTON",
     "callsign": "WDH9998"
+  },
+  "212372000": {
+    "name": "BRANT",
+    "type": 70,
+    "length": 185,
+    "beam": 24,
+    "destination": "TORONTO",
+    "callsign": "5BBK2"
   }
 }
