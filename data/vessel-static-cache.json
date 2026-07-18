@@ -1380,7 +1380,7 @@
     "type": 52,
     "length": 26,
     "beam": 9,
-    "destination": "CA_TORONTO:",
+    "destination": "CA_HAMILTON",
     "callsign": ""
   },
   "367121040": {
@@ -1564,7 +1564,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "CLARKSON",
+    "destination": "HAMILTON",
     "callsign": "VDWB"
   },
   "367599370": {
@@ -2196,7 +2196,7 @@
     "type": 33,
     "length": 53,
     "beam": 12,
-    "destination": "CLEVELAND",
+    "destination": "MILWAUKEE",
     "callsign": "WA09082"
   },
   "316053441": {
