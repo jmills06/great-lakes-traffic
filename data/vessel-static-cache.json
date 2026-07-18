@@ -732,7 +732,7 @@
     "type": 70,
     "length": 146,
     "beam": 21,
-    "destination": "DETROIT",
+    "destination": "CA HAM",
     "callsign": "CFBC"
   },
   "366938710": {
@@ -1412,7 +1412,7 @@
     "type": 0,
     "length": 200,
     "beam": 24,
-    "destination": "USMKE",
+    "destination": "CASYQ",
     "callsign": "C6CR9"
   },
   "259144000": {
@@ -2060,7 +2060,7 @@
     "type": 31,
     "length": 150,
     "beam": 18,
-    "destination": "S CHICAGO",
+    "destination": "MARINETTE",
     "callsign": "WDM2009"
   },
   "367023080": {
