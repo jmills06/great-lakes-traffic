@@ -1120,12 +1120,12 @@
     "callsign": "VO7103"
   },
   "316045081": {
-    "name": "M V WILLIAM INGLIS",
+    "name": "WM INGLIS",
     "type": 60,
     "length": 0,
     "beam": 0,
     "destination": "",
-    "callsign": "VC 4159"
+    "callsign": "VC 4139"
   },
   "538004060": {
     "name": "FEDERAL KUSHIRO",
@@ -1356,7 +1356,7 @@
     "type": 80,
     "length": 157,
     "beam": 23,
-    "destination": "CAMNT->CASNI",
+    "destination": "CASNI->USPVD",
     "callsign": "V7A6477"
   },
   "538010777": {
