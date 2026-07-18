@@ -1668,7 +1668,7 @@
     "type": 80,
     "length": 149,
     "beam": 23,
-    "destination": "CA OAK",
+    "destination": "CA MTR",
     "callsign": "SBMI"
   },
   "316046932": {
@@ -3252,7 +3252,7 @@
     "type": 31,
     "length": 33,
     "beam": 10,
-    "destination": "SUPERIOR WI",
+    "destination": "LUDINGTON",
     "callsign": "WDH9998"
   }
 }
