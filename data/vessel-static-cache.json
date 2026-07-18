@@ -1546,7 +1546,7 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 10,
+    "length": 12,
     "beam": 4,
     "destination": "",
     "callsign": ""
@@ -3246,5 +3246,13 @@
     "beam": 3,
     "destination": "",
     "callsign": "WDP8862"
+  },
+  "367673690": {
+    "name": "CANDACE ELISE",
+    "type": 31,
+    "length": 33,
+    "beam": 10,
+    "destination": "SUPERIOR WI",
+    "callsign": "WDH9998"
   }
 }
