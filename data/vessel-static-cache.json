@@ -1796,7 +1796,7 @@
     "type": 31,
     "length": 36,
     "beam": 20,
-    "destination": "CALUMET HBR",
+    "destination": "IND HBR",
     "callsign": "WBS5272"
   },
   "316048587": {
@@ -2092,7 +2092,7 @@
     "type": 79,
     "length": 222,
     "beam": 24,
-    "destination": "MARQUETTE",
+    "destination": "INDIANA HARBOR",
     "callsign": "WXY6216"
   },
   "366937490": {
