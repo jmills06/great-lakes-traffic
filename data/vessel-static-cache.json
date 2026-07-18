@@ -3228,7 +3228,7 @@
     "type": 51,
     "length": 45,
     "beam": 10,
-    "destination": "PRESCOTT",
+    "destination": "ATON",
     "callsign": "CG2350"
   },
   "316014050": {
@@ -3238,5 +3238,13 @@
     "beam": 23,
     "destination": "BOWMANVILLE",
     "callsign": "CFN5517"
+  },
+  "368311450": {
+    "name": "MILLER TIME",
+    "type": 37,
+    "length": 13,
+    "beam": 3,
+    "destination": "",
+    "callsign": "WDP8862"
   }
 }
