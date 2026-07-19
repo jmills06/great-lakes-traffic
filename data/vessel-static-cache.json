@@ -924,7 +924,7 @@
     "type": 70,
     "length": 225,
     "beam": 25,
-    "destination": "TORONTO",
+    "destination": "PICTON",
     "callsign": "CFN6287"
   },
   "316025881": {
@@ -3286,5 +3286,13 @@
     "beam": 7,
     "destination": "",
     "callsign": "WDQ6417"
+  },
+  "338156541": {
+    "name": "QUALITY TIME",
+    "type": 37,
+    "length": 22,
+    "beam": 6,
+    "destination": "",
+    "callsign": ""
   }
 }
