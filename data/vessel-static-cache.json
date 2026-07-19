@@ -3262,5 +3262,13 @@
     "beam": 24,
     "destination": "TORONTO",
     "callsign": "5BBK2"
+  },
+  "538006778": {
+    "name": "FEDERAL HUNTER",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "MONTREAL",
+    "callsign": "V7RE7"
   }
 }
