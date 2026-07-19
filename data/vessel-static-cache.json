@@ -500,7 +500,7 @@
     "type": 70,
     "length": 215,
     "beam": 24,
-    "destination": "CEDARVILLE",
+    "destination": "DULUTH",
     "callsign": "WZD2465"
   },
   "367360260": {
@@ -788,7 +788,7 @@
     "type": 37,
     "length": 64,
     "beam": 12,
-    "destination": "US CHI",
+    "destination": "USCHI",
     "callsign": "ZGHE"
   },
   "367442380": {
@@ -3278,5 +3278,13 @@
     "beam": 4,
     "destination": "",
     "callsign": "CG45763"
+  },
+  "368443620": {
+    "name": "PUERTO RICO",
+    "type": 52,
+    "length": 20,
+    "beam": 7,
+    "destination": "",
+    "callsign": "WDQ6417"
   }
 }
