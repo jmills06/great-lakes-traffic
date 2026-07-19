@@ -636,7 +636,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "THUNDER BAY",
+    "destination": "MONTREAL",
     "callsign": "CFK5152"
   },
   "316040355": {
@@ -1924,7 +1924,7 @@
     "type": 70,
     "length": 246,
     "beam": 24,
-    "destination": "BURNS HARBOR",
+    "destination": "INDIANA HARBOR",
     "callsign": "WL3108"
   },
   "366904950": {
