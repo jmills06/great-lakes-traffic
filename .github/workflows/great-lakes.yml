@@ -1,5 +1,4 @@
 name: Great Lakes Vessel Collector
-
 # Repo path: .github/workflows/great-lakes.yml
 
 on:
@@ -30,7 +29,7 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install "websockets>=12"
+        run: pip install -U "websockets>=12" certifi
 
       - name: Collect vessel data
         env:
@@ -42,14 +41,11 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/great-lakes-vessels.json data/vessel-static-cache.json
-
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
-
           git commit -m "chore: refresh Great Lakes vessel data"
-
           # main may have moved while we were listening to AIS. Rebase our data
           # commit onto the latest main and retry, preferring our fresh files on
           # the rare data-vs-data conflict.
@@ -62,6 +58,5 @@ jobs:
             git pull --rebase --autostash -X theirs origin main || true
             sleep 3
           done
-
           echo "Could not push after 5 attempts." >&2
           exit 1
