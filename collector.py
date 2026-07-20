@@ -17,15 +17,16 @@ every few minutes. A single listen window rarely catches static for every
 vessel, so we accumulate it across runs in vessel-static-cache.json and join it
 onto whatever positions we see this run.
 """
-
 import asyncio
 import json
 import os
+import ssl
 import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
 
+import certifi
 import websockets
 
 # ---- tuning ----------------------------------------------------------------
@@ -40,6 +41,7 @@ MIN_LENGTH_M   = 75            # size floor: keeps real ships, drops harbor craf
 DATA_DIR   = Path("data")
 OUT_FILE   = DATA_DIR / "great-lakes-vessels.json"
 CACHE_FILE = DATA_DIR / "vessel-static-cache.json"
+
 API_KEY    = os.environ.get("AISSTREAM_API_KEY", "")
 
 # AIS ship-type codes that count as freighters.
@@ -99,14 +101,18 @@ async def collect():
         "BoundingBoxes": BBOX,
         "FilterMessageTypes": ["PositionReport", "ShipStaticData"],
     }
-
+    # Validate the server certificate against certifi's up-to-date CA bundle
+    # instead of whatever trust store the CI runner happens to ship. This is
+    # what fixes the "certificate verify failed: certificate has expired"
+    # handshake error when the runner's system roots are stale.
+    ssl_ctx = ssl.create_default_context(cafile=certifi.where())
     async with websockets.connect(
         "wss://stream.aisstream.io/v0/stream",
+        ssl=ssl_ctx,
         ping_interval=None, max_size=None
     ) as ws:
         await ws.send(json.dumps(sub))  # must arrive within 3s of connecting
         deadline = time.monotonic() + LISTEN_SECONDS
-
         while time.monotonic() < deadline:
             try:
                 raw = await asyncio.wait_for(
@@ -114,19 +120,16 @@ async def collect():
                 )
             except asyncio.TimeoutError:
                 break
-
             msg = json.loads(raw)
             if "error" in msg:
                 print("aisstream error:", msg["error"], file=sys.stderr)
                 break
-
             mtype = msg.get("MessageType")
             meta = msg.get("MetaData", {}) or {}
             mmsi = meta.get("MMSI")
             if mmsi is None:
                 continue
             mmsi = str(mmsi)
-
             if mtype == "PositionReport":
                 pr = msg["Message"]["PositionReport"]
                 hdg = pr.get("TrueHeading")
@@ -141,7 +144,6 @@ async def collect():
                     "name_meta": clean(meta.get("ShipName", "")),
                     "lastReport": parse_time(meta.get("time_utc")),
                 }
-
             elif mtype == "ShipStaticData":
                 sd = msg["Message"]["ShipStaticData"]
                 dim = sd.get("Dimension", {}) or {}
@@ -155,7 +157,6 @@ async def collect():
                     "destination": clean(sd.get("Destination", "")),
                     "callsign": clean(sd.get("CallSign", "")),
                 }
-
     return positions, statics
 
 
@@ -210,12 +211,17 @@ def build(positions, statics, cache):
 def main():
     if not API_KEY:
         sys.exit("AISSTREAM_API_KEY environment variable is not set")
-
     DATA_DIR.mkdir(exist_ok=True)
     cache = load_cache()
-    positions, statics = asyncio.run(collect())
+    # A transient TLS / network blip should not fail the whole run and skip the
+    # commit; exit cleanly and keep the previously committed data on the board.
+    # ssl.SSLCertVerificationError is a subclass of OSError, so it is covered.
+    try:
+        positions, statics = asyncio.run(collect())
+    except (OSError, websockets.WebSocketException) as e:
+        print(f"collection failed, keeping previous data: {e}", file=sys.stderr)
+        sys.exit(0)
     out, cache = build(positions, statics, cache)
-
     OUT_FILE.write_text(json.dumps(out, indent=2))
     CACHE_FILE.write_text(json.dumps(cache, indent=2))
     print(f"wrote {len(out['vessels'])} freighters; static cache holds {len(cache)}")
