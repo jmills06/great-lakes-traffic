@@ -1300,7 +1300,7 @@
     "type": 70,
     "length": 194,
     "beam": 21,
-    "destination": "JOHNSTOWN",
+    "destination": "HAMILTON",
     "callsign": "VDBA"
   },
   "316001978": {
@@ -3316,7 +3316,7 @@
     "type": 99,
     "length": 12,
     "beam": 6,
-    "destination": "PORT COLBORNE",
+    "destination": "KINGSTON",
     "callsign": "STALWAR"
   },
   "366876000": {
