@@ -188,7 +188,7 @@
     "type": 52,
     "length": 164,
     "beam": 23,
-    "destination": "DETROIT SMC ROUGE",
+    "destination": "BOWMANVILLE",
     "callsign": "CZ9891"
   },
   "338888000": {
@@ -868,7 +868,7 @@
     "type": 69,
     "length": 92,
     "beam": 16,
-    "destination": "US MKE",
+    "destination": "CA TOR",
     "callsign": "C6YZ8"
   },
   "316001844": {
@@ -964,7 +964,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "THUNDER BAY",
+    "destination": "BECANCOUR",
     "callsign": "VGFJ"
   },
   "368437390": {
@@ -1785,7 +1785,7 @@
   },
   "367116070": {
     "name": "FAIR LADY",
-    "type": 123,
+    "type": 60,
     "length": 22,
     "beam": 8,
     "destination": "CHICAGO IL",
@@ -3310,5 +3310,13 @@
     "beam": 6,
     "destination": "WELLAND",
     "callsign": ""
+  },
+  "316058792": {
+    "name": "STALWART",
+    "type": 99,
+    "length": 12,
+    "beam": 6,
+    "destination": "PORT COLBORNE",
+    "callsign": "STALWAR"
   }
 }
