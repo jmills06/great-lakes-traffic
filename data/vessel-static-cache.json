@@ -970,9 +970,9 @@
   "368437390": {
     "name": "JOE DERBAS",
     "type": 57,
-    "length": 148,
-    "beam": 11,
-    "destination": "XX XXX>US^0T7G",
+    "length": 87,
+    "beam": 12,
+    "destination": "US^0TU7>0RL7",
     "callsign": "WDQ5745"
   },
   "368185710": {
@@ -3318,5 +3318,13 @@
     "beam": 6,
     "destination": "PORT COLBORNE",
     "callsign": "STALWAR"
+  },
+  "366876000": {
+    "name": "CAPE HENRY",
+    "type": 57,
+    "length": 147,
+    "beam": 24,
+    "destination": "CA SNI",
+    "callsign": "WDK4595"
   }
 }
