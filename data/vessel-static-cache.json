@@ -2164,7 +2164,7 @@
     "type": 80,
     "length": 152,
     "beam": 22,
-    "destination": "HAMILTON",
+    "destination": "SARNIA",
     "callsign": "CFN5313"
   },
   "538003543": {
@@ -3366,5 +3366,13 @@
     "beam": 21,
     "destination": "GODERICH",
     "callsign": "V2BN8"
+  },
+  "368926108": {
+    "name": "TJ2903",
+    "type": 59,
+    "length": 9,
+    "beam": 3,
+    "destination": "OSWEGO, NY",
+    "callsign": "WTEE"
   }
 }
