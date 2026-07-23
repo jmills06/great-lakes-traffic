@@ -516,7 +516,7 @@
     "type": 80,
     "length": 140,
     "beam": 24,
-    "destination": "NANTICOKE",
+    "destination": "SARNIA",
     "callsign": "VAAT"
   },
   "367627830": {
@@ -2572,7 +2572,7 @@
     "type": 70,
     "length": 201,
     "beam": 21,
-    "destination": "INDIANA HBR,. IN",
+    "destination": "PORT DOLOMITE, MI",
     "callsign": "WC5932"
   },
   "367778090": {
@@ -3358,5 +3358,13 @@
     "beam": 24,
     "destination": "US POJ > US CHI",
     "callsign": "V7A4499"
+  },
+  "304746000": {
+    "name": "BBC PLATA",
+    "type": 70,
+    "length": 138,
+    "beam": 21,
+    "destination": "GODERICH",
+    "callsign": "V2BN8"
   }
 }
