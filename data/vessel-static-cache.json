@@ -812,7 +812,7 @@
     "type": 70,
     "length": 140,
     "beam": 21,
-    "destination": "ROCHESTER",
+    "destination": "WINDSOR",
     "callsign": "VCAS"
   },
   "316052496": {
@@ -1860,7 +1860,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "GARY CH 74",
+    "destination": "SUPERIOR CH 74",
     "callsign": "WXU3434"
   },
   "244060083": {
