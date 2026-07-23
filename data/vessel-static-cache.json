@@ -556,7 +556,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "IND HBR",
+    "destination": "TWO HARBORS",
     "callsign": "WDH7558"
   },
   "366936590": {
@@ -700,7 +700,7 @@
     "type": 80,
     "length": 144,
     "beam": 23,
-    "destination": "US MKE",
+    "destination": "US DET",
     "callsign": "CQ2445"
   },
   "367350620": {
@@ -2260,7 +2260,7 @@
     "type": 70,
     "length": 207,
     "beam": 24,
-    "destination": "MARYSVILLE",
+    "destination": "DETROIT",
     "callsign": "VEOV"
   },
   "367679760": {
