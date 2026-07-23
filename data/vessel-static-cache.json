@@ -868,7 +868,7 @@
     "type": 69,
     "length": 92,
     "beam": 16,
-    "destination": "CA TOR",
+    "destination": "CA PCO",
     "callsign": "C6YZ8"
   },
   "316001844": {
@@ -1220,7 +1220,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "HAMILTON",
+    "destination": "THUNDER BAY",
     "callsign": "XJBO"
   },
   "367576980": {
