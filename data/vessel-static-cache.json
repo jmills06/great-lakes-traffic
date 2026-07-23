@@ -180,7 +180,7 @@
     "type": 70,
     "length": 222,
     "beam": 24,
-    "destination": "SUPERIOR",
+    "destination": "HAMILTON",
     "callsign": "VGWM"
   },
   "316002063": {
@@ -345,7 +345,7 @@
   },
   "366825870": {
     "name": "BRAVO",
-    "type": 0,
+    "type": 60,
     "length": 15,
     "beam": 5,
     "destination": "",
@@ -836,7 +836,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "BURNS HARBOR",
+    "destination": "GARY",
     "callsign": "WYQ4356"
   },
   "305594000": {
@@ -852,7 +852,7 @@
     "type": 70,
     "length": 153,
     "beam": 20,
-    "destination": "ALPENA",
+    "destination": "DETROIT",
     "callsign": "WAV4647"
   },
   "316031354": {
@@ -1436,7 +1436,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "FAIRPORT",
+    "destination": "THUNDER BAY CH67",
     "callsign": "VGNB"
   },
   "538008902": {
