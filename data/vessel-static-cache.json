@@ -668,7 +668,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "DULUTH, MN",
+    "destination": "GARY, IN",
     "callsign": "WXN3191"
   },
   "316043882": {
@@ -2372,7 +2372,7 @@
     "type": 80,
     "length": 143,
     "beam": 23,
-    "destination": "CASEI",
+    "destination": "SARNIA GOV, DOCK",
     "callsign": "VCBA"
   },
   "368184750": {
