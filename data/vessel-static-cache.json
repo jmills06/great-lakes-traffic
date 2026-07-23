@@ -612,7 +612,7 @@
     "type": 89,
     "length": 110,
     "beam": 18,
-    "destination": "CASNI",
+    "destination": "USDET",
     "callsign": "PCCB"
   },
   "368211020": {
@@ -668,7 +668,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "TWO HARBORS,MN",
+    "destination": "DULUTH, MN",
     "callsign": "WXN3191"
   },
   "316043882": {
@@ -2099,8 +2099,8 @@
     "name": "GL OSTRANDER",
     "type": 52,
     "length": 178,
-    "beam": 20,
-    "destination": "ALPENA",
+    "beam": 21,
+    "destination": "WAUKEGAN",
     "callsign": "WCV7620"
   },
   "367739710": {
