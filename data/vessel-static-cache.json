@@ -2100,7 +2100,7 @@
     "type": 52,
     "length": 178,
     "beam": 21,
-    "destination": "WAUKEGAN",
+    "destination": "S.CHICAGO",
     "callsign": "WCV7620"
   },
   "367739710": {
@@ -2804,7 +2804,7 @@
     "type": 70,
     "length": 179,
     "beam": 23,
-    "destination": "SARNIA",
+    "destination": "BAIE COMEAU",
     "callsign": "VDAN"
   },
   "338465871": {
