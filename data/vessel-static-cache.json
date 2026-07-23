@@ -100,7 +100,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "SANDUSKY",
+    "destination": "HAMILTON",
     "callsign": "CFN6357"
   },
   "367164050": {
@@ -329,10 +329,10 @@
   },
   "316013215": {
     "name": "ALGOCANADA",
-    "type": 89,
+    "type": 81,
     "length": 130,
     "beam": 20,
-    "destination": "NANTICOKE",
+    "destination": "NANTICOKE IOL",
     "callsign": "CFN5193"
   },
   "366947250": {
@@ -924,7 +924,7 @@
     "type": 70,
     "length": 225,
     "beam": 25,
-    "destination": "PICTON",
+    "destination": "TORONTO",
     "callsign": "CFN6287"
   },
   "316025881": {
@@ -2260,7 +2260,7 @@
     "type": 70,
     "length": 207,
     "beam": 24,
-    "destination": "THESSALON",
+    "destination": "MARYSVILLE",
     "callsign": "VEOV"
   },
   "367679760": {
@@ -3293,6 +3293,22 @@
     "length": 22,
     "beam": 6,
     "destination": "",
+    "callsign": ""
+  },
+  "316040257": {
+    "name": "HINCH SPIRIT",
+    "type": 89,
+    "length": 137,
+    "beam": 20,
+    "destination": "CACSN",
+    "callsign": "VAHS"
+  },
+  "338441735": {
+    "name": "MISTY MAIDEN",
+    "type": 37,
+    "length": 19,
+    "beam": 6,
+    "destination": "WELLAND",
     "callsign": ""
   }
 }
