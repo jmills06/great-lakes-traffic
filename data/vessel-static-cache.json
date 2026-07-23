@@ -2036,7 +2036,7 @@
     "type": 70,
     "length": 192,
     "beam": 21,
-    "destination": "MARYSVILLE",
+    "destination": "CALCITE",
     "callsign": "WDE3569"
   },
   "369958000": {
@@ -2508,7 +2508,7 @@
     "type": 31,
     "length": 30,
     "beam": 9,
-    "destination": "CALUMET HARBOR",
+    "destination": "OAK CREEK",
     "callsign": "WDR2193"
   },
   "367107750": {
