@@ -260,7 +260,7 @@
     "type": 52,
     "length": 41,
     "beam": 11,
-    "destination": "CHARLEVOIX",
+    "destination": "CLEVELAND, OH",
     "callsign": "WDK8680"
   },
   "366988420": {
@@ -2260,7 +2260,7 @@
     "type": 70,
     "length": 207,
     "beam": 24,
-    "destination": "DETROIT",
+    "destination": "DETROIT CH 69",
     "callsign": "VEOV"
   },
   "367679760": {
