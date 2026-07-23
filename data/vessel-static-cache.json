@@ -732,7 +732,7 @@
     "type": 70,
     "length": 146,
     "beam": 21,
-    "destination": "CA HAM",
+    "destination": "USDET",
     "callsign": "CFBC"
   },
   "366938710": {
@@ -1100,7 +1100,7 @@
     "type": 70,
     "length": 192,
     "beam": 21,
-    "destination": "MARBLEHEAD CH 69",
+    "destination": "WINDSOR CH 69",
     "callsign": "CFN4934"
   },
   "367121010": {
@@ -1276,7 +1276,7 @@
     "type": 70,
     "length": 198,
     "beam": 24,
-    "destination": "HAMILTON",
+    "destination": "THUNDER BAY",
     "callsign": "VDAS"
   },
   "366912650": {
