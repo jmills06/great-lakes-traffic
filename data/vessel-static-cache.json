@@ -484,7 +484,7 @@
     "type": 70,
     "length": 304,
     "beam": 32,
-    "destination": "SUPERIOR",
+    "destination": "SUPERIOR WI",
     "callsign": "WDC6027"
   },
   "316015050": {
@@ -644,7 +644,7 @@
     "type": 70,
     "length": 140,
     "beam": 21,
-    "destination": "CATRR",
+    "destination": "CAHAM",
     "callsign": "VCBM"
   },
   "367521420": {
@@ -908,7 +908,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "HAMILTON",
+    "destination": "THUNDER BAY",
     "callsign": "CFK9796"
   },
   "316005239": {
@@ -1120,12 +1120,12 @@
     "callsign": "VO7103"
   },
   "316045081": {
-    "name": "M V WILLIAM INGLIS",
+    "name": "WM INGLIS",
     "type": 60,
     "length": 0,
     "beam": 0,
     "destination": "",
-    "callsign": "VC 4159"
+    "callsign": "VC 4139"
   },
   "538004060": {
     "name": "FEDERAL KUSHIRO",
@@ -1172,7 +1172,7 @@
     "type": 70,
     "length": 200,
     "beam": 24,
-    "destination": "CATHU",
+    "destination": "CAMTR",
     "callsign": "V7NK7"
   },
   "316023269": {
@@ -2572,7 +2572,7 @@
     "type": 70,
     "length": 201,
     "beam": 21,
-    "destination": "MARQUETTE",
+    "destination": "INDIANA HBR,. IN",
     "callsign": "WC5932"
   },
   "367778090": {
@@ -2972,7 +2972,7 @@
     "type": 70,
     "length": 142,
     "beam": 19,
-    "destination": "CA HAM",
+    "destination": "US TOL",
     "callsign": "PCJH"
   },
   "367050550": {
@@ -3220,7 +3220,7 @@
     "type": 37,
     "length": 46,
     "beam": 9,
-    "destination": "BUFFALO",
+    "destination": "CLEVELAND",
     "callsign": "ZGDQ9"
   },
   "316001434": {
@@ -3326,5 +3326,21 @@
     "beam": 24,
     "destination": "CA SNI",
     "callsign": "WDK4595"
+  },
+  "316013209": {
+    "name": "ALGONOVA",
+    "type": 80,
+    "length": 130,
+    "beam": 20,
+    "destination": "SARNIA",
+    "callsign": "CFN5191"
+  },
+  "246215000": {
+    "name": "BEAUTRITON",
+    "type": 70,
+    "length": 118,
+    "beam": 16,
+    "destination": "CAHAM",
+    "callsign": "PHQC"
   }
 }
