@@ -852,7 +852,7 @@
     "type": 70,
     "length": 153,
     "beam": 20,
-    "destination": "DETROIT",
+    "destination": "ALPENA",
     "callsign": "WAV4647"
   },
   "316031354": {
@@ -3350,5 +3350,13 @@
     "beam": 24,
     "destination": "CA HAM",
     "callsign": "V2BN9"
+  },
+  "538009245": {
+    "name": "FEDERAL FRASER",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "US POJ > US CHI",
+    "callsign": "V7A4499"
   }
 }
