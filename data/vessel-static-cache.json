@@ -700,7 +700,7 @@
     "type": 80,
     "length": 144,
     "beam": 23,
-    "destination": "US TOL",
+    "destination": "US MKE",
     "callsign": "CQ2445"
   },
   "367350620": {
@@ -2684,7 +2684,7 @@
     "type": 79,
     "length": 138,
     "beam": 16,
-    "destination": "USCHI",
+    "destination": "USMKE",
     "callsign": "PBMD"
   },
   "338408848": {
