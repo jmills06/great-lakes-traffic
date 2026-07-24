@@ -732,7 +732,7 @@
     "type": 70,
     "length": 146,
     "beam": 21,
-    "destination": "USDET",
+    "destination": "CAHAM",
     "callsign": "CFBC"
   },
   "366938710": {
@@ -916,7 +916,7 @@
     "type": 52,
     "length": 22,
     "beam": 8,
-    "destination": "CA OSH",
+    "destination": "HAMILTON",
     "callsign": "VC9004"
   },
   "316023341": {
@@ -2185,10 +2185,10 @@
   },
   "316001637": {
     "name": "CSL LAURENTIEN",
-    "type": 79,
+    "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "TWO HARBORS",
+    "destination": "NANTICOKE",
     "callsign": "VCJW"
   },
   "338021074": {
