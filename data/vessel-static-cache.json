@@ -100,7 +100,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "HAMILTON",
+    "destination": "WHARF 16",
     "callsign": "CFN6357"
   },
   "367164050": {
@@ -812,7 +812,7 @@
     "type": 70,
     "length": 140,
     "beam": 21,
-    "destination": "WINDSOR",
+    "destination": "PICTON",
     "callsign": "VCAS"
   },
   "316052496": {
