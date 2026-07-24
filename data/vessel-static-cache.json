@@ -540,7 +540,7 @@
     "type": 52,
     "length": 20,
     "beam": 5,
-    "destination": "PORT WELLER",
+    "destination": "PORT COLBORNE",
     "callsign": "CFN5015"
   },
   "304604000": {
@@ -1120,12 +1120,12 @@
     "callsign": "VO7103"
   },
   "316045081": {
-    "name": "M V WILLIAM INGLIS",
+    "name": "WM INGLIS",
     "type": 60,
     "length": 0,
     "beam": 0,
     "destination": "",
-    "callsign": "VC 4159"
+    "callsign": "VC 4139"
   },
   "538004060": {
     "name": "FEDERAL KUSHIRO",
@@ -3356,7 +3356,7 @@
     "type": 70,
     "length": 200,
     "beam": 24,
-    "destination": "US POJ > US CHI",
+    "destination": "US CHI > US MKE",
     "callsign": "V7A4499"
   },
   "304746000": {
