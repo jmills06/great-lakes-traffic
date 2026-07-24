@@ -500,7 +500,7 @@
     "type": 70,
     "length": 215,
     "beam": 24,
-    "destination": "DULUTH",
+    "destination": "MISTERSKI",
     "callsign": "WZD2465"
   },
   "367360260": {
@@ -1546,7 +1546,7 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 12,
+    "length": 10,
     "beam": 4,
     "destination": "",
     "callsign": ""
