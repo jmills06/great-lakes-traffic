@@ -3414,5 +3414,13 @@
     "beam": 24,
     "destination": "CA HAM",
     "callsign": "C6YJ3"
+  },
+  "338926639": {
+    "name": "CG27119",
+    "type": 51,
+    "length": 8,
+    "beam": 3,
+    "destination": "",
+    "callsign": ""
   }
 }
