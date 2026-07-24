@@ -1524,7 +1524,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "MONTREAL",
+    "destination": "THUNDER BAY",
     "callsign": "CFK5151"
   },
   "367111050": {
@@ -2204,7 +2204,7 @@
     "type": 89,
     "length": 144,
     "beam": 23,
-    "destination": "QUEBEC",
+    "destination": "SARNIA",
     "callsign": "VABZ"
   },
   "368298140": {
