@@ -3374,5 +3374,13 @@
     "beam": 3,
     "destination": "OSWEGO, NY",
     "callsign": "WTEE"
+  },
+  "316001882": {
+    "name": "ECOSSE",
+    "type": 31,
+    "length": 24,
+    "beam": 8,
+    "destination": "PORT WELLER",
+    "callsign": "CFN5012"
   }
 }
