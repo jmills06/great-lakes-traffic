@@ -3406,5 +3406,13 @@
     "beam": 24,
     "destination": "CATHU",
     "callsign": "V7EO6"
+  },
+  "311033500": {
+    "name": "LUBIE",
+    "type": 79,
+    "length": 190,
+    "beam": 24,
+    "destination": "CA HAM",
+    "callsign": "C6YJ3"
   }
 }
