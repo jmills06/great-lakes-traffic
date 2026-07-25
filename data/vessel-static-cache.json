@@ -180,7 +180,7 @@
     "type": 70,
     "length": 222,
     "beam": 24,
-    "destination": "PORT WELLER",
+    "destination": "HAMILTON",
     "callsign": "VGWM"
   },
   "316002063": {
@@ -1220,7 +1220,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "THUNDER BAY",
+    "destination": "BAIE COMEAU",
     "callsign": "XJBO"
   },
   "367576980": {
