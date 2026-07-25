@@ -3446,5 +3446,13 @@
     "beam": 6,
     "destination": "",
     "callsign": "WDL5535"
+  },
+  "316001879": {
+    "name": "ASI CLIPPER",
+    "type": 33,
+    "length": 22,
+    "beam": 7,
+    "destination": "PORT WELLER",
+    "callsign": ""
   }
 }
