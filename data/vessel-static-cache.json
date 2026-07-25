@@ -3454,5 +3454,21 @@
     "beam": 7,
     "destination": "PORT WELLER",
     "callsign": ""
+  },
+  "316011233": {
+    "name": "MVCHIPPEWA,III",
+    "type": 60,
+    "length": 18,
+    "beam": 5,
+    "destination": "PORT WELLER",
+    "callsign": "CFN4938"
+  },
+  "368273280": {
+    "name": "DONALD J SARTER",
+    "type": 31,
+    "length": 27,
+    "beam": 9,
+    "destination": "CHICAGO",
+    "callsign": "WDN3611"
   }
 }
