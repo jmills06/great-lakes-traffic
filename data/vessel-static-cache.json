@@ -1460,7 +1460,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "SUPERIOR WI",
+    "destination": "QUEBEC CITY",
     "callsign": "VCKQ"
   },
   "368251670": {
@@ -2410,8 +2410,8 @@
   "367041840": {
     "name": "KATHY LYNN",
     "type": 57,
-    "length": 81,
-    "beam": 26,
+    "length": 68,
+    "beam": 14,
     "destination": "BUFFALO",
     "callsign": "WAS4159"
   },
