@@ -3470,5 +3470,13 @@
     "beam": 9,
     "destination": "CHICAGO",
     "callsign": "WDN3611"
+  },
+  "249086000": {
+    "name": "SCOT BREMEN",
+    "type": 89,
+    "length": 117,
+    "beam": 18,
+    "destination": "CAHAM",
+    "callsign": "9HA4091"
   }
 }
