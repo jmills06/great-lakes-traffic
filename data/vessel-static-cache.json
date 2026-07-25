@@ -3438,5 +3438,13 @@
     "beam": 0,
     "destination": "CG CITY USA",
     "callsign": "NBGB"
+  },
+  "368142030": {
+    "name": "TALISMAN",
+    "type": 49,
+    "length": 16,
+    "beam": 6,
+    "destination": "",
+    "callsign": "WDL5535"
   }
 }
