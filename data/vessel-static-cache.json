@@ -233,10 +233,10 @@
   },
   "316049426": {
     "name": "YANKEE LADY 3",
-    "type": 60,
+    "type": 65,
     "length": 35,
     "beam": 8,
-    "destination": "",
+    "destination": "TORONTO HARBOUR",
     "callsign": ""
   },
   "367398450": {
@@ -3478,5 +3478,13 @@
     "beam": 18,
     "destination": "CAHAM",
     "callsign": "9HA4091"
+  },
+  "304489000": {
+    "name": "REDHEAD",
+    "type": 70,
+    "length": 190,
+    "beam": 24,
+    "destination": "US DDT",
+    "callsign": "V2QU3"
   }
 }
