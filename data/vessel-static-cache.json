@@ -1900,7 +1900,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "TWO HARBORS",
+    "destination": "DULUTH",
     "callsign": "WYP8657"
   },
   "316048758": {
@@ -2020,7 +2020,7 @@
     "type": 70,
     "length": 228,
     "beam": 21,
-    "destination": "CLEVELAND",
+    "destination": "DETROIT - ZUG IS.",
     "callsign": "WCF3012"
   },
   "366983440": {
@@ -2529,9 +2529,9 @@
   },
   "368405080": {
     "name": "ROBIN K CHANDA",
-    "type": 57,
-    "length": 186,
-    "beam": 22,
+    "type": 52,
+    "length": 34,
+    "beam": 10,
     "destination": "US^0V9C>114U",
     "callsign": "WDQ2141"
   },
