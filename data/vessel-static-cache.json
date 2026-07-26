@@ -1396,7 +1396,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "JOHNSTOWN",
+    "destination": "THUNDER BAY",
     "callsign": "VBCD"
   },
   "367688370": {
@@ -2274,7 +2274,7 @@
   "538006779": {
     "name": "FEDERAL HUDSON",
     "type": 70,
-    "length": 200,
+    "length": 171,
     "beam": 24,
     "destination": "USDET",
     "callsign": "V7RE9"
