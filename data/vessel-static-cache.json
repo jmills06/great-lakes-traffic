@@ -332,7 +332,7 @@
     "type": 81,
     "length": 130,
     "beam": 20,
-    "destination": "SARNIA IOL",
+    "destination": "SSM",
     "callsign": "CFN5193"
   },
   "366947250": {
@@ -948,7 +948,7 @@
     "type": 70,
     "length": 38,
     "beam": 13,
-    "destination": "ROUGE",
+    "destination": "ALPENA",
     "callsign": "WDG2047"
   },
   "316004579": {
