@@ -1564,7 +1564,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "DETROIT 7A",
+    "destination": "COLBORNE",
     "callsign": "VDWB"
   },
   "367599370": {
@@ -2004,7 +2004,7 @@
     "type": 31,
     "length": 30,
     "beam": 10,
-    "destination": "MARATHON FORT ST",
+    "destination": "HAMILTON",
     "callsign": "WDJ6009"
   },
   "316041965": {
