@@ -3494,5 +3494,13 @@
     "beam": 6,
     "destination": "PORT WELLER",
     "callsign": ""
+  },
+  "235094625": {
+    "name": "VECTIS PRIDE",
+    "type": 70,
+    "length": 124,
+    "beam": 17,
+    "destination": "CA HAM",
+    "callsign": "2FVR8"
   }
 }
