@@ -2260,7 +2260,7 @@
     "type": 70,
     "length": 207,
     "beam": 24,
-    "destination": "DETROIT CH 69",
+    "destination": "SARNIA",
     "callsign": "VEOV"
   },
   "367679760": {
@@ -2484,7 +2484,7 @@
     "type": 33,
     "length": 51,
     "beam": 10,
-    "destination": "DREDGING GROUNDS",
+    "destination": "ERIE,PA",
     "callsign": "WDE4111"
   },
   "368356250": {
