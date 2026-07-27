@@ -1492,7 +1492,7 @@
     "type": 70,
     "length": 140,
     "beam": 21,
-    "destination": "CAWIND",
+    "destination": "CATHU",
     "callsign": "XJBZ"
   },
   "338866000": {
@@ -2684,7 +2684,7 @@
     "type": 79,
     "length": 138,
     "beam": 16,
-    "destination": "USMKE",
+    "destination": "UKELL",
     "callsign": "PBMD"
   },
   "338408848": {
