@@ -924,7 +924,7 @@
     "type": 70,
     "length": 225,
     "beam": 25,
-    "destination": "TORONTO",
+    "destination": "PICTON",
     "callsign": "CFN6287"
   },
   "316025881": {
@@ -1276,7 +1276,7 @@
     "type": 70,
     "length": 198,
     "beam": 24,
-    "destination": "SUPERIOR",
+    "destination": "THUNDER BAY",
     "callsign": "VDAS"
   },
   "366912650": {
