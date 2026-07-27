@@ -68,7 +68,7 @@
     "type": 80,
     "length": 150,
     "beam": 23,
-    "destination": "CA MTR",
+    "destination": "CA SAR",
     "callsign": "SGTE"
   },
   "367745090": {
@@ -2332,7 +2332,7 @@
     "type": 70,
     "length": 193,
     "beam": 21,
-    "destination": "WAUKEGAN",
+    "destination": "DET ROUGE MC1",
     "callsign": "WZC7602"
   },
   "338425976": {
