@@ -3518,5 +3518,13 @@
     "beam": 20,
     "destination": "WOLFE ISLAND ON",
     "callsign": "VA3418"
+  },
+  "257037270": {
+    "name": "EK-STREAM",
+    "type": 89,
+    "length": 154,
+    "beam": 24,
+    "destination": "CACSN",
+    "callsign": "LAEL8"
   }
 }
