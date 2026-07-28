@@ -700,7 +700,7 @@
     "type": 80,
     "length": 144,
     "beam": 23,
-    "destination": "US MKE",
+    "destination": "CA MTR",
     "callsign": "CQ2445"
   },
   "367350620": {
@@ -1972,7 +1972,7 @@
     "type": 60,
     "length": 204,
     "beam": 24,
-    "destination": "CATHU",
+    "destination": "SILVER ISLET",
     "callsign": "LAGY8"
   },
   "366936810": {
