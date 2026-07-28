@@ -3510,5 +3510,13 @@
     "beam": 6,
     "destination": "CALUMET HBR IL.",
     "callsign": "AEMZ"
+  },
+  "316013007": {
+    "name": "WOLFE ISLANDER III",
+    "type": 60,
+    "length": 120,
+    "beam": 20,
+    "destination": "WOLFE ISLAND ON",
+    "callsign": "VA3418"
   }
 }
