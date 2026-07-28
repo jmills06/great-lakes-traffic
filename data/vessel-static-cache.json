@@ -3526,5 +3526,13 @@
     "beam": 24,
     "destination": "CACSN",
     "callsign": "LAEL8"
+  },
+  "338926146": {
+    "name": "CG26146",
+    "type": 51,
+    "length": 7,
+    "beam": 3,
+    "destination": "",
+    "callsign": "CG26146"
   }
 }
