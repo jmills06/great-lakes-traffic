@@ -3566,5 +3566,13 @@
     "beam": 6,
     "destination": "GRAND MARAIS",
     "callsign": "WRC6136"
+  },
+  "255915811": {
+    "name": "POLSTEAM INSKO",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "CA WIND",
+    "callsign": "CQ2269"
   }
 }
