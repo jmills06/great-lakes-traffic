@@ -3558,5 +3558,13 @@
     "beam": 23,
     "destination": "CAMTR         >CASNI",
     "callsign": "9HA2925"
+  },
+  "338027928": {
+    "name": "NORTHLANDER",
+    "type": 37,
+    "length": 24,
+    "beam": 6,
+    "destination": "GRAND MARAIS",
+    "callsign": "WRC6136"
   }
 }
