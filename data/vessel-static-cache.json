@@ -1476,7 +1476,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "WINDSOR",
+    "destination": "CHICAGO",
     "callsign": "VCGJ"
   },
   "366930730": {
@@ -2012,7 +2012,7 @@
     "type": 70,
     "length": 123,
     "beam": 23,
-    "destination": "BATH,ON",
+    "destination": "OSWEGO",
     "callsign": "CFA4550"
   },
   "366904910": {
