@@ -1,25 +1,11 @@
 {
-  "updated": "2026-07-30T18:46:28Z",
+  "updated": "2026-07-30T19:01:41Z",
   "vessels": [
-    {
-      "mmsi": 366971370,
-      "name": "EDWIN H. GOTT",
-      "type": 70,
-      "lat": 46.9293,
-      "lon": -91.5396,
-      "sog": 0.7,
-      "cog": 105,
-      "heading": 274,
-      "length": 305,
-      "beam": 32,
-      "destination": "NANTICOKE",
-      "lastReport": "2026-07-30T18:45:43Z"
-    },
     {
       "mmsi": 366971360,
       "name": "JOHN G MUNSON",
       "type": 70,
-      "lat": 46.73582,
+      "lat": 46.73584,
       "lon": -92.12263,
       "sog": 0,
       "cog": 177,
@@ -27,7 +13,7 @@
       "length": 234,
       "beam": 22,
       "destination": "SUPERIOR",
-      "lastReport": "2026-07-30T18:46:20Z"
+      "lastReport": "2026-07-30T19:01:31Z"
     },
     {
       "mmsi": 316053597,
@@ -35,83 +21,83 @@
       "type": 70,
       "lat": 43.15603,
       "lon": -79.19363,
-      "sog": 0.1,
-      "cog": 319,
+      "sog": 0,
+      "cog": 291,
       "heading": 175,
       "length": 226,
       "beam": 24,
       "destination": "NANTICOKE",
-      "lastReport": "2026-07-30T18:46:10Z"
-    },
-    {
-      "mmsi": 316023341,
-      "name": "WHITEFISH BAY",
-      "type": 70,
-      "lat": 43.96151,
-      "lon": -76.7789,
-      "sog": 11.5,
-      "cog": 350,
-      "heading": 346,
-      "length": 225,
-      "beam": 25,
-      "destination": "PICTON",
-      "lastReport": "2026-07-30T18:46:03Z"
-    },
-    {
-      "mmsi": 316009457,
-      "name": "KAMINISTIQUA",
-      "type": 70,
-      "lat": 43.09681,
-      "lon": -79.20648,
-      "sog": 5.8,
-      "cog": 203,
-      "heading": 200,
-      "length": 223,
-      "beam": 23,
-      "destination": "THUNDER BAY",
-      "lastReport": "2026-07-30T18:46:19Z"
+      "lastReport": "2026-07-30T19:01:20Z"
     },
     {
       "mmsi": 316001844,
       "name": "SPRUCEGLEN",
       "type": 70,
-      "lat": 42.96003,
-      "lon": -79.22794,
-      "sog": 6.1,
-      "cog": 16,
-      "heading": 16,
+      "lat": 42.98423,
+      "lon": -79.21852,
+      "sog": 6.3,
+      "cog": 13,
+      "heading": 11,
       "length": 223,
       "beam": 24,
       "destination": "THUNDER BAY",
-      "lastReport": "2026-07-30T18:45:43Z"
+      "lastReport": "2026-07-30T19:00:33Z"
     },
     {
       "mmsi": 255915809,
       "name": "POLSTEAM OKRA",
       "type": 70,
-      "lat": 43.24104,
-      "lon": -79.21673,
-      "sog": 5.2,
-      "cog": 183,
-      "heading": 183,
+      "lat": 43.2251,
+      "lon": -79.21656,
+      "sog": 2.6,
+      "cog": 167,
+      "heading": 165,
       "length": 200,
       "beam": 24,
       "destination": "USCLE",
-      "lastReport": "2026-07-30T18:45:15Z"
+      "lastReport": "2026-07-30T19:01:34Z"
+    },
+    {
+      "mmsi": 255915987,
+      "name": "STENHEIM",
+      "type": 80,
+      "lat": 43.74527,
+      "lon": -77.12068,
+      "sog": 12,
+      "cog": 72,
+      "heading": 74,
+      "length": 144,
+      "beam": 23,
+      "destination": "CA MTR",
+      "lastReport": "2026-07-30T19:01:04Z"
+    },
+    {
+      "mmsi": 244014000,
+      "name": "HEERENGRACHT",
+      "type": 70,
+      "lat": 42.46788,
+      "lon": -82.74871,
+      "sog": 12.7,
+      "cog": 220,
+      "heading": 221,
+      "length": 138,
+      "beam": 21,
+      "destination": "CAMTR",
+      "lastReport": "2026-07-30T19:01:12Z"
     },
     {
       "mmsi": 235094625,
       "name": "VECTIS PRIDE",
       "type": 70,
-      "lat": 43.27136,
+      "lat": 43.27137,
       "lon": -79.84142,
       "sog": 0,
       "cog": 233,
-      "heading": 18,
+      "heading": 17,
       "length": 124,
       "beam": 17,
       "destination": "CA HAM",
-      "lastReport": "2026-07-30T18:46:07Z"
+      "lastReport": "2026-07-30T19:01:12Z"
     }
   ]
 }
