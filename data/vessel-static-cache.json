@@ -3598,5 +3598,13 @@
     "beam": 5,
     "destination": "",
     "callsign": ""
+  },
+  "304610000": {
+    "name": "BBC DUBAI",
+    "type": 70,
+    "length": 149,
+    "beam": 23,
+    "destination": "USBNB",
+    "callsign": "V2HW6"
   }
 }
