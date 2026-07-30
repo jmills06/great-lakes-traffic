@@ -636,7 +636,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "THUNDER BAY",
+    "destination": "MONTREAL",
     "callsign": "CFK5152"
   },
   "316040355": {
@@ -2140,7 +2140,7 @@
     "type": 31,
     "length": 15,
     "beam": 8,
-    "destination": "WAUKEGAN",
+    "destination": "EVANSTON",
     "callsign": "WDE3772"
   },
   "368183000": {
@@ -3300,7 +3300,7 @@
     "type": 89,
     "length": 137,
     "beam": 20,
-    "destination": "CAHAM",
+    "destination": "CACSN",
     "callsign": "VAHS"
   },
   "338441735": {
