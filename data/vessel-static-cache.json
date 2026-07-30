@@ -3590,5 +3590,13 @@
     "beam": 24,
     "destination": "USCLE",
     "callsign": "CQ2267"
+  },
+  "338495664": {
+    "name": "SEA WHAT HAPPENS",
+    "type": 0,
+    "length": 16,
+    "beam": 5,
+    "destination": "",
+    "callsign": ""
   }
 }
