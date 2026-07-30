@@ -3582,5 +3582,13 @@
     "beam": 6,
     "destination": "CLEVELAND",
     "callsign": "WDH7590"
+  },
+  "255915809": {
+    "name": "POLSTEAM OKRA",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "USCLE",
+    "callsign": "CQ2267"
   }
 }
