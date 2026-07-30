@@ -500,7 +500,7 @@
     "type": 70,
     "length": 215,
     "beam": 24,
-    "destination": "MISTERSKI",
+    "destination": "DULUTH",
     "callsign": "WZD2465"
   },
   "367360260": {
@@ -1068,7 +1068,7 @@
     "type": 36,
     "length": 61,
     "beam": 9,
-    "destination": "PORT_WELLER  _",
+    "destination": "PORT COLBORNE",
     "callsign": "VCTG"
   },
   "367495590": {
