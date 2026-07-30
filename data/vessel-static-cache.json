@@ -644,7 +644,7 @@
     "type": 70,
     "length": 140,
     "beam": 21,
-    "destination": "USTOL",
+    "destination": "CAGAE",
     "callsign": "VCBM"
   },
   "367521420": {
@@ -3524,7 +3524,7 @@
     "type": 89,
     "length": 154,
     "beam": 24,
-    "destination": "CACSN",
+    "destination": "CAPWE",
     "callsign": "LAEL8"
   },
   "338926146": {
