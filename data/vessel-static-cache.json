@@ -676,7 +676,7 @@
     "type": 70,
     "length": 198,
     "beam": 24,
-    "destination": "GODERICH",
+    "destination": "ROUGE MOTOR CITY 1",
     "callsign": "VABC"
   },
   "316045069": {
@@ -3614,5 +3614,13 @@
     "beam": 6,
     "destination": "EDGEWATER MD",
     "callsign": "CFN216"
+  },
+  "316003285": {
+    "name": "CAPE HEARNE",
+    "type": 51,
+    "length": 14,
+    "beam": 4,
+    "destination": "ATON",
+    "callsign": "CG8078"
   }
 }
