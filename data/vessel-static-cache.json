@@ -876,7 +876,7 @@
     "type": 70,
     "length": 223,
     "beam": 24,
-    "destination": "THUNDER BAY",
+    "destination": "SOREL",
     "callsign": "VOSL"
   },
   "316048588": {
@@ -2028,7 +2028,7 @@
     "type": 52,
     "length": 257,
     "beam": 23,
-    "destination": "CALCITE",
+    "destination": "BUFFALO",
     "callsign": "WDB9821"
   },
   "367341010": {
