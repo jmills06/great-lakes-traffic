@@ -3622,5 +3622,13 @@
     "beam": 4,
     "destination": "ATON",
     "callsign": "CG8078"
+  },
+  "369493730": {
+    "name": "CG45730",
+    "type": 51,
+    "length": 14,
+    "beam": 4,
+    "destination": "",
+    "callsign": ""
   }
 }
