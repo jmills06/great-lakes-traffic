@@ -332,7 +332,7 @@
     "type": 81,
     "length": 130,
     "beam": 20,
-    "destination": "SSM",
+    "destination": "SARNIA -IOL",
     "callsign": "CFN5193"
   },
   "366947250": {
@@ -2748,7 +2748,7 @@
     "type": 52,
     "length": 222,
     "beam": 22,
-    "destination": "GRAND HAVEN",
+    "destination": "CEDARVILLE",
     "callsign": "WDF7019"
   },
   "316034846": {
