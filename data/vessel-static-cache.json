@@ -3654,5 +3654,13 @@
     "beam": 6,
     "destination": "",
     "callsign": "VA6140"
+  },
+  "563322100": {
+    "name": "BONITA AKI",
+    "type": 80,
+    "length": 134,
+    "beam": 22,
+    "destination": "USTOL",
+    "callsign": "9V7675"
   }
 }
