@@ -3638,5 +3638,13 @@
     "beam": 6,
     "destination": "FT LAUDERDALE",
     "callsign": "WDG4069"
+  },
+  "368157390": {
+    "name": "SEAWAY PILOT V",
+    "type": 50,
+    "length": 16,
+    "beam": 5,
+    "destination": "",
+    "callsign": "WDL7132"
   }
 }
