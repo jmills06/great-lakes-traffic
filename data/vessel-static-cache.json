@@ -500,7 +500,7 @@
     "type": 70,
     "length": 215,
     "beam": 24,
-    "destination": "DULUTH",
+    "destination": "MARQUETTE",
     "callsign": "WZD2465"
   },
   "367360260": {
@@ -2572,7 +2572,7 @@
     "type": 70,
     "length": 201,
     "beam": 21,
-    "destination": "DRUMMOND_ISLAND",
+    "destination": "CLEVELAND, OH",
     "callsign": "WC5932"
   },
   "367778090": {
