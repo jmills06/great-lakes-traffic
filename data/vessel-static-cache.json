@@ -3662,5 +3662,13 @@
     "beam": 22,
     "destination": "USTOL",
     "callsign": "9V7675"
+  },
+  "316042833": {
+    "name": "NIAGARA1",
+    "type": 55,
+    "length": 11,
+    "beam": 3,
+    "destination": "",
+    "callsign": "NIAGARA"
   }
 }
