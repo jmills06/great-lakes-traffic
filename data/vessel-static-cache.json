@@ -3332,7 +3332,7 @@
     "type": 81,
     "length": 130,
     "beam": 20,
-    "destination": "TOLEDO",
+    "destination": "NANTICOKE",
     "callsign": "CFN5191"
   },
   "246215000": {
@@ -3484,7 +3484,7 @@
     "type": 70,
     "length": 190,
     "beam": 24,
-    "destination": "US DDT",
+    "destination": "CA THU",
     "callsign": "V2QU3"
   },
   "316003612": {
