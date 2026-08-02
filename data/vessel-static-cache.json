@@ -68,7 +68,7 @@
     "type": 80,
     "length": 150,
     "beam": 23,
-    "destination": "CA SAR",
+    "destination": "CA MTR",
     "callsign": "SGTE"
   },
   "367745090": {
@@ -1188,7 +1188,7 @@
     "type": 70,
     "length": 309,
     "beam": 32,
-    "destination": "DULUTH",
+    "destination": "INDIANA HARBOR",
     "callsign": "WYR4481"
   },
   "316055401": {
