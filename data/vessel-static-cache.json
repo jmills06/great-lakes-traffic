@@ -3678,5 +3678,13 @@
     "beam": 23,
     "destination": "CA  TORONTO",
     "callsign": "V7VZ2"
+  },
+  "368181470": {
+    "name": "CASA MIA",
+    "type": 99,
+    "length": 10,
+    "beam": 4,
+    "destination": "CHI MONROE HBR",
+    "callsign": "WDL9707"
   }
 }
