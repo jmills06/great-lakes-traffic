@@ -3686,5 +3686,13 @@
     "beam": 4,
     "destination": "CHI MONROE HBR",
     "callsign": "WDL9707"
+  },
+  "255916484": {
+    "name": "POLSTEAM KOPROWO",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "USTOL",
+    "callsign": "CQ2753"
   }
 }
