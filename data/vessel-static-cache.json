@@ -924,7 +924,7 @@
     "type": 70,
     "length": 225,
     "beam": 25,
-    "destination": "TORONTO",
+    "destination": "PICTON",
     "callsign": "CFN6287"
   },
   "316025881": {
@@ -1564,7 +1564,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "COLBORNE",
+    "destination": "CLARKSON",
     "callsign": "VDWB"
   },
   "367599370": {
