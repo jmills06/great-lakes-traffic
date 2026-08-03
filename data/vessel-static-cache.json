@@ -1120,12 +1120,12 @@
     "callsign": "VO7103"
   },
   "316045081": {
-    "name": "WM INGLIS",
+    "name": "M V WILLIAM INGLIS",
     "type": 60,
     "length": 0,
     "beam": 0,
     "destination": "",
-    "callsign": "VC 4139"
+    "callsign": "VC 4159"
   },
   "538004060": {
     "name": "FEDERAL KUSHIRO",
@@ -3710,5 +3710,13 @@
     "beam": 16,
     "destination": "USGRB",
     "callsign": "PCSQ"
+  },
+  "367054810": {
+    "name": "DANIEL E",
+    "type": 31,
+    "length": 25,
+    "beam": 9,
+    "destination": "US^061U>11DB",
+    "callsign": "WDC6331"
   }
 }
