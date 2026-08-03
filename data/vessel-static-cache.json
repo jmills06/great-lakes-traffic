@@ -3718,5 +3718,13 @@
     "beam": 9,
     "destination": "US^061U>11DB",
     "callsign": "WDC6331"
+  },
+  "367378670": {
+    "name": "JENNIFER ANNE FOGG",
+    "type": 52,
+    "length": 22,
+    "beam": 6,
+    "destination": "SOUTH MANITOU ISLAND",
+    "callsign": "WDE6314"
   }
 }
