@@ -3702,5 +3702,13 @@
     "beam": 21,
     "destination": "CA MTR",
     "callsign": "9HA5762"
+  },
+  "246900000": {
+    "name": "VOLGABORG",
+    "type": 70,
+    "length": 143,
+    "beam": 16,
+    "destination": "USGRB",
+    "callsign": "PCSQ"
   }
 }
