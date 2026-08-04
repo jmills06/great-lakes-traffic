@@ -3726,5 +3726,13 @@
     "beam": 6,
     "destination": "SOUTH MANITOU ISLAND",
     "callsign": "WDE6314"
+  },
+  "369970504": {
+    "name": "R/V MUSKIE",
+    "type": 99,
+    "length": 23,
+    "beam": 6,
+    "destination": "PORT_DOVER",
+    "callsign": "WZ3378"
   }
 }
