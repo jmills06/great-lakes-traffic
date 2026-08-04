@@ -3734,5 +3734,13 @@
     "beam": 6,
     "destination": "PORT_DOVER",
     "callsign": "WZ3378"
+  },
+  "316049074": {
+    "name": "MISS KIM SIMPSON",
+    "type": 69,
+    "length": 18,
+    "beam": 5,
+    "destination": "",
+    "callsign": ""
   }
 }
