@@ -1212,7 +1212,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "TBAY",
+    "destination": "SOREL",
     "callsign": "CFN4612"
   },
   "316004370": {
@@ -1628,7 +1628,7 @@
     "type": 70,
     "length": 234,
     "beam": 22,
-    "destination": "SILVER BAY",
+    "destination": "PORT INLAND",
     "callsign": "WDH7557"
   },
   "368417090": {
