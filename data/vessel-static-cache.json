@@ -3750,5 +3750,13 @@
     "beam": 0,
     "destination": "",
     "callsign": "CFN7407"
+  },
+  "338187239": {
+    "name": "AERONAUTICAL",
+    "type": 37,
+    "length": 19,
+    "beam": 5,
+    "destination": "BREWERTON",
+    "callsign": ""
   }
 }
