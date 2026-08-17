@@ -1212,7 +1212,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "SOREL",
+    "destination": "SOREL (SEC. 14)",
     "callsign": "CFN4612"
   },
   "316004370": {
@@ -2388,7 +2388,7 @@
     "type": 89,
     "length": 154,
     "beam": 24,
-    "destination": "CA MTR",
+    "destination": "CA CSN",
     "callsign": "LAEK8"
   },
   "538006473": {
@@ -2804,7 +2804,7 @@
     "type": 70,
     "length": 179,
     "beam": 23,
-    "destination": "BAIE COMEAU",
+    "destination": "CATHU",
     "callsign": "VDAN"
   },
   "338465871": {
@@ -3798,5 +3798,21 @@
     "beam": 24,
     "destination": "CA SNI",
     "callsign": "V7A4856"
+  },
+  "248721000": {
+    "name": "VITOSHA",
+    "type": 70,
+    "length": 186,
+    "beam": 24,
+    "destination": "CA THU",
+    "callsign": "9HA2482"
+  },
+  "255916279": {
+    "name": "POLSTEAM DABIE",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "US CLE",
+    "callsign": "CQ2708"
   }
 }
