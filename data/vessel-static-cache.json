@@ -3886,5 +3886,13 @@
     "beam": 20,
     "destination": "WELLER ANCHORAGE",
     "callsign": "OUJO2"
+  },
+  "316001857": {
+    "name": "ILE SAINT-OURS",
+    "type": 51,
+    "length": 23,
+    "beam": 6,
+    "destination": "C",
+    "callsign": "CGJW"
   }
 }
