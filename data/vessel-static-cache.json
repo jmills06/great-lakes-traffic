@@ -868,7 +868,7 @@
     "type": 69,
     "length": 92,
     "beam": 16,
-    "destination": "US SSM",
+    "destination": "US MKE",
     "callsign": "C6YZ8"
   },
   "316001844": {
@@ -2012,7 +2012,7 @@
     "type": 70,
     "length": 123,
     "beam": 23,
-    "destination": "OSWEGO",
+    "destination": "BUFFALO",
     "callsign": "CFA4550"
   },
   "366904910": {
@@ -2140,7 +2140,7 @@
     "type": 31,
     "length": 15,
     "beam": 8,
-    "destination": "CALUMET HARBOR",
+    "destination": "EVANSTON",
     "callsign": "WDE3772"
   },
   "368183000": {
