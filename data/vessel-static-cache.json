@@ -1460,7 +1460,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "QUEBEC CITY",
+    "destination": "TWO HARBORS",
     "callsign": "VCKQ"
   },
   "368251670": {
@@ -2084,7 +2084,7 @@
     "type": 31,
     "length": 131,
     "beam": 18,
-    "destination": "BOWMANVILLE",
+    "destination": "HAMILTON",
     "callsign": "CFG3677"
   },
   "367082230": {
