@@ -192,11 +192,11 @@
     "callsign": "CZ9891"
   },
   "338888000": {
-    "name": "CLYDE S. VANENKEVORT",
+    "name": "CLYDE S VANENKEVORT",
     "type": 31,
     "length": 41,
     "beam": 15,
-    "destination": "STONEPORT",
+    "destination": "TOLEDO",
     "callsign": "WDJ4194"
   },
   "316045082": {
@@ -988,7 +988,7 @@
     "type": 70,
     "length": 191,
     "beam": 20,
-    "destination": "STONEPORT",
+    "destination": "HOL",
     "callsign": "WDE3568"
   },
   "316002588": {
@@ -2748,7 +2748,7 @@
     "type": 52,
     "length": 222,
     "beam": 22,
-    "destination": "CEDARVILLE",
+    "destination": "STONEPORT",
     "callsign": "WDF7019"
   },
   "316034846": {
