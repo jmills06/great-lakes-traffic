@@ -484,7 +484,7 @@
     "type": 70,
     "length": 304,
     "beam": 32,
-    "destination": "BURNS HARBOR",
+    "destination": "SUPERIOR",
     "callsign": "WDC6027"
   },
   "316015050": {
@@ -3468,7 +3468,7 @@
     "type": 31,
     "length": 27,
     "beam": 9,
-    "destination": "CLEVELAND OH",
+    "destination": "FAIRPORT OH",
     "callsign": "WDN3611"
   },
   "249086000": {
