@@ -1564,7 +1564,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "COLBORNE",
+    "destination": "HAMILTON",
     "callsign": "VDWB"
   },
   "367599370": {
@@ -2020,7 +2020,7 @@
     "type": 70,
     "length": 228,
     "beam": 21,
-    "destination": "INDIANA HARBOR",
+    "destination": "TOLEDO",
     "callsign": "WCF3012"
   },
   "366983440": {
