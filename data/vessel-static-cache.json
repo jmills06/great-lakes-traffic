@@ -2332,7 +2332,7 @@
     "type": 70,
     "length": 193,
     "beam": 21,
-    "destination": "MISTERSKY FUEL",
+    "destination": "PT GYPSUM",
     "callsign": "WZC7602"
   },
   "338425976": {
@@ -3854,5 +3854,13 @@
     "beam": 7,
     "destination": "DETROIT",
     "callsign": "WDK5734"
+  },
+  "538006785": {
+    "name": "FEDERAL SETO",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "USCLE",
+    "callsign": "V7RG6"
   }
 }
