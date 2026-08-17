@@ -3830,5 +3830,29 @@
     "beam": 24,
     "destination": "CAMTR",
     "callsign": "V7A2393"
+  },
+  "255915608": {
+    "name": "ALICIA G",
+    "type": 70,
+    "length": 185,
+    "beam": 24,
+    "destination": "CA THU",
+    "callsign": "CQ2066"
+  },
+  "311058600": {
+    "name": "MAMRY",
+    "type": 70,
+    "length": 190,
+    "beam": 24,
+    "destination": "CA THU",
+    "callsign": "C6ZL5"
+  },
+  "368067780": {
+    "name": "OHIO",
+    "type": 52,
+    "length": 18,
+    "beam": 7,
+    "destination": "DETROIT",
+    "callsign": "WDK5734"
   }
 }
