@@ -836,7 +836,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "CLEVELAND",
+    "destination": "TWO HARBORS",
     "callsign": "WYQ4356"
   },
   "305594000": {
@@ -3822,5 +3822,13 @@
     "beam": 20,
     "destination": "CA NAN > ?? ???",
     "callsign": "CQ2913"
+  },
+  "538008469": {
+    "name": "FEDERAL MONTREAL",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "CAMTR",
+    "callsign": "V7A2393"
   }
 }
