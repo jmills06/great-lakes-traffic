@@ -332,7 +332,7 @@
     "type": 81,
     "length": 130,
     "beam": 20,
-    "destination": "NANTICOKE",
+    "destination": "DARTMOUTH",
     "callsign": "CFN5193"
   },
   "366947250": {
@@ -3774,5 +3774,21 @@
     "beam": 7,
     "destination": "ERIE-DRY DOCK",
     "callsign": "WDJ6062"
+  },
+  "255804570": {
+    "name": "HARBOUR FIRST",
+    "type": 80,
+    "length": 144,
+    "beam": 24,
+    "destination": "CASNI",
+    "callsign": "CQKM"
+  },
+  "368004190": {
+    "name": "KRISTIN JOELLE",
+    "type": 31,
+    "length": 8,
+    "beam": 0,
+    "destination": "XX XXX>?? ???",
+    "callsign": "WDJ7186"
   }
 }
