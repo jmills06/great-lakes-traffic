@@ -188,7 +188,7 @@
     "type": 52,
     "length": 164,
     "beam": 23,
-    "destination": "DETROIT SMC ROUGE",
+    "destination": "BOWMANVILLE",
     "callsign": "CZ9891"
   },
   "338888000": {
@@ -1900,7 +1900,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "SILVER BAY",
+    "destination": "DULUTH",
     "callsign": "WYP8657"
   },
   "316048758": {
@@ -3814,5 +3814,13 @@
     "beam": 24,
     "destination": "US CLE",
     "callsign": "CQ2708"
+  },
+  "255917284": {
+    "name": "ZEA LILIAN",
+    "type": 85,
+    "length": 130,
+    "beam": 20,
+    "destination": "CA NAN > ?? ???",
+    "callsign": "CQ2913"
   }
 }
