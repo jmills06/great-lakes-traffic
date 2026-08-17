@@ -2332,7 +2332,7 @@
     "type": 70,
     "length": 193,
     "beam": 21,
-    "destination": "DET ROUGE MC1",
+    "destination": "MISTERSKY FUEL",
     "callsign": "WZC7602"
   },
   "338425976": {
@@ -3766,5 +3766,13 @@
     "beam": 20,
     "destination": "CAHAM",
     "callsign": "VBAJ"
+  },
+  "367793980": {
+    "name": "CLEVELAND",
+    "type": 52,
+    "length": 19,
+    "beam": 7,
+    "destination": "ERIE-DRY DOCK",
+    "callsign": "WDJ6062"
   }
 }
