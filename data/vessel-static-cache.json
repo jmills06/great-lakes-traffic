@@ -3862,5 +3862,13 @@
     "beam": 24,
     "destination": "USCLE",
     "callsign": "V7RG6"
+  },
+  "244770273": {
+    "name": "FWN SEA",
+    "type": 70,
+    "length": 123,
+    "beam": 18,
+    "destination": "BEGNE",
+    "callsign": "PDDJ"
   }
 }
