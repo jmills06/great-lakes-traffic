@@ -2492,7 +2492,7 @@
     "type": 31,
     "length": 33,
     "beam": 8,
-    "destination": "CLEVELAND CH 07",
+    "destination": "PT MOUILLE",
     "callsign": "WDP4637"
   },
   "367409260": {
@@ -3220,7 +3220,7 @@
     "type": 37,
     "length": 46,
     "beam": 9,
-    "destination": "DETROIT",
+    "destination": "KINGSTON",
     "callsign": "ZGDQ9"
   },
   "316001434": {
@@ -3758,5 +3758,13 @@
     "beam": 5,
     "destination": "BREWERTON",
     "callsign": ""
+  },
+  "316041032": {
+    "name": "WICKY SPIRIT",
+    "type": 89,
+    "length": 136,
+    "beam": 20,
+    "destination": "CAHAM",
+    "callsign": "VBAJ"
   }
 }
