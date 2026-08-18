@@ -812,7 +812,7 @@
     "type": 70,
     "length": 140,
     "beam": 21,
-    "destination": "ROCHESTER",
+    "destination": "PICTON",
     "callsign": "VCAS"
   },
   "316052496": {
@@ -1308,7 +1308,7 @@
     "type": 90,
     "length": 23,
     "beam": 6,
-    "destination": "BUOY OPS",
+    "destination": "SARNINA",
     "callsign": "CGJF"
   },
   "367794470": {
