@@ -2196,7 +2196,7 @@
     "type": 33,
     "length": 53,
     "beam": 12,
-    "destination": "L MICHIGAN SURVEY",
+    "destination": "DETROIT",
     "callsign": "WA09082"
   },
   "316053441": {
@@ -3910,5 +3910,13 @@
     "beam": 22,
     "destination": "CATHU",
     "callsign": "PBOQ"
+  },
+  "538011215": {
+    "name": "SCOT STUTTGART",
+    "type": 80,
+    "length": 117,
+    "beam": 18,
+    "destination": "CAHAM",
+    "callsign": "V7A6799"
   }
 }
