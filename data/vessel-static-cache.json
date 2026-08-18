@@ -3902,5 +3902,13 @@
     "beam": 18,
     "destination": "OSHAWA",
     "callsign": "PBYD"
+  },
+  "244010871": {
+    "name": "HEEMSKERKGRACHT",
+    "type": 70,
+    "length": 139,
+    "beam": 22,
+    "destination": "CATHU",
+    "callsign": "PBOQ"
   }
 }
