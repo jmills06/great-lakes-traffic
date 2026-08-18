@@ -3934,5 +3934,13 @@
     "beam": 9,
     "destination": "CAPE VINCENT",
     "callsign": "CFA4018"
+  },
+  "244850226": {
+    "name": "FWN SKY",
+    "type": 70,
+    "length": 123,
+    "beam": 17,
+    "destination": "CAMTR",
+    "callsign": "PCZW"
   }
 }
