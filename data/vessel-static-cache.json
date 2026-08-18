@@ -1924,7 +1924,7 @@
     "type": 70,
     "length": 246,
     "beam": 24,
-    "destination": "ESCANABA",
+    "destination": "MARQUETTE",
     "callsign": "WL3108"
   },
   "366904950": {
@@ -3708,7 +3708,7 @@
     "type": 70,
     "length": 143,
     "beam": 16,
-    "destination": "USGRB",
+    "destination": "CATHU",
     "callsign": "PCSQ"
   },
   "367054810": {
