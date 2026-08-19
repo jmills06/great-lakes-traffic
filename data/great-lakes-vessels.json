@@ -1,33 +1,61 @@
 {
-  "updated": "2026-08-19T04:01:32Z",
+  "updated": "2026-08-19T04:16:29Z",
   "vessels": [
     {
-      "mmsi": 316036089,
-      "name": "ALGOMA SAULT",
-      "type": 70,
-      "lat": 42.32947,
-      "lon": -83.02285,
-      "sog": 0.2,
-      "cog": 83,
-      "heading": 77,
-      "length": 225,
-      "beam": 24,
-      "destination": "THUNDER BAY",
-      "lastReport": "2026-08-19T04:01:30Z"
+      "mmsi": 366983440,
+      "name": "JOYCE L VANENKEVORT",
+      "type": 52,
+      "lat": 43.00995,
+      "lon": -82.4161,
+      "sog": 7.8,
+      "cog": 11,
+      "heading": 2,
+      "length": 257,
+      "beam": 23,
+      "destination": "BUFFALO",
+      "lastReport": "2026-08-19T04:16:26Z"
     },
     {
-      "mmsi": 316035905,
-      "name": "ALGOMA INNOVATOR",
+      "mmsi": 316001834,
+      "name": "FRONTENAC",
       "type": 70,
-      "lat": 46.69905,
-      "lon": -92.0186,
+      "lat": 42.36762,
+      "lon": -80.11527,
+      "sog": 12.6,
+      "cog": 56,
+      "heading": 56,
+      "length": 223,
+      "beam": 23,
+      "destination": "PORT COLBORNE CH67",
+      "lastReport": "2026-08-19T04:16:09Z"
+    },
+    {
+      "mmsi": 316015050,
+      "name": "ALGOTERRA",
+      "type": 82,
+      "lat": 42.798,
+      "lon": -80.04341,
       "sog": 0,
-      "cog": 258,
-      "heading": 179,
-      "length": 198,
+      "cog": 333,
+      "heading": 163,
+      "length": 144,
+      "beam": 23,
+      "destination": "TRACY",
+      "lastReport": "2026-08-19T04:15:41Z"
+    },
+    {
+      "mmsi": 316017550,
+      "name": "MCASPHALT ADVANTAGE",
+      "type": 80,
+      "lat": 42.81212,
+      "lon": -79.24737,
+      "sog": 0.1,
+      "cog": 184,
+      "heading": 247,
+      "length": 140,
       "beam": 24,
-      "destination": "HAMILTON",
-      "lastReport": "2026-08-19T04:01:07Z"
+      "destination": "NANTICOKE",
+      "lastReport": "2026-08-19T04:15:51Z"
     }
   ]
 }
