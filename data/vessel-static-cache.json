@@ -756,7 +756,7 @@
     "type": 70,
     "length": 223,
     "beam": 24,
-    "destination": "QUEBEC",
+    "destination": "PICTON, ON",
     "callsign": "CFN6288"
   },
   "366896890": {
@@ -1108,7 +1108,7 @@
     "type": 0,
     "length": 305,
     "beam": 32,
-    "destination": "TWO HARBORS",
+    "destination": "CONNEAUT",
     "callsign": "WDD2876"
   },
   "316005305": {
@@ -1900,7 +1900,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "DULUTH",
+    "destination": "CLEVELAND",
     "callsign": "WYP8657"
   },
   "316048758": {
