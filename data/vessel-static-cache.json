@@ -3942,5 +3942,13 @@
     "beam": 17,
     "destination": "CAMTR",
     "callsign": "PCZW"
+  },
+  "368058270": {
+    "name": "BULLDOG",
+    "type": 32,
+    "length": 23,
+    "beam": 7,
+    "destination": "DUL/SUP",
+    "callsign": "WDK4743"
   }
 }
