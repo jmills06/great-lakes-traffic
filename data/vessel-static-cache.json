@@ -1204,7 +1204,7 @@
     "type": 70,
     "length": 224,
     "beam": 24,
-    "destination": "SARNIA",
+    "destination": "TBAY",
     "callsign": "XJBH"
   },
   "316009457": {
@@ -3764,7 +3764,7 @@
     "type": 89,
     "length": 136,
     "beam": 20,
-    "destination": "CAHAM",
+    "destination": "CACSN",
     "callsign": "VBAJ"
   },
   "367793980": {
