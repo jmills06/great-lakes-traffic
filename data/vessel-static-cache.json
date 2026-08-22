@@ -2004,7 +2004,7 @@
     "type": 31,
     "length": 30,
     "beam": 10,
-    "destination": "HAMILTON",
+    "destination": "TONAWANDA",
     "callsign": "WDJ6009"
   },
   "316041965": {
@@ -3676,7 +3676,7 @@
     "type": 70,
     "length": 190,
     "beam": 23,
-    "destination": "CA  THUNDER BAY",
+    "destination": "CA  MONTREAL",
     "callsign": "V7VZ2"
   },
   "368181470": {
