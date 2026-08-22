@@ -428,7 +428,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "BURNS HARBOR",
+    "destination": "SARNIA",
     "callsign": "VDAC"
   },
   "316003123": {
@@ -2012,7 +2012,7 @@
     "type": 70,
     "length": 123,
     "beam": 23,
-    "destination": "BUFFALO",
+    "destination": "TORONTO,ON",
     "callsign": "CFA4550"
   },
   "366904910": {
@@ -3974,5 +3974,13 @@
     "beam": 3,
     "destination": "HANCOCK",
     "callsign": "ZIPPIN"
+  },
+  "368491240": {
+    "name": "EXCALIBUR",
+    "type": 37,
+    "length": 18,
+    "beam": 5,
+    "destination": "",
+    "callsign": "WDR3672"
   }
 }
