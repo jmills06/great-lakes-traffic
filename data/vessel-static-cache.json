@@ -3958,5 +3958,21 @@
     "beam": 24,
     "destination": "CATHU",
     "callsign": "V7A7271"
+  },
+  "316006713": {
+    "name": "CAPE_EDENSAW",
+    "type": 51,
+    "length": 15,
+    "beam": 4,
+    "destination": "SAR",
+    "callsign": "CFN4210"
+  },
+  "338458932": {
+    "name": "MINONG",
+    "type": 99,
+    "length": 9,
+    "beam": 3,
+    "destination": "HANCOCK",
+    "callsign": "ZIPPIN"
   }
 }

@@ -1,75 +1,47 @@
 {
-  "updated": "2026-08-22T15:01:33Z",
+  "updated": "2026-08-22T15:16:28Z",
   "vessels": [
     {
-      "mmsi": 316023808,
-      "name": "BAIE COMEAU",
+      "mmsi": 316009090,
+      "name": "ALGOMA EQUINOX",
       "type": 70,
-      "lat": 42.52012,
-      "lon": -79.99943,
-      "sog": 12.2,
-      "cog": 241,
-      "heading": 241,
-      "length": 225,
+      "lat": 42.93767,
+      "lon": -79.23698,
+      "sog": 8,
+      "cog": 195,
+      "heading": 193,
+      "length": 224,
       "beam": 24,
-      "destination": "NANTICOKE",
-      "lastReport": "2026-08-22T15:00:21Z"
+      "destination": "SARNIA",
+      "lastReport": "2026-08-22T15:15:54Z"
     },
     {
-      "mmsi": 316001836,
-      "name": "CSL TADOUSSAC",
+      "mmsi": 316009457,
+      "name": "KAMINISTIQUA",
       "type": 70,
-      "lat": 43.59471,
-      "lon": -79.17464,
-      "sog": 11,
-      "cog": 248,
-      "heading": 249,
+      "lat": 44.0552,
+      "lon": -76.43385,
+      "sog": 11.4,
+      "cog": 27,
+      "heading": 27,
       "length": 223,
       "beam": 23,
-      "destination": "COLBORNE",
-      "lastReport": "2026-08-22T15:01:18Z"
+      "destination": "SOREL (SEC. 14)",
+      "lastReport": "2026-08-22T15:15:51Z"
     },
     {
-      "mmsi": 367480250,
-      "name": "OLIVE L. MOORE",
-      "type": 52,
-      "lat": 43.69445,
-      "lon": -83.81311,
-      "sog": 7.2,
-      "cog": 32,
-      "heading": 32,
-      "length": 222,
-      "beam": 22,
-      "destination": "STONEPORT",
-      "lastReport": "2026-08-22T15:00:36Z"
-    },
-    {
-      "mmsi": 538010692,
-      "name": "WHISTLER",
+      "mmsi": 311058600,
+      "name": "MAMRY",
       "type": 70,
-      "lat": 42.31455,
-      "lon": -83.06901,
-      "sog": 4.8,
-      "cog": 61,
-      "heading": 59,
-      "length": 200,
+      "lat": 43.70494,
+      "lon": -77.30691,
+      "sog": 12.4,
+      "cog": 75,
+      "heading": 75,
+      "length": 190,
       "beam": 24,
-      "destination": "CATHU",
-      "lastReport": "2026-08-22T15:01:04Z"
-    },
-    {
-      "mmsi": 366937490,
-      "name": "GL OSTRANDER",
-      "type": 52,
-      "lat": 42.04157,
-      "lon": -87.51828,
-      "sog": 10.5,
-      "cog": 170,
-      "heading": 168,
-      "length": 178,
-      "beam": 21,
-      "destination": "S.CHICAGO",
-      "lastReport": "2026-08-22T15:01:08Z"
+      "destination": "CA THU",
+      "lastReport": "2026-08-22T15:15:33Z"
     },
     {
       "mmsi": 316055401,
@@ -83,7 +55,21 @@
       "length": 144,
       "beam": 23,
       "destination": "NANTICOKE",
-      "lastReport": "2026-08-22T15:00:59Z"
+      "lastReport": "2026-08-22T15:16:00Z"
+    },
+    {
+      "mmsi": 316017550,
+      "name": "MCASPHALT ADVANTAGE",
+      "type": 80,
+      "lat": 42.81311,
+      "lon": -79.24833,
+      "sog": 0.2,
+      "cog": 318,
+      "heading": 223,
+      "length": 140,
+      "beam": 24,
+      "destination": "NANTICOKE",
+      "lastReport": "2026-08-22T15:16:14Z"
     }
   ]
 }
