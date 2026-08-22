@@ -1052,7 +1052,7 @@
     "type": 52,
     "length": 159,
     "beam": 24,
-    "destination": "QUEBEC",
+    "destination": "MONTREAL",
     "callsign": "CFG8081"
   },
   "538006469": {
@@ -2201,10 +2201,10 @@
   },
   "316053441": {
     "name": "ALGOLUNA",
-    "type": 81,
+    "type": 89,
     "length": 144,
     "beam": 23,
-    "destination": "SEPT-ILE",
+    "destination": "NANTICOKE IOL",
     "callsign": "VABZ"
   },
   "368298140": {
