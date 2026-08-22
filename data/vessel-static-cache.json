@@ -604,7 +604,7 @@
     "type": 80,
     "length": 143,
     "beam": 23,
-    "destination": "CASNI",
+    "destination": "CANAN",
     "callsign": "VABY"
   },
   "244283000": {
@@ -732,7 +732,7 @@
     "type": 70,
     "length": 146,
     "beam": 21,
-    "destination": "HAMILTON",
+    "destination": "DETROIT-ZUG",
     "callsign": "CFBC"
   },
   "366938710": {
@@ -3950,5 +3950,13 @@
     "beam": 7,
     "destination": "DUL/SUP",
     "callsign": "WDK4743"
+  },
+  "538010692": {
+    "name": "WHISTLER",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "CATHU",
+    "callsign": "V7A7271"
   }
 }
