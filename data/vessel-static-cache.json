@@ -820,7 +820,7 @@
     "type": 70,
     "length": 155,
     "beam": 22,
-    "destination": "PARRY SOUND",
+    "destination": "CATHU",
     "callsign": "VDAK"
   },
   "368220270": {
@@ -940,7 +940,7 @@
     "type": 70,
     "length": 213,
     "beam": 23,
-    "destination": "USSKY>USRRJ",
+    "destination": "USRRJ>USSKY",
     "callsign": "WL3972"
   },
   "367511590": {
@@ -1050,7 +1050,7 @@
   "316003878": {
     "name": "WILF SEYMOUR",
     "type": 52,
-    "length": 159,
+    "length": 160,
     "beam": 24,
     "destination": "MONTREAL",
     "callsign": "CFG8081"
@@ -3982,5 +3982,13 @@
     "beam": 5,
     "destination": "",
     "callsign": "WDR3672"
+  },
+  "368002440": {
+    "name": "MIGRATION",
+    "type": 37,
+    "length": 26,
+    "beam": 6,
+    "destination": "LAKE SUPERIOR",
+    "callsign": "1227623"
   }
 }
