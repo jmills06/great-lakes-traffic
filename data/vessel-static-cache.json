@@ -3998,5 +3998,13 @@
     "beam": 17,
     "destination": "CA PIC",
     "callsign": "2FVR9"
+  },
+  "255915984": {
+    "name": "STEN AURORA",
+    "type": 80,
+    "length": 144,
+    "beam": 23,
+    "destination": "CASNI",
+    "callsign": "CQ2442"
   }
 }
