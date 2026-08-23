@@ -3990,5 +3990,13 @@
     "beam": 6,
     "destination": "LAKE SUPERIOR",
     "callsign": "1227623"
+  },
+  "235094626": {
+    "name": "VECTIS PROGRESS",
+    "type": 70,
+    "length": 124,
+    "beam": 17,
+    "destination": "CA PIC",
+    "callsign": "2FVR9"
   }
 }
