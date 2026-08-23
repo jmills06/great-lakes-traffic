@@ -1188,7 +1188,7 @@
     "type": 70,
     "length": 309,
     "beam": 32,
-    "destination": "INDIANA HARBOR",
+    "destination": "BURNS HARBOR",
     "callsign": "WYR4481"
   },
   "316055401": {
@@ -3604,7 +3604,7 @@
     "type": 70,
     "length": 149,
     "beam": 23,
-    "destination": "USDLH",
+    "destination": "CAMTR",
     "callsign": "V2HW6"
   },
   "316030178": {
