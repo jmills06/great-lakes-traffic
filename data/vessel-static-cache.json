@@ -4006,5 +4006,13 @@
     "beam": 23,
     "destination": "CASNI",
     "callsign": "CQ2442"
+  },
+  "305122000": {
+    "name": "BBC SAO PAULO",
+    "type": 70,
+    "length": 149,
+    "beam": 23,
+    "destination": "CAMTR",
+    "callsign": "V2HX4"
   }
 }
