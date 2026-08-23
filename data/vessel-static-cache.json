@@ -1050,7 +1050,7 @@
   "316003878": {
     "name": "WILF SEYMOUR",
     "type": 52,
-    "length": 160,
+    "length": 159,
     "beam": 24,
     "destination": "MONTREAL",
     "callsign": "CFG8081"
@@ -3764,7 +3764,7 @@
     "type": 89,
     "length": 136,
     "beam": 20,
-    "destination": "CACSN",
+    "destination": "CAQUE",
     "callsign": "VBAJ"
   },
   "367793980": {
