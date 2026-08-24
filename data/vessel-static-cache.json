@@ -1740,7 +1740,7 @@
     "type": 52,
     "length": 45,
     "beam": 22,
-    "destination": "S.CHICAGO",
+    "destination": "ALPENA",
     "callsign": "WDC8307"
   },
   "316024256": {
@@ -2660,7 +2660,7 @@
     "type": 90,
     "length": 33,
     "beam": 9,
-    "destination": "MOTT IS ISLE ROYALE",
+    "destination": "COPPER HARBOR MI",
     "callsign": "KAO107"
   },
   "338016759": {
