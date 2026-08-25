@@ -4038,5 +4038,13 @@
     "beam": 8,
     "destination": "TORONTO",
     "callsign": "VA9311"
+  },
+  "538010365": {
+    "name": "BLUEBILL",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "CAMTR",
+    "callsign": "V7A5944"
   }
 }
