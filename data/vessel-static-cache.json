@@ -188,7 +188,7 @@
     "type": 52,
     "length": 164,
     "beam": 23,
-    "destination": "HAMILTON",
+    "destination": "BOWMANVILLE",
     "callsign": "CZ9891"
   },
   "338888000": {
@@ -1276,7 +1276,7 @@
     "type": 70,
     "length": 198,
     "beam": 24,
-    "destination": "HAMILTON",
+    "destination": "TORONTO",
     "callsign": "VDAS"
   },
   "366912650": {
