@@ -2012,7 +2012,7 @@
     "type": 70,
     "length": 123,
     "beam": 23,
-    "destination": "BATH,ON",
+    "destination": "TORONTO,ON",
     "callsign": "CFA4550"
   },
   "366904910": {
@@ -2572,7 +2572,7 @@
     "type": 70,
     "length": 201,
     "beam": 21,
-    "destination": "ZUG ISLAND",
+    "destination": "BURNS HARBOR, IN",
     "callsign": "WC5932"
   },
   "367778090": {
