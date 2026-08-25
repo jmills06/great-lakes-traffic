@@ -2524,7 +2524,7 @@
     "type": 52,
     "length": 13,
     "beam": 6,
-    "destination": "WILMETTE HARBOR",
+    "destination": "EVANSTON",
     "callsign": "WDD3345"
   },
   "368405080": {
@@ -4030,5 +4030,13 @@
     "beam": 5,
     "destination": "CCIW BURLINGTON",
     "callsign": "CG8081"
+  },
+  "316006562": {
+    "name": "OMNI COASTAL",
+    "type": 52,
+    "length": 26,
+    "beam": 8,
+    "destination": "TORONTO",
+    "callsign": "VA9311"
   }
 }
