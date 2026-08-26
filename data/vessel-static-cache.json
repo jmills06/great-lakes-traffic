@@ -484,7 +484,7 @@
     "type": 70,
     "length": 304,
     "beam": 32,
-    "destination": "SUPERIOR",
+    "destination": "BURNS HARBOR",
     "callsign": "WDC6027"
   },
   "316015050": {
@@ -1900,7 +1900,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "TWO HARBORS",
+    "destination": "GARY",
     "callsign": "WYP8657"
   },
   "316048758": {
