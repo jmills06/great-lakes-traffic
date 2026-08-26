@@ -4062,5 +4062,13 @@
     "beam": 9,
     "destination": "",
     "callsign": "WDK6734"
+  },
+  "578001500": {
+    "name": "LE BELLOT",
+    "type": 60,
+    "length": 131,
+    "beam": 18,
+    "destination": "CAPCO",
+    "callsign": "FLZG"
   }
 }
