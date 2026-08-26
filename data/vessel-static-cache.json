@@ -4078,5 +4078,13 @@
     "beam": 18,
     "destination": "USCLE",
     "callsign": "PCEL"
+  },
+  "538010701": {
+    "name": "CINNAMON",
+    "type": 70,
+    "length": 187,
+    "beam": 24,
+    "destination": "OSHAWA",
+    "callsign": "V7A7284"
   }
 }
