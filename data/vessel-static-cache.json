@@ -1108,7 +1108,7 @@
     "type": 0,
     "length": 305,
     "beam": 32,
-    "destination": "CONNEAUT",
+    "destination": "SUPERIOR",
     "callsign": "WDD2876"
   },
   "316005305": {
@@ -1372,7 +1372,7 @@
     "type": 53,
     "length": 64,
     "beam": 10,
-    "destination": "PORT WELER",
+    "destination": "HAMILTON",
     "callsign": "9LD2470"
   },
   "316033213": {
@@ -1516,7 +1516,7 @@
     "type": 79,
     "length": 0,
     "beam": 0,
-    "destination": "TWO HARBORS",
+    "destination": "CONNEAUT",
     "callsign": "WDH7560"
   },
   "316026695": {
