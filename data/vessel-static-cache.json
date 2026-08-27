@@ -268,7 +268,7 @@
     "type": 52,
     "length": 33,
     "beam": 10,
-    "destination": "BALTIMORE",
+    "destination": "CHEBOYGAN",
     "callsign": "WDL5580"
   },
   "367073840": {
@@ -4126,5 +4126,13 @@
     "beam": 22,
     "destination": "HAMILTON",
     "callsign": "VYA2010"
+  },
+  "367709820": {
+    "name": "NORTHLAND",
+    "type": 31,
+    "length": 22,
+    "beam": 8,
+    "destination": "",
+    "callsign": "WDI5560"
   }
 }
