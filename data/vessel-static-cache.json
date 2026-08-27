@@ -788,7 +788,7 @@
     "type": 37,
     "length": 64,
     "beam": 12,
-    "destination": "USCHI",
+    "destination": "USTVC",
     "callsign": "ZGHE"
   },
   "367442380": {
@@ -2164,7 +2164,7 @@
     "type": 80,
     "length": 152,
     "beam": 22,
-    "destination": "HAMILTON",
+    "destination": "OJIBWAY ANCH",
     "callsign": "CFN5313"
   },
   "538003543": {
