@@ -2084,7 +2084,7 @@
     "type": 31,
     "length": 131,
     "beam": 18,
-    "destination": "HAMILTON",
+    "destination": "BOWMANVILLE",
     "callsign": "CFG3677"
   },
   "367082230": {
@@ -2500,7 +2500,7 @@
     "type": 57,
     "length": 215,
     "beam": 21,
-    "destination": "DETROIT",
+    "destination": "MARBLEHEAD",
     "callsign": "WDL2531"
   },
   "368477860": {
