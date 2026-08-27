@@ -1689,10 +1689,10 @@
   },
   "245911000": {
     "name": "STELLA POLARIS",
-    "type": 81,
+    "type": 89,
     "length": 117,
     "beam": 18,
-    "destination": "BE ZEL > CA HAM",
+    "destination": "CA TRR > CA HAM",
     "callsign": "PEBD"
   },
   "259033000": {
@@ -2148,7 +2148,7 @@
     "type": 70,
     "length": 193,
     "beam": 21,
-    "destination": "STONEPORT",
+    "destination": "ST. JOE",
     "callsign": "WDH7561"
   },
   "316023275": {
@@ -2604,7 +2604,7 @@
     "type": 60,
     "length": 76,
     "beam": 16,
-    "destination": "MILWAUKEE,WI",
+    "destination": "BUFFALO,NY",
     "callsign": "WDQ3079"
   },
   "367077220": {
