@@ -1,20 +1,6 @@
 {
-  "updated": "2026-08-27T18:31:35Z",
+  "updated": "2026-08-27T18:46:31Z",
   "vessels": [
-    {
-      "mmsi": 366906610,
-      "name": "WALTER J MCCARTHY",
-      "type": 70,
-      "lat": 46.75927,
-      "lon": -92.09707,
-      "sog": 0,
-      "cog": 150,
-      "heading": 151,
-      "length": 305,
-      "beam": 32,
-      "destination": "DULUTH CH 74",
-      "lastReport": "2026-08-27T18:31:21Z"
-    },
     {
       "mmsi": 316026694,
       "name": "CSL ST-LAURENT",
@@ -22,82 +8,54 @@
       "lat": 42.88203,
       "lon": -79.24835,
       "sog": 0,
-      "cog": 53,
+      "cog": 49,
       "heading": 181,
       "length": 226,
       "beam": 24,
       "destination": "THUNDER BAY",
-      "lastReport": "2026-08-27T18:30:31Z"
+      "lastReport": "2026-08-27T18:45:21Z"
+    },
+    {
+      "mmsi": 316004370,
+      "name": "G3 MARQUIS",
+      "type": 70,
+      "lat": 43.13428,
+      "lon": -79.1921,
+      "sog": 0.4,
+      "cog": 5,
+      "heading": 4,
+      "length": 226,
+      "beam": 24,
+      "destination": "QUEBEC CITY",
+      "lastReport": "2026-08-27T18:46:14Z"
     },
     {
       "mmsi": 316009457,
       "name": "KAMINISTIQUA",
       "type": 70,
-      "lat": 43.22775,
+      "lat": 43.22779,
       "lon": -79.21774,
-      "sog": 0,
-      "cog": 336,
-      "heading": 165,
+      "sog": 0.1,
+      "cog": 24,
+      "heading": 164,
       "length": 223,
       "beam": 23,
       "destination": "THUNDER BAY",
-      "lastReport": "2026-08-27T18:30:42Z"
+      "lastReport": "2026-08-27T18:45:34Z"
     },
     {
-      "mmsi": 316001844,
-      "name": "SPRUCEGLEN",
+      "mmsi": 538010692,
+      "name": "WHISTLER",
       "type": 70,
-      "lat": 43.0081,
-      "lon": -79.21361,
-      "sog": 4.9,
-      "cog": 9,
-      "heading": 9,
-      "length": 223,
+      "lat": 42.94017,
+      "lon": -82.44604,
+      "sog": 7.8,
+      "cog": 225,
+      "heading": 223,
+      "length": 200,
       "beam": 24,
-      "destination": "SOREL",
-      "lastReport": "2026-08-27T18:30:59Z"
-    },
-    {
-      "mmsi": 366904930,
-      "name": "HERBERT C JACKSON",
-      "type": 70,
-      "lat": 42.28526,
-      "lon": -83.09896,
-      "sog": 2.7,
-      "cog": 22,
-      "heading": 20,
-      "length": 213,
-      "beam": 23,
-      "destination": "USMOI>USRCY",
-      "lastReport": "2026-08-27T18:30:53Z"
-    },
-    {
-      "mmsi": 316036229,
-      "name": "ALGOMA COMPASS",
-      "type": 70,
-      "lat": 42.89313,
-      "lon": -79.24778,
-      "sog": 0,
-      "cog": 297,
-      "heading": 9,
-      "length": 207,
-      "beam": 24,
-      "destination": "HAMILTON",
-      "lastReport": "2026-08-27T18:30:20Z"
-    },
-    {
-      "mmsi": 311033600,
-      "name": "JUNO",
-      "type": 70,
-      "lat": 42.45051,
-      "lon": -80.22752,
-      "sog": 11,
-      "cog": 250,
-      "heading": 250,
-      "length": 189,
-      "beam": 24,
-      "destination": "USCHI",
-      "lastReport": "2026-08-27T18:30:27Z"
+      "destination": "CATHU",
+      "lastReport": "2026-08-27T18:45:54Z"
     },
     {
       "mmsi": 244850226,
@@ -106,12 +64,12 @@
       "lat": 43.2757,
       "lon": -79.8502,
       "sog": 0,
-      "cog": 129,
-      "heading": 106,
+      "cog": 127,
+      "heading": 107,
       "length": 123,
       "beam": 17,
       "destination": "CAHAM",
-      "lastReport": "2026-08-27T18:31:05Z"
+      "lastReport": "2026-08-27T18:46:05Z"
     }
   ]
 }
