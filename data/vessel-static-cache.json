@@ -4102,5 +4102,13 @@
     "beam": 23,
     "destination": "CA THU",
     "callsign": "9HA5758"
+  },
+  "369494422": {
+    "name": "CG49422",
+    "type": 51,
+    "length": 15,
+    "beam": 5,
+    "destination": "",
+    "callsign": ""
   }
 }
