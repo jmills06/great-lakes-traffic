@@ -156,7 +156,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "THUNDER BAY",
+    "destination": "BAIE COMEAU",
     "callsign": "XJBK"
   },
   "316048071": {
@@ -1204,7 +1204,7 @@
     "type": 70,
     "length": 224,
     "beam": 24,
-    "destination": "TBAY-CURRENT RIVER",
+    "destination": "BAIE COMEAU",
     "callsign": "XJBH"
   },
   "316009457": {
@@ -1476,7 +1476,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "THOROLD",
+    "destination": "NANTICOKE",
     "callsign": "VCGJ"
   },
   "366930730": {
@@ -4110,5 +4110,13 @@
     "beam": 5,
     "destination": "",
     "callsign": ""
+  },
+  "538006472": {
+    "name": "FEDERAL CARIBOU",
+    "type": 70,
+    "length": 200,
+    "beam": 23,
+    "destination": "USDET",
+    "callsign": "V7NK6"
   }
 }
