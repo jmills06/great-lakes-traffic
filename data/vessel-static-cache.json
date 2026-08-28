@@ -740,7 +740,7 @@
     "type": 70,
     "length": 222,
     "beam": 23,
-    "destination": "BUFFALO",
+    "destination": "CALCITE",
     "callsign": "WQZ7791"
   },
   "366848350": {
@@ -4028,7 +4028,7 @@
     "type": 0,
     "length": 18,
     "beam": 5,
-    "destination": "CCIW BURLINGTON",
+    "destination": "BURLINGTON",
     "callsign": "CG8081"
   },
   "316006562": {
