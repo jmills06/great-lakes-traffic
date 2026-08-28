@@ -4142,5 +4142,21 @@
     "beam": 3,
     "destination": "",
     "callsign": ""
+  },
+  "305093000": {
+    "name": "BBC ROSTOV",
+    "type": 70,
+    "length": 147,
+    "beam": 23,
+    "destination": "CAMTR -> USBNB",
+    "callsign": "V2HP8"
+  },
+  "367385690": {
+    "name": "PRENTISS BROWN",
+    "type": 31,
+    "length": 34,
+    "beam": 9,
+    "destination": "SOUTH CHICAGO",
+    "callsign": "WDE6848"
   }
 }
