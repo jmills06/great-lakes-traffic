@@ -868,7 +868,7 @@
     "type": 69,
     "length": 92,
     "beam": 16,
-    "destination": "CA TOR",
+    "destination": "CA PCO",
     "callsign": "C6YZ8"
   },
   "316001844": {
@@ -3836,7 +3836,7 @@
     "type": 70,
     "length": 185,
     "beam": 24,
-    "destination": "CA THU",
+    "destination": "US DET",
     "callsign": "CQ2066"
   },
   "311058600": {
