@@ -2160,7 +2160,7 @@
     "callsign": "MU23"
   },
   "316013946": {
-    "name": "LEO A.MCARTHUR",
+    "name": "LEO A. MCARTHUR",
     "type": 80,
     "length": 152,
     "beam": 22,
@@ -4158,5 +4158,13 @@
     "beam": 9,
     "destination": "SOUTH CHICAGO",
     "callsign": "WDE6848"
+  },
+  "338924170": {
+    "name": "HJ LAWSON",
+    "type": 52,
+    "length": 23,
+    "beam": 9,
+    "destination": "SAULT STE. MARIE",
+    "callsign": "AFAQ"
   }
 }
