@@ -1188,7 +1188,7 @@
     "type": 70,
     "length": 309,
     "beam": 32,
-    "destination": "BURNS HARBOR",
+    "destination": "SUPERIOR",
     "callsign": "WYR4481"
   },
   "316055401": {
@@ -4182,5 +4182,13 @@
     "beam": 6,
     "destination": "SAULT STE MARIE, CA",
     "callsign": ""
+  },
+  "538009411": {
+    "name": "FEDERAL FREEDOM",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "USDLH",
+    "callsign": "V7A4699"
   }
 }
