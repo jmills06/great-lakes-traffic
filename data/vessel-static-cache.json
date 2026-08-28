@@ -4134,5 +4134,13 @@
     "beam": 8,
     "destination": "",
     "callsign": "WDI5560"
+  },
+  "369990362": {
+    "name": "CG29362",
+    "type": 51,
+    "length": 8,
+    "beam": 3,
+    "destination": "",
+    "callsign": ""
   }
 }
