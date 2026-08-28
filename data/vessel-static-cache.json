@@ -4174,5 +4174,13 @@
     "beam": 33,
     "destination": "",
     "callsign": "WDN4410"
+  },
+  "316048749": {
+    "name": "MISS MARIE",
+    "type": 69,
+    "length": 22,
+    "beam": 6,
+    "destination": "SAULT STE MARIE, CA",
+    "callsign": ""
   }
 }
