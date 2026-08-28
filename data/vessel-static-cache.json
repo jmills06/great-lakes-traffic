@@ -700,7 +700,7 @@
     "type": 80,
     "length": 144,
     "beam": 23,
-    "destination": "CA HAM",
+    "destination": "US TOL",
     "callsign": "CQ2445"
   },
   "367350620": {
@@ -716,7 +716,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "MORRISBURG",
+    "destination": "TOLEDO",
     "callsign": "VBAC"
   },
   "538007837": {
@@ -3956,7 +3956,7 @@
     "type": 70,
     "length": 200,
     "beam": 24,
-    "destination": "CATHU",
+    "destination": "CAMTR",
     "callsign": "V7A7271"
   },
   "316006713": {
