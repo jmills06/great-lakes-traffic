@@ -4166,5 +4166,13 @@
     "beam": 9,
     "destination": "SAULT STE. MARIE",
     "callsign": "AFAQ"
+  },
+  "368280810": {
+    "name": "NEEBISH ISLANDER III",
+    "type": 99,
+    "length": 89,
+    "beam": 33,
+    "destination": "",
+    "callsign": "WDN4410"
   }
 }
