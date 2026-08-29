@@ -188,7 +188,7 @@
     "type": 52,
     "length": 164,
     "beam": 23,
-    "destination": "BOWMANVILLE",
+    "destination": "DETROIT SMC ROUGE",
     "callsign": "CZ9891"
   },
   "338888000": {
@@ -2572,7 +2572,7 @@
     "type": 70,
     "length": 201,
     "beam": 21,
-    "destination": "BURNS HARBOR, IN",
+    "destination": "DRUMMOND_ISLAND",
     "callsign": "WC5932"
   },
   "367778090": {
