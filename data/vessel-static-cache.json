@@ -604,7 +604,7 @@
     "type": 80,
     "length": 143,
     "beam": 23,
-    "destination": "LP BAY ANCHORAGE",
+    "destination": "CANAN",
     "callsign": "VABY"
   },
   "244283000": {
@@ -4198,5 +4198,13 @@
     "beam": 9,
     "destination": "SAULT STE MARIE, M",
     "callsign": "AFAP"
+  },
+  "316043903": {
+    "name": "CANADIAN JUBILEE",
+    "type": 99,
+    "length": 46,
+    "beam": 15,
+    "destination": "",
+    "callsign": ""
   }
 }
