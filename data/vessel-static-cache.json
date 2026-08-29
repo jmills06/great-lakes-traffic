@@ -812,7 +812,7 @@
     "type": 70,
     "length": 140,
     "beam": 21,
-    "destination": "PICTON",
+    "destination": "TORONTO",
     "callsign": "VCAS"
   },
   "316052496": {
@@ -2881,10 +2881,10 @@
   },
   "367753420": {
     "name": "JOHN HENRY",
-    "type": 53,
+    "type": 52,
     "length": 26,
     "beam": 8,
-    "destination": "H0LLAND",
+    "destination": "HOIIAND",
     "callsign": "WDI9913"
   },
   "369494424": {
