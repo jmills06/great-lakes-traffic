@@ -2020,7 +2020,7 @@
     "type": 70,
     "length": 228,
     "beam": 21,
-    "destination": "SANDUSKY",
+    "destination": "CLEVELAND",
     "callsign": "WCF3012"
   },
   "366983440": {
@@ -2604,7 +2604,7 @@
     "type": 60,
     "length": 76,
     "beam": 16,
-    "destination": "WELLAND",
+    "destination": "ROCHESTER,NY",
     "callsign": "WDQ3079"
   },
   "367077220": {
