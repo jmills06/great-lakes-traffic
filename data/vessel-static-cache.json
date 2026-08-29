@@ -3908,7 +3908,7 @@
     "type": 70,
     "length": 139,
     "beam": 22,
-    "destination": "USDLH",
+    "destination": "GIGIB",
     "callsign": "PBOQ"
   },
   "538011215": {
@@ -4222,5 +4222,13 @@
     "beam": 6,
     "destination": "LELAND",
     "callsign": "WDL7646"
+  },
+  "311000557": {
+    "name": "JAMNO",
+    "type": 79,
+    "length": 200,
+    "beam": 24,
+    "destination": "CA THU",
+    "callsign": "C6CS2"
   }
 }
