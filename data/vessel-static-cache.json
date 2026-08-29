@@ -2410,9 +2410,9 @@
   "367041840": {
     "name": "KATHY LYNN",
     "type": 57,
-    "length": 81,
-    "beam": 14,
-    "destination": "BUFFALO",
+    "length": 135,
+    "beam": 30,
+    "destination": "CONNEAUT",
     "callsign": "WAS4159"
   },
   "316042421": {
@@ -4068,7 +4068,7 @@
     "type": 60,
     "length": 131,
     "beam": 18,
-    "destination": "CATOR",
+    "destination": "US  DTT",
     "callsign": "FLZG"
   },
   "245466000": {
