@@ -2332,7 +2332,7 @@
     "type": 70,
     "length": 193,
     "beam": 21,
-    "destination": "PT GYPSUM",
+    "destination": "MISTERSKY FUEL",
     "callsign": "WZC7602"
   },
   "338425976": {
@@ -3329,10 +3329,10 @@
   },
   "316013209": {
     "name": "ALGONOVA",
-    "type": 80,
+    "type": 81,
     "length": 130,
     "beam": 20,
-    "destination": "NANTICOKE",
+    "destination": "SAULT STE MARIE",
     "callsign": "CFN5191"
   },
   "246215000": {
