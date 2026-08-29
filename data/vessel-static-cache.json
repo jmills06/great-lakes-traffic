@@ -668,7 +668,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "TWO HARBORS,MN",
+    "destination": "GARY,IN",
     "callsign": "WXN3191"
   },
   "316043882": {
@@ -4190,5 +4190,13 @@
     "beam": 24,
     "destination": "USDLH",
     "callsign": "V7A4699"
+  },
+  "338924169": {
+    "name": "RJ PEARCE",
+    "type": 52,
+    "length": 23,
+    "beam": 9,
+    "destination": "SAULT STE MARIE, M",
+    "callsign": "AFAP"
   }
 }
