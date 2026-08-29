@@ -1588,7 +1588,7 @@
     "type": 70,
     "length": 138,
     "beam": 21,
-    "destination": "BEGNE",
+    "destination": "CATHU",
     "callsign": "PBUK"
   },
   "367197480": {
@@ -2804,7 +2804,7 @@
     "type": 70,
     "length": 179,
     "beam": 23,
-    "destination": "THUNDER_BAY",
+    "destination": "WINDSOR",
     "callsign": "VDAN"
   },
   "338465871": {
