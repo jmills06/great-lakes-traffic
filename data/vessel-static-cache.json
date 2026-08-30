@@ -1697,10 +1697,10 @@
   },
   "259033000": {
     "name": "PRIME",
-    "type": 89,
+    "type": 84,
     "length": 140,
     "beam": 22,
-    "destination": "US LDM",
+    "destination": "CA GOH",
     "callsign": "LAVH8"
   },
   "316022391": {
