@@ -428,7 +428,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "SUPERIOR",
+    "destination": "HAMILTON",
     "callsign": "VDAC"
   },
   "316003123": {
@@ -612,7 +612,7 @@
     "type": 89,
     "length": 110,
     "beam": 18,
-    "destination": "USDET",
+    "destination": "CASNI",
     "callsign": "PCCB"
   },
   "368211020": {
