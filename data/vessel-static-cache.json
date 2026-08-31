@@ -1692,7 +1692,7 @@
     "type": 89,
     "length": 117,
     "beam": 18,
-    "destination": "CA TRR > CA HAM",
+    "destination": "CA HAM > DK NBG",
     "callsign": "PEBD"
   },
   "259033000": {
@@ -2260,7 +2260,7 @@
     "type": 70,
     "length": 207,
     "beam": 24,
-    "destination": "USTOL",
+    "destination": "CAWND",
     "callsign": "VEOV"
   },
   "367679760": {
@@ -2332,7 +2332,7 @@
     "type": 70,
     "length": 193,
     "beam": 21,
-    "destination": "MISTERSKY FUEL",
+    "destination": "DET ROUGE BRENNEN",
     "callsign": "WZC7602"
   },
   "338425976": {
