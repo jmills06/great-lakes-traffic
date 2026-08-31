@@ -3860,7 +3860,7 @@
     "type": 70,
     "length": 200,
     "beam": 24,
-    "destination": "USDUL",
+    "destination": "CATHU",
     "callsign": "V7RG6"
   },
   "244770273": {
@@ -4254,5 +4254,13 @@
     "beam": 9,
     "destination": "",
     "callsign": "CFG3033"
+  },
+  "338409803": {
+    "name": "SUPERIOR LCM",
+    "type": 0,
+    "length": 20,
+    "beam": 7,
+    "destination": "",
+    "callsign": ""
   }
 }
