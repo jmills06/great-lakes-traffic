@@ -4246,5 +4246,13 @@
     "beam": 21,
     "destination": "US BNB",
     "callsign": "V2DB5"
+  },
+  "316053758": {
+    "name": "CITY OF ALGONAC",
+    "type": 99,
+    "length": 19,
+    "beam": 9,
+    "destination": "",
+    "callsign": "CFG3033"
   }
 }
