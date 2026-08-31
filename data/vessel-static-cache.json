@@ -4238,5 +4238,13 @@
     "beam": 12,
     "destination": "DRUMMOND ISLAND",
     "callsign": "WDE4153"
+  },
+  "305160000": {
+    "name": "BBC VERMONT",
+    "type": 70,
+    "length": 139,
+    "beam": 21,
+    "destination": "US BNB",
+    "callsign": "V2DB5"
   }
 }
