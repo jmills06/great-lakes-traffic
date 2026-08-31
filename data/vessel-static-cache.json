@@ -68,7 +68,7 @@
     "type": 80,
     "length": 150,
     "beam": 23,
-    "destination": "CA OAK",
+    "destination": "CA HAM",
     "callsign": "SGTE"
   },
   "367745090": {
@@ -2604,7 +2604,7 @@
     "type": 60,
     "length": 76,
     "beam": 16,
-    "destination": "ROCHESTER,NY",
+    "destination": "CLAYTON,NY",
     "callsign": "WDQ3079"
   },
   "367077220": {
