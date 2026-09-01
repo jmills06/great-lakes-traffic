@@ -4270,5 +4270,13 @@
     "beam": 23,
     "destination": "SARNIA",
     "callsign": "CFAV"
+  },
+  "368491470": {
+    "name": "DREDGE LOUISE",
+    "type": 33,
+    "length": 26,
+    "beam": 13,
+    "destination": "SAGINAW RIVER",
+    "callsign": "WDR3698"
   }
 }
