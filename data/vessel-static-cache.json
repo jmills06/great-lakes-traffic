@@ -4286,5 +4286,13 @@
     "beam": 23,
     "destination": "US CLE",
     "callsign": "9HA5760"
+  },
+  "338926176": {
+    "name": "CG26176",
+    "type": 51,
+    "length": 7,
+    "beam": 3,
+    "destination": "",
+    "callsign": ""
   }
 }
