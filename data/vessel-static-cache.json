@@ -4278,5 +4278,13 @@
     "beam": 13,
     "destination": "SAGINAW RIVER",
     "callsign": "WDR3698"
+  },
+  "256243000": {
+    "name": "DRAWSKO",
+    "type": 79,
+    "length": 190,
+    "beam": 23,
+    "destination": "US CLE",
+    "callsign": "9HA5760"
   }
 }
