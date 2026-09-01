@@ -4294,5 +4294,13 @@
     "beam": 3,
     "destination": "",
     "callsign": ""
+  },
+  "366999977": {
+    "name": "CG KATMAI BAY",
+    "type": 99,
+    "length": 79,
+    "beam": 16,
+    "destination": "DULUTH, MN",
+    "callsign": ""
   }
 }
