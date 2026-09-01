@@ -636,7 +636,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "THUNDER BAY",
+    "destination": "MONTREAL",
     "callsign": "CFK5152"
   },
   "316040355": {
@@ -3148,7 +3148,7 @@
     "type": 30,
     "length": 21,
     "beam": 6,
-    "destination": "ROCHESTER NY",
+    "destination": "OSWEGO NY",
     "callsign": "WZ3377"
   },
   "212340000": {
