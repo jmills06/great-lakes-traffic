@@ -4318,5 +4318,13 @@
     "beam": 7,
     "destination": "DULUTH/SUPERIOR",
     "callsign": "WDH7586"
+  },
+  "368422160": {
+    "name": "DYNAMO",
+    "type": 37,
+    "length": 17,
+    "beam": 5,
+    "destination": "DETOUR MI",
+    "callsign": "WDQ4056"
   }
 }
