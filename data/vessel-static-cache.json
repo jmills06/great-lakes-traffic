@@ -4326,5 +4326,13 @@
     "beam": 5,
     "destination": "DETOUR MI",
     "callsign": "WDQ4056"
+  },
+  "367649760": {
+    "name": "ARIZONA",
+    "type": 99,
+    "length": 27,
+    "beam": 6,
+    "destination": "",
+    "callsign": "WDH7602"
   }
 }
