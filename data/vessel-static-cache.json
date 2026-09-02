@@ -516,7 +516,7 @@
     "type": 80,
     "length": 140,
     "beam": 24,
-    "destination": "NANTICOKE",
+    "destination": "TRACY",
     "callsign": "VAAT"
   },
   "367627830": {
@@ -2500,7 +2500,7 @@
     "type": 57,
     "length": 215,
     "beam": 21,
-    "destination": "CLEVELAND SHUTTLES",
+    "destination": "CALCITE",
     "callsign": "WDL2531"
   },
   "368477860": {
@@ -4310,5 +4310,13 @@
     "beam": 6,
     "destination": "SURVEY OPERATIONS",
     "callsign": ""
+  },
+  "367649660": {
+    "name": "KENTUCKY",
+    "type": 52,
+    "length": 26,
+    "beam": 7,
+    "destination": "DULUTH/SUPERIOR",
+    "callsign": "WDH7586"
   }
 }
