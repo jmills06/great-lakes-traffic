@@ -700,7 +700,7 @@
     "type": 80,
     "length": 144,
     "beam": 23,
-    "destination": "US TOL",
+    "destination": "CA HAM",
     "callsign": "CQ2445"
   },
   "367350620": {
@@ -1668,7 +1668,7 @@
     "type": 80,
     "length": 149,
     "beam": 23,
-    "destination": "CA OAK",
+    "destination": "CA QUE",
     "callsign": "SBMI"
   },
   "316046932": {
@@ -2572,7 +2572,7 @@
     "type": 70,
     "length": 201,
     "beam": 21,
-    "destination": "DRUMMOND_ISLAND",
+    "destination": "CEDARVILLE,MI",
     "callsign": "WC5932"
   },
   "367778090": {
