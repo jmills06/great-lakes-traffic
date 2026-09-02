@@ -4302,5 +4302,13 @@
     "beam": 16,
     "destination": "DULUTH, MN",
     "callsign": ""
+  },
+  "338371319": {
+    "name": "RV SUBSTANTIAL",
+    "type": 33,
+    "length": 17,
+    "beam": 6,
+    "destination": "SURVEY OPERATIONS",
+    "callsign": ""
   }
 }
