@@ -556,7 +556,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "NANTICOKE",
+    "destination": "TWO HARBORS",
     "callsign": "WDH7558"
   },
   "366936590": {
@@ -1476,7 +1476,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "NANTICOKE",
+    "destination": "SANDUSKY",
     "callsign": "VCGJ"
   },
   "366930730": {
@@ -2756,7 +2756,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "THUNDER BAY",
+    "destination": "BECANCOUR",
     "callsign": "CFFO"
   },
   "367649730": {
