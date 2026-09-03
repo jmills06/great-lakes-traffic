@@ -988,7 +988,7 @@
     "type": 70,
     "length": 191,
     "beam": 20,
-    "destination": "INDIANA HARBOR",
+    "destination": "ASHTABULA",
     "callsign": "WDE3568"
   },
   "316002588": {
@@ -1972,7 +1972,7 @@
     "type": 60,
     "length": 204,
     "beam": 24,
-    "destination": "USSSM",
+    "destination": "USDET",
     "callsign": "LAGY8"
   },
   "366936810": {
