@@ -2588,7 +2588,7 @@
     "type": 52,
     "length": 19,
     "beam": 7,
-    "destination": "SOUTH_MANITOU_ISLAND",
+    "destination": "FRANKFORT",
     "callsign": "WDD4771"
   },
   "316048773": {
@@ -4374,5 +4374,13 @@
     "beam": 24,
     "destination": "CATHU",
     "callsign": "5BBL2"
+  },
+  "538008266": {
+    "name": "FEDERAL YUKINA",
+    "type": 70,
+    "length": 200,
+    "beam": 23,
+    "destination": "TOLEDO",
+    "callsign": "V7A2165"
   }
 }
