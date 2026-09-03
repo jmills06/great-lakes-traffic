@@ -612,7 +612,7 @@
     "type": 89,
     "length": 110,
     "beam": 18,
-    "destination": "USOSW",
+    "destination": "CASNI",
     "callsign": "PCCB"
   },
   "368211020": {
@@ -1524,7 +1524,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "MONTREAL",
+    "destination": "THUNDER BAY",
     "callsign": "CFK5151"
   },
   "367111050": {
@@ -4350,5 +4350,21 @@
     "beam": 16,
     "destination": "US GRB",
     "callsign": "PCIX"
+  },
+  "338926168": {
+    "name": "CG26168",
+    "type": 51,
+    "length": 7,
+    "beam": 3,
+    "destination": "",
+    "callsign": ""
+  },
+  "636017261": {
+    "name": "SUNDA",
+    "type": 70,
+    "length": 186,
+    "beam": 24,
+    "destination": "CA TOR",
+    "callsign": "D5KB4"
   }
 }
