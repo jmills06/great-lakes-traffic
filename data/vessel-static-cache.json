@@ -500,7 +500,7 @@
     "type": 70,
     "length": 215,
     "beam": 24,
-    "destination": "SUPERIOR",
+    "destination": "GARY",
     "callsign": "WZD2465"
   },
   "367360260": {
@@ -4366,5 +4366,13 @@
     "beam": 24,
     "destination": "CA TOR",
     "callsign": "D5KB4"
+  },
+  "212337000": {
+    "name": "BLACKY",
+    "type": 70,
+    "length": 185,
+    "beam": 24,
+    "destination": "CATHU",
+    "callsign": "5BBL2"
   }
 }
