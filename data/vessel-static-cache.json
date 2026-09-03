@@ -4342,5 +4342,13 @@
     "beam": 0,
     "destination": "BH",
     "callsign": "WDN5579"
+  },
+  "246625000": {
+    "name": "VLIEBORG",
+    "type": 70,
+    "length": 143,
+    "beam": 16,
+    "destination": "US GRB",
+    "callsign": "PCIX"
   }
 }
