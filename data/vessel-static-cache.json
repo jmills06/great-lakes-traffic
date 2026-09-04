@@ -2148,7 +2148,7 @@
     "type": 70,
     "length": 193,
     "beam": 21,
-    "destination": "MARQUETTE",
+    "destination": "PORT INLAND",
     "callsign": "WDH7561"
   },
   "316023275": {
@@ -4406,5 +4406,21 @@
     "beam": 14,
     "destination": "STELLA ONTARIO",
     "callsign": "VDLK"
+  },
+  "338340303": {
+    "name": "HULDAH NEAL",
+    "type": 55,
+    "length": 8,
+    "beam": 3,
+    "destination": "",
+    "callsign": "PB-8"
+  },
+  "316023267": {
+    "name": "MU04",
+    "type": 55,
+    "length": 9,
+    "beam": 3,
+    "destination": "",
+    "callsign": "MU04"
   }
 }
