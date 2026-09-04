@@ -4422,5 +4422,13 @@
     "beam": 3,
     "destination": "",
     "callsign": "MU04"
+  },
+  "368317320": {
+    "name": "SHIRLEY ANN",
+    "type": 52,
+    "length": 13,
+    "beam": 7,
+    "destination": "SAULT STE MARIE",
+    "callsign": "WDN8407"
   }
 }
