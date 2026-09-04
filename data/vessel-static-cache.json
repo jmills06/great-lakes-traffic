@@ -4398,5 +4398,13 @@
     "beam": 8,
     "destination": "SOO",
     "callsign": "WFI4523"
+  },
+  "316015121": {
+    "name": "FRONTENAC II",
+    "type": 68,
+    "length": 55,
+    "beam": 14,
+    "destination": "STELLA ONTARIO",
+    "callsign": "VDLK"
   }
 }
