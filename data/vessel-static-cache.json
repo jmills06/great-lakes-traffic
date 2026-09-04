@@ -4382,5 +4382,13 @@
     "beam": 23,
     "destination": "TOLEDO",
     "callsign": "V7A2165"
+  },
+  "369990403": {
+    "name": "CG29403",
+    "type": 51,
+    "length": 8,
+    "beam": 3,
+    "destination": "",
+    "callsign": "CG29403"
   }
 }
