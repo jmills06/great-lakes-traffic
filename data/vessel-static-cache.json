@@ -3492,7 +3492,7 @@
     "type": 31,
     "length": 23,
     "beam": 6,
-    "destination": "HAMILTON",
+    "destination": "WHITBY",
     "callsign": ""
   },
   "235094625": {
@@ -4446,5 +4446,13 @@
     "beam": 10,
     "destination": "CA SSM",
     "callsign": "VORD"
+  },
+  "316016867": {
+    "name": "DAVID J EDWARDS",
+    "type": 55,
+    "length": 12,
+    "beam": 4,
+    "destination": "",
+    "callsign": "MARINE1"
   }
 }
