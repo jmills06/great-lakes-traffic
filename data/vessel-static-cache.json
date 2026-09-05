@@ -196,7 +196,7 @@
     "type": 31,
     "length": 41,
     "beam": 15,
-    "destination": "CALCITE",
+    "destination": "BUFFALO",
     "callsign": "WDJ4194"
   },
   "316045082": {
@@ -1828,7 +1828,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "DULUTH",
+    "destination": "CLEVELAND",
     "callsign": "WDD2875"
   },
   "369493832": {
