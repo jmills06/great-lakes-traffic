@@ -1460,7 +1460,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "SUPERIOR",
+    "destination": "QUEBEC",
     "callsign": "VCKQ"
   },
   "368251670": {
@@ -1564,7 +1564,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "BOWMANVILLE",
+    "destination": "DETROIT CH 67",
     "callsign": "VDWB"
   },
   "367599370": {
