@@ -4454,5 +4454,13 @@
     "beam": 4,
     "destination": "",
     "callsign": "MARINE1"
+  },
+  "338194172": {
+    "name": "MY FOUR LADIES",
+    "type": 0,
+    "length": 16,
+    "beam": 5,
+    "destination": "",
+    "callsign": ""
   }
 }
