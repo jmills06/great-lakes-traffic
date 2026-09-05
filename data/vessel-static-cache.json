@@ -428,7 +428,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "HAMILTON",
+    "destination": "SUPERIOR",
     "callsign": "VDAC"
   },
   "316003123": {
@@ -964,7 +964,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "TORONTO",
+    "destination": "WINDSOR",
     "callsign": "VGFJ"
   },
   "368437390": {
