@@ -948,7 +948,7 @@
     "type": 70,
     "length": 38,
     "beam": 13,
-    "destination": "CEDARVILLE",
+    "destination": "STONEPORT,MI",
     "callsign": "WDG2047"
   },
   "316004579": {
@@ -1452,7 +1452,7 @@
     "type": 52,
     "length": 248,
     "beam": 20,
-    "destination": "ERIE PA",
+    "destination": "BURNS HBR",
     "callsign": "WDM2565"
   },
   "316001633": {
@@ -2028,7 +2028,7 @@
     "type": 52,
     "length": 257,
     "beam": 23,
-    "destination": "TOLEDO",
+    "destination": "ZUG",
     "callsign": "WDB9821"
   },
   "367341010": {
