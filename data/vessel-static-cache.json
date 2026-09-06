@@ -4470,5 +4470,13 @@
     "beam": 7,
     "destination": "YELLOW & BLUE",
     "callsign": "WL2691"
+  },
+  "304519000": {
+    "name": "BBC LEER",
+    "type": 70,
+    "length": 147,
+    "beam": 23,
+    "destination": "CA MTR > CA THU",
+    "callsign": "V2HW3"
   }
 }
