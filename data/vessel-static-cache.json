@@ -4478,5 +4478,13 @@
     "beam": 23,
     "destination": "CA MTR > CA THU",
     "callsign": "V2HW3"
+  },
+  "212735000": {
+    "name": "MOTTLER",
+    "type": 70,
+    "length": 185,
+    "beam": 24,
+    "destination": "CA THU",
+    "callsign": "5BQU2"
   }
 }
