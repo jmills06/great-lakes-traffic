@@ -1188,7 +1188,7 @@
     "type": 70,
     "length": 309,
     "beam": 32,
-    "destination": "SUPERIOR",
+    "destination": "DULUTH",
     "callsign": "WYR4481"
   },
   "316055401": {
@@ -1546,7 +1546,7 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 10,
+    "length": 12,
     "beam": 4,
     "destination": "",
     "callsign": ""
@@ -2572,7 +2572,7 @@
     "type": 70,
     "length": 201,
     "beam": 21,
-    "destination": "PORT DOLOMITE",
+    "destination": "INDIANA HARBOR, IN",
     "callsign": "WC5932"
   },
   "367778090": {
@@ -3268,7 +3268,7 @@
     "type": 70,
     "length": 200,
     "beam": 24,
-    "destination": "MONTREAL",
+    "destination": "CAPIC",
     "callsign": "V7RE7"
   },
   "369493763": {
