@@ -1546,7 +1546,7 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 10,
+    "length": 12,
     "beam": 4,
     "destination": "",
     "callsign": ""
@@ -4494,5 +4494,13 @@
     "beam": 5,
     "destination": "",
     "callsign": "WDP9172"
+  },
+  "367366950": {
+    "name": "LEVOYAGEUR",
+    "type": 60,
+    "length": 20,
+    "beam": 7,
+    "destination": "YELLOW & BLUE",
+    "callsign": "WL2690"
   }
 }
