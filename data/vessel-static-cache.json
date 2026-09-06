@@ -868,7 +868,7 @@
     "type": 69,
     "length": 92,
     "beam": 16,
-    "destination": "US CHI",
+    "destination": "US MKE",
     "callsign": "C6YZ8"
   },
   "316001844": {
@@ -1546,7 +1546,7 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 12,
+    "length": 10,
     "beam": 4,
     "destination": "",
     "callsign": ""
