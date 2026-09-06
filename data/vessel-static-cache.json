@@ -4300,7 +4300,7 @@
     "type": 99,
     "length": 79,
     "beam": 16,
-    "destination": "SAULT STE. MARIE, MI",
+    "destination": "ST IGNACE, MI",
     "callsign": ""
   },
   "338371319": {
@@ -4486,5 +4486,13 @@
     "beam": 24,
     "destination": "CA THU",
     "callsign": "5BQU2"
+  },
+  "368397020": {
+    "name": "PATRIOT",
+    "type": 37,
+    "length": 19,
+    "beam": 5,
+    "destination": "",
+    "callsign": "WDP9172"
   }
 }
