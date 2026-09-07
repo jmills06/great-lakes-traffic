@@ -1972,7 +1972,7 @@
     "type": 60,
     "length": 204,
     "beam": 24,
-    "destination": "CATOR",
+    "destination": "CAPCO",
     "callsign": "LAGY8"
   },
   "366936810": {
@@ -2804,7 +2804,7 @@
     "type": 70,
     "length": 179,
     "beam": 23,
-    "destination": "PORT_COLBORNE",
+    "destination": "QUEBEC",
     "callsign": "VDAN"
   },
   "338465871": {
