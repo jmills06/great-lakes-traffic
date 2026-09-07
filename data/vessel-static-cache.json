@@ -4510,5 +4510,13 @@
     "beam": 3,
     "destination": "",
     "callsign": ""
+  },
+  "246634000": {
+    "name": "ERIEBORG",
+    "type": 70,
+    "length": 137,
+    "beam": 16,
+    "destination": "US TOL",
+    "callsign": "PBVT"
   }
 }
