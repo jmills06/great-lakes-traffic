@@ -700,7 +700,7 @@
     "type": 80,
     "length": 144,
     "beam": 23,
-    "destination": "US TOL",
+    "destination": "CA SNI",
     "callsign": "CQ2445"
   },
   "367350620": {
@@ -4132,7 +4132,7 @@
     "type": 31,
     "length": 22,
     "beam": 8,
-    "destination": "",
+    "destination": "ROMEOVILLE",
     "callsign": "WDI5560"
   },
   "369990362": {
