@@ -2028,7 +2028,7 @@
     "type": 52,
     "length": 257,
     "beam": 23,
-    "destination": "TOLEDO",
+    "destination": "SUPERIOR",
     "callsign": "WDB9821"
   },
   "367341010": {
@@ -2500,7 +2500,7 @@
     "type": 57,
     "length": 215,
     "beam": 21,
-    "destination": "MARBLEHEAD",
+    "destination": "CLEVELAND",
     "callsign": "WDL2531"
   },
   "368477860": {
