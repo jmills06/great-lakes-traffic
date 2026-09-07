@@ -4534,5 +4534,13 @@
     "beam": 7,
     "destination": "TROY,NY",
     "callsign": "WDG9099"
+  },
+  "316022419": {
+    "name": "MARINE 2",
+    "type": 0,
+    "length": 9,
+    "beam": 3,
+    "destination": "",
+    "callsign": "MARINE2"
   }
 }
