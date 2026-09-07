@@ -68,7 +68,7 @@
     "type": 80,
     "length": 150,
     "beam": 23,
-    "destination": "CA OAK",
+    "destination": "CA MTR",
     "callsign": "SGTE"
   },
   "367745090": {
@@ -4518,5 +4518,13 @@
     "beam": 16,
     "destination": "US TOL",
     "callsign": "PBVT"
+  },
+  "316056446": {
+    "name": "INVICTUS 1",
+    "type": 99,
+    "length": 15,
+    "beam": 5,
+    "destination": "",
+    "callsign": ""
   }
 }
