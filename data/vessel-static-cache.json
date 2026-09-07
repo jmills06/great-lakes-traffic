@@ -4550,5 +4550,13 @@
     "beam": 4,
     "destination": "",
     "callsign": ""
+  },
+  "316025623": {
+    "name": "WOLFE ISLANDER IV",
+    "type": 69,
+    "length": 100,
+    "beam": 20,
+    "destination": "KINGSTON",
+    "callsign": "CFA3206"
   }
 }
