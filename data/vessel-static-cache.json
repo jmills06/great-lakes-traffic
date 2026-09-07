@@ -1546,7 +1546,7 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 12,
+    "length": 10,
     "beam": 4,
     "destination": "",
     "callsign": ""
@@ -4526,5 +4526,13 @@
     "beam": 5,
     "destination": "",
     "callsign": ""
+  },
+  "367584310": {
+    "name": "LUCY H",
+    "type": 31,
+    "length": 37,
+    "beam": 7,
+    "destination": "TROY,NY",
+    "callsign": "WDG9099"
   }
 }
