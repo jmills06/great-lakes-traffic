@@ -1100,7 +1100,7 @@
     "type": 70,
     "length": 192,
     "beam": 21,
-    "destination": "MARYSVILLE",
+    "destination": "ESCANABA",
     "callsign": "CFN4934"
   },
   "367121010": {
@@ -1546,7 +1546,7 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 10,
+    "length": 12,
     "beam": 4,
     "destination": "",
     "callsign": ""
@@ -2164,7 +2164,7 @@
     "type": 80,
     "length": 152,
     "beam": 22,
-    "destination": "OBJIWAY ANCH",
+    "destination": "HAMILTON",
     "callsign": "CFN5313"
   },
   "538003543": {
@@ -4124,7 +4124,7 @@
     "type": 70,
     "length": 193,
     "beam": 22,
-    "destination": "SAULT ST MARIE",
+    "destination": "SOO ON",
     "callsign": "VYA2010"
   },
   "367709820": {
