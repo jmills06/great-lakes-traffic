@@ -4542,5 +4542,13 @@
     "beam": 3,
     "destination": "",
     "callsign": "MARINE2"
+  },
+  "338211035": {
+    "name": "DIVE BOAT 3",
+    "type": 51,
+    "length": 13,
+    "beam": 4,
+    "destination": "",
+    "callsign": ""
   }
 }
