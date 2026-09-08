@@ -4574,5 +4574,13 @@
     "beam": 9,
     "destination": "DICKINSON ISLAND",
     "callsign": ""
+  },
+  "367782320": {
+    "name": "RV  TANNER",
+    "type": 99,
+    "length": 20,
+    "beam": 6,
+    "destination": "BAYCITY",
+    "callsign": "WDJ4904"
   }
 }
