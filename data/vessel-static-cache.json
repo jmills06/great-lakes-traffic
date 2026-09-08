@@ -4558,5 +4558,13 @@
     "beam": 20,
     "destination": "KINGSTON",
     "callsign": "CFA3206"
+  },
+  "366999409": {
+    "name": "OWEN M FREDRICK",
+    "type": 90,
+    "length": 21,
+    "beam": 5,
+    "destination": "",
+    "callsign": "AEKJ"
   }
 }
