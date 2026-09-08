@@ -988,7 +988,7 @@
     "type": 70,
     "length": 191,
     "beam": 20,
-    "destination": "ASHTABULA",
+    "destination": "DETROIT",
     "callsign": "WDE3568"
   },
   "316002588": {
@@ -1196,7 +1196,7 @@
     "type": 89,
     "length": 144,
     "beam": 23,
-    "destination": "CANAN",
+    "destination": "MONTREAL",
     "callsign": "VECB"
   },
   "316009090": {
@@ -1300,7 +1300,7 @@
     "type": 70,
     "length": 194,
     "beam": 21,
-    "destination": "BOWMANVILLE",
+    "destination": "GODERICH",
     "callsign": "VDBA"
   },
   "316001978": {
@@ -2012,7 +2012,7 @@
     "type": 70,
     "length": 123,
     "beam": 23,
-    "destination": "TORONTO,ON",
+    "destination": "BATH,ON",
     "callsign": "CFA4550"
   },
   "366904910": {
