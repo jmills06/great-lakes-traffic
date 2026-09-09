@@ -820,7 +820,7 @@
     "type": 70,
     "length": 155,
     "beam": 22,
-    "destination": "BAY CITY",
+    "destination": "BRUCE MINES",
     "callsign": "VDAK"
   },
   "368220270": {
@@ -1700,7 +1700,7 @@
     "type": 89,
     "length": 140,
     "beam": 22,
-    "destination": "AGW",
+    "destination": "CA HAM",
     "callsign": "LAVH8"
   },
   "316022391": {
