@@ -4582,5 +4582,13 @@
     "beam": 6,
     "destination": "BAYCITY",
     "callsign": "WDJ4904"
+  },
+  "368389980": {
+    "name": "S/V J.D. MACKIN",
+    "type": 0,
+    "length": 11,
+    "beam": 4,
+    "destination": "",
+    "callsign": "WDP8381"
   }
 }
