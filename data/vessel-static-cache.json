@@ -4068,7 +4068,7 @@
     "type": 60,
     "length": 131,
     "beam": 18,
-    "destination": "USCLE",
+    "destination": "CATOR",
     "callsign": "FLZG"
   },
   "245466000": {
@@ -4380,7 +4380,7 @@
     "type": 70,
     "length": 200,
     "beam": 23,
-    "destination": "TOLEDO",
+    "destination": "US GRB",
     "callsign": "V7A2165"
   },
   "369990403": {
