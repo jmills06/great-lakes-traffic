@@ -668,7 +668,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "CONNEAUT,OH",
+    "destination": "TWO HARBORS,MN",
     "callsign": "WXN3191"
   },
   "316043882": {
@@ -1120,12 +1120,12 @@
     "callsign": "VO7103"
   },
   "316045081": {
-    "name": "M V WILLIAM INGLIS",
+    "name": "WM INGLIS",
     "type": 60,
     "length": 0,
     "beam": 0,
     "destination": "",
-    "callsign": "VC 4159"
+    "callsign": "VC 4139"
   },
   "538004060": {
     "name": "FEDERAL KUSHIRO",
@@ -2012,7 +2012,7 @@
     "type": 70,
     "length": 123,
     "beam": 23,
-    "destination": "BATH,ON",
+    "destination": "HAMILTON",
     "callsign": "CFA4550"
   },
   "366904910": {
