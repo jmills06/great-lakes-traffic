@@ -516,7 +516,7 @@
     "type": 80,
     "length": 140,
     "beam": 24,
-    "destination": "NANTICOKE",
+    "destination": "TRACY",
     "callsign": "VAAT"
   },
   "367627830": {
@@ -2196,7 +2196,7 @@
     "type": 33,
     "length": 53,
     "beam": 12,
-    "destination": "MILWAUKEE",
+    "destination": "SAULT STE MARIE",
     "callsign": "WA09082"
   },
   "316053441": {
