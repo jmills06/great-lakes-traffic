@@ -2748,7 +2748,7 @@
     "type": 52,
     "length": 222,
     "beam": 22,
-    "destination": "SAGINAW 67",
+    "destination": "CALCITE 67",
     "callsign": "WDF7019"
   },
   "316034846": {
@@ -4598,5 +4598,13 @@
     "beam": 7,
     "destination": "",
     "callsign": "WDC2012"
+  },
+  "538004646": {
+    "name": "FEDERAL MAYUMI",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "USDET",
+    "callsign": "V7YF2"
   }
 }
