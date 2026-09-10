@@ -4590,5 +4590,13 @@
     "beam": 4,
     "destination": "",
     "callsign": "WDP8381"
+  },
+  "366986450": {
+    "name": "JULIEN DUBUQUE",
+    "type": 57,
+    "length": 17,
+    "beam": 7,
+    "destination": "",
+    "callsign": "WDC2012"
   }
 }
