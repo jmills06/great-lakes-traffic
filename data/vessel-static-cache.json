@@ -868,7 +868,7 @@
     "type": 69,
     "length": 92,
     "beam": 16,
-    "destination": "US MKE",
+    "destination": "US SSM",
     "callsign": "C6YZ8"
   },
   "316001844": {
@@ -1796,7 +1796,7 @@
     "type": 31,
     "length": 36,
     "beam": 20,
-    "destination": "MONROE",
+    "destination": "IND HBR",
     "callsign": "WBS5272"
   },
   "316048587": {
