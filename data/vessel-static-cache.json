@@ -428,7 +428,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "NANTICOKE",
+    "destination": "CLARKSON",
     "callsign": "VDAC"
   },
   "316003123": {
@@ -4348,7 +4348,7 @@
     "type": 70,
     "length": 143,
     "beam": 16,
-    "destination": "US GRB",
+    "destination": "CA WND",
     "callsign": "PCIX"
   },
   "338926168": {
