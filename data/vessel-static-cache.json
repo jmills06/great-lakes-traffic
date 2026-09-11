@@ -1073,7 +1073,7 @@
   },
   "367495590": {
     "name": "LEADING LADY",
-    "type": 69,
+    "type": 60,
     "length": 28,
     "beam": 10,
     "destination": "CHICAGO",
@@ -4284,7 +4284,7 @@
     "type": 79,
     "length": 190,
     "beam": 23,
-    "destination": "US BNB",
+    "destination": "US MKE",
     "callsign": "9HA5760"
   },
   "338926176": {
