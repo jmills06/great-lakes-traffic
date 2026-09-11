@@ -2100,7 +2100,7 @@
     "type": 52,
     "length": 178,
     "beam": 21,
-    "destination": "ALPENA",
+    "destination": "DETROIT",
     "callsign": "WCV7620"
   },
   "367739710": {
@@ -2260,7 +2260,7 @@
     "type": 70,
     "length": 207,
     "beam": 24,
-    "destination": "CASAR",
+    "destination": "CAGOH",
     "callsign": "VEOV"
   },
   "367679760": {
@@ -3524,7 +3524,7 @@
     "type": 89,
     "length": 154,
     "beam": 24,
-    "destination": "CACSN",
+    "destination": "BEANR",
     "callsign": "LAEL8"
   },
   "338926146": {
