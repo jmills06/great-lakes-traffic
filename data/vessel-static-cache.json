@@ -4614,5 +4614,13 @@
     "beam": 23,
     "destination": "USBNB",
     "callsign": "V2ID2"
+  },
+  "636024466": {
+    "name": "GOLDEN BANYAN",
+    "type": 80,
+    "length": 150,
+    "beam": 23,
+    "destination": "CACSN",
+    "callsign": "5LST2"
   }
 }
