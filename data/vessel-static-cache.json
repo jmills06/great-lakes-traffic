@@ -156,7 +156,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "BAIE COMEAU",
+    "destination": "HAMILTON",
     "callsign": "XJBK"
   },
   "316048071": {
@@ -2604,7 +2604,7 @@
     "type": 60,
     "length": 76,
     "beam": 16,
-    "destination": "BUFFALO,NY",
+    "destination": "TOLEDO,OH",
     "callsign": "WDQ3079"
   },
   "367077220": {
