@@ -4622,5 +4622,13 @@
     "beam": 23,
     "destination": "CACSN",
     "callsign": "5LST2"
+  },
+  "246621000": {
+    "name": "FORTUNAGRACHT",
+    "type": 70,
+    "length": 137,
+    "beam": 19,
+    "destination": "CAHAM",
+    "callsign": "PBUU"
   }
 }
