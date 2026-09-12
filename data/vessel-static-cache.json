@@ -4630,5 +4630,13 @@
     "beam": 19,
     "destination": "CAHAM",
     "callsign": "PBUU"
+  },
+  "538008903": {
+    "name": "FEDERAL MOSEL",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "USDET",
+    "callsign": "V7ET7"
   }
 }
