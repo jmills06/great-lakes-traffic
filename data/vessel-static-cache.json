@@ -28,7 +28,7 @@
     "type": 33,
     "length": 27,
     "beam": 6,
-    "destination": "SURVEY",
+    "destination": "SUPERIOR, WI",
     "callsign": "WDD6962"
   },
   "316023274": {
@@ -2332,7 +2332,7 @@
     "type": 70,
     "length": 193,
     "beam": 21,
-    "destination": "ROUGE",
+    "destination": "CLEVELAND EAE",
     "callsign": "WZC7602"
   },
   "338425976": {
