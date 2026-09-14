@@ -4364,7 +4364,7 @@
     "type": 70,
     "length": 186,
     "beam": 24,
-    "destination": "CA TOR",
+    "destination": "CA MTR",
     "callsign": "D5KB4"
   },
   "212337000": {
@@ -4686,5 +4686,13 @@
     "beam": 24,
     "destination": "CAHAM",
     "callsign": "V7FY7"
+  },
+  "244770393": {
+    "name": "FWN SUN",
+    "type": 70,
+    "length": 123,
+    "beam": 17,
+    "destination": "CATHU",
+    "callsign": "PBXE"
   }
 }
