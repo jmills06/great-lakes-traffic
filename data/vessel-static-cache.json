@@ -196,7 +196,7 @@
     "type": 31,
     "length": 41,
     "beam": 15,
-    "destination": "MARBLEHEAD",
+    "destination": "CALCITE",
     "callsign": "WDJ4194"
   },
   "316045082": {
@@ -956,7 +956,7 @@
     "type": 52,
     "length": 24,
     "beam": 6,
-    "destination": "THOROLD",
+    "destination": "PORT COLBORNE",
     "callsign": "CFN5403"
   },
   "316001635": {
