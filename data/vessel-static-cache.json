@@ -4662,5 +4662,13 @@
     "beam": 21,
     "destination": "OSHAWA",
     "callsign": "CHAC"
+  },
+  "636018939": {
+    "name": "CHESTNUT",
+    "type": 70,
+    "length": 185,
+    "beam": 24,
+    "destination": "CA TOR",
+    "callsign": "D5SC9"
   }
 }
