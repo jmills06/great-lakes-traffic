@@ -1308,7 +1308,7 @@
     "type": 90,
     "length": 23,
     "beam": 6,
-    "destination": "SARNINA",
+    "destination": "BUOY OPS",
     "callsign": "CGJF"
   },
   "367794470": {
@@ -1724,7 +1724,7 @@
     "type": 60,
     "length": 92,
     "beam": 17,
-    "destination": "USDET",
+    "destination": "USCLE",
     "callsign": "C6YZ9"
   },
   "255802390": {
@@ -4694,5 +4694,13 @@
     "beam": 17,
     "destination": "CATHU",
     "callsign": "PBXE"
+  },
+  "255916527": {
+    "name": "POLSTEAM ROS",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "CA THD",
+    "callsign": "CQ2776"
   }
 }
