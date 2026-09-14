@@ -4670,5 +4670,21 @@
     "beam": 24,
     "destination": "CA TOR",
     "callsign": "D5SC9"
+  },
+  "538006351": {
+    "name": "FEDERAL BEAUFORT",
+    "type": 70,
+    "length": 200,
+    "beam": 23,
+    "destination": "CA THU",
+    "callsign": "V7MF7"
+  },
+  "538006419": {
+    "name": "FEDERAL BARENTS",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "CAHAM",
+    "callsign": "V7FY7"
   }
 }
