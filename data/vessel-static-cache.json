@@ -4718,5 +4718,13 @@
     "beam": 23,
     "destination": "USDTT",
     "callsign": "V2HJ4"
+  },
+  "366999981": {
+    "name": "CG NEAH BAY",
+    "type": 52,
+    "length": 42,
+    "beam": 12,
+    "destination": "CLEVELAND, OH",
+    "callsign": "NRUU"
   }
 }
