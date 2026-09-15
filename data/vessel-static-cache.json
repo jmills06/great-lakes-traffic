@@ -4702,5 +4702,13 @@
     "beam": 24,
     "destination": "CA THD",
     "callsign": "CQ2776"
+  },
+  "367043290": {
+    "name": "DIAMONDBELLE",
+    "type": 60,
+    "length": 26,
+    "beam": 9,
+    "destination": "",
+    "callsign": "WBT3954"
   }
 }
