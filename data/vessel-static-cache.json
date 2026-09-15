@@ -4710,5 +4710,13 @@
     "beam": 9,
     "destination": "",
     "callsign": "WBT3954"
+  },
+  "305434000": {
+    "name": "RONNIE",
+    "type": 70,
+    "length": 147,
+    "beam": 23,
+    "destination": "USDTT",
+    "callsign": "V2HJ4"
   }
 }
