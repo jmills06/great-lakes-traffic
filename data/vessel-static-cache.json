@@ -400,11 +400,11 @@
     "callsign": "WDC9450"
   },
   "316001096": {
-    "name": "MOLLY M1",
+    "name": "MOLLY M 1",
     "type": 31,
-    "length": 28,
-    "beam": 8,
-    "destination": "HAMILTON",
+    "length": 30,
+    "beam": 6,
+    "destination": "BELLDUNE",
     "callsign": "CYKB"
   },
   "303514000": {
@@ -2012,7 +2012,7 @@
     "type": 70,
     "length": 123,
     "beam": 23,
-    "destination": "BUFFALO",
+    "destination": "BATH,ON",
     "callsign": "CFA4550"
   },
   "366904910": {
