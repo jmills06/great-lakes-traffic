@@ -131,7 +131,7 @@
     "name": "CG BRISTOL BAY",
     "type": 52,
     "length": 42,
-    "beam": 12,
+    "beam": 11,
     "destination": "DETROIT MI",
     "callsign": "NRLY"
   },
@@ -4742,5 +4742,13 @@
     "beam": 6,
     "destination": "SAIL250",
     "callsign": "WDN4446"
+  },
+  "245297000": {
+    "name": "ELBEBORG",
+    "type": 70,
+    "length": 145,
+    "beam": 16,
+    "destination": "US CLE",
+    "callsign": "PBZJ"
   }
 }
