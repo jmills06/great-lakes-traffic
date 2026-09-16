@@ -188,7 +188,7 @@
     "type": 52,
     "length": 164,
     "beam": 23,
-    "destination": "BOWMANVILLE",
+    "destination": "DETROIT SMC ROUGE",
     "callsign": "CZ9891"
   },
   "338888000": {
@@ -2884,7 +2884,7 @@
     "type": 52,
     "length": 26,
     "beam": 8,
-    "destination": "HOIIAND",
+    "destination": "H0LLAND",
     "callsign": "WDI9913"
   },
   "369494424": {
@@ -4734,5 +4734,13 @@
     "beam": 6,
     "destination": "",
     "callsign": "A14"
+  },
+  "367070910": {
+    "name": "SEAWAY JENNIFER",
+    "type": 52,
+    "length": 20,
+    "beam": 6,
+    "destination": "SAIL250",
+    "callsign": "WDN4446"
   }
 }
