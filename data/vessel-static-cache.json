@@ -964,7 +964,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "SUPERIOR",
+    "destination": "QUEBEC",
     "callsign": "VGFJ"
   },
   "368437390": {
@@ -2180,7 +2180,7 @@
     "type": 70,
     "length": 145,
     "beam": 16,
-    "destination": "US POJ",
+    "destination": "CA MTR",
     "callsign": "PCUD"
   },
   "316001637": {
@@ -3268,7 +3268,7 @@
     "type": 70,
     "length": 200,
     "beam": 24,
-    "destination": "USCLE",
+    "destination": "USDET",
     "callsign": "V7RE7"
   },
   "369493763": {
