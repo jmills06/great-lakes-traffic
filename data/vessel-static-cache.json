@@ -196,7 +196,7 @@
     "type": 31,
     "length": 41,
     "beam": 15,
-    "destination": "CALCITE",
+    "destination": "SUPERIOR",
     "callsign": "WDJ4194"
   },
   "316045082": {
@@ -2260,7 +2260,7 @@
     "type": 70,
     "length": 207,
     "beam": 24,
-    "destination": "CAGOH",
+    "destination": "WINDSOR",
     "callsign": "VEOV"
   },
   "367679760": {
