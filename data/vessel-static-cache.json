@@ -924,7 +924,7 @@
     "type": 70,
     "length": 225,
     "beam": 25,
-    "destination": "WINDSOR",
+    "destination": "PICTON",
     "callsign": "CFN6287"
   },
   "316025881": {
@@ -2004,7 +2004,7 @@
     "type": 31,
     "length": 30,
     "beam": 10,
-    "destination": "OJIBWAY ANC",
+    "destination": "MISTERSKY FUEL",
     "callsign": "WDJ6009"
   },
   "316041965": {
