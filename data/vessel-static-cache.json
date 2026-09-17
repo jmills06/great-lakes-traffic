@@ -868,7 +868,7 @@
     "type": 69,
     "length": 92,
     "beam": 16,
-    "destination": "US CLE",
+    "destination": "US DET",
     "callsign": "C6YZ8"
   },
   "316001844": {
@@ -1524,7 +1524,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "MONTREAL",
+    "destination": "THUNDER BAY",
     "callsign": "CFK5151"
   },
   "367111050": {
