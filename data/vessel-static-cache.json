@@ -836,7 +836,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "DULUTH",
+    "destination": "BURNS HARBOR",
     "callsign": "WYQ4356"
   },
   "305594000": {
@@ -1476,7 +1476,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "SANDUSKY",
+    "destination": "HAMILTON",
     "callsign": "VCGJ"
   },
   "366930730": {
