@@ -1276,7 +1276,7 @@
     "type": 70,
     "length": 198,
     "beam": 24,
-    "destination": "THUNDERBAY",
+    "destination": "HAMILTON",
     "callsign": "VDAS"
   },
   "366912650": {
@@ -1724,7 +1724,7 @@
     "type": 60,
     "length": 92,
     "beam": 17,
-    "destination": "USCLE",
+    "destination": "CAPCO",
     "callsign": "C6YZ9"
   },
   "255802390": {
