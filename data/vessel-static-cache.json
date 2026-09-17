@@ -4758,5 +4758,13 @@
     "beam": 16,
     "destination": "LIME ISLAND",
     "callsign": "NRUS"
+  },
+  "256239000": {
+    "name": "MIEDWIE",
+    "type": 70,
+    "length": 190,
+    "beam": 24,
+    "destination": "US TOL",
+    "callsign": "9HA5757"
   }
 }
