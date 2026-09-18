@@ -1564,7 +1564,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "HAMILTON",
+    "destination": "COLBORNE",
     "callsign": "VDWB"
   },
   "367599370": {
@@ -2396,7 +2396,7 @@
     "type": 70,
     "length": 200,
     "beam": 23,
-    "destination": "CATHU",
+    "destination": "USBNB",
     "callsign": "V7NK8"
   },
   "316013966": {
@@ -4782,5 +4782,13 @@
     "beam": 3,
     "destination": "",
     "callsign": ""
+  },
+  "538011121": {
+    "name": "FEDERAL WISCONSIN",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "CATHU",
+    "callsign": "V7A6611"
   }
 }
