@@ -196,7 +196,7 @@
     "type": 31,
     "length": 41,
     "beam": 15,
-    "destination": "SUPERIOR",
+    "destination": "SUPERIOR CH79",
     "callsign": "WDJ4194"
   },
   "316045082": {
@@ -2196,7 +2196,7 @@
     "type": 33,
     "length": 53,
     "beam": 12,
-    "destination": "DULUTH",
+    "destination": "SAULT STE MARIE MI",
     "callsign": "WA09082"
   },
   "316053441": {
