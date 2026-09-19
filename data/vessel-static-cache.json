@@ -4814,5 +4814,13 @@
     "beam": 19,
     "destination": "DETROIT",
     "callsign": "WDB8793"
+  },
+  "210858000": {
+    "name": "PUNA",
+    "type": 70,
+    "length": 190,
+    "beam": 23,
+    "destination": "CA TOR",
+    "callsign": "5BMK6"
   }
 }
