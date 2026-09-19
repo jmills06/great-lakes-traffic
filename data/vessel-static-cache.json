@@ -68,7 +68,7 @@
     "type": 80,
     "length": 150,
     "beam": 23,
-    "destination": "CA MTR",
+    "destination": "CA OAK",
     "callsign": "SGTE"
   },
   "367745090": {
@@ -4284,7 +4284,7 @@
     "type": 79,
     "length": 190,
     "beam": 23,
-    "destination": "CA THU",
+    "destination": "CA MTR",
     "callsign": "9HA5760"
   },
   "338926176": {
