@@ -1120,12 +1120,12 @@
     "callsign": "VO7103"
   },
   "316045081": {
-    "name": "WM INGLIS",
+    "name": "M V WILLIAM INGLIS",
     "type": 60,
     "length": 0,
     "beam": 0,
     "destination": "",
-    "callsign": "VC 4139"
+    "callsign": "VC 4159"
   },
   "538004060": {
     "name": "FEDERAL KUSHIRO",
@@ -1500,7 +1500,7 @@
     "type": 52,
     "length": 262,
     "beam": 24,
-    "destination": "US^0VDT>?? ???",
+    "destination": "INDIANA HARBOR",
     "callsign": "WDH8351"
   },
   "367634750": {
@@ -4806,5 +4806,13 @@
     "beam": 0,
     "destination": "WHARF 10",
     "callsign": "VX4123"
+  },
+  "366964380": {
+    "name": "DETROIT PRINCESS",
+    "type": 0,
+    "length": 58,
+    "beam": 19,
+    "destination": "DETROIT",
+    "callsign": "WDB8793"
   }
 }
