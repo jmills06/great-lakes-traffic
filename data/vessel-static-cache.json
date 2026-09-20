@@ -740,7 +740,7 @@
     "type": 70,
     "length": 222,
     "beam": 23,
-    "destination": "CALCITE",
+    "destination": "GREEN BAY",
     "callsign": "WQZ7791"
   },
   "366848350": {
@@ -4068,7 +4068,7 @@
     "type": 60,
     "length": 131,
     "beam": 18,
-    "destination": "USMCD",
+    "destination": "USDTT",
     "callsign": "FLZG"
   },
   "245466000": {
