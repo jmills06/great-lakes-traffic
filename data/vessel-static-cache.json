@@ -4822,5 +4822,13 @@
     "beam": 23,
     "destination": "CA TOR",
     "callsign": "5BMK6"
+  },
+  "338426609": {
+    "name": "IRISH EXIT",
+    "type": 37,
+    "length": 7,
+    "beam": 2,
+    "destination": "FONDA NY",
+    "callsign": ""
   }
 }
