@@ -668,7 +668,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "GARY,IN",
+    "destination": "CONNEAUT,OH",
     "callsign": "WXN3191"
   },
   "316043882": {
@@ -1628,7 +1628,7 @@
     "type": 70,
     "length": 234,
     "beam": 22,
-    "destination": "DULUTH",
+    "destination": "IND HBR",
     "callsign": "WDH7557"
   },
   "368417090": {
@@ -2172,7 +2172,7 @@
     "type": 60,
     "length": 99,
     "beam": 17,
-    "destination": "MACKINAC ISL",
+    "destination": "CA SSM",
     "callsign": "V7RM9"
   },
   "244750716": {
