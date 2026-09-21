@@ -2148,7 +2148,7 @@
     "type": 70,
     "length": 193,
     "beam": 21,
-    "destination": "HOLLAND",
+    "destination": "SUPERIOR",
     "callsign": "WDH7561"
   },
   "316023275": {
@@ -3228,7 +3228,7 @@
     "type": 51,
     "length": 45,
     "beam": 10,
-    "destination": "SCI OPS",
+    "destination": "CASSM",
     "callsign": "CG2350"
   },
   "316014050": {
