@@ -4838,5 +4838,13 @@
     "beam": 22,
     "destination": "OSHAWA",
     "callsign": "VCSJ"
+  },
+  "256434000": {
+    "name": "SLAVYANKA",
+    "type": 70,
+    "length": 189,
+    "beam": 24,
+    "destination": "CA HAM",
+    "callsign": "9HA5837"
   }
 }
