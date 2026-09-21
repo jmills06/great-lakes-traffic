@@ -3268,7 +3268,7 @@
     "type": 70,
     "length": 200,
     "beam": 24,
-    "destination": "USDET",
+    "destination": "USMKE",
     "callsign": "V7RE7"
   },
   "369493763": {
@@ -3852,7 +3852,7 @@
     "type": 52,
     "length": 18,
     "beam": 7,
-    "destination": "DETROIT",
+    "destination": "CLEVELAND",
     "callsign": "WDK5734"
   },
   "538006785": {
