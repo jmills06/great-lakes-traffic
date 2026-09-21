@@ -2604,7 +2604,7 @@
     "type": 60,
     "length": 76,
     "beam": 16,
-    "destination": "MACKINAC IS,MI",
+    "destination": "MILWAUKEE,WI",
     "callsign": "WDQ3079"
   },
   "367077220": {
@@ -4068,7 +4068,7 @@
     "type": 60,
     "length": 131,
     "beam": 18,
-    "destination": "USDTT",
+    "destination": "USCLE",
     "callsign": "FLZG"
   },
   "245466000": {
