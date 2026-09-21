@@ -4846,5 +4846,13 @@
     "beam": 24,
     "destination": "CA HAM",
     "callsign": "9HA5837"
+  },
+  "316057215": {
+    "name": "FIREBOAT 334",
+    "type": 0,
+    "length": 11,
+    "beam": 5,
+    "destination": "GTA",
+    "callsign": ""
   }
 }
