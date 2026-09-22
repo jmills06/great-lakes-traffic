@@ -4854,5 +4854,13 @@
     "beam": 5,
     "destination": "GTA",
     "callsign": ""
+  },
+  "369990423": {
+    "name": "CG29423",
+    "type": 51,
+    "length": 8,
+    "beam": 3,
+    "destination": "",
+    "callsign": ""
   }
 }
