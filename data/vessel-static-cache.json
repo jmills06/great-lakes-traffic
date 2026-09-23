@@ -2012,7 +2012,7 @@
     "type": 70,
     "length": 123,
     "beam": 23,
-    "destination": "BATH,ON",
+    "destination": "OSWEGO",
     "callsign": "CFA4550"
   },
   "366904910": {
@@ -2148,7 +2148,7 @@
     "type": 70,
     "length": 193,
     "beam": 21,
-    "destination": "SUPERIOR",
+    "destination": "TOLEDO",
     "callsign": "WDH7561"
   },
   "316023275": {
