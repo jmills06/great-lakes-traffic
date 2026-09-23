@@ -604,7 +604,7 @@
     "type": 80,
     "length": 143,
     "beam": 23,
-    "destination": "CASVD",
+    "destination": "CANAN",
     "callsign": "VABY"
   },
   "244283000": {
@@ -1564,7 +1564,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "COLBORNE",
+    "destination": "CLARKSON",
     "callsign": "VDWB"
   },
   "367599370": {
