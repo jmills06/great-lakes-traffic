@@ -924,7 +924,7 @@
     "type": 70,
     "length": 225,
     "beam": 25,
-    "destination": "WINDSOR",
+    "destination": "CHICAGO",
     "callsign": "CFN6287"
   },
   "316025881": {
@@ -1300,7 +1300,7 @@
     "type": 70,
     "length": 194,
     "beam": 21,
-    "destination": "GODERICH",
+    "destination": "CHICAGO",
     "callsign": "VDBA"
   },
   "316001978": {
@@ -4870,5 +4870,13 @@
     "beam": 17,
     "destination": "USGRB",
     "callsign": "PCMN"
+  },
+  "255915813": {
+    "name": "POLSTEAM PILE",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "CA HAM",
+    "callsign": "CQ2271"
   }
 }
