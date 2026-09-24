@@ -131,7 +131,7 @@
     "name": "CG BRISTOL BAY",
     "type": 52,
     "length": 42,
-    "beam": 12,
+    "beam": 11,
     "destination": "DETROIT MI",
     "callsign": "NRLY"
   },
@@ -1212,7 +1212,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "SOREL",
+    "destination": "BAIE COMEAU",
     "callsign": "CFN4612"
   },
   "316004370": {
