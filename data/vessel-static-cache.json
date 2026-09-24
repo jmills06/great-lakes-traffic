@@ -612,7 +612,7 @@
     "type": 89,
     "length": 110,
     "beam": 18,
-    "destination": "USDET",
+    "destination": "CASNI",
     "callsign": "PCCB"
   },
   "368211020": {
@@ -2028,7 +2028,7 @@
     "type": 52,
     "length": 257,
     "beam": 23,
-    "destination": "CEDARVILLE",
+    "destination": "SOO",
     "callsign": "WDB9821"
   },
   "367341010": {
