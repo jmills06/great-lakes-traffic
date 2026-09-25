@@ -1204,7 +1204,7 @@
     "type": 70,
     "length": 224,
     "beam": 24,
-    "destination": "THUNDERBAY JRI",
+    "destination": "BAIE COMEAU",
     "callsign": "XJBH"
   },
   "316009457": {
@@ -1276,7 +1276,7 @@
     "type": 70,
     "length": 198,
     "beam": 24,
-    "destination": "GODERICH",
+    "destination": "HAMILTON",
     "callsign": "VDAS"
   },
   "366912650": {
