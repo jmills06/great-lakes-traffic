@@ -428,7 +428,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "HAMILTON",
+    "destination": "INDIANA HBR",
     "callsign": "VDAC"
   },
   "316003123": {
@@ -812,7 +812,7 @@
     "type": 70,
     "length": 140,
     "beam": 21,
-    "destination": "USROC",
+    "destination": "PICTON",
     "callsign": "VCAS"
   },
   "316052496": {
@@ -2100,7 +2100,7 @@
     "type": 52,
     "length": 178,
     "beam": 21,
-    "destination": "ALPENA",
+    "destination": "DETROIT",
     "callsign": "WCV7620"
   },
   "367739710": {
