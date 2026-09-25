@@ -188,7 +188,7 @@
     "type": 52,
     "length": 164,
     "beam": 23,
-    "destination": "HAMILTON",
+    "destination": "DETROIT SMC ROUGE",
     "callsign": "CZ9891"
   },
   "338888000": {
@@ -700,7 +700,7 @@
     "type": 80,
     "length": 144,
     "beam": 23,
-    "destination": "CA SNI",
+    "destination": "US GRB",
     "callsign": "CQ2445"
   },
   "367350620": {
