@@ -668,7 +668,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "CONNEAUT,OH",
+    "destination": "XX XXX>US^0N7F",
     "callsign": "WXN3191"
   },
   "316043882": {
@@ -756,7 +756,7 @@
     "type": 70,
     "length": 223,
     "beam": 24,
-    "destination": "HAMILTON",
+    "destination": "WINDSOR",
     "callsign": "CFN6288"
   },
   "366896890": {
@@ -2236,7 +2236,7 @@
     "type": 52,
     "length": 30,
     "beam": 8,
-    "destination": "MONROE",
+    "destination": "ROUGE",
     "callsign": "WDP6659"
   },
   "311033600": {
