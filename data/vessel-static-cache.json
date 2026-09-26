@@ -988,7 +988,7 @@
     "type": 70,
     "length": 191,
     "beam": 20,
-    "destination": "MONROE",
+    "destination": "MISTERSKYS",
     "callsign": "WDE3568"
   },
   "316002588": {
@@ -4894,5 +4894,13 @@
     "beam": 11,
     "destination": "USLMJ<>USLMJ",
     "callsign": "WDI9059"
+  },
+  "367760880": {
+    "name": "MALLARD",
+    "type": 37,
+    "length": 19,
+    "beam": 6,
+    "destination": "CRUISING",
+    "callsign": ""
   }
 }
