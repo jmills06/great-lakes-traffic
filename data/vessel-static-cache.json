@@ -4890,8 +4890,8 @@
   "367744840": {
     "name": "CHICAGO TRADER",
     "type": 57,
-    "length": 81,
-    "beam": 11,
+    "length": 59,
+    "beam": 17,
     "destination": "USLMJ<>USLMJ",
     "callsign": "WDI9059"
   },
