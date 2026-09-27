@@ -2012,7 +2012,7 @@
     "type": 70,
     "length": 123,
     "beam": 23,
-    "destination": "BATH,ON",
+    "destination": "TORONTO,ON",
     "callsign": "CFA4550"
   },
   "366904910": {
@@ -4926,5 +4926,13 @@
     "beam": 24,
     "destination": "CAHAM",
     "callsign": "YMB8335"
+  },
+  "538006470": {
+    "name": "FEDERAL CLYDE",
+    "type": 70,
+    "length": 200,
+    "beam": 22,
+    "destination": "USCLE",
+    "callsign": "V7NK4"
   }
 }
