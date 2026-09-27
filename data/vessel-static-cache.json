@@ -4918,5 +4918,13 @@
     "beam": 4,
     "destination": "",
     "callsign": ""
+  },
+  "271053634": {
+    "name": "THEO G",
+    "type": 70,
+    "length": 185,
+    "beam": 24,
+    "destination": "CAHAM",
+    "callsign": "YMB8335"
   }
 }
