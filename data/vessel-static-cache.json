@@ -196,7 +196,7 @@
     "type": 31,
     "length": 41,
     "beam": 15,
-    "destination": "SUPERIOR CH79",
+    "destination": "BUFFALO",
     "callsign": "WDJ4194"
   },
   "316045082": {
@@ -2100,7 +2100,7 @@
     "type": 52,
     "length": 178,
     "beam": 21,
-    "destination": "TOLEDO",
+    "destination": "ALPENA",
     "callsign": "WCV7620"
   },
   "367739710": {
