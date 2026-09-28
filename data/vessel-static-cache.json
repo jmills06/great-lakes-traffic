@@ -4934,5 +4934,13 @@
     "beam": 22,
     "destination": "USCLE",
     "callsign": "V7NK4"
+  },
+  "305343000": {
+    "name": "BBC EAGLE",
+    "type": 70,
+    "length": 139,
+    "beam": 20,
+    "destination": "USBNB",
+    "callsign": "V2DU9"
   }
 }
