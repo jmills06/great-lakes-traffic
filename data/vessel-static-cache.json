@@ -4942,5 +4942,13 @@
     "beam": 20,
     "destination": "USBNB",
     "callsign": "V2DU9"
+  },
+  "367666850": {
+    "name": "SARAH ANDRIE",
+    "type": 52,
+    "length": 36,
+    "beam": 10,
+    "destination": "LUDINGTON",
+    "callsign": "WDH9321"
   }
 }
