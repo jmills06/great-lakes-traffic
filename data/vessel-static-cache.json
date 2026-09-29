@@ -740,7 +740,7 @@
     "type": 70,
     "length": 222,
     "beam": 23,
-    "destination": "CLEVELAND",
+    "destination": "STONEPORT",
     "callsign": "WQZ7791"
   },
   "366848350": {
@@ -2572,7 +2572,7 @@
     "type": 70,
     "length": 201,
     "beam": 21,
-    "destination": "CLEVELAND UPPER",
+    "destination": "MISTERSKY",
     "callsign": "WC5932"
   },
   "367778090": {
