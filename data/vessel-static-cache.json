@@ -852,7 +852,7 @@
     "type": 70,
     "length": 153,
     "beam": 20,
-    "destination": "ALPENA",
+    "destination": "DETROIT",
     "callsign": "WAV4647"
   },
   "316031354": {
@@ -1100,7 +1100,7 @@
     "type": 70,
     "length": 192,
     "beam": 21,
-    "destination": "SOO",
+    "destination": "SAGINAW",
     "callsign": "CFN4934"
   },
   "367121010": {
@@ -1492,7 +1492,7 @@
     "type": 70,
     "length": 140,
     "beam": 21,
-    "destination": "CABCO",
+    "destination": "CAHAM",
     "callsign": "XJBZ"
   },
   "338866000": {
