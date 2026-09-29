@@ -268,7 +268,7 @@
     "type": 52,
     "length": 33,
     "beam": 10,
-    "destination": "ERIE",
+    "destination": "CHEBOYGAN",
     "callsign": "WDL5580"
   },
   "367073840": {
@@ -820,7 +820,7 @@
     "type": 70,
     "length": 155,
     "beam": 22,
-    "destination": "BRUCE MINES",
+    "destination": "CHEBOYGAN",
     "callsign": "VDAK"
   },
   "368220270": {
