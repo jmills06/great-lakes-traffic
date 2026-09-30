@@ -4966,5 +4966,13 @@
     "beam": 7,
     "destination": "",
     "callsign": ""
+  },
+  "338926186": {
+    "name": "CG26186",
+    "type": 51,
+    "length": 7,
+    "beam": 3,
+    "destination": "",
+    "callsign": ""
   }
 }
