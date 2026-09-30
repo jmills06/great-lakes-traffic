@@ -2060,7 +2060,7 @@
     "type": 31,
     "length": 150,
     "beam": 18,
-    "destination": "GRAND HAVEN",
+    "destination": "HOLLAND",
     "callsign": "WDM2009"
   },
   "367023080": {
@@ -2572,7 +2572,7 @@
     "type": 70,
     "length": 201,
     "beam": 21,
-    "destination": "MISTERSKY",
+    "destination": "PORT INLAND, MI",
     "callsign": "WC5932"
   },
   "367778090": {
