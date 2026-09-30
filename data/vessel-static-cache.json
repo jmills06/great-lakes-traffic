@@ -4950,5 +4950,13 @@
     "beam": 10,
     "destination": "LUDINGTON",
     "callsign": "WDH9321"
+  },
+  "316013980": {
+    "name": "RADCLIFFE R LATIMER",
+    "type": 70,
+    "length": 225,
+    "beam": 24,
+    "destination": "BOWMANVILLE",
+    "callsign": "VCPK"
   }
 }
