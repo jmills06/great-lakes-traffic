@@ -4958,5 +4958,13 @@
     "beam": 24,
     "destination": "BOWMANVILLE",
     "callsign": "VCPK"
+  },
+  "368191940": {
+    "name": "OSPREY",
+    "type": 52,
+    "length": 16,
+    "beam": 7,
+    "destination": "",
+    "callsign": ""
   }
 }
