@@ -4982,5 +4982,13 @@
     "beam": 22,
     "destination": "CA WND",
     "callsign": "9HA5274"
+  },
+  "338244069": {
+    "name": "SUSAN LEE",
+    "type": 99,
+    "length": 15,
+    "beam": 14,
+    "destination": "",
+    "callsign": "WY5920"
   }
 }
