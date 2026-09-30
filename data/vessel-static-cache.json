@@ -4974,5 +4974,13 @@
     "beam": 3,
     "destination": "",
     "callsign": ""
+  },
+  "215766000": {
+    "name": "HANSEATICINSPIRATION",
+    "type": 60,
+    "length": 139,
+    "beam": 22,
+    "destination": "CA WND",
+    "callsign": "9HA5274"
   }
 }
