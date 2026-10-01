@@ -4990,5 +4990,13 @@
     "beam": 14,
     "destination": "",
     "callsign": "WY5920"
+  },
+  "338926172": {
+    "name": "CG26172",
+    "type": 51,
+    "length": 7,
+    "beam": 3,
+    "destination": "",
+    "callsign": ""
   }
 }
