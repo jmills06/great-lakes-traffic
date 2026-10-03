@@ -868,7 +868,7 @@
     "type": 69,
     "length": 92,
     "beam": 16,
-    "destination": "CA TOR",
+    "destination": "CA MTR",
     "callsign": "C6YZ8"
   },
   "316001844": {
@@ -1396,7 +1396,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "THUNDER BAY",
+    "destination": "GODERICH",
     "callsign": "VBCD"
   },
   "367688370": {
