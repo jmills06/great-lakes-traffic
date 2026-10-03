@@ -5006,5 +5006,13 @@
     "beam": 23,
     "destination": "CA SNI",
     "callsign": "V7A4878"
+  },
+  "305081000": {
+    "name": "BBC PHILIPPINES",
+    "type": 70,
+    "length": 147,
+    "beam": 23,
+    "destination": "USSUE",
+    "callsign": "V2HP6"
   }
 }
