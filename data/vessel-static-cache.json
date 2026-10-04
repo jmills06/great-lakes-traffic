@@ -612,7 +612,7 @@
     "type": 89,
     "length": 110,
     "beam": 18,
-    "destination": "USDET",
+    "destination": "CASNI",
     "callsign": "PCCB"
   },
   "368211020": {
@@ -5022,5 +5022,13 @@
     "beam": 17,
     "destination": "US DET",
     "callsign": "PBMH"
+  },
+  "367161610": {
+    "name": "D. J. ANGUS",
+    "type": 0,
+    "length": 13,
+    "beam": 5,
+    "destination": "",
+    "callsign": "WTX5886"
   }
 }
