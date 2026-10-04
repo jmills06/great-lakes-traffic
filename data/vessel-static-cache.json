@@ -612,7 +612,7 @@
     "type": 89,
     "length": 110,
     "beam": 18,
-    "destination": "CASNI",
+    "destination": "USDET",
     "callsign": "PCCB"
   },
   "368211020": {
@@ -3068,7 +3068,7 @@
     "type": 37,
     "length": 27,
     "beam": 12,
-    "destination": "PORT HURON",
+    "destination": "HOLLAND",
     "callsign": "WDQ7669"
   },
   "532040000": {
