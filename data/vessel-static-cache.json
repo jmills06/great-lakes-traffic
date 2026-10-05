@@ -964,7 +964,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "SUPERIOR",
+    "destination": "QUEBEC",
     "callsign": "VGFJ"
   },
   "368437390": {
@@ -2604,7 +2604,7 @@
     "type": 60,
     "length": 76,
     "beam": 16,
-    "destination": "DETROIT,MI",
+    "destination": "WELLAND",
     "callsign": "WDQ3079"
   },
   "367077220": {
