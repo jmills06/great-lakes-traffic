@@ -428,7 +428,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "DETROIT",
+    "destination": "THUNDER BAY",
     "callsign": "VDAC"
   },
   "316003123": {
@@ -4868,7 +4868,7 @@
     "type": 70,
     "length": 155,
     "beam": 17,
-    "destination": "USTOL",
+    "destination": "CAMTR",
     "callsign": "PCMN"
   },
   "255915813": {
