@@ -5054,5 +5054,13 @@
     "beam": 6,
     "destination": "MICHIGAN CITY",
     "callsign": "WSF6691"
+  },
+  "367756630": {
+    "name": "MISS ELLIE",
+    "type": 57,
+    "length": 216,
+    "beam": 18,
+    "destination": "US^0YBL>06CH",
+    "callsign": "WDJ2256"
   }
 }
