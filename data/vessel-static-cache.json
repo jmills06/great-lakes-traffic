@@ -2100,7 +2100,7 @@
     "type": 52,
     "length": 178,
     "beam": 21,
-    "destination": "S.CHICAGO",
+    "destination": "MILWAUKEE",
     "callsign": "WCV7620"
   },
   "367739710": {
@@ -4748,7 +4748,7 @@
     "type": 70,
     "length": 145,
     "beam": 16,
-    "destination": "US DET",
+    "destination": "IE WAT",
     "callsign": "PBZJ"
   },
   "366999980": {
