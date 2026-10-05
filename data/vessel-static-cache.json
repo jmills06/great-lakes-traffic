@@ -676,7 +676,7 @@
     "type": 70,
     "length": 198,
     "beam": 24,
-    "destination": "SUPERIOR",
+    "destination": "HAMILTON",
     "callsign": "VABC"
   },
   "316045069": {
@@ -4124,7 +4124,7 @@
     "type": 70,
     "length": 193,
     "beam": 22,
-    "destination": "MUSKEGON",
+    "destination": "SERPENT HARBOR",
     "callsign": "VYA2010"
   },
   "367709820": {
