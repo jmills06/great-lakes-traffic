@@ -3164,7 +3164,7 @@
     "type": 52,
     "length": 21,
     "beam": 6,
-    "destination": "DULUTH",
+    "destination": "WASHBURN",
     "callsign": "WDE4192"
   },
   "316014060": {
@@ -4980,7 +4980,7 @@
     "type": 60,
     "length": 139,
     "beam": 22,
-    "destination": "TOBERMORY",
+    "destination": "US SSM",
     "callsign": "9HA5274"
   },
   "338244069": {
