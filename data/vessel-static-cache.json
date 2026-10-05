@@ -5062,5 +5062,13 @@
     "beam": 18,
     "destination": "US^0YBL>06CH",
     "callsign": "WDJ2256"
+  },
+  "249142000": {
+    "name": "KOZNITZA",
+    "type": 70,
+    "length": 189,
+    "beam": 23,
+    "destination": "US BUF",
+    "callsign": "9HA6123"
   }
 }
