@@ -988,7 +988,7 @@
     "type": 70,
     "length": 191,
     "beam": 20,
-    "destination": "DRU",
+    "destination": "FAIRPORT",
     "callsign": "WDE3568"
   },
   "316002588": {
@@ -5070,5 +5070,13 @@
     "beam": 23,
     "destination": "US BUF",
     "callsign": "9HA6123"
+  },
+  "369990420": {
+    "name": "CG29420",
+    "type": 51,
+    "length": 8,
+    "beam": 3,
+    "destination": "",
+    "callsign": "CG29420"
   }
 }
