@@ -5078,5 +5078,13 @@
     "beam": 3,
     "destination": "",
     "callsign": "CG29420"
+  },
+  "338055535": {
+    "name": "NOAA LAURENTIAN",
+    "type": 59,
+    "length": 24,
+    "beam": 7,
+    "destination": "MUSKEGON,MI",
+    "callsign": ""
   }
 }
