@@ -260,7 +260,7 @@
     "type": 52,
     "length": 41,
     "beam": 11,
-    "destination": "CHARLEVOIX MI",
+    "destination": "CHICAGO IL",
     "callsign": "WDK8680"
   },
   "366988420": {
@@ -2756,7 +2756,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "SUPERIOR .WISC",
+    "destination": "HAMILTON",
     "callsign": "CFFO"
   },
   "367649730": {
