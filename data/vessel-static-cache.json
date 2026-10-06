@@ -5086,5 +5086,13 @@
     "beam": 7,
     "destination": "MUSKEGON,MI",
     "callsign": ""
+  },
+  "367313340": {
+    "name": "VALERIE B",
+    "type": 90,
+    "length": 23,
+    "beam": 7,
+    "destination": "SOO LOCKS",
+    "callsign": "WDD9579"
   }
 }
