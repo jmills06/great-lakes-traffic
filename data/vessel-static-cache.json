@@ -156,7 +156,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "THUUNDER BAY",
+    "destination": "BAIE COMEAU",
     "callsign": "XJBK"
   },
   "316048071": {
@@ -5116,7 +5116,7 @@
     "type": 70,
     "length": 149,
     "beam": 23,
-    "destination": "CAHAM",
+    "destination": "CAMTR",
     "callsign": "V2HX5"
   }
 }
