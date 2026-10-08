@@ -196,7 +196,7 @@
     "type": 31,
     "length": 41,
     "beam": 15,
-    "destination": "SILVER BAY",
+    "destination": "TOLEDO",
     "callsign": "WDJ4194"
   },
   "316045082": {
@@ -2980,7 +2980,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "BURNS HARBOR",
+    "destination": "SUPERIOR",
     "callsign": "WDC6055"
   },
   "368017750": {
