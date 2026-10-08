@@ -924,7 +924,7 @@
     "type": 70,
     "length": 225,
     "beam": 25,
-    "destination": "WINDSOR",
+    "destination": "THUNDER BAY",
     "callsign": "CFN6287"
   },
   "316025881": {
@@ -1740,7 +1740,7 @@
     "type": 52,
     "length": 45,
     "beam": 22,
-    "destination": "SUPERIOR",
+    "destination": "ALPENA",
     "callsign": "WDC8307"
   },
   "316024256": {
