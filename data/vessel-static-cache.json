@@ -5134,5 +5134,13 @@
     "beam": 0,
     "destination": "TORONTO",
     "callsign": ""
+  },
+  "316037865": {
+    "name": "PELEE ISLANDER II",
+    "type": 60,
+    "length": 67,
+    "beam": 15,
+    "destination": "PELEE_LEAMINGTON",
+    "callsign": "CFK3147"
   }
 }
