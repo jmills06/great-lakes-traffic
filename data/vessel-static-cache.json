@@ -5118,5 +5118,13 @@
     "beam": 23,
     "destination": "CAMTR",
     "callsign": "V2HX5"
+  },
+  "316060882": {
+    "name": "HARRIET M",
+    "type": 32,
+    "length": 28,
+    "beam": 8,
+    "destination": "HOMEWARD BOUND",
+    "callsign": "WXT3652"
   }
 }
