@@ -2260,7 +2260,7 @@
     "type": 70,
     "length": 207,
     "beam": 24,
-    "destination": "SOMBRA",
+    "destination": "MELDRUM BAY",
     "callsign": "VEOV"
   },
   "367679760": {
@@ -3764,7 +3764,7 @@
     "type": 89,
     "length": 136,
     "beam": 20,
-    "destination": "CAMTR",
+    "destination": "CACSN",
     "callsign": "VBAJ"
   },
   "367793980": {
