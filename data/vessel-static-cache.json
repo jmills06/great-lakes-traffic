@@ -5142,5 +5142,13 @@
     "beam": 15,
     "destination": "PELEE_LEAMINGTON",
     "callsign": "CFK3147"
+  },
+  "367789620": {
+    "name": "NELS.J",
+    "type": 52,
+    "length": 32,
+    "beam": 8,
+    "destination": "DULUTH,MN",
+    "callsign": "WDJ5618"
   }
 }
