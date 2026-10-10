@@ -852,7 +852,7 @@
     "type": 70,
     "length": 153,
     "beam": 20,
-    "destination": "DETROIT",
+    "destination": "CLEVELAND",
     "callsign": "WAV4647"
   },
   "316031354": {
@@ -1972,7 +1972,7 @@
     "type": 60,
     "length": 204,
     "beam": 24,
-    "destination": "CATOR",
+    "destination": "CATRR",
     "callsign": "LAGY8"
   },
   "366936810": {
