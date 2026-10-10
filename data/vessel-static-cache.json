@@ -5166,5 +5166,13 @@
     "beam": 21,
     "destination": "BEZEL",
     "callsign": "CRYC"
+  },
+  "244810209": {
+    "name": "TRINITYBORG",
+    "type": 70,
+    "length": 173,
+    "beam": 22,
+    "destination": "CAWND",
+    "callsign": "PCWU"
   }
 }
