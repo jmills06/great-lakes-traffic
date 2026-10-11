@@ -5174,5 +5174,13 @@
     "beam": 22,
     "destination": "CAWND",
     "callsign": "PCWU"
+  },
+  "538006781": {
+    "name": "FEDERAL KUMANO",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "CAHAM",
+    "callsign": "V7RF4"
   }
 }
