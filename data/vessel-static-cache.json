@@ -852,7 +852,7 @@
     "type": 70,
     "length": 153,
     "beam": 20,
-    "destination": "CLEVELAND",
+    "destination": "ALPENA",
     "callsign": "WAV4647"
   },
   "316031354": {
@@ -1740,7 +1740,7 @@
     "type": 52,
     "length": 45,
     "beam": 22,
-    "destination": "ALPENA",
+    "destination": "TOLEDO",
     "callsign": "WDC8307"
   },
   "316024256": {
