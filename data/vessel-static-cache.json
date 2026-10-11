@@ -1681,7 +1681,7 @@
   },
   "368088860": {
     "name": "ROBERT H",
-    "type": 0,
+    "type": 37,
     "length": 18,
     "beam": 5,
     "destination": "",
@@ -1876,7 +1876,7 @@
     "type": 52,
     "length": 152,
     "beam": 23,
-    "destination": "GREEN BAY",
+    "destination": "NANTICOKE",
     "callsign": "WDK3153"
   },
   "367148850": {
