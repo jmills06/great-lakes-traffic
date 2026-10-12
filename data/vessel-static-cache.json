@@ -188,7 +188,7 @@
     "type": 52,
     "length": 164,
     "beam": 23,
-    "destination": "DETROIT SMC ROUGE",
+    "destination": "BOWMANVILLE",
     "callsign": "CZ9891"
   },
   "338888000": {
@@ -3820,7 +3820,7 @@
     "type": 85,
     "length": 130,
     "beam": 20,
-    "destination": "CA NAN > ?? ???",
+    "destination": "CA SNI > US PVD",
     "callsign": "CQ2913"
   },
   "538008469": {
