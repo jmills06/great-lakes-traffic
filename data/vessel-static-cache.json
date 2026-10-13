@@ -1108,7 +1108,7 @@
     "type": 1,
     "length": 305,
     "beam": 32,
-    "destination": "DULUTH",
+    "destination": "TWO HARBORS",
     "callsign": "WDD2876"
   },
   "316005305": {
@@ -1564,7 +1564,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "CLARKSON",
+    "destination": "COLBORNE",
     "callsign": "VDWB"
   },
   "367599370": {
