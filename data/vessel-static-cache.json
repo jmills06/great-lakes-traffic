@@ -1100,7 +1100,7 @@
     "type": 70,
     "length": 192,
     "beam": 21,
-    "destination": "GODERICH",
+    "destination": "SANDUSKY",
     "callsign": "CFN4934"
   },
   "367121010": {
@@ -1276,7 +1276,7 @@
     "type": 70,
     "length": 198,
     "beam": 24,
-    "destination": "MILWAUKEE",
+    "destination": "WINDSOR",
     "callsign": "VDAS"
   },
   "366912650": {
@@ -2092,7 +2092,7 @@
     "type": 79,
     "length": 222,
     "beam": 24,
-    "destination": "INDIANA HARBOR",
+    "destination": "MARQUETTE MI",
     "callsign": "WXY6216"
   },
   "366937490": {
