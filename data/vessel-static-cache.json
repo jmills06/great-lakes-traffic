@@ -180,7 +180,7 @@
     "type": 70,
     "length": 222,
     "beam": 24,
-    "destination": "NANTICOKE",
+    "destination": "CLARKSON",
     "callsign": "VGWM"
   },
   "316002063": {
@@ -988,7 +988,7 @@
     "type": 70,
     "length": 191,
     "beam": 20,
-    "destination": "CED",
+    "destination": "FAIRPORT",
     "callsign": "WDE3568"
   },
   "316002588": {
@@ -2012,7 +2012,7 @@
     "type": 70,
     "length": 123,
     "beam": 23,
-    "destination": "BATH,ON",
+    "destination": "TORONTO,ON",
     "callsign": "CFA4550"
   },
   "366904910": {
