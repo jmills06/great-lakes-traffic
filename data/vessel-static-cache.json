@@ -484,7 +484,7 @@
     "type": 70,
     "length": 304,
     "beam": 32,
-    "destination": "DULUTH",
+    "destination": "INDIANA HARBOR",
     "callsign": "WDC6027"
   },
   "316015050": {
@@ -1420,7 +1420,7 @@
     "type": 69,
     "length": 204,
     "beam": 24,
-    "destination": "CATRR",
+    "destination": "TORONTO,CA",
     "callsign": "LAGZ8"
   },
   "366938780": {
