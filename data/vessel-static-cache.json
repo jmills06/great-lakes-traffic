@@ -500,7 +500,7 @@
     "type": 70,
     "length": 215,
     "beam": 24,
-    "destination": "TOLEDO",
+    "destination": "DULUTH",
     "callsign": "WZD2465"
   },
   "367360260": {
@@ -1092,7 +1092,7 @@
     "type": 60,
     "length": 28,
     "beam": 10,
-    "destination": "CHICAGO EXCURSION",
+    "destination": "MANITOWOC-WI",
     "callsign": "WDH3529"
   },
   "316011905": {
