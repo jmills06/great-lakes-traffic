@@ -1546,7 +1546,7 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 10,
+    "length": 12,
     "beam": 4,
     "destination": "",
     "callsign": ""
@@ -2572,7 +2572,7 @@
     "type": 70,
     "length": 201,
     "beam": 21,
-    "destination": "INDIANA HARBOR, IN",
+    "destination": "PORT DOLOMITE MI",
     "callsign": "WC5932"
   },
   "367778090": {
