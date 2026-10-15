@@ -700,7 +700,7 @@
     "type": 80,
     "length": 144,
     "beam": 23,
-    "destination": "CA SNI",
+    "destination": "CA MTR",
     "callsign": "CQ2445"
   },
   "367350620": {
@@ -1740,7 +1740,7 @@
     "type": 52,
     "length": 45,
     "beam": 22,
-    "destination": "CLEVELAND",
+    "destination": "ALPENA",
     "callsign": "WDC8307"
   },
   "316024256": {
@@ -1860,7 +1860,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "DULUTH CH 74",
+    "destination": "CONNEAUT CH 74",
     "callsign": "WXU3434"
   },
   "244060083": {
@@ -3260,7 +3260,7 @@
     "type": 70,
     "length": 185,
     "beam": 24,
-    "destination": "CA THU",
+    "destination": "CA HAM",
     "callsign": "5BBK2"
   },
   "538006778": {
