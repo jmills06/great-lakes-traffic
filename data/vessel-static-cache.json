@@ -5198,5 +5198,13 @@
     "beam": 21,
     "destination": "USCLE",
     "callsign": "V2DC9"
+  },
+  "366999529": {
+    "name": "CGC BUCKTHORN",
+    "type": 99,
+    "length": 29,
+    "beam": 7,
+    "destination": "STURGEON BAY, WI",
+    "callsign": "NADT"
   }
 }
