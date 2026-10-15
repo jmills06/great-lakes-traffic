@@ -1051,8 +1051,8 @@
     "name": "WILF SEYMOUR",
     "type": 52,
     "length": 159,
-    "beam": 25,
-    "destination": "OSWEGO",
+    "beam": 24,
+    "destination": "TOLEDO",
     "callsign": "CFG8081"
   },
   "538006469": {
@@ -2604,7 +2604,7 @@
     "type": 60,
     "length": 76,
     "beam": 16,
-    "destination": "OGDENSBURG,NY",
+    "destination": "ROCHESTER,NY",
     "callsign": "WDQ3079"
   },
   "367077220": {
