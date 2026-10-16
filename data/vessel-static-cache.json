@@ -820,7 +820,7 @@
     "type": 70,
     "length": 155,
     "beam": 22,
-    "destination": "MARBLEHEAD",
+    "destination": "DETROIT",
     "callsign": "VDAK"
   },
   "368220270": {
@@ -2300,7 +2300,7 @@
     "type": 90,
     "length": 30,
     "beam": 10,
-    "destination": "PICTON",
+    "destination": "TORONTO",
     "callsign": "CFA2363"
   },
   "229594000": {
