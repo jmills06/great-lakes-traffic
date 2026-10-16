@@ -5222,5 +5222,13 @@
     "beam": 23,
     "destination": "USBNB",
     "callsign": "V2HK6"
+  },
+  "366999985": {
+    "name": "CG MORRO BAY",
+    "type": 52,
+    "length": 42,
+    "beam": 12,
+    "destination": "CLEVELAND MOORINGS",
+    "callsign": "NMHK"
   }
 }
