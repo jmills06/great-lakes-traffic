@@ -5230,5 +5230,13 @@
     "beam": 12,
     "destination": "CLEVELAND MOORINGS",
     "callsign": "NMHK"
+  },
+  "255916298": {
+    "name": "POLSTEAM LEBSKO",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "USCHI",
+    "callsign": "CQ2727"
   }
 }
