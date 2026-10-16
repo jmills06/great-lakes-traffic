@@ -180,7 +180,7 @@
     "type": 70,
     "length": 222,
     "beam": 24,
-    "destination": "CLARKSON",
+    "destination": "SUPERIOR",
     "callsign": "VGWM"
   },
   "316002063": {
@@ -908,7 +908,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "HAMILTON",
+    "destination": "THUNDER BAY",
     "callsign": "CFK9796"
   },
   "316005239": {
