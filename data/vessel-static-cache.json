@@ -196,7 +196,7 @@
     "type": 31,
     "length": 41,
     "beam": 15,
-    "destination": "TOLEDO",
+    "destination": "DETROIT ROUGE",
     "callsign": "WDJ4194"
   },
   "316045082": {
@@ -996,7 +996,7 @@
     "type": 65,
     "length": 33,
     "beam": 9,
-    "destination": "BROCKVILLE",
+    "destination": "GANANOQUE",
     "callsign": "VX6095"
   },
   "316036229": {
