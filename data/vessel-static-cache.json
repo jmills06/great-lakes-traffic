@@ -1321,11 +1321,11 @@
   },
   "367396720": {
     "name": "STAR OF CHICAGO",
-    "type": 6,
+    "type": 99,
     "length": 20,
     "beam": 7,
     "destination": "USCHI><USCHI",
-    "callsign": "WCZ2384"
+    "callsign": "WCZ2383"
   },
   "367496450": {
     "name": "ASAP",
