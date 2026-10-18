@@ -5246,5 +5246,13 @@
     "beam": 24,
     "destination": "CAOSH",
     "callsign": "9HA2725"
+  },
+  "246733000": {
+    "name": "BANDURA",
+    "type": 70,
+    "length": 118,
+    "beam": 16,
+    "destination": "CAHAM",
+    "callsign": "PCEE"
   }
 }
