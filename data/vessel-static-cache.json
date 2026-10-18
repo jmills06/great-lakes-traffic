@@ -1132,7 +1132,7 @@
     "type": 70,
     "length": 190,
     "beam": 24,
-    "destination": "US DTT",
+    "destination": "GI GIB",
     "callsign": "V7UY9"
   },
   "367527820": {
@@ -1546,7 +1546,7 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 12,
+    "length": 10,
     "beam": 4,
     "destination": "",
     "callsign": ""
@@ -5238,5 +5238,13 @@
     "beam": 24,
     "destination": "USCHI",
     "callsign": "CQ2727"
+  },
+  "215400000": {
+    "name": "OSOGOVO",
+    "type": 79,
+    "length": 186,
+    "beam": 24,
+    "destination": "CAOSH",
+    "callsign": "9HA2725"
   }
 }
