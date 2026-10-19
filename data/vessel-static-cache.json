@@ -612,7 +612,7 @@
     "type": 89,
     "length": 110,
     "beam": 18,
-    "destination": "CASNI",
+    "destination": "USDET",
     "callsign": "PCCB"
   },
   "368211020": {
@@ -1276,7 +1276,7 @@
     "type": 70,
     "length": 198,
     "beam": 24,
-    "destination": "THUNDER BAY",
+    "destination": "HAMILTON",
     "callsign": "VDAS"
   },
   "366912650": {
@@ -1828,7 +1828,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "GARY",
+    "destination": "TWO HARBORS",
     "callsign": "WDD2875"
   },
   "369493832": {
