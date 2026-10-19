@@ -500,7 +500,7 @@
     "type": 70,
     "length": 215,
     "beam": 24,
-    "destination": "THUNDER BAY",
+    "destination": "BUFFALO",
     "callsign": "WZD2465"
   },
   "367360260": {
@@ -2756,7 +2756,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "HAMILTON",
+    "destination": "THUNDER BAY",
     "callsign": "CFFO"
   },
   "367649730": {
