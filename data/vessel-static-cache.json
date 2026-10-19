@@ -964,7 +964,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "SUPERIOR",
+    "destination": "QUEBEC",
     "callsign": "VGFJ"
   },
   "368437390": {
@@ -3228,7 +3228,7 @@
     "type": 51,
     "length": 45,
     "beam": 10,
-    "destination": "BURLINGTON",
+    "destination": "SCIENCE",
     "callsign": "CG2350"
   },
   "316014050": {
