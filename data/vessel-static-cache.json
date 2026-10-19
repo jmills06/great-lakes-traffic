@@ -1546,7 +1546,7 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 10,
+    "length": 12,
     "beam": 4,
     "destination": "",
     "callsign": ""
@@ -5262,5 +5262,13 @@
     "beam": 3,
     "destination": "",
     "callsign": ""
+  },
+  "636093140": {
+    "name": "AL MANAMAH",
+    "type": 71,
+    "length": 307,
+    "beam": 40,
+    "destination": "USORF",
+    "callsign": "D5MD7"
   }
 }
