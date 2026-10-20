@@ -5270,5 +5270,13 @@
     "beam": 40,
     "destination": "USORF",
     "callsign": "D5MD7"
+  },
+  "255804280": {
+    "name": "HARBOUR FEATURE",
+    "type": 89,
+    "length": 144,
+    "beam": 24,
+    "destination": "CACSN",
+    "callsign": "CQNX"
   }
 }
