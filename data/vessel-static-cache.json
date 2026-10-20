@@ -2188,7 +2188,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "NANTICOKE",
+    "destination": "HAMILTON",
     "callsign": "VCJW"
   },
   "338021074": {
@@ -2276,7 +2276,7 @@
     "type": 70,
     "length": 200,
     "beam": 24,
-    "destination": "USCLE",
+    "destination": "USDET",
     "callsign": "V7RE9"
   },
   "368261230": {
