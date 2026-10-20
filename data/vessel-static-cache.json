@@ -1828,7 +1828,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "TWO HARBORS",
+    "destination": "DULUTH",
     "callsign": "WDD2875"
   },
   "369493832": {
@@ -2716,7 +2716,7 @@
     "type": 70,
     "length": 186,
     "beam": 24,
-    "destination": "CATHU",
+    "destination": "CA BCO",
     "callsign": "9HA2483"
   },
   "229654000": {
