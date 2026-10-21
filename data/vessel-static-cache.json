@@ -2500,7 +2500,7 @@
     "type": 57,
     "length": 215,
     "beam": 21,
-    "destination": "MARINE CITY",
+    "destination": "CALCITE",
     "callsign": "WDL2531"
   },
   "368477860": {
@@ -5278,5 +5278,13 @@
     "beam": 24,
     "destination": "CACSN > CAWEL",
     "callsign": "CQNX"
+  },
+  "367479870": {
+    "name": "CAPT.JOSEPH E PEARCE",
+    "type": 90,
+    "length": 39,
+    "beam": 11,
+    "destination": "BRIDGEPORT",
+    "callsign": "WDL9411"
   }
 }
