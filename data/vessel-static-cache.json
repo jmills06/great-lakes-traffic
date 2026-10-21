@@ -5286,5 +5286,13 @@
     "beam": 11,
     "destination": "BRIDGEPORT",
     "callsign": "WDL9411"
+  },
+  "369941000": {
+    "name": "CGC SEQUOIA",
+    "type": 90,
+    "length": 68,
+    "beam": 14,
+    "destination": "PORT HURON, MI",
+    "callsign": "NBHF"
   }
 }
