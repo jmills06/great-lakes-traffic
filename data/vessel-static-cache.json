@@ -260,7 +260,7 @@
     "type": 52,
     "length": 41,
     "beam": 11,
-    "destination": "CHARLEVOIX",
+    "destination": "CLEVELAND, OH",
     "callsign": "WDK8680"
   },
   "366988420": {
@@ -612,7 +612,7 @@
     "type": 89,
     "length": 110,
     "beam": 18,
-    "destination": "CASNI",
+    "destination": "USDET",
     "callsign": "PCCB"
   },
   "368211020": {
@@ -988,7 +988,7 @@
     "type": 70,
     "length": 191,
     "beam": 20,
-    "destination": "BCI BAY AGG",
+    "destination": "STONEPORT",
     "callsign": "WDE3568"
   },
   "316002588": {
@@ -1546,7 +1546,7 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 12,
+    "length": 10,
     "beam": 4,
     "destination": "",
     "callsign": ""
