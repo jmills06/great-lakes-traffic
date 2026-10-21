@@ -188,7 +188,7 @@
     "type": 52,
     "length": 164,
     "beam": 23,
-    "destination": "BOWMANVILLE",
+    "destination": "DETROIT SMC ROUGE",
     "callsign": "CZ9891"
   },
   "338888000": {
@@ -908,7 +908,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "THUNDER BAY",
+    "destination": "BAIE COMEAU",
     "callsign": "CFK9796"
   },
   "316005239": {
@@ -5302,5 +5302,13 @@
     "beam": 18,
     "destination": "US GRB",
     "callsign": "PCNZ"
+  },
+  "212215000": {
+    "name": "RUDDY",
+    "type": 70,
+    "length": 185,
+    "beam": 24,
+    "destination": "CA SSM",
+    "callsign": "5BRB2"
   }
 }
