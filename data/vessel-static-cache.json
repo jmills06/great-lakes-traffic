@@ -3300,7 +3300,7 @@
     "type": 89,
     "length": 137,
     "beam": 20,
-    "destination": "CASNI",
+    "destination": "CAMTR",
     "callsign": "VAHS"
   },
   "338441735": {
@@ -5294,5 +5294,13 @@
     "beam": 14,
     "destination": "PORT HURON, MI",
     "callsign": "NBHF"
+  },
+  "245806000": {
+    "name": "FULDABORG",
+    "type": 79,
+    "length": 155,
+    "beam": 18,
+    "destination": "US GRB",
+    "callsign": "PCNZ"
   }
 }
