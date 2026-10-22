@@ -604,7 +604,7 @@
     "type": 80,
     "length": 143,
     "beam": 23,
-    "destination": "CANAN",
+    "destination": "CASVD",
     "callsign": "VABY"
   },
   "244283000": {
@@ -1524,7 +1524,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "THUNDER BAY",
+    "destination": "MONTREAL SEC 56",
     "callsign": "CFK5151"
   },
   "367111050": {
