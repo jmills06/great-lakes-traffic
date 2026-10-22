@@ -5318,5 +5318,13 @@
     "beam": 0,
     "destination": "",
     "callsign": ""
+  },
+  "304521000": {
+    "name": "EIDER",
+    "type": 79,
+    "length": 190,
+    "beam": 24,
+    "destination": "CA TOR",
+    "callsign": "V2QU4"
   }
 }
