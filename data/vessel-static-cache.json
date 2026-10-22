@@ -1796,7 +1796,7 @@
     "type": 31,
     "length": 36,
     "beam": 20,
-    "destination": "MILWAUKEE",
+    "destination": "IND HBR",
     "callsign": "WBS5272"
   },
   "316048587": {
@@ -1948,7 +1948,7 @@
     "type": 70,
     "length": 203,
     "beam": 24,
-    "destination": "SOM CH69",
+    "destination": "TOR   CH69",
     "callsign": "VGGR"
   },
   "316042424": {
