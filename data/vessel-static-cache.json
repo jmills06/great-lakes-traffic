@@ -5326,5 +5326,13 @@
     "beam": 24,
     "destination": "CA TOR",
     "callsign": "V2QU4"
+  },
+  "316011684": {
+    "name": "COVE ISLE",
+    "type": 90,
+    "length": 0,
+    "beam": 0,
+    "destination": "SARNIA",
+    "callsign": "VX5564"
   }
 }
