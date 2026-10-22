@@ -1084,7 +1084,7 @@
     "type": 70,
     "length": 153,
     "beam": 23,
-    "destination": "USCHI",
+    "destination": "CASAR",
     "callsign": "VDAY"
   },
   "367608260": {
@@ -5036,7 +5036,7 @@
     "type": 89,
     "length": 146,
     "beam": 24,
-    "destination": "CA SNI",
+    "destination": "US SGL",
     "callsign": "V7RD4"
   },
   "368161390": {
