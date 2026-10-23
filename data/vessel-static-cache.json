@@ -1300,7 +1300,7 @@
     "type": 70,
     "length": 194,
     "beam": 21,
-    "destination": "TORONTO",
+    "destination": "GODERICH",
     "callsign": "VDBA"
   },
   "316001978": {
@@ -2804,7 +2804,7 @@
     "type": 70,
     "length": 179,
     "beam": 23,
-    "destination": "BAIE COMEAU",
+    "destination": "THUNDER BAY",
     "callsign": "VDAN"
   },
   "338465871": {
