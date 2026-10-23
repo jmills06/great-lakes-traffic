@@ -500,7 +500,7 @@
     "type": 70,
     "length": 215,
     "beam": 24,
-    "destination": "BUFFALO",
+    "destination": "TOLEDO",
     "callsign": "WZD2465"
   },
   "367360260": {
@@ -2001,10 +2001,10 @@
   },
   "367793450": {
     "name": "NEW YORK",
-    "type": 31,
+    "type": 57,
     "length": 30,
     "beam": 10,
-    "destination": "TONAWANDA",
+    "destination": "MISTERSKY FUEL",
     "callsign": "WDJ6009"
   },
   "316041965": {
