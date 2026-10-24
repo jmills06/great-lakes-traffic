@@ -404,7 +404,7 @@
     "type": 31,
     "length": 30,
     "beam": 6,
-    "destination": "HAMILTON",
+    "destination": "BURNS HARBOR",
     "callsign": "CYKB"
   },
   "303514000": {
@@ -556,7 +556,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "TWO HARBORS",
+    "destination": "NANTICOKE",
     "callsign": "WDH7558"
   },
   "366936590": {
@@ -3252,7 +3252,7 @@
     "type": 31,
     "length": 33,
     "beam": 10,
-    "destination": "CHEBOYGAN",
+    "destination": "HOUGHTON",
     "callsign": "WDH9998"
   },
   "212372000": {
