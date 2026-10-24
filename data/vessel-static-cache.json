@@ -820,7 +820,7 @@
     "type": 70,
     "length": 155,
     "beam": 22,
-    "destination": "BRUCE MINES",
+    "destination": "DETROIT",
     "callsign": "VDAK"
   },
   "368220270": {
@@ -2996,7 +2996,7 @@
     "type": 52,
     "length": 164,
     "beam": 16,
-    "destination": "CHARLEVOIX CH74",
+    "destination": "MANITOWOC",
     "callsign": "WDF7733"
   },
   "369970696": {
