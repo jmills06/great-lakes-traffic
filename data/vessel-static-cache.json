@@ -1546,7 +1546,7 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 12,
+    "length": 10,
     "beam": 4,
     "destination": "",
     "callsign": ""
@@ -2092,7 +2092,7 @@
     "type": 79,
     "length": 222,
     "beam": 24,
-    "destination": "INDIANA HARBOR",
+    "destination": "XX XXX>?? ???",
     "callsign": "WXY6216"
   },
   "366937490": {
