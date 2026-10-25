@@ -5350,5 +5350,13 @@
     "beam": 24,
     "destination": "USDET",
     "callsign": "V7QY3"
+  },
+  "316031772": {
+    "name": "MIA DESGAGNES",
+    "type": 89,
+    "length": 135,
+    "beam": 23,
+    "destination": "CA OAK",
+    "callsign": "CFAU"
   }
 }
