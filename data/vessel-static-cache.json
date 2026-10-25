@@ -812,7 +812,7 @@
     "type": 70,
     "length": 140,
     "beam": 21,
-    "destination": "OSWEGO",
+    "destination": "PICTON",
     "callsign": "VCAS"
   },
   "316052496": {
@@ -1740,7 +1740,7 @@
     "type": 52,
     "length": 45,
     "beam": 22,
-    "destination": "DETROIT",
+    "destination": "ALPENA",
     "callsign": "WDC8307"
   },
   "316024256": {
