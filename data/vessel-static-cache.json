@@ -180,7 +180,7 @@
     "type": 70,
     "length": 222,
     "beam": 24,
-    "destination": "HAMILTON",
+    "destination": "WINDSOR",
     "callsign": "VGWM"
   },
   "316002063": {
@@ -1276,7 +1276,7 @@
     "type": 70,
     "length": 198,
     "beam": 24,
-    "destination": "HAMILTON",
+    "destination": "CLEVELAND",
     "callsign": "VDAS"
   },
   "366912650": {
