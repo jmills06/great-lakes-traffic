@@ -644,7 +644,7 @@
     "type": 79,
     "length": 140,
     "beam": 21,
-    "destination": "CATHU",
+    "destination": "CAPCO",
     "callsign": "VCBM"
   },
   "367521420": {
@@ -1564,7 +1564,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "BOWMANVLLE",
+    "destination": "DETROIT CH67",
     "callsign": "VDWB"
   },
   "367599370": {
