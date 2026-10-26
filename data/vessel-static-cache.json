@@ -5366,5 +5366,13 @@
     "beam": 23,
     "destination": "USBNB",
     "callsign": "V2HO3"
+  },
+  "249152000": {
+    "name": "MURGASH",
+    "type": 70,
+    "length": 189,
+    "beam": 23,
+    "destination": "CA OSH",
+    "callsign": "9HA6131"
   }
 }
