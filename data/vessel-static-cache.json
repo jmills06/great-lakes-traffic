@@ -756,7 +756,7 @@
     "type": 70,
     "length": 223,
     "beam": 24,
-    "destination": "QUEBEC CITY",
+    "destination": "TORONTO",
     "callsign": "CFN6288"
   },
   "366896890": {
@@ -1396,7 +1396,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "HAMLTON",
+    "destination": "ASHTABULA",
     "callsign": "VBCD"
   },
   "367688370": {
