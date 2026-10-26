@@ -5358,5 +5358,13 @@
     "beam": 23,
     "destination": "CA OAK",
     "callsign": "CFAU"
+  },
+  "304824000": {
+    "name": "BBC SEBASTOPOL",
+    "type": 70,
+    "length": 147,
+    "beam": 23,
+    "destination": "USBNB",
+    "callsign": "V2HO3"
   }
 }
