@@ -756,7 +756,7 @@
     "type": 70,
     "length": 223,
     "beam": 24,
-    "destination": "TORONTO",
+    "destination": "WINDSOR",
     "callsign": "CFN6288"
   },
   "366896890": {
@@ -1740,7 +1740,7 @@
     "type": 52,
     "length": 45,
     "beam": 22,
-    "destination": "ALPENA",
+    "destination": "DETROIT",
     "callsign": "WDC8307"
   },
   "316024256": {
