@@ -1,75 +1,19 @@
 {
-  "updated": "2026-10-27T14:16:29Z",
+  "updated": "2026-10-27T14:31:38Z",
   "vessels": [
     {
-      "mmsi": 366971370,
-      "name": "EDWIN H. GOTT",
+      "mmsi": 538006434,
+      "name": "FEDERAL BISCAY",
       "type": 70,
-      "lat": 42.78374,
-      "lon": -80.0769,
-      "sog": 0,
-      "cog": 302,
-      "heading": 166,
-      "length": 305,
-      "beam": 32,
-      "destination": "NANTICOKE",
-      "lastReport": "2026-10-27T14:16:16Z"
-    },
-    {
-      "mmsi": 366906610,
-      "name": "WALTER J MCCARTHY",
-      "type": 70,
-      "lat": 42.30168,
-      "lon": -83.08967,
-      "sog": 0,
-      "cog": 38,
-      "heading": 33,
-      "length": 305,
-      "beam": 32,
-      "destination": "CONNEAUT CH 74",
-      "lastReport": "2026-10-27T14:15:51Z"
-    },
-    {
-      "mmsi": 316017110,
-      "name": "ALGOMA ENDEAVOUR",
-      "type": 70,
-      "lat": 48.35395,
-      "lon": -89.22894,
-      "sog": 0,
-      "cog": 220,
-      "heading": 289,
-      "length": 225,
+      "lat": 48.42014,
+      "lon": -89.1927,
+      "sog": 0.1,
+      "cog": 360,
+      "heading": 94,
+      "length": 200,
       "beam": 24,
-      "destination": "THUNDER BAY",
-      "lastReport": "2026-10-27T14:15:45Z"
-    },
-    {
-      "mmsi": 316009090,
-      "name": "ALGOMA EQUINOX",
-      "type": 70,
-      "lat": 42.57413,
-      "lon": -82.56907,
-      "sog": 9.9,
-      "cog": 227,
-      "heading": 226,
-      "length": 224,
-      "beam": 24,
-      "destination": "BAIE COMEAU VHF68",
-      "lastReport": "2026-10-27T14:15:47Z"
-    },
-    {
-      "mmsi": 316031772,
-      "name": "MIA DESGAGNES",
-      "type": 89,
-      "lat": 43.77565,
-      "lon": -76.99304,
-      "sog": 12.1,
-      "cog": 68,
-      "heading": 67,
-      "length": 135,
-      "beam": 23,
-      "destination": "CA OAK",
-      "lastReport": "2026-10-27T14:15:29Z"
+      "destination": "THUNDERBAY, CANADA",
+      "lastReport": "2026-10-27T14:30:42Z"
     }
   ]
 }
