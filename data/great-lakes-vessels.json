@@ -1,19 +1,61 @@
 {
-  "updated": "2026-10-27T14:31:38Z",
+  "updated": "2026-10-27T14:46:31Z",
   "vessels": [
     {
-      "mmsi": 538006434,
-      "name": "FEDERAL BISCAY",
+      "mmsi": 366971360,
+      "name": "JOHN G MUNSON",
       "type": 70,
-      "lat": 48.42014,
-      "lon": -89.1927,
-      "sog": 0.1,
-      "cog": 360,
-      "heading": 94,
-      "length": 200,
-      "beam": 24,
-      "destination": "THUNDERBAY, CANADA",
-      "lastReport": "2026-10-27T14:30:42Z"
+      "lat": 41.67288,
+      "lon": -87.43689,
+      "sog": 0,
+      "cog": 333,
+      "heading": 347,
+      "length": 234,
+      "beam": 22,
+      "destination": "MARQUETTE",
+      "lastReport": "2026-10-27T14:45:47Z"
+    },
+    {
+      "mmsi": 305172000,
+      "name": "COE LUISA",
+      "type": 70,
+      "lat": 46.75887,
+      "lon": -92.10324,
+      "sog": 0,
+      "cog": 243,
+      "heading": 63,
+      "length": 138,
+      "beam": 21,
+      "destination": "CATHU",
+      "lastReport": "2026-10-27T14:45:31Z"
+    },
+    {
+      "mmsi": 316031772,
+      "name": "MIA DESGAGNES",
+      "type": 89,
+      "lat": 43.81255,
+      "lon": -76.86479,
+      "sog": 12.1,
+      "cog": 68,
+      "heading": 68,
+      "length": 135,
+      "beam": 23,
+      "destination": "CA OAK",
+      "lastReport": "2026-10-27T14:45:21Z"
+    },
+    {
+      "mmsi": 316002065,
+      "name": "PETIT FORTE",
+      "type": 31,
+      "lat": 42.42157,
+      "lon": -80.19622,
+      "sog": 7.3,
+      "cog": 235,
+      "heading": 233,
+      "length": 131,
+      "beam": 18,
+      "destination": "CLEVELAND",
+      "lastReport": "2026-10-27T14:45:56Z"
     }
   ]
 }
