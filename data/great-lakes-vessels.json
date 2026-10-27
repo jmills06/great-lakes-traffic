@@ -1,19 +1,75 @@
 {
-  "updated": "2026-10-27T15:46:32Z",
+  "updated": "2026-10-27T16:01:33Z",
   "vessels": [
     {
-      "mmsi": 255915987,
-      "name": "STENHEIM",
-      "type": 80,
-      "lat": 41.92413,
-      "lon": -83.10859,
-      "sog": 11.4,
-      "cog": 339,
-      "heading": 343,
-      "length": 144,
-      "beam": 23,
-      "destination": "US GRB",
-      "lastReport": "2026-10-27T15:46:09Z"
+      "mmsi": 366971370,
+      "name": "EDWIN H. GOTT",
+      "type": 70,
+      "lat": 42.78372,
+      "lon": -80.0769,
+      "sog": 0,
+      "cog": 302,
+      "heading": 166,
+      "length": 305,
+      "beam": 32,
+      "destination": "NANTICOKE",
+      "lastReport": "2026-10-27T16:01:05Z"
+    },
+    {
+      "mmsi": 316034846,
+      "name": "ALGOMA NIAGARA",
+      "type": 70,
+      "lat": 46.71154,
+      "lon": -92.04501,
+      "sog": 0,
+      "cog": 235,
+      "heading": 230,
+      "length": 226,
+      "beam": 24,
+      "destination": "SILVER BAY CH 74",
+      "lastReport": "2026-10-27T16:01:15Z"
+    },
+    {
+      "mmsi": 366938780,
+      "name": "JOHN J. BOLAND",
+      "type": 70,
+      "lat": 46.74748,
+      "lon": -92.13498,
+      "sog": 0,
+      "cog": 314,
+      "heading": 136,
+      "length": 207,
+      "beam": 24,
+      "destination": "DULUTH",
+      "lastReport": "2026-10-27T16:00:22Z"
+    },
+    {
+      "mmsi": 316001940,
+      "name": "FLORENCE SPIRIT",
+      "type": 70,
+      "lat": 43.32772,
+      "lon": -79.70139,
+      "sog": 12.6,
+      "cog": 70,
+      "heading": 69,
+      "length": 146,
+      "beam": 21,
+      "destination": "JOHNSTOWN",
+      "lastReport": "2026-10-27T16:00:52Z"
+    },
+    {
+      "mmsi": 316013215,
+      "name": "ALGOCANADA",
+      "type": 81,
+      "lat": 43.12335,
+      "lon": -79.19388,
+      "sog": 0,
+      "cog": 348,
+      "heading": 190,
+      "length": 130,
+      "beam": 20,
+      "destination": "DARTMOUTH",
+      "lastReport": "2026-10-27T16:00:43Z"
     }
   ]
 }
