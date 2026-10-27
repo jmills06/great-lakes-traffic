@@ -1,47 +1,47 @@
 {
-  "updated": "2026-10-27T07:16:32Z",
+  "updated": "2026-10-27T07:31:31Z",
   "vessels": [
     {
-      "mmsi": 366904940,
-      "name": "PAUL R TREGURTHA",
+      "mmsi": 366938780,
+      "name": "JOHN J. BOLAND",
       "type": 70,
-      "lat": 47.28309,
-      "lon": -90.49077,
-      "sog": 11.8,
-      "cog": 80,
-      "heading": 79,
-      "length": 309,
-      "beam": 32,
-      "destination": "DULUTH",
-      "lastReport": "2026-10-27T07:15:29Z"
-    },
-    {
-      "mmsi": 316034846,
-      "name": "ALGOMA NIAGARA",
-      "type": 70,
-      "lat": 46.71154,
-      "lon": -92.04501,
+      "lat": 46.74859,
+      "lon": -92.1365,
       "sog": 0,
-      "cog": 324,
-      "heading": 229,
-      "length": 226,
+      "cog": 313,
+      "heading": 136,
+      "length": 207,
       "beam": 24,
-      "destination": "SUPERIOR WI",
-      "lastReport": "2026-10-27T07:16:14Z"
+      "destination": "DULUTH",
+      "lastReport": "2026-10-27T07:30:22Z"
     },
     {
-      "mmsi": 367121040,
-      "name": "AMERICAN COURAGE",
+      "mmsi": 316036228,
+      "name": "ALGOMA BUFFALO",
       "type": 70,
-      "lat": 41.48501,
-      "lon": -81.67767,
-      "sog": 2.4,
-      "cog": 324,
-      "heading": 150,
+      "lat": 43.14005,
+      "lon": -79.19188,
+      "sog": 3.4,
+      "cog": 359,
+      "heading": 0,
       "length": 194,
       "beam": 21,
-      "destination": "MISTERSKYS",
-      "lastReport": "2026-10-27T07:16:07Z"
+      "destination": "COTE ST CATHERINE",
+      "lastReport": "2026-10-27T07:31:07Z"
+    },
+    {
+      "mmsi": 316002063,
+      "name": "SEA EAGLE II",
+      "type": 52,
+      "lat": 43.41695,
+      "lon": -79.07512,
+      "sog": 10.2,
+      "cog": 35,
+      "heading": 37,
+      "length": 164,
+      "beam": 23,
+      "destination": "DETROIT SMC ROUGE",
+      "lastReport": "2026-10-27T07:30:57Z"
     },
     {
       "mmsi": 316013215,
@@ -50,12 +50,12 @@
       "lat": 43.22812,
       "lon": -79.21793,
       "sog": 0,
-      "cog": 328,
-      "heading": 166,
+      "cog": 356,
+      "heading": 165,
       "length": 130,
       "beam": 20,
       "destination": "DARTMOUTH",
-      "lastReport": "2026-10-27T07:15:43Z"
+      "lastReport": "2026-10-27T07:30:33Z"
     }
   ]
 }
