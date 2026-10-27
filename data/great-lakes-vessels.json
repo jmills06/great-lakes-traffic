@@ -1,19 +1,19 @@
 {
-  "updated": "2026-10-27T13:31:31Z",
+  "updated": "2026-10-27T13:46:31Z",
   "vessels": [
     {
-      "mmsi": 366904890,
-      "name": "HON JAMES L OBERSTAR",
+      "mmsi": 366971370,
+      "name": "EDWIN H. GOTT",
       "type": 70,
-      "lat": 41.67545,
-      "lon": -87.4378,
+      "lat": 42.78373,
+      "lon": -80.07691,
       "sog": 0,
-      "cog": 333,
-      "heading": 344,
-      "length": 246,
-      "beam": 24,
-      "destination": "INDIANA HARBOR",
-      "lastReport": "2026-10-27T13:31:03Z"
+      "cog": 302,
+      "heading": 166,
+      "length": 305,
+      "beam": 32,
+      "destination": "NANTICOKE",
+      "lastReport": "2026-10-27T13:45:17Z"
     },
     {
       "mmsi": 316034846,
@@ -22,54 +22,40 @@
       "lat": 46.71154,
       "lon": -92.04502,
       "sog": 0,
-      "cog": 287,
+      "cog": 142,
       "heading": 229,
       "length": 226,
       "beam": 24,
       "destination": "SILVER BAY CH 74",
-      "lastReport": "2026-10-27T13:31:14Z"
+      "lastReport": "2026-10-27T13:46:24Z"
     },
     {
-      "mmsi": 316023339,
-      "name": "THUNDER BAY",
+      "mmsi": 366938780,
+      "name": "JOHN J. BOLAND",
       "type": 70,
-      "lat": 42.67704,
-      "lon": -79.49221,
-      "sog": 12.5,
-      "cog": 228,
-      "heading": 227,
-      "length": 223,
+      "lat": 46.74749,
+      "lon": -92.13496,
+      "sog": 0,
+      "cog": 314,
+      "heading": 136,
+      "length": 207,
       "beam": 24,
-      "destination": "TORONTO",
-      "lastReport": "2026-10-27T13:31:09Z"
+      "destination": "DULUTH",
+      "lastReport": "2026-10-27T13:45:52Z"
     },
     {
-      "mmsi": 316035905,
-      "name": "ALGOMA INNOVATOR",
+      "mmsi": 538006434,
+      "name": "FEDERAL BISCAY",
       "type": 70,
-      "lat": 42.34039,
-      "lon": -80.6301,
-      "sog": 13.3,
-      "cog": 248,
-      "heading": 247,
-      "length": 198,
+      "lat": 48.41983,
+      "lon": -89.19273,
+      "sog": 0.2,
+      "cog": 360,
+      "heading": 78,
+      "length": 200,
       "beam": 24,
-      "destination": "PORT COLBORNE",
-      "lastReport": "2026-10-27T13:31:23Z"
-    },
-    {
-      "mmsi": 316050854,
-      "name": "ALGOTITAN",
-      "type": 80,
-      "lat": 42.07898,
-      "lon": -83.11979,
-      "sog": 8.4,
-      "cog": 15,
-      "heading": 16,
-      "length": 143,
-      "beam": 23,
-      "destination": "CASNI-003",
-      "lastReport": "2026-10-27T13:30:48Z"
+      "destination": "THUNDERBAY, CANADA",
+      "lastReport": "2026-10-27T13:45:43Z"
     }
   ]
 }
