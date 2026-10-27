@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-27T13:01:36Z",
+  "updated": "2026-10-27T13:16:31Z",
   "vessels": [
     {
       "mmsi": 366971370,
       "name": "EDWIN H. GOTT",
       "type": 70,
-      "lat": 42.78375,
+      "lat": 42.78376,
       "lon": -80.07694,
       "sog": 0,
       "cog": 302,
@@ -13,91 +13,91 @@
       "length": 305,
       "beam": 32,
       "destination": "NANTICOKE",
-      "lastReport": "2026-10-27T13:00:56Z"
+      "lastReport": "2026-10-27T13:15:56Z"
     },
     {
       "mmsi": 366906610,
       "name": "WALTER J MCCARTHY",
       "type": 70,
-      "lat": 42.30172,
-      "lon": -83.08966,
+      "lat": 42.30171,
+      "lon": -83.08967,
       "sog": 0,
       "cog": 38,
-      "heading": 32,
+      "heading": 33,
       "length": 305,
       "beam": 32,
       "destination": "CONNEAUT CH 74",
-      "lastReport": "2026-10-27T13:01:21Z"
+      "lastReport": "2026-10-27T13:16:22Z"
     },
     {
       "mmsi": 366971360,
       "name": "JOHN G MUNSON",
       "type": 70,
-      "lat": 41.67053,
-      "lon": -87.43746,
-      "sog": 0.4,
-      "cog": 55,
-      "heading": 117,
+      "lat": 41.67195,
+      "lon": -87.437,
+      "sog": 0.2,
+      "cog": 44,
+      "heading": 13,
       "length": 234,
       "beam": 22,
       "destination": "MARQUETTE",
-      "lastReport": "2026-10-27T13:00:48Z"
+      "lastReport": "2026-10-27T13:15:17Z"
     },
     {
-      "mmsi": 316017110,
-      "name": "ALGOMA ENDEAVOUR",
+      "mmsi": 316036089,
+      "name": "ALGOMA SAULT",
       "type": 70,
-      "lat": 48.34342,
-      "lon": -89.16597,
-      "sog": 10.2,
-      "cog": 287,
-      "heading": 287,
+      "lat": 42.02893,
+      "lon": -80.59499,
+      "sog": 11.8,
+      "cog": 241,
+      "heading": 239,
       "length": 225,
       "beam": 24,
-      "destination": "THUNDER BAY",
-      "lastReport": "2026-10-27T13:00:20Z"
-    },
-    {
-      "mmsi": 367082230,
-      "name": "JOSEPH L BLOCK",
-      "type": 79,
-      "lat": 47.49656,
-      "lon": -88.39994,
-      "sog": 11.8,
-      "cog": 258,
-      "heading": 258,
-      "length": 222,
-      "beam": 24,
-      "destination": "XX XXX>?? ???",
-      "lastReport": "2026-10-27T13:00:42Z"
+      "destination": "ASHTABULA",
+      "lastReport": "2026-10-27T13:15:52Z"
     },
     {
       "mmsi": 366938780,
       "name": "JOHN J. BOLAND",
       "type": 70,
-      "lat": 46.74762,
-      "lon": -92.13516,
+      "lat": 46.74763,
+      "lon": -92.13514,
       "sog": 0,
       "cog": 314,
-      "heading": 135,
+      "heading": 136,
       "length": 207,
       "beam": 24,
       "destination": "DULUTH",
-      "lastReport": "2026-10-27T13:00:53Z"
+      "lastReport": "2026-10-27T13:15:43Z"
+    },
+    {
+      "mmsi": 538006434,
+      "name": "FEDERAL BISCAY",
+      "type": 70,
+      "lat": 48.41951,
+      "lon": -89.19258,
+      "sog": 0.2,
+      "cog": 360,
+      "heading": 68,
+      "length": 200,
+      "beam": 24,
+      "destination": "THUNDERBAY, CANADA",
+      "lastReport": "2026-10-27T13:15:44Z"
     },
     {
       "mmsi": 316031772,
       "name": "MIA DESGAGNES",
       "type": 89,
-      "lat": 43.70906,
-      "lon": -77.32047,
-      "sog": 11.9,
+      "lat": 43.71884,
+      "lon": -77.25615,
+      "sog": 12,
       "cog": 78,
-      "heading": 76,
+      "heading": 77,
       "length": 135,
       "beam": 23,
       "destination": "CA OAK",
-      "lastReport": "2026-10-27T13:01:01Z"
+      "lastReport": "2026-10-27T13:15:21Z"
     }
   ]
 }
