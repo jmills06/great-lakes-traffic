@@ -1,61 +1,103 @@
 {
-  "updated": "2026-10-27T13:46:31Z",
+  "updated": "2026-10-27T14:01:36Z",
   "vessels": [
     {
       "mmsi": 366971370,
       "name": "EDWIN H. GOTT",
       "type": 70,
-      "lat": 42.78373,
-      "lon": -80.07691,
+      "lat": 42.78374,
+      "lon": -80.07694,
       "sog": 0,
       "cog": 302,
       "heading": 166,
       "length": 305,
       "beam": 32,
       "destination": "NANTICOKE",
-      "lastReport": "2026-10-27T13:45:17Z"
+      "lastReport": "2026-10-27T14:00:48Z"
     },
     {
-      "mmsi": 316034846,
-      "name": "ALGOMA NIAGARA",
+      "mmsi": 366906610,
+      "name": "WALTER J MCCARTHY",
       "type": 70,
-      "lat": 46.71154,
-      "lon": -92.04502,
+      "lat": 42.3017,
+      "lon": -83.08968,
       "sog": 0,
-      "cog": 142,
-      "heading": 229,
-      "length": 226,
+      "cog": 38,
+      "heading": 33,
+      "length": 305,
+      "beam": 32,
+      "destination": "CONNEAUT CH 74",
+      "lastReport": "2026-10-27T14:01:32Z"
+    },
+    {
+      "mmsi": 316023339,
+      "name": "THUNDER BAY",
+      "type": 70,
+      "lat": 42.6094,
+      "lon": -79.59343,
+      "sog": 12.2,
+      "cog": 229,
+      "heading": 230,
+      "length": 223,
       "beam": 24,
-      "destination": "SILVER BAY CH 74",
-      "lastReport": "2026-10-27T13:46:24Z"
+      "destination": "TORONTO",
+      "lastReport": "2026-10-27T14:00:48Z"
     },
     {
       "mmsi": 366938780,
       "name": "JOHN J. BOLAND",
       "type": 70,
-      "lat": 46.74749,
-      "lon": -92.13496,
+      "lat": 46.74747,
+      "lon": -92.13497,
       "sog": 0,
       "cog": 314,
       "heading": 136,
       "length": 207,
       "beam": 24,
       "destination": "DULUTH",
-      "lastReport": "2026-10-27T13:45:52Z"
+      "lastReport": "2026-10-27T14:00:52Z"
     },
     {
       "mmsi": 538006434,
       "name": "FEDERAL BISCAY",
       "type": 70,
-      "lat": 48.41983,
-      "lon": -89.19273,
+      "lat": 48.41949,
+      "lon": -89.19259,
       "sog": 0.2,
       "cog": 360,
-      "heading": 78,
+      "heading": 68,
       "length": 200,
       "beam": 24,
       "destination": "THUNDERBAY, CANADA",
-      "lastReport": "2026-10-27T13:45:43Z"
+      "lastReport": "2026-10-27T14:00:44Z"
+    },
+    {
+      "mmsi": 316050854,
+      "name": "ALGOTITAN",
+      "type": 80,
+      "lat": 42.15132,
+      "lon": -83.12747,
+      "sog": 10.5,
+      "cog": 343,
+      "heading": 344,
+      "length": 143,
+      "beam": 23,
+      "destination": "CASNI-003",
+      "lastReport": "2026-10-27T14:00:29Z"
+    },
+    {
+      "mmsi": 316002065,
+      "name": "PETIT FORTE",
+      "type": 31,
+      "lat": 42.47434,
+      "lon": -80.09485,
+      "sog": 7.3,
+      "cog": 235,
+      "heading": 233,
+      "length": 131,
+      "beam": 18,
+      "destination": "CLEVELAND",
+      "lastReport": "2026-10-27T14:01:35Z"
     }
   ]
 }
