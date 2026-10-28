@@ -5374,5 +5374,13 @@
     "beam": 23,
     "destination": "CA OSH",
     "callsign": "9HA6131"
+  },
+  "367503940": {
+    "name": "COLOMA WARNER",
+    "type": 31,
+    "length": 25,
+    "beam": 8,
+    "destination": "INDIANA MILLS",
+    "callsign": "WDF9319"
   }
 }
