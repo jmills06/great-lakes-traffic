@@ -5398,5 +5398,13 @@
     "beam": 10,
     "destination": "XX XXX>?? ???",
     "callsign": "WDQ7596"
+  },
+  "338926123": {
+    "name": "CG26123",
+    "type": 51,
+    "length": 7,
+    "beam": 3,
+    "destination": "0000",
+    "callsign": ""
   }
 }
