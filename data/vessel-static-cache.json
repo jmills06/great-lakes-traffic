@@ -836,7 +836,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "DULUTH",
+    "destination": "SUPERIOR",
     "callsign": "WYQ4356"
   },
   "305594000": {
@@ -5390,5 +5390,13 @@
     "beam": 23,
     "destination": "CAMTR>CACSN",
     "callsign": "CQNZ"
+  },
+  "368454250": {
+    "name": "GOLDEN ANCHOR",
+    "type": 52,
+    "length": 32,
+    "beam": 10,
+    "destination": "XX XXX>?? ???",
+    "callsign": "WDQ7596"
   }
 }
