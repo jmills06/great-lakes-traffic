@@ -5382,5 +5382,13 @@
     "beam": 8,
     "destination": "INDIANA MILLS",
     "callsign": "WDF9319"
+  },
+  "255804340": {
+    "name": "HARBOUR PIONEER",
+    "type": 80,
+    "length": 162,
+    "beam": 23,
+    "destination": "CAMTR>CACSN",
+    "callsign": "CQNZ"
   }
 }
