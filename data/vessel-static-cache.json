@@ -5406,5 +5406,13 @@
     "beam": 3,
     "destination": "0000",
     "callsign": ""
+  },
+  "316003125": {
+    "name": "CHI-CHEEMAUN",
+    "type": 60,
+    "length": 111,
+    "beam": 20,
+    "destination": "HAMILON",
+    "callsign": "VGKK"
   }
 }
