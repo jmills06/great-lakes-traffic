@@ -1,61 +1,19 @@
 {
-  "updated": "2026-10-29T17:16:30Z",
+  "updated": "2026-10-29T17:31:31Z",
   "vessels": [
     {
-      "mmsi": 366905890,
-      "name": "JAMES R BARKER",
+      "mmsi": 316031354,
+      "name": "CAPT. HENRY JACKMAN",
       "type": 70,
-      "lat": 42.76411,
-      "lon": -80.06729,
-      "sog": 1.6,
-      "cog": 336,
-      "heading": 284,
-      "length": 305,
-      "beam": 32,
-      "destination": "SUPERIOR",
-      "lastReport": "2026-10-29T17:15:18Z"
-    },
-    {
-      "mmsi": 367121040,
-      "name": "AMERICAN COURAGE",
-      "type": 70,
-      "lat": 41.48814,
-      "lon": -81.69325,
-      "sog": 1.8,
-      "cog": 152,
-      "heading": 346,
-      "length": 194,
-      "beam": 21,
-      "destination": "MISTERSKYS",
-      "lastReport": "2026-10-29T17:15:33Z"
-    },
-    {
-      "mmsi": 368183000,
-      "name": "GREAT REPUBLIC",
-      "type": 70,
-      "lat": 41.69068,
-      "lon": -87.44662,
-      "sog": 8,
-      "cog": 345,
-      "heading": 344,
-      "length": 193,
-      "beam": 21,
-      "destination": "SUPERIOR",
-      "lastReport": "2026-10-29T17:16:28Z"
-    },
-    {
-      "mmsi": 367341010,
-      "name": "MANITOWOC",
-      "type": 70,
-      "lat": 42.45714,
-      "lon": -82.76232,
-      "sog": 11.9,
-      "cog": 48,
-      "heading": 46,
-      "length": 192,
-      "beam": 21,
-      "destination": "DETROIT ROUGE",
-      "lastReport": "2026-10-29T17:15:49Z"
+      "lat": 42.89784,
+      "lon": -79.24638,
+      "sog": 0,
+      "cog": 17,
+      "heading": 9,
+      "length": 226,
+      "beam": 24,
+      "destination": "BAIE COMEAU",
+      "lastReport": "2026-10-29T17:30:39Z"
     },
     {
       "mmsi": 255804340,
@@ -69,7 +27,21 @@
       "length": 162,
       "beam": 23,
       "destination": "CAMTR>CACSN",
-      "lastReport": "2026-10-29T17:16:21Z"
+      "lastReport": "2026-10-29T17:31:20Z"
+    },
+    {
+      "mmsi": 316055401,
+      "name": "ALGOSOLIS",
+      "type": 81,
+      "lat": 44.32912,
+      "lon": -75.93456,
+      "sog": 8.4,
+      "cog": 218,
+      "heading": 219,
+      "length": 144,
+      "beam": 23,
+      "destination": "CA  MTL",
+      "lastReport": "2026-10-29T17:30:39Z"
     }
   ]
 }
