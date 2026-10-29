@@ -1,47 +1,47 @@
 {
-  "updated": "2026-10-29T03:31:31Z",
+  "updated": "2026-10-29T03:46:30Z",
   "vessels": [
-    {
-      "mmsi": 366905890,
-      "name": "JAMES R BARKER",
-      "type": 70,
-      "lat": 41.88473,
-      "lon": -82.86382,
-      "sog": 10.3,
-      "cog": 96,
-      "heading": 95,
-      "length": 305,
-      "beam": 32,
-      "destination": "SUPERIOR",
-      "lastReport": "2026-10-29T03:30:58Z"
-    },
     {
       "mmsi": 367050160,
       "name": "BURNS HARBOR",
       "type": 70,
-      "lat": 46.8426,
-      "lon": -91.87042,
-      "sog": 11.3,
-      "cog": 250,
-      "heading": 248,
+      "lat": 46.82639,
+      "lon": -91.93005,
+      "sog": 10.9,
+      "cog": 247,
+      "heading": 246,
       "length": 304,
       "beam": 32,
       "destination": "DULUTH",
-      "lastReport": "2026-10-29T03:31:09Z"
+      "lastReport": "2026-10-29T03:45:29Z"
     },
     {
-      "mmsi": 316036089,
-      "name": "ALGOMA SAULT",
+      "mmsi": 367082220,
+      "name": "WILFRED SYKES",
       "type": 70,
-      "lat": 42.28564,
-      "lon": -83.10424,
-      "sog": 0,
-      "cog": 222,
-      "heading": 20,
-      "length": 225,
-      "beam": 24,
-      "destination": "ASHTABULA",
-      "lastReport": "2026-10-29T03:31:22Z"
+      "lat": 41.87763,
+      "lon": -82.71708,
+      "sog": 11.3,
+      "cog": 278,
+      "heading": 278,
+      "length": 201,
+      "beam": 21,
+      "destination": "US^0UXF>?? ???",
+      "lastReport": "2026-10-29T03:45:28Z"
+    },
+    {
+      "mmsi": 367341010,
+      "name": "MANITOWOC",
+      "type": 70,
+      "lat": 41.87158,
+      "lon": -83.26652,
+      "sog": 0.5,
+      "cog": 263,
+      "heading": 30,
+      "length": 192,
+      "beam": 21,
+      "destination": "DETROIT ROUGE",
+      "lastReport": "2026-10-29T03:45:50Z"
     }
   ]
 }
