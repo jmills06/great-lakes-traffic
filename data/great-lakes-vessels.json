@@ -1,47 +1,47 @@
 {
-  "updated": "2026-10-30T07:01:32Z",
+  "updated": "2026-10-30T07:16:28Z",
   "vessels": [
     {
-      "mmsi": 316009457,
-      "name": "KAMINISTIQUA",
+      "mmsi": 316001633,
+      "name": "CSL ASSINIBOINE",
       "type": 70,
-      "lat": 43.89771,
-      "lon": -76.75961,
-      "sog": 11.1,
-      "cog": 248,
-      "heading": 250,
-      "length": 223,
-      "beam": 23,
-      "destination": "THUNDER BAY",
-      "lastReport": "2026-10-30T07:00:52Z"
-    },
-    {
-      "mmsi": 538008006,
-      "name": "FEDERAL DEE",
-      "type": 70,
-      "lat": 42.26032,
-      "lon": -83.1108,
-      "sog": 0,
-      "cog": 217,
-      "heading": 19,
-      "length": 200,
+      "lat": 43.21083,
+      "lon": -79.21106,
+      "sog": 1.6,
+      "cog": 342,
+      "heading": 342,
+      "length": 226,
       "beam": 24,
-      "destination": "CAWND",
-      "lastReport": "2026-10-30T07:01:23Z"
+      "destination": "BECANCOUR",
+      "lastReport": "2026-10-30T07:15:32Z"
     },
     {
       "mmsi": 368251670,
       "name": "MARK W. BARKER",
       "type": 79,
-      "lat": 42.99408,
-      "lon": -82.42554,
-      "sog": 10.7,
-      "cog": 186,
-      "heading": 177,
+      "lat": 42.95613,
+      "lon": -82.42575,
+      "sog": 10.4,
+      "cog": 214,
+      "heading": 213,
       "length": 195,
       "beam": 24,
       "destination": "MARBLEHEAD",
-      "lastReport": "2026-10-30T07:01:27Z"
+      "lastReport": "2026-10-30T07:16:09Z"
+    },
+    {
+      "mmsi": 367121040,
+      "name": "AMERICAN COURAGE",
+      "type": 70,
+      "lat": 41.59622,
+      "lon": -81.84444,
+      "sog": 0.9,
+      "cog": 274,
+      "heading": 296,
+      "length": 194,
+      "beam": 21,
+      "destination": "MISTERSKYS",
+      "lastReport": "2026-10-30T07:15:25Z"
     }
   ]
 }
