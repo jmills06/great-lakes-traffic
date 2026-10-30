@@ -1546,7 +1546,7 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 12,
+    "length": 10,
     "beam": 4,
     "destination": "",
     "callsign": ""
@@ -1828,7 +1828,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "CLEVELAND",
+    "destination": "CONNEAUT",
     "callsign": "WDD2875"
   },
   "369493832": {
