@@ -1796,7 +1796,7 @@
     "type": 31,
     "length": 36,
     "beam": 20,
-    "destination": "GREEN BAY",
+    "destination": "IND HBR",
     "callsign": "WBS5272"
   },
   "316048587": {
@@ -2060,7 +2060,7 @@
     "type": 31,
     "length": 150,
     "beam": 18,
-    "destination": "GREEN BAY",
+    "destination": "GRAND HAVEN",
     "callsign": "WDM2009"
   },
   "367023080": {
