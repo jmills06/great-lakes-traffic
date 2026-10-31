@@ -1,33 +1,47 @@
 {
-  "updated": "2026-10-31T15:46:30Z",
+  "updated": "2026-10-31T16:01:34Z",
   "vessels": [
     {
-      "mmsi": 338866000,
-      "name": "DIRK S. VANENKEVORT",
-      "type": 52,
-      "lat": 43.01276,
-      "lon": -82.41609,
-      "sog": 8.2,
-      "cog": 359,
-      "heading": 359,
-      "length": 262,
-      "beam": 24,
-      "destination": "SILVER BAY",
-      "lastReport": "2026-10-31T15:46:23Z"
+      "mmsi": 366904940,
+      "name": "PAUL R TREGURTHA",
+      "type": 70,
+      "lat": 45.29837,
+      "lon": -83.28099,
+      "sog": 12.8,
+      "cog": 326,
+      "heading": 325,
+      "length": 309,
+      "beam": 32,
+      "destination": "DULUTH",
+      "lastReport": "2026-10-31T16:01:13Z"
     },
     {
-      "mmsi": 212215000,
-      "name": "RUDDY",
+      "mmsi": 538006434,
+      "name": "FEDERAL BISCAY",
       "type": 70,
-      "lat": 48.41907,
-      "lon": -89.18317,
+      "lat": 48.39158,
+      "lon": -89.21408,
       "sog": 0,
-      "cog": 205,
-      "heading": 341,
-      "length": 185,
+      "cog": 360,
+      "heading": 195,
+      "length": 200,
       "beam": 24,
-      "destination": "CA THU",
-      "lastReport": "2026-10-31T15:45:57Z"
+      "destination": "THUNDERBAY, CANADA",
+      "lastReport": "2026-10-31T16:00:34Z"
+    },
+    {
+      "mmsi": 316012308,
+      "name": "SARAH DESGAGNES",
+      "type": 81,
+      "lat": 43.27181,
+      "lon": -79.846,
+      "sog": 0,
+      "cog": 233,
+      "heading": 15,
+      "length": 147,
+      "beam": 23,
+      "destination": "HAMILTON",
+      "lastReport": "2026-10-31T16:00:37Z"
     }
   ]
 }
