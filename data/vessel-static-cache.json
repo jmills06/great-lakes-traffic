@@ -5422,5 +5422,13 @@
     "beam": 17,
     "destination": "CA THU",
     "callsign": "V2FR2"
+  },
+  "369990414": {
+    "name": "CG29414",
+    "type": 51,
+    "length": 8,
+    "beam": 3,
+    "destination": "",
+    "callsign": ""
   }
 }
