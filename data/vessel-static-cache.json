@@ -5430,5 +5430,13 @@
     "beam": 3,
     "destination": "",
     "callsign": ""
+  },
+  "255915812": {
+    "name": "POLSTEAM WELTYN",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "US DLH",
+    "callsign": "CQ2270"
   }
 }
