@@ -2140,7 +2140,7 @@
     "type": 31,
     "length": 15,
     "beam": 8,
-    "destination": "CALUMET HARBOR",
+    "destination": "WAUKEGAN",
     "callsign": "WDE3772"
   },
   "368183000": {
@@ -3721,10 +3721,10 @@
   },
   "367378670": {
     "name": "JENNIFER ANNE FOGG",
-    "type": 52,
-    "length": 22,
-    "beam": 6,
-    "destination": "SOUTH MANITOU ISLAND",
+    "type": 10,
+    "length": 23,
+    "beam": 10,
+    "destination": "CHARLEVOIX",
     "callsign": "WDE6314"
   },
   "369970504": {
