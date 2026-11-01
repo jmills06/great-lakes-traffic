@@ -100,7 +100,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "WINDSOR",
+    "destination": "CHICAGO",
     "callsign": "CFN6357"
   },
   "367164050": {
@@ -5196,7 +5196,7 @@
     "type": 70,
     "length": 138,
     "beam": 21,
-    "destination": "CATHU",
+    "destination": "USMKE",
     "callsign": "V2DC9"
   },
   "366999529": {
