@@ -812,7 +812,7 @@
     "type": 70,
     "length": 140,
     "beam": 21,
-    "destination": "OSWEGO",
+    "destination": "PICTON",
     "callsign": "VCAS"
   },
   "316052496": {
@@ -971,8 +971,8 @@
     "name": "JOE DERBAS",
     "type": 57,
     "length": 87,
-    "beam": 22,
-    "destination": "US^0V1K>0RKU",
+    "beam": 11,
+    "destination": "US^0TC6>0RL7",
     "callsign": "WDQ5745"
   },
   "368185710": {
