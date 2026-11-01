@@ -628,7 +628,7 @@
     "type": 0,
     "length": 35,
     "beam": 11,
-    "destination": "US^0A18>11P4",
+    "destination": "US^0VMV>114U",
     "callsign": "WDI4796"
   },
   "316026694": {
@@ -2788,7 +2788,7 @@
     "type": 79,
     "length": 190,
     "beam": 24,
-    "destination": "CA HAM",
+    "destination": "BURNS HARBOR",
     "callsign": "9HA5549"
   },
   "368131310": {
