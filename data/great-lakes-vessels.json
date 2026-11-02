@@ -1,61 +1,33 @@
 {
-  "updated": "2026-11-02T21:46:29Z",
+  "updated": "2026-11-02T22:01:33Z",
   "vessels": [
-    {
-      "mmsi": 367120990,
-      "name": "AMERICAN INTEGRITY",
-      "type": 70,
-      "lat": 41.89303,
-      "lon": -81.61338,
-      "sog": 11.7,
-      "cog": 263,
-      "heading": 263,
-      "length": 305,
-      "beam": 32,
-      "destination": "CONNEAUT",
-      "lastReport": "2026-11-02T21:45:50Z"
-    },
     {
       "mmsi": 316014160,
       "name": "MANITOULIN",
       "type": 70,
-      "lat": 43.33965,
-      "lon": -79.10602,
-      "sog": 11.9,
-      "cog": 248,
-      "heading": 246,
+      "lat": 43.3171,
+      "lon": -79.165,
+      "sog": 11.5,
+      "cog": 223,
+      "heading": 220,
       "length": 203,
       "beam": 24,
       "destination": "TOR   CH69",
-      "lastReport": "2026-11-02T21:46:25Z"
+      "lastReport": "2026-11-02T22:01:04Z"
     },
     {
-      "mmsi": 538006469,
-      "name": "FEDERAL CHURCHILL",
+      "mmsi": 305772000,
+      "name": "BBC TOKYO",
       "type": 70,
-      "lat": 42.25729,
-      "lon": -83.12012,
-      "sog": 0,
-      "cog": 138,
-      "heading": 305,
-      "length": 200,
+      "lat": 43.32565,
+      "lon": -79.17288,
+      "sog": 14.8,
+      "cog": 231,
+      "heading": 228,
+      "length": 149,
       "beam": 23,
-      "destination": "ES ALG > US DET",
-      "lastReport": "2026-11-02T21:45:58Z"
-    },
-    {
-      "mmsi": 316041965,
-      "name": "TAMARACK",
-      "type": 70,
-      "lat": 43.64295,
-      "lon": -79.3536,
-      "sog": 0,
-      "cog": 57,
-      "heading": 60,
-      "length": 123,
-      "beam": 23,
-      "destination": "BATH,ON",
-      "lastReport": "2026-11-02T21:45:59Z"
+      "destination": "CATHU",
+      "lastReport": "2026-11-02T22:01:16Z"
     }
   ]
 }
