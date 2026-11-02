@@ -5462,5 +5462,13 @@
     "beam": 5,
     "destination": "FURMAN DOCK",
     "callsign": "WDL6771"
+  },
+  "305772000": {
+    "name": "BBC TOKYO",
+    "type": 70,
+    "length": 149,
+    "beam": 23,
+    "destination": "CATHU",
+    "callsign": "V2IC9"
   }
 }
