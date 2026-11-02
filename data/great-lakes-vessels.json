@@ -1,75 +1,33 @@
 {
-  "updated": "2026-11-02T10:31:31Z",
+  "updated": "2026-11-02T10:46:29Z",
   "vessels": [
-    {
-      "mmsi": 366971370,
-      "name": "EDWIN H. GOTT",
-      "type": 70,
-      "lat": 44.98153,
-      "lon": -86.38768,
-      "sog": 12.9,
-      "cog": 196,
-      "heading": 197,
-      "length": 305,
-      "beam": 32,
-      "destination": "GARY",
-      "lastReport": "2026-11-02T10:30:37Z"
-    },
     {
       "mmsi": 316034846,
       "name": "ALGOMA NIAGARA",
       "type": 70,
-      "lat": 43.72742,
-      "lon": -77.12775,
+      "lat": 43.74556,
+      "lon": -77.06149,
       "sog": 13,
-      "cog": 76,
-      "heading": 75,
+      "cog": 67,
+      "heading": 65,
       "length": 226,
       "beam": 24,
       "destination": "SILVER BAY CH 74",
-      "lastReport": "2026-11-02T10:31:10Z"
+      "lastReport": "2026-11-02T10:45:28Z"
     },
     {
-      "mmsi": 316043882,
-      "name": "ALGOMA INTREPID",
+      "mmsi": 316014170,
+      "name": "EVANS SPIRIT",
       "type": 70,
-      "lat": 43.12382,
-      "lon": -79.1936,
-      "sog": 1.3,
-      "cog": 10,
-      "heading": 10,
-      "length": 198,
-      "beam": 24,
-      "destination": "JOHNSTOWN",
-      "lastReport": "2026-11-02T10:31:12Z"
-    },
-    {
-      "mmsi": 366938760,
-      "name": "SAM LAUD",
-      "type": 70,
-      "lat": 45.14867,
-      "lon": -85.82151,
-      "sog": 12.2,
-      "cog": 217,
-      "heading": 215,
-      "length": 193,
+      "lat": 48.09268,
+      "lon": -88.06427,
+      "sog": 14.1,
+      "cog": 301,
+      "heading": 301,
+      "length": 140,
       "beam": 21,
-      "destination": "MARINE CITY LEVY",
-      "lastReport": "2026-11-02T10:30:19Z"
-    },
-    {
-      "mmsi": 304521000,
-      "name": "EIDER",
-      "type": 79,
-      "lat": 48.41045,
-      "lon": -89.17185,
-      "sog": 0,
-      "cog": 198,
-      "heading": 86,
-      "length": 190,
-      "beam": 24,
-      "destination": "CA THU",
-      "lastReport": "2026-11-02T10:30:51Z"
+      "destination": "USTOL",
+      "lastReport": "2026-11-02T10:45:27Z"
     }
   ]
 }
