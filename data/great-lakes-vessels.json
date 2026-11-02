@@ -1,89 +1,47 @@
 {
-  "updated": "2026-11-02T17:01:38Z",
+  "updated": "2026-11-02T17:16:34Z",
   "vessels": [
     {
-      "mmsi": 366905890,
-      "name": "JAMES R BARKER",
+      "mmsi": 366938730,
+      "name": "INDIANA HARBOR",
       "type": 70,
-      "lat": 46.69999,
-      "lon": -92.01863,
-      "sog": 0,
-      "cog": 171,
-      "heading": 181,
+      "lat": 46.30267,
+      "lon": -84.11902,
+      "sog": 8.1,
+      "cog": 357,
+      "heading": 357,
       "length": 305,
       "beam": 32,
-      "destination": "SUPERIOR",
-      "lastReport": "2026-11-02T17:01:16Z"
-    },
-    {
-      "mmsi": 316018477,
-      "name": "ALGOMA DISCOVERY",
-      "type": 70,
-      "lat": 42.94681,
-      "lon": -79.2334,
-      "sog": 7.6,
-      "cog": 196,
-      "heading": 196,
-      "length": 223,
-      "beam": 23,
-      "destination": "THUNDER BAY",
-      "lastReport": "2026-11-02T17:00:27Z"
-    },
-    {
-      "mmsi": 316002063,
-      "name": "SEA EAGLE II",
-      "type": 52,
-      "lat": 42.10608,
-      "lon": -83.12737,
-      "sog": 10,
-      "cog": 186,
-      "heading": 185,
-      "length": 164,
-      "beam": 23,
-      "destination": "DETROIT SMC ROUGE",
-      "lastReport": "2026-11-02T17:01:21Z"
+      "destination": "CONNEAUT,OH",
+      "lastReport": "2026-11-02T17:15:39Z"
     },
     {
       "mmsi": 316013946,
       "name": "LEO A. MCARTHUR",
       "type": 80,
-      "lat": 42.71431,
-      "lon": -79.46935,
+      "lat": 42.7344,
+      "lon": -79.43195,
       "sog": 8.5,
       "cog": 54,
       "heading": 55,
       "length": 152,
       "beam": 22,
       "destination": "HAMILTON",
-      "lastReport": "2026-11-02T17:01:24Z"
+      "lastReport": "2026-11-02T17:15:53Z"
     },
     {
       "mmsi": 305160000,
       "name": "BBC VERMONT",
       "type": 70,
-      "lat": 43.99751,
-      "lon": -76.53103,
-      "sog": 13.6,
-      "cog": 242,
-      "heading": 240,
+      "lat": 43.96906,
+      "lon": -76.59795,
+      "sog": 13.8,
+      "cog": 237,
+      "heading": 236,
       "length": 139,
       "beam": 21,
       "destination": "USMKE",
-      "lastReport": "2026-11-02T17:00:47Z"
-    },
-    {
-      "mmsi": 316041965,
-      "name": "TAMARACK",
-      "type": 70,
-      "lat": 43.64294,
-      "lon": -79.35359,
-      "sog": 0,
-      "cog": 57,
-      "heading": 60,
-      "length": 123,
-      "beam": 23,
-      "destination": "BATH,ON",
-      "lastReport": "2026-11-02T17:00:49Z"
+      "lastReport": "2026-11-02T17:15:28Z"
     }
   ]
 }
