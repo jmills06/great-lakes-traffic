@@ -1321,7 +1321,7 @@
   },
   "367396720": {
     "name": "STAR OF CHICAGO",
-    "type": 99,
+    "type": 69,
     "length": 20,
     "beam": 7,
     "destination": "USCHI><USCHI",
@@ -5478,5 +5478,13 @@
     "beam": 16,
     "destination": "USGRB",
     "callsign": "PCGH"
+  },
+  "366999399": {
+    "name": "C/B NICOLET",
+    "type": 90,
+    "length": 38,
+    "beam": 13,
+    "destination": "",
+    "callsign": "AEDZ"
   }
 }
