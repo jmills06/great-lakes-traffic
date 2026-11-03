@@ -404,7 +404,7 @@
     "type": 31,
     "length": 30,
     "beam": 6,
-    "destination": "BURNS HARBOR",
+    "destination": "HAMILTON",
     "callsign": "CYKB"
   },
   "303514000": {
@@ -2092,7 +2092,7 @@
     "type": 79,
     "length": 222,
     "beam": 24,
-    "destination": "XX XXX>?? ???",
+    "destination": "SUPERIOR",
     "callsign": "WXY6216"
   },
   "366937490": {
