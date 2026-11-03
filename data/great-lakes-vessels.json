@@ -1,47 +1,75 @@
 {
-  "updated": "2026-11-03T16:31:33Z",
+  "updated": "2026-11-03T16:46:34Z",
   "vessels": [
     {
       "mmsi": 366904950,
       "name": "LEE A. TREGURTHA",
       "type": 70,
-      "lat": 46.48685,
-      "lon": -84.30072,
-      "sog": 6.7,
-      "cog": 332,
-      "heading": 333,
+      "lat": 46.49987,
+      "lon": -84.32649,
+      "sog": 3.3,
+      "cog": 295,
+      "heading": 293,
       "length": 252,
       "beam": 23,
       "destination": "MARQUETTE",
-      "lastReport": "2026-11-03T16:30:59Z"
+      "lastReport": "2026-11-03T16:45:19Z"
     },
     {
-      "mmsi": 316001635,
-      "name": "RT HON PAUL J MARTIN",
+      "mmsi": 367480250,
+      "name": "OLIVE L. MOORE",
+      "type": 52,
+      "lat": 44.94886,
+      "lon": -85.86869,
+      "sog": 0.1,
+      "cog": 14,
+      "heading": 197,
+      "length": 222,
+      "beam": 22,
+      "destination": "GRAND HAVEN",
+      "lastReport": "2026-11-03T16:46:26Z"
+    },
+    {
+      "mmsi": 255806117,
+      "name": "JOHANNA G",
       "type": 70,
-      "lat": 48.10763,
-      "lon": -88.21432,
-      "sog": 10.9,
-      "cog": 134,
-      "heading": 132,
-      "length": 225,
+      "lat": 43.27282,
+      "lon": -79.78658,
+      "sog": 0,
+      "cog": 318,
+      "heading": 137,
+      "length": 200,
       "beam": 24,
-      "destination": "THUNDER BAY",
-      "lastReport": "2026-11-03T16:31:12Z"
+      "destination": "CA HAM",
+      "lastReport": "2026-11-03T16:46:14Z"
+    },
+    {
+      "mmsi": 316043882,
+      "name": "ALGOMA INTREPID",
+      "type": 70,
+      "lat": 44.38545,
+      "lon": -75.86858,
+      "sog": 11.5,
+      "cog": 225,
+      "heading": 225,
+      "length": 198,
+      "beam": 24,
+      "destination": "JOHNSTOWN",
+      "lastReport": "2026-11-03T16:45:31Z"
     },
     {
       "mmsi": 304824000,
       "name": "BBC SEBASTOPOL",
       "type": 70,
-      "lat": 42.4058,
-      "lon": -80.10299,
-      "sog": 14.9,
+      "lat": 42.42523,
+      "lon": -80.02624,
+      "sog": 15,
       "cog": 71,
       "heading": 72,
       "length": 147,
       "beam": 23,
       "destination": "CAHAM",
-      "lastReport": "2026-11-03T16:31:06Z"
+      "lastReport": "2026-11-03T16:45:32Z"
     }
   ]
 }
