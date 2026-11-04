@@ -1,34 +1,6 @@
 {
-  "updated": "2026-11-04T18:01:34Z",
+  "updated": "2026-11-04T18:16:35Z",
   "vessels": [
-    {
-      "mmsi": 366905890,
-      "name": "JAMES R BARKER",
-      "type": 70,
-      "lat": 46.33302,
-      "lon": -84.21375,
-      "sog": 6.4,
-      "cog": 182,
-      "heading": 181,
-      "length": 305,
-      "beam": 32,
-      "destination": "BURNS HARBOR",
-      "lastReport": "2026-11-04T18:00:52Z"
-    },
-    {
-      "mmsi": 367050160,
-      "name": "BURNS HARBOR",
-      "type": 70,
-      "lat": 46.31541,
-      "lon": -84.1232,
-      "sog": 7.1,
-      "cog": 298,
-      "heading": 289,
-      "length": 304,
-      "beam": 32,
-      "destination": "SLLVER BAY",
-      "lastReport": "2026-11-04T18:01:09Z"
-    },
     {
       "mmsi": 316009457,
       "name": "KAMINISTIQUA",
@@ -36,40 +8,40 @@
       "lat": 48.4478,
       "lon": -89.182,
       "sog": 0,
-      "cog": 206,
+      "cog": 357,
       "heading": 321,
       "length": 223,
       "beam": 23,
       "destination": "SOREL",
-      "lastReport": "2026-11-04T18:01:10Z"
-    },
-    {
-      "mmsi": 255915811,
-      "name": "POLSTEAM INSKO",
-      "type": 70,
-      "lat": 48.03275,
-      "lon": -88.04381,
-      "sog": 12.3,
-      "cog": 128,
-      "heading": 128,
-      "length": 200,
-      "beam": 24,
-      "destination": "CA MTR",
-      "lastReport": "2026-11-04T18:01:23Z"
+      "lastReport": "2026-11-04T18:15:49Z"
     },
     {
       "mmsi": 316006868,
       "name": "KATHY MCKEIL",
       "type": 70,
-      "lat": 42.26889,
+      "lat": 42.26888,
       "lon": -83.10258,
       "sog": 0,
-      "cog": 264,
+      "cog": 278,
       "heading": 18,
       "length": 179,
       "beam": 23,
       "destination": "THUNDER BAY",
-      "lastReport": "2026-11-04T18:00:27Z"
+      "lastReport": "2026-11-04T18:16:17Z"
+    },
+    {
+      "mmsi": 316055401,
+      "name": "ALGOSOLIS",
+      "type": 89,
+      "lat": 42.82598,
+      "lon": -79.26498,
+      "sog": 0.4,
+      "cog": 310,
+      "heading": 245,
+      "length": 144,
+      "beam": 23,
+      "destination": "HALIFAX",
+      "lastReport": "2026-11-04T18:16:06Z"
     }
   ]
 }
