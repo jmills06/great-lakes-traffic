@@ -740,7 +740,7 @@
     "type": 70,
     "length": 222,
     "beam": 23,
-    "destination": "FAIRPORT",
+    "destination": "THUNDER BAY",
     "callsign": "WQZ7791"
   },
   "366848350": {
@@ -1546,7 +1546,7 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 12,
+    "length": 10,
     "beam": 4,
     "destination": "",
     "callsign": ""
@@ -1924,7 +1924,7 @@
     "type": 70,
     "length": 246,
     "beam": 24,
-    "destination": "SUPERIOR",
+    "destination": "TOLEDO",
     "callsign": "WL3108"
   },
   "366904950": {
