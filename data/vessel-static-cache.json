@@ -3452,7 +3452,7 @@
     "type": 33,
     "length": 22,
     "beam": 7,
-    "destination": "OUTER HARBOUR",
+    "destination": "WELLAND",
     "callsign": ""
   },
   "316011233": {
@@ -5486,5 +5486,13 @@
     "beam": 13,
     "destination": "",
     "callsign": "AEDZ"
+  },
+  "367583960": {
+    "name": "WILLIAM EUGENE",
+    "type": 31,
+    "length": 17,
+    "beam": 5,
+    "destination": "XX XXX>US^0YQY",
+    "callsign": "WDG9067"
   }
 }
