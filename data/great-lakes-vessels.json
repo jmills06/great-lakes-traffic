@@ -1,19 +1,33 @@
 {
-  "updated": "2026-11-04T23:31:31Z",
+  "updated": "2026-11-04T23:46:30Z",
   "vessels": [
     {
-      "mmsi": 366904890,
-      "name": "HON JAMES L OBERSTAR",
+      "mmsi": 367050160,
+      "name": "BURNS HARBOR",
       "type": 70,
-      "lat": 46.69747,
-      "lon": -92.01862,
-      "sog": 0,
-      "cog": 6,
-      "heading": 183,
-      "length": 246,
-      "beam": 24,
-      "destination": "TOLEDO",
-      "lastReport": "2026-11-04T23:30:26Z"
+      "lat": 46.46717,
+      "lon": -84.56461,
+      "sog": 9.9,
+      "cog": 318,
+      "heading": 317,
+      "length": 304,
+      "beam": 32,
+      "destination": "SLLVER BAY",
+      "lastReport": "2026-11-04T23:45:48Z"
+    },
+    {
+      "mmsi": 316001834,
+      "name": "FRONTENAC",
+      "type": 70,
+      "lat": 42.86214,
+      "lon": -79.25398,
+      "sog": 6.2,
+      "cog": 16,
+      "heading": 15,
+      "length": 223,
+      "beam": 23,
+      "destination": "QUEBEC CITY",
+      "lastReport": "2026-11-04T23:46:19Z"
     },
     {
       "mmsi": 316018031,
@@ -22,26 +36,40 @@
       "lat": 43.27265,
       "lon": -79.79888,
       "sog": 0,
-      "cog": 310,
+      "cog": 62,
       "heading": 198,
       "length": 222,
       "beam": 23,
       "destination": "HAMILTON",
-      "lastReport": "2026-11-04T23:31:28Z"
+      "lastReport": "2026-11-04T23:46:28Z"
     },
     {
-      "mmsi": 255915987,
-      "name": "STENHEIM",
-      "type": 80,
-      "lat": 43.27168,
-      "lon": -79.84596,
+      "mmsi": 316006868,
+      "name": "KATHY MCKEIL",
+      "type": 70,
+      "lat": 42.26889,
+      "lon": -83.10258,
       "sog": 0,
-      "cog": 205,
-      "heading": 17,
-      "length": 144,
+      "cog": 211,
+      "heading": 19,
+      "length": 179,
       "beam": 23,
-      "destination": "CA HAM",
-      "lastReport": "2026-11-04T23:31:04Z"
+      "destination": "THUNDER BAY",
+      "lastReport": "2026-11-04T23:46:06Z"
+    },
+    {
+      "mmsi": 316034372,
+      "name": "NACC QUEBEC",
+      "type": 70,
+      "lat": 44.33478,
+      "lon": -75.92856,
+      "sog": 10.8,
+      "cog": 37,
+      "heading": 35,
+      "length": 140,
+      "beam": 21,
+      "destination": "PORT DANNIEL",
+      "lastReport": "2026-11-04T23:45:59Z"
     }
   ]
 }
