@@ -5510,5 +5510,13 @@
     "beam": 20,
     "destination": "CAHAM",
     "callsign": "PCSH"
+  },
+  "338925325": {
+    "name": "T.B. DETROIT",
+    "type": 0,
+    "length": 8,
+    "beam": 5,
+    "destination": "",
+    "callsign": "AFAZ"
   }
 }
