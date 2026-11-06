@@ -1108,7 +1108,7 @@
     "type": 2,
     "length": 305,
     "beam": 32,
-    "destination": "SUPERIOR",
+    "destination": "US^110Q>?? ???",
     "callsign": "WDD2876"
   },
   "316005305": {
@@ -2100,7 +2100,7 @@
     "type": 52,
     "length": 178,
     "beam": 21,
-    "destination": "MUSKEGON",
+    "destination": "S.CHICAGO",
     "callsign": "WCV7620"
   },
   "367739710": {
