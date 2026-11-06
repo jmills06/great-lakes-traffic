@@ -1060,7 +1060,7 @@
     "type": 70,
     "length": 200,
     "beam": 23,
-    "destination": "ES ALG > US DET",
+    "destination": "US DET>CA WND",
     "callsign": "V7NK3"
   },
   "316225000": {
