@@ -732,7 +732,7 @@
     "type": 70,
     "length": 146,
     "beam": 21,
-    "destination": "JOHNSTOWN",
+    "destination": "DETROIT-ZUG",
     "callsign": "CFBC"
   },
   "366938710": {
@@ -2204,7 +2204,7 @@
     "type": 89,
     "length": 144,
     "beam": 23,
-    "destination": "NANTICOKE IOL",
+    "destination": "CA MTL",
     "callsign": "VABZ"
   },
   "368298140": {
