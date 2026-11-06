@@ -971,8 +971,8 @@
     "name": "JOE DERBAS",
     "type": 57,
     "length": 87,
-    "beam": 11,
-    "destination": "US^0TC6>0RL7",
+    "beam": 12,
+    "destination": "XX XXX>US^0RL7",
     "callsign": "WDQ5745"
   },
   "368185710": {
@@ -5388,7 +5388,7 @@
     "type": 80,
     "length": 162,
     "beam": 23,
-    "destination": "CAPWE>CACSN",
+    "destination": "CACSN>CAMTR",
     "callsign": "CQNZ"
   },
   "368454250": {
