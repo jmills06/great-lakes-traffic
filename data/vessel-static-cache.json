@@ -5518,5 +5518,13 @@
     "beam": 5,
     "destination": "",
     "callsign": "AFAZ"
+  },
+  "636093060": {
+    "name": "BRUCE",
+    "type": 70,
+    "length": 147,
+    "beam": 23,
+    "destination": "MONTREAL",
+    "callsign": "D5LJ6"
   }
 }
