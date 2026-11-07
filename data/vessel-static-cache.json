@@ -1546,7 +1546,7 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 12,
+    "length": 10,
     "beam": 4,
     "destination": "",
     "callsign": ""
@@ -1948,7 +1948,7 @@
     "type": 70,
     "length": 203,
     "beam": 24,
-    "destination": "TOR   CH69",
+    "destination": "DET   CH66A",
     "callsign": "VGGR"
   },
   "316042424": {
@@ -2756,7 +2756,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "SILVER BAY CH 74",
+    "destination": "TOLEDO",
     "callsign": "CFFO"
   },
   "367649730": {
