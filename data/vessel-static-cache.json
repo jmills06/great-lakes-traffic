@@ -1546,7 +1546,7 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 10,
+    "length": 12,
     "beam": 4,
     "destination": "",
     "callsign": ""
@@ -5492,7 +5492,7 @@
     "type": 31,
     "length": 17,
     "beam": 5,
-    "destination": "XX XXX>US^0YQY",
+    "destination": "XX XXX>?? ???",
     "callsign": "WDG9067"
   },
   "338767000": {
