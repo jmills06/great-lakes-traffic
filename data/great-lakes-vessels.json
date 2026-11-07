@@ -1,33 +1,19 @@
 {
-  "updated": "2026-11-07T15:16:27Z",
+  "updated": "2026-11-07T15:31:31Z",
   "vessels": [
-    {
-      "mmsi": 316034846,
-      "name": "ALGOMA NIAGARA",
-      "type": 70,
-      "lat": 43.61673,
-      "lon": -78.85714,
-      "sog": 13,
-      "cog": 254,
-      "heading": 253,
-      "length": 226,
-      "beam": 24,
-      "destination": "SILVER BAY CH 74",
-      "lastReport": "2026-11-07T15:15:27Z"
-    },
     {
       "mmsi": 316001633,
       "name": "CSL ASSINIBOINE",
       "type": 70,
-      "lat": 42.91633,
-      "lon": -79.24233,
-      "sog": 1.9,
-      "cog": 190,
-      "heading": 189,
+      "lat": 42.90954,
+      "lon": -79.24395,
+      "sog": 2,
+      "cog": 188,
+      "heading": 190,
       "length": 226,
       "beam": 24,
       "destination": "ASHTABULA",
-      "lastReport": "2026-11-07T15:16:13Z"
+      "lastReport": "2026-11-07T15:30:33Z"
     },
     {
       "mmsi": 316011710,
@@ -36,40 +22,40 @@
       "lat": 43.19367,
       "lon": -79.20288,
       "sog": 0,
-      "cog": 217,
+      "cog": 221,
       "heading": 156,
       "length": 225,
       "beam": 24,
       "destination": "THUNDER BAY",
-      "lastReport": "2026-11-07T15:15:42Z"
+      "lastReport": "2026-11-07T15:30:43Z"
     },
     {
-      "mmsi": 316001637,
-      "name": "CSL LAURENTIEN",
+      "mmsi": 316035905,
+      "name": "ALGOMA INNOVATOR",
       "type": 70,
-      "lat": 42.25634,
-      "lon": -83.1095,
-      "sog": 0,
-      "cog": 209,
-      "heading": 29,
-      "length": 225,
+      "lat": 48.32625,
+      "lon": -89.12248,
+      "sog": 6.7,
+      "cog": 291,
+      "heading": 288,
+      "length": 198,
       "beam": 24,
-      "destination": "WINDSOR",
-      "lastReport": "2026-11-07T15:15:14Z"
+      "destination": "THUNDER BAY",
+      "lastReport": "2026-11-07T15:31:22Z"
     },
     {
-      "mmsi": 316001701,
-      "name": "JOHN D LEITCH",
+      "mmsi": 316041965,
+      "name": "TAMARACK",
       "type": 70,
-      "lat": 43.13224,
-      "lon": -79.19233,
+      "lat": 43.22739,
+      "lon": -79.21748,
       "sog": 0,
-      "cog": 5,
-      "heading": 4,
-      "length": 222,
-      "beam": 24,
-      "destination": "HAMILTON",
-      "lastReport": "2026-11-07T15:16:22Z"
+      "cog": 355,
+      "heading": 345,
+      "length": 123,
+      "beam": 23,
+      "destination": "BUFFALO",
+      "lastReport": "2026-11-07T15:30:59Z"
     }
   ]
 }
