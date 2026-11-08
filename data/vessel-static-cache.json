@@ -1860,7 +1860,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "GARY CH 74",
+    "destination": "TOLEDO CH 74",
     "callsign": "WXU3434"
   },
   "244060083": {
@@ -2001,10 +2001,10 @@
   },
   "367793450": {
     "name": "NEW YORK",
-    "type": 57,
+    "type": 31,
     "length": 30,
     "beam": 10,
-    "destination": "TONAWANDA",
+    "destination": "MARATHON FORT ST",
     "callsign": "WDJ6009"
   },
   "316041965": {
