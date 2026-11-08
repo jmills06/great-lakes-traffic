@@ -5534,5 +5534,13 @@
     "beam": 24,
     "destination": "CA QUE",
     "callsign": "CQ2268"
+  },
+  "367675840": {
+    "name": "TRALEE",
+    "type": 52,
+    "length": 49,
+    "beam": 7,
+    "destination": "HOME",
+    "callsign": "WDI2212"
   }
 }
