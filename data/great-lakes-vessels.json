@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-09T14:16:29Z",
+  "updated": "2026-11-09T14:31:30Z",
   "vessels": [
     {
       "mmsi": 366904940,
       "name": "PAUL R TREGURTHA",
       "type": 70,
-      "lat": 46.75195,
+      "lat": 46.75199,
       "lon": -92.13564,
       "sog": 0,
       "cog": 330,
@@ -13,77 +13,35 @@
       "length": 309,
       "beam": 32,
       "destination": "CLEVELAND",
-      "lastReport": "2026-11-09T14:15:29Z"
-    },
-    {
-      "mmsi": 316023808,
-      "name": "BAIE COMEAU",
-      "type": 70,
-      "lat": 43.00491,
-      "lon": -82.4192,
-      "sog": 9.7,
-      "cog": 209,
-      "heading": 208,
-      "length": 225,
-      "beam": 24,
-      "destination": "CHICAGO",
-      "lastReport": "2026-11-09T14:15:59Z"
+      "lastReport": "2026-11-09T14:30:40Z"
     },
     {
       "mmsi": 316059017,
       "name": "ONTARIO VENTURE",
       "type": 70,
-      "lat": 43.15947,
-      "lon": -82.40532,
-      "sog": 10.9,
-      "cog": 183,
+      "lat": 43.11541,
+      "lon": -82.40939,
+      "sog": 10.6,
+      "cog": 185,
       "heading": 184,
       "length": 207,
       "beam": 24,
       "destination": "WINDSOR",
-      "lastReport": "2026-11-09T14:15:45Z"
+      "lastReport": "2026-11-09T14:30:16Z"
     },
     {
-      "mmsi": 316014160,
-      "name": "MANITOULIN",
-      "type": 70,
-      "lat": 43.15462,
-      "lon": -79.19357,
-      "sog": 0,
-      "cog": 56,
-      "heading": 354,
-      "length": 203,
-      "beam": 24,
-      "destination": "BWV  CH66A",
-      "lastReport": "2026-11-09T14:16:19Z"
-    },
-    {
-      "mmsi": 538011121,
-      "name": "FEDERAL WISCONSIN",
-      "type": 70,
-      "lat": 42.62825,
-      "lon": -79.74082,
-      "sog": 12.8,
-      "cog": 238,
-      "heading": 240,
-      "length": 200,
-      "beam": 24,
-      "destination": "CATHU",
-      "lastReport": "2026-11-09T14:15:49Z"
-    },
-    {
-      "mmsi": 316044371,
-      "name": "HARVEST SPIRIT",
-      "type": 70,
-      "lat": 43.2153,
-      "lon": -79.21245,
-      "sog": 2.4,
-      "cog": 161,
-      "heading": 162,
-      "length": 153,
-      "beam": 23,
-      "destination": "CATHU",
-      "lastReport": "2026-11-09T14:15:27Z"
+      "mmsi": 245806000,
+      "name": "FULDABORG",
+      "type": 79,
+      "lat": 46.06829,
+      "lon": -84.00929,
+      "sog": 11.2,
+      "cog": 135,
+      "heading": 126,
+      "length": 155,
+      "beam": 18,
+      "destination": "CA MTR",
+      "lastReport": "2026-11-09T14:31:00Z"
     }
   ]
 }
