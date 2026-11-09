@@ -1,47 +1,33 @@
 {
-  "updated": "2026-11-09T14:31:30Z",
+  "updated": "2026-11-09T14:46:30Z",
   "vessels": [
-    {
-      "mmsi": 366904940,
-      "name": "PAUL R TREGURTHA",
-      "type": 70,
-      "lat": 46.75199,
-      "lon": -92.13564,
-      "sog": 0,
-      "cog": 330,
-      "heading": 136,
-      "length": 309,
-      "beam": 32,
-      "destination": "CLEVELAND",
-      "lastReport": "2026-11-09T14:30:40Z"
-    },
-    {
-      "mmsi": 316059017,
-      "name": "ONTARIO VENTURE",
-      "type": 70,
-      "lat": 43.11541,
-      "lon": -82.40939,
-      "sog": 10.6,
-      "cog": 185,
-      "heading": 184,
-      "length": 207,
-      "beam": 24,
-      "destination": "WINDSOR",
-      "lastReport": "2026-11-09T14:30:16Z"
-    },
     {
       "mmsi": 245806000,
       "name": "FULDABORG",
       "type": 79,
-      "lat": 46.06829,
-      "lon": -84.00929,
-      "sog": 11.2,
-      "cog": 135,
-      "heading": 126,
+      "lat": 46.04664,
+      "lon": -83.94778,
+      "sog": 11.7,
+      "cog": 116,
+      "heading": 115,
       "length": 155,
       "beam": 18,
       "destination": "CA MTR",
-      "lastReport": "2026-11-09T14:31:00Z"
+      "lastReport": "2026-11-09T14:46:01Z"
+    },
+    {
+      "mmsi": 316001940,
+      "name": "FLORENCE SPIRIT",
+      "type": 70,
+      "lat": 42.67943,
+      "lon": -79.52572,
+      "sog": 10.7,
+      "cog": 52,
+      "heading": 50,
+      "length": 146,
+      "beam": 21,
+      "destination": "HAMILTON",
+      "lastReport": "2026-11-09T14:45:42Z"
     }
   ]
 }
