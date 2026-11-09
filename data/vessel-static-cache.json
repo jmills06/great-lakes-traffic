@@ -260,7 +260,7 @@
     "type": 52,
     "length": 41,
     "beam": 11,
-    "destination": "CHARLEVOIX MI",
+    "destination": "CHARLEVOIX",
     "callsign": "WDK8680"
   },
   "366988420": {
@@ -1084,7 +1084,7 @@
     "type": 70,
     "length": 153,
     "beam": 23,
-    "destination": "CABCO",
+    "destination": "CATHU",
     "callsign": "VDAY"
   },
   "367608260": {
