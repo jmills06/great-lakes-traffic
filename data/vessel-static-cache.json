@@ -1546,7 +1546,7 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 10,
+    "length": 12,
     "beam": 4,
     "destination": "",
     "callsign": ""
@@ -4124,7 +4124,7 @@
     "type": 70,
     "length": 193,
     "beam": 22,
-    "destination": "GODERICH",
+    "destination": "MELDRUM BAY",
     "callsign": "VYA2010"
   },
   "367709820": {
