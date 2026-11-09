@@ -5542,5 +5542,13 @@
     "beam": 7,
     "destination": "HOME",
     "callsign": "WDI2212"
+  },
+  "538010466": {
+    "name": "CAPE",
+    "type": 70,
+    "length": 186,
+    "beam": 24,
+    "destination": "CA OSH",
+    "callsign": "V7A6080"
   }
 }
