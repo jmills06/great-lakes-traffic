@@ -5574,5 +5574,13 @@
     "beam": 24,
     "destination": "US TOL",
     "callsign": "V7A4052"
+  },
+  "538006786": {
+    "name": "FEDERAL WELLAND",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "USDET",
+    "callsign": "V7RG7"
   }
 }
