@@ -1396,7 +1396,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "PORT CARTIER",
+    "destination": "HAMILTON",
     "callsign": "VBCD"
   },
   "367688370": {
@@ -1900,7 +1900,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "BURNS HARBOR",
+    "destination": "DULUTH",
     "callsign": "WYP8657"
   },
   "316048758": {
@@ -5558,5 +5558,13 @@
     "beam": 14,
     "destination": "GBIMM",
     "callsign": "PEXL"
+  },
+  "311058500": {
+    "name": "SOLINA",
+    "type": 70,
+    "length": 189,
+    "beam": 24,
+    "destination": "USCLE",
+    "callsign": "C6ZL4"
   }
 }
