@@ -500,7 +500,7 @@
     "type": 70,
     "length": 215,
     "beam": 24,
-    "destination": "DETROIT",
+    "destination": "MELDRUM BAY",
     "callsign": "WZD2465"
   },
   "367360260": {
@@ -1396,7 +1396,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "HAMILTON",
+    "destination": "QUEBEC 107",
     "callsign": "VBCD"
   },
   "367688370": {
@@ -1546,7 +1546,7 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 10,
+    "length": 12,
     "beam": 4,
     "destination": "",
     "callsign": ""
