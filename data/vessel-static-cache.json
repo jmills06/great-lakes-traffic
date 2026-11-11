@@ -820,7 +820,7 @@
     "type": 70,
     "length": 155,
     "beam": 22,
-    "destination": "BRUCE MINES",
+    "destination": "CLEVELAND",
     "callsign": "VDAK"
   },
   "368220270": {
@@ -1546,7 +1546,7 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 10,
+    "length": 12,
     "beam": 4,
     "destination": "",
     "callsign": ""
