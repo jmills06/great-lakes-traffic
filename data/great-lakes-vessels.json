@@ -1,19 +1,61 @@
 {
-  "updated": "2026-11-11T06:16:29Z",
+  "updated": "2026-11-11T06:31:34Z",
   "vessels": [
     {
-      "mmsi": 367159020,
-      "name": "ALBERT",
-      "type": 52,
-      "lat": 43.07978,
-      "lon": -82.41312,
-      "sog": 7.5,
-      "cog": 5,
-      "heading": 5,
-      "length": 152,
+      "mmsi": 366904950,
+      "name": "LEE A. TREGURTHA",
+      "type": 70,
+      "lat": 46.49549,
+      "lon": -84.31601,
+      "sog": 4.1,
+      "cog": 108,
+      "heading": 106,
+      "length": 252,
       "beam": 23,
-      "destination": "CHEBOYGAN",
-      "lastReport": "2026-11-11T06:16:16Z"
+      "destination": "MARQUETTE",
+      "lastReport": "2026-11-11T06:30:36Z"
+    },
+    {
+      "mmsi": 316031354,
+      "name": "CAPT. HENRY JACKMAN",
+      "type": 70,
+      "lat": 43.13797,
+      "lon": -79.19236,
+      "sog": 0.8,
+      "cog": 186,
+      "heading": 183,
+      "length": 226,
+      "beam": 24,
+      "destination": "THUNDER BAY",
+      "lastReport": "2026-11-11T06:30:49Z"
+    },
+    {
+      "mmsi": 367121040,
+      "name": "AMERICAN COURAGE",
+      "type": 70,
+      "lat": 41.49677,
+      "lon": -81.72298,
+      "sog": 0,
+      "cog": 229,
+      "heading": 56,
+      "length": 194,
+      "beam": 21,
+      "destination": "CLEVELAND",
+      "lastReport": "2026-11-11T06:30:54Z"
+    },
+    {
+      "mmsi": 316002063,
+      "name": "SEA EAGLE II",
+      "type": 52,
+      "lat": 42.31467,
+      "lon": -80.71458,
+      "sog": 10.4,
+      "cog": 249,
+      "heading": 249,
+      "length": 164,
+      "beam": 23,
+      "destination": "DETROIT SMC ROUGE",
+      "lastReport": "2026-11-11T06:31:01Z"
     }
   ]
 }
