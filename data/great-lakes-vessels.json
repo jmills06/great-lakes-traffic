@@ -1,53 +1,25 @@
 {
-  "updated": "2026-11-11T23:16:30Z",
+  "updated": "2026-11-11T23:31:33Z",
   "vessels": [
     {
-      "mmsi": 316026695,
-      "name": "CSL WELLAND",
+      "mmsi": 316026694,
+      "name": "CSL ST-LAURENT",
       "type": 70,
-      "lat": 48.41413,
-      "lon": -89.22056,
-      "sog": 0,
-      "cog": 282,
-      "heading": 270,
+      "lat": 42.48582,
+      "lon": -80.11739,
+      "sog": 12.1,
+      "cog": 248,
+      "heading": 248,
       "length": 226,
       "beam": 24,
-      "destination": "THUNDER BAY",
-      "lastReport": "2026-11-11T23:16:19Z"
-    },
-    {
-      "mmsi": 366938710,
-      "name": "AMERICAN MARINER",
-      "type": 70,
-      "lat": 42.87233,
-      "lon": -78.87843,
-      "sog": 0,
-      "cog": 160,
-      "heading": 160,
-      "length": 222,
-      "beam": 23,
-      "destination": "BUFFALO",
-      "lastReport": "2026-11-11T23:16:05Z"
-    },
-    {
-      "mmsi": 304521000,
-      "name": "EIDER",
-      "type": 79,
-      "lat": 42.83682,
-      "lon": -79.26364,
-      "sog": 0.3,
-      "cog": 220,
-      "heading": 18,
-      "length": 190,
-      "beam": 24,
-      "destination": "CA THU",
-      "lastReport": "2026-11-11T23:15:44Z"
+      "destination": "THUNDERBAY",
+      "lastReport": "2026-11-11T23:30:49Z"
     },
     {
       "mmsi": 316041965,
       "name": "TAMARACK",
       "type": 70,
-      "lat": 43.64295,
+      "lat": 43.64296,
       "lon": -79.35358,
       "sog": 0,
       "cog": 52,
@@ -55,7 +27,7 @@
       "length": 123,
       "beam": 23,
       "destination": "TORONTO,ON",
-      "lastReport": "2026-11-11T23:15:50Z"
+      "lastReport": "2026-11-11T23:30:59Z"
     }
   ]
 }
