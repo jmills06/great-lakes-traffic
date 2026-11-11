@@ -1,61 +1,33 @@
 {
-  "updated": "2026-11-11T18:46:28Z",
+  "updated": "2026-11-11T19:01:35Z",
   "vessels": [
     {
-      "mmsi": 538006469,
-      "name": "FEDERAL CHURCHILL",
-      "type": 70,
-      "lat": 44.13783,
-      "lon": -76.33861,
-      "sog": 8.2,
-      "cog": 36,
-      "heading": 35,
-      "length": 200,
-      "beam": 23,
-      "destination": "US DET>CA WND",
-      "lastReport": "2026-11-11T18:45:27Z"
+      "mmsi": 367480250,
+      "name": "OLIVE L. MOORE",
+      "type": 52,
+      "lat": 41.67718,
+      "lon": -87.43844,
+      "sog": 0,
+      "cog": 329,
+      "heading": 343,
+      "length": 222,
+      "beam": 22,
+      "destination": "INDIANA HBR",
+      "lastReport": "2026-11-11T19:00:34Z"
     },
     {
       "mmsi": 304521000,
       "name": "EIDER",
       "type": 79,
-      "lat": 42.68878,
-      "lon": -79.5131,
-      "sog": 8.7,
+      "lat": 42.7102,
+      "lon": -79.47268,
+      "sog": 8.6,
       "cog": 54,
       "heading": 54,
       "length": 190,
       "beam": 24,
       "destination": "CA THU",
-      "lastReport": "2026-11-11T18:45:44Z"
-    },
-    {
-      "mmsi": 245806000,
-      "name": "FULDABORG",
-      "type": 79,
-      "lat": 43.18745,
-      "lon": -79.19902,
-      "sog": 2.9,
-      "cog": 336,
-      "heading": 336,
-      "length": 155,
-      "beam": 18,
-      "destination": "CA MTR",
-      "lastReport": "2026-11-11T18:46:09Z"
-    },
-    {
-      "mmsi": 244040000,
-      "name": "HUMBERGRACHT",
-      "type": 71,
-      "lat": 43.82941,
-      "lon": -78.68409,
-      "sog": 13.8,
-      "cog": 281,
-      "heading": 281,
-      "length": 138,
-      "beam": 21,
-      "destination": "CAOSH",
-      "lastReport": "2026-11-11T18:46:09Z"
+      "lastReport": "2026-11-11T19:00:54Z"
     }
   ]
 }
