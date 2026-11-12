@@ -1,33 +1,19 @@
 {
-  "updated": "2026-11-12T03:01:33Z",
+  "updated": "2026-11-12T03:16:28Z",
   "vessels": [
-    {
-      "mmsi": 366904940,
-      "name": "PAUL R TREGURTHA",
-      "type": 70,
-      "lat": 42.30076,
-      "lon": -83.08666,
-      "sog": 7.9,
-      "cog": 215,
-      "heading": 215,
-      "length": 309,
-      "beam": 32,
-      "destination": "CLEVELAND",
-      "lastReport": "2026-11-12T03:01:09Z"
-    },
     {
       "mmsi": 316001633,
       "name": "CSL ASSINIBOINE",
       "type": 70,
-      "lat": 46.1552,
-      "lon": -84.04961,
-      "sog": 10.7,
-      "cog": 309,
-      "heading": 309,
+      "lat": 46.18612,
+      "lon": -84.09906,
+      "sog": 10.6,
+      "cog": 322,
+      "heading": 322,
       "length": 226,
       "beam": 24,
       "destination": "SUPERIOR",
-      "lastReport": "2026-11-12T03:00:20Z"
+      "lastReport": "2026-11-12T03:15:51Z"
     },
     {
       "mmsi": 316026695,
@@ -36,68 +22,40 @@
       "lat": 48.41414,
       "lon": -89.22138,
       "sog": 0,
-      "cog": 161,
+      "cog": 331,
       "heading": 270,
       "length": 226,
       "beam": 24,
       "destination": "THUNDER BAY",
-      "lastReport": "2026-11-12T03:01:07Z"
+      "lastReport": "2026-11-12T03:15:29Z"
     },
     {
-      "mmsi": 316036229,
-      "name": "ALGOMA COMPASS",
-      "type": 70,
-      "lat": 43.06524,
-      "lon": -79.21184,
-      "sog": 6.2,
-      "cog": 3,
+      "mmsi": 316003878,
+      "name": "WILF SEYMOUR",
+      "type": 52,
+      "lat": 42.20949,
+      "lon": -83.13233,
+      "sog": 8.1,
+      "cog": 4,
       "heading": 4,
-      "length": 207,
+      "length": 159,
       "beam": 24,
-      "destination": "HAMILTON",
-      "lastReport": "2026-11-12T03:01:16Z"
+      "destination": "TOLEDO",
+      "lastReport": "2026-11-12T03:15:55Z"
     },
     {
       "mmsi": 366578000,
       "name": "UNDAUNTED",
       "type": 31,
-      "lat": 46.49634,
-      "lon": -84.40167,
-      "sog": 0.6,
-      "cog": 268,
-      "heading": 297,
+      "lat": 46.50459,
+      "lon": -84.38984,
+      "sog": 3.5,
+      "cog": 50,
+      "heading": 54,
       "length": 150,
       "beam": 18,
       "destination": "SAULT STE MARIE",
-      "lastReport": "2026-11-12T03:01:01Z"
-    },
-    {
-      "mmsi": 316001940,
-      "name": "FLORENCE SPIRIT",
-      "type": 70,
-      "lat": 43.17005,
-      "lon": -79.19552,
-      "sog": 3.5,
-      "cog": 178,
-      "heading": 174,
-      "length": 146,
-      "beam": 21,
-      "destination": "DETROIT-ZUG",
-      "lastReport": "2026-11-12T03:01:17Z"
-    },
-    {
-      "mmsi": 316053441,
-      "name": "ALGOLUNA",
-      "type": 89,
-      "lat": 42.79799,
-      "lon": -80.04346,
-      "sog": 0,
-      "cog": 344,
-      "heading": 163,
-      "length": 144,
-      "beam": 23,
-      "destination": "CA SARNIA",
-      "lastReport": "2026-11-12T03:00:56Z"
+      "lastReport": "2026-11-12T03:15:20Z"
     }
   ]
 }
