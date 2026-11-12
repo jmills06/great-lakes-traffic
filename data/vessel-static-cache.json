@@ -1740,7 +1740,7 @@
     "type": 52,
     "length": 45,
     "beam": 22,
-    "destination": "TOLEDO",
+    "destination": "ESSEXVILLE",
     "callsign": "WDC8307"
   },
   "316024256": {
@@ -2036,7 +2036,7 @@
     "type": 70,
     "length": 192,
     "beam": 21,
-    "destination": "FAIRPORT",
+    "destination": "MARINE CITY",
     "callsign": "WDE3569"
   },
   "369958000": {
@@ -5582,5 +5582,13 @@
     "beam": 24,
     "destination": "USDET",
     "callsign": "V7RG7"
+  },
+  "305578000": {
+    "name": "BBC GENEVA",
+    "type": 70,
+    "length": 149,
+    "beam": 23,
+    "destination": "CATHU",
+    "callsign": "V2IC7"
   }
 }
