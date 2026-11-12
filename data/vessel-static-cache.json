@@ -676,7 +676,7 @@
     "type": 70,
     "length": 198,
     "beam": 24,
-    "destination": "SUPERIOR",
+    "destination": "HAMILTON",
     "callsign": "VABC"
   },
   "316045069": {
@@ -1460,7 +1460,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "ASHTABULA",
+    "destination": "SUPERIOR",
     "callsign": "VCKQ"
   },
   "368251670": {
