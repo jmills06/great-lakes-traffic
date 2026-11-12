@@ -5590,5 +5590,13 @@
     "beam": 23,
     "destination": "CATHU",
     "callsign": "V2IC7"
+  },
+  "255806184": {
+    "name": "BBC CLARA",
+    "type": 79,
+    "length": 100,
+    "beam": 21,
+    "destination": "USBNB",
+    "callsign": "CQAI6"
   }
 }
