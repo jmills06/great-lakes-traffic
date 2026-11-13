@@ -1084,7 +1084,7 @@
     "type": 70,
     "length": 153,
     "beam": 23,
-    "destination": "CATHU",
+    "destination": "CABCO",
     "callsign": "VDAY"
   },
   "367608260": {
@@ -2188,7 +2188,7 @@
     "type": 70,
     "length": 225,
     "beam": 24,
-    "destination": "WINDSOR",
+    "destination": "HAMILTON",
     "callsign": "VCJW"
   },
   "338021074": {
