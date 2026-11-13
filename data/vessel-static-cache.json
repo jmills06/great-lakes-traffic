@@ -5622,5 +5622,13 @@
     "beam": 8,
     "destination": "MILWAUKEE",
     "callsign": "WDI6196"
+  },
+  "366941210": {
+    "name": "LAKE EXPRESS",
+    "type": 40,
+    "length": 59,
+    "beam": 18,
+    "destination": "MILWAUKEE, WI",
+    "callsign": "WDB7361"
   }
 }
