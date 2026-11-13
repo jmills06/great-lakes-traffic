@@ -2996,7 +2996,7 @@
     "type": 52,
     "length": 164,
     "beam": 16,
-    "destination": "MANITOWOC",
+    "destination": "GREEN BAY_CH74",
     "callsign": "WDF7733"
   },
   "369970696": {
@@ -5614,5 +5614,13 @@
     "beam": 24,
     "destination": "CASNI",
     "callsign": "CQKH"
+  },
+  "367669520": {
+    "name": "NEW\\JERSEY",
+    "type": 32,
+    "length": 23,
+    "beam": 8,
+    "destination": "MILWAUKEE",
+    "callsign": "WDI6196"
   }
 }
