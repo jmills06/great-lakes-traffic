@@ -1188,7 +1188,7 @@
     "type": 70,
     "length": 309,
     "beam": 32,
-    "destination": "CLEVELAND",
+    "destination": "DULUTH",
     "callsign": "WYR4481"
   },
   "316055401": {
@@ -2116,7 +2116,7 @@
     "type": 60,
     "length": 68,
     "beam": 13,
-    "destination": "HOUGHTON MI",
+    "destination": "STURGEON BAY",
     "callsign": "WMAP"
   },
   "367173210": {
