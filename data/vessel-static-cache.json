@@ -1828,7 +1828,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "CONNEAUT",
+    "destination": "TWO HARBORS",
     "callsign": "WDD2875"
   },
   "369493832": {
@@ -2012,7 +2012,7 @@
     "type": 70,
     "length": 123,
     "beam": 23,
-    "destination": "TORONTO,ON",
+    "destination": "BATH,ON",
     "callsign": "CFA4550"
   },
   "366904910": {
