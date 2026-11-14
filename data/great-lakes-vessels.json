@@ -1,4 +1,61 @@
 {
-  "updated": "2026-11-14T08:16:26Z",
-  "vessels": []
+  "updated": "2026-11-14T08:31:31Z",
+  "vessels": [
+    {
+      "mmsi": 366938730,
+      "name": "INDIANA HARBOR",
+      "type": 70,
+      "lat": 43.11676,
+      "lon": -82.40843,
+      "sog": 10.1,
+      "cog": 185,
+      "heading": 186,
+      "length": 305,
+      "beam": 32,
+      "destination": "CONNEAUT,OH",
+      "lastReport": "2026-11-14T08:31:26Z"
+    },
+    {
+      "mmsi": 316002280,
+      "name": "ALGOMA CONVEYOR",
+      "type": 79,
+      "lat": 48.30629,
+      "lon": -89.03757,
+      "sog": 12.7,
+      "cog": 291,
+      "heading": 291,
+      "length": 226,
+      "beam": 24,
+      "destination": "THUNDER BAY",
+      "lastReport": "2026-11-14T08:30:38Z"
+    },
+    {
+      "mmsi": 316009090,
+      "name": "ALGOMA EQUINOX",
+      "type": 70,
+      "lat": 43.22662,
+      "lon": -79.21717,
+      "sog": 0,
+      "cog": 222,
+      "heading": 345,
+      "length": 224,
+      "beam": 24,
+      "destination": "BAIE COMEAU VHF68",
+      "lastReport": "2026-11-14T08:31:21Z"
+    },
+    {
+      "mmsi": 316041032,
+      "name": "WICKY SPIRIT",
+      "type": 89,
+      "lat": 44.23763,
+      "lon": -76.12434,
+      "sog": 10.8,
+      "cog": 69,
+      "heading": 70,
+      "length": 136,
+      "beam": 20,
+      "destination": "CAMTR",
+      "lastReport": "2026-11-14T08:31:28Z"
+    }
+  ]
 }
