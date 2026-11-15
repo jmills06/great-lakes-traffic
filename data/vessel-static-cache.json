@@ -5654,5 +5654,13 @@
     "beam": 23,
     "destination": "CAOSH",
     "callsign": "LAJX6"
+  },
+  "316002238": {
+    "name": "ANGLIAN LADY",
+    "type": 31,
+    "length": 40,
+    "beam": 10,
+    "destination": "SS MARIE",
+    "callsign": "VOLP"
   }
 }
