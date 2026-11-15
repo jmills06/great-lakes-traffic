@@ -5638,5 +5638,21 @@
     "beam": 0,
     "destination": "MILW",
     "callsign": "WDM8760"
+  },
+  "316033265": {
+    "name": "ROSSI A DESGAGNES",
+    "type": 89,
+    "length": 135,
+    "beam": 23,
+    "destination": "OAKVILLE",
+    "callsign": "CFCI"
+  },
+  "258751000": {
+    "name": "STEN HIDRA",
+    "type": 80,
+    "length": 144,
+    "beam": 23,
+    "destination": "CAOSH",
+    "callsign": "LAJX6"
   }
 }
