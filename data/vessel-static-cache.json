@@ -5670,5 +5670,13 @@
     "beam": 4,
     "destination": "",
     "callsign": ""
+  },
+  "369990352": {
+    "name": "CG29352",
+    "type": 51,
+    "length": 8,
+    "beam": 3,
+    "destination": "",
+    "callsign": ""
   }
 }
