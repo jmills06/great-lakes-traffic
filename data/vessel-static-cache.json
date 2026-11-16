@@ -516,7 +516,7 @@
     "type": 80,
     "length": 140,
     "beam": 24,
-    "destination": "SARNIA",
+    "destination": "NANTICOKE",
     "callsign": "VAAT"
   },
   "367627830": {
@@ -988,7 +988,7 @@
     "type": 70,
     "length": 191,
     "beam": 20,
-    "destination": "HOLLAND",
+    "destination": "PORT INLAND",
     "callsign": "WDE3568"
   },
   "316002588": {
