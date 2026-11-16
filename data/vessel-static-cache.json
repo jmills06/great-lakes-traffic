@@ -2281,10 +2281,10 @@
   },
   "368261230": {
     "name": "LEONA_B",
-    "type": 52,
-    "length": 20,
-    "beam": 8,
-    "destination": "KENOSHA",
+    "type": 57,
+    "length": 75,
+    "beam": 16,
+    "destination": "WAUKEGAN",
     "callsign": "WDN2346"
   },
   "316035651": {
@@ -5694,5 +5694,13 @@
     "beam": 23,
     "destination": "",
     "callsign": "WDP8500"
+  },
+  "304068000": {
+    "name": "SIVUMUT",
+    "type": 70,
+    "length": 139,
+    "beam": 21,
+    "destination": "CAHAM",
+    "callsign": "V2IL8"
   }
 }
