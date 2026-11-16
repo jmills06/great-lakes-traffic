@@ -5678,5 +5678,13 @@
     "beam": 3,
     "destination": "",
     "callsign": ""
+  },
+  "311000558": {
+    "name": "NARIE",
+    "type": 70,
+    "length": 200,
+    "beam": 24,
+    "destination": "USCLE",
+    "callsign": "C6CS3"
   }
 }
