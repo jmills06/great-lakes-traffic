@@ -988,7 +988,7 @@
     "type": 70,
     "length": 191,
     "beam": 20,
-    "destination": "BCI/SAG",
+    "destination": "HOLLAND",
     "callsign": "WDE3568"
   },
   "316002588": {
@@ -5686,5 +5686,13 @@
     "beam": 24,
     "destination": "USCLE",
     "callsign": "C6CS3"
+  },
+  "368391030": {
+    "name": "DISCOVERY",
+    "type": 90,
+    "length": 90,
+    "beam": 23,
+    "destination": "",
+    "callsign": "WDP8500"
   }
 }
