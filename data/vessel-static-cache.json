@@ -3788,7 +3788,7 @@
     "type": 31,
     "length": 8,
     "beam": 0,
-    "destination": "CLEVELAND OH",
+    "destination": "US^0VEC>?? ???",
     "callsign": "WDJ7186"
   },
   "538009532": {
@@ -4890,8 +4890,8 @@
   "367744840": {
     "name": "CHICAGO TRADER",
     "type": 57,
-    "length": 112,
-    "beam": 17,
+    "length": 142,
+    "beam": 11,
     "destination": "USLMJ<>USLMJ",
     "callsign": "WDI9059"
   },
