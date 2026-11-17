@@ -1052,7 +1052,7 @@
     "type": 52,
     "length": 159,
     "beam": 24,
-    "destination": "WINDSOR",
+    "destination": "SILLERY",
     "callsign": "CFG8081"
   },
   "538006469": {
@@ -1196,7 +1196,7 @@
     "type": 89,
     "length": 144,
     "beam": 23,
-    "destination": "HALIFAX",
+    "destination": "NANTICOKE",
     "callsign": "VECB"
   },
   "316009090": {
