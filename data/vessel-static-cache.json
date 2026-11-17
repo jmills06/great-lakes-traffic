@@ -812,7 +812,7 @@
     "type": 70,
     "length": 140,
     "beam": 21,
-    "destination": "PICTON",
+    "destination": "TORONTO",
     "callsign": "VCAS"
   },
   "316052496": {
@@ -1300,7 +1300,7 @@
     "type": 70,
     "length": 194,
     "beam": 21,
-    "destination": "GODERICH",
+    "destination": "SARNIA",
     "callsign": "VDBA"
   },
   "316001978": {
