@@ -1628,7 +1628,7 @@
     "type": 70,
     "length": 234,
     "beam": 22,
-    "destination": "IND HBR",
+    "destination": "SILVERBAY",
     "callsign": "WDH7557"
   },
   "368417090": {
@@ -3348,7 +3348,7 @@
     "type": 70,
     "length": 185,
     "beam": 24,
-    "destination": "CATHU",
+    "destination": "CAHAM",
     "callsign": "V2BN9"
   },
   "538009245": {
