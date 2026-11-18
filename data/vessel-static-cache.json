@@ -5726,5 +5726,21 @@
     "beam": 5,
     "destination": "",
     "callsign": ""
+  },
+  "538010805": {
+    "name": "FEDERAL INDIANA",
+    "type": 79,
+    "length": 200,
+    "beam": 24,
+    "destination": "USCHI",
+    "callsign": "V7A7453"
+  },
+  "368926287": {
+    "name": "R\\V SMITH",
+    "type": 10,
+    "length": 16,
+    "beam": 4,
+    "destination": "STGN_BAY",
+    "callsign": "--"
   }
 }
