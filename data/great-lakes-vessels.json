@@ -1,20 +1,6 @@
 {
-  "updated": "2026-11-18T15:01:37Z",
+  "updated": "2026-11-18T16:16:30Z",
   "vessels": [
-    {
-      "mmsi": 366971370,
-      "name": "EDWIN H. GOTT",
-      "type": 70,
-      "lat": 47.47521,
-      "lon": -88.54474,
-      "sog": 13.4,
-      "cog": 257,
-      "heading": 257,
-      "length": 305,
-      "beam": 32,
-      "destination": "TWO HARBORS",
-      "lastReport": "2026-11-18T15:01:26Z"
-    },
     {
       "mmsi": 366971360,
       "name": "JOHN G MUNSON",
@@ -27,35 +13,35 @@
       "length": 234,
       "beam": 22,
       "destination": "IND HBR",
-      "lastReport": "2026-11-18T15:00:54Z"
+      "lastReport": "2026-11-18T16:16:24Z"
     },
     {
-      "mmsi": 316002280,
-      "name": "ALGOMA CONVEYOR",
-      "type": 79,
-      "lat": 42.51372,
-      "lon": -79.83434,
-      "sog": 13,
-      "cog": 54,
-      "heading": 54,
-      "length": 226,
-      "beam": 24,
-      "destination": "QUEBEC",
-      "lastReport": "2026-11-18T15:00:44Z"
-    },
-    {
-      "mmsi": 366938710,
-      "name": "AMERICAN MARINER",
+      "mmsi": 316001635,
+      "name": "RT HON PAUL J MARTIN",
       "type": 70,
-      "lat": 46.50265,
-      "lon": -84.3682,
-      "sog": 0,
-      "cog": 88,
-      "heading": 88,
-      "length": 222,
-      "beam": 23,
-      "destination": "STONEPORT",
-      "lastReport": "2026-11-18T15:01:26Z"
+      "lat": 43.48593,
+      "lon": -79.52483,
+      "sog": 11,
+      "cog": 259,
+      "heading": 259,
+      "length": 225,
+      "beam": 24,
+      "destination": "CLARKSON",
+      "lastReport": "2026-11-18T16:16:17Z"
+    },
+    {
+      "mmsi": 311058600,
+      "name": "MAMRY",
+      "type": 70,
+      "lat": 42.89953,
+      "lon": -79.24595,
+      "sog": 0.3,
+      "cog": 190,
+      "heading": 188,
+      "length": 190,
+      "beam": 24,
+      "destination": "CA THU",
+      "lastReport": "2026-11-18T16:15:48Z"
     }
   ]
 }
