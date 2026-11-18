@@ -1,75 +1,19 @@
 {
-  "updated": "2026-11-18T08:31:42Z",
+  "updated": "2026-11-18T11:31:36Z",
   "vessels": [
-    {
-      "mmsi": 311058500,
-      "name": "SOLINA",
-      "type": 70,
-      "lat": 43.02002,
-      "lon": -87.8964,
-      "sog": 0,
-      "cog": 226,
-      "heading": 40,
-      "length": 189,
-      "beam": 24,
-      "destination": "USBNB",
-      "lastReport": "2026-11-18T08:31:13Z"
-    },
     {
       "mmsi": 636017261,
       "name": "SUNDA",
       "type": 70,
-      "lat": 43.64234,
-      "lon": -79.36806,
+      "lat": 43.64235,
+      "lon": -79.36802,
       "sog": 0,
       "cog": 327,
-      "heading": 334,
+      "heading": 335,
       "length": 186,
       "beam": 24,
       "destination": "CA TOR",
-      "lastReport": "2026-11-18T08:31:11Z"
-    },
-    {
-      "mmsi": 305578000,
-      "name": "BBC GENEVA",
-      "type": 70,
-      "lat": 45.93027,
-      "lon": -83.8879,
-      "sog": 14.1,
-      "cog": 339,
-      "heading": 340,
-      "length": 149,
-      "beam": 23,
-      "destination": "CATHU",
-      "lastReport": "2026-11-18T08:31:09Z"
-    },
-    {
-      "mmsi": 316051091,
-      "name": "ALGOBERTA",
-      "type": 80,
-      "lat": 43.31238,
-      "lon": -79.12543,
-      "sog": 11.8,
-      "cog": 48,
-      "heading": 47,
-      "length": 143,
-      "beam": 23,
-      "destination": "CASVD",
-      "lastReport": "2026-11-18T08:30:46Z"
-    },
-    {
-      "mmsi": 316036419,
-      "name": "MCKEIL SPIRIT",
-      "type": 70,
-      "lat": 43.49779,
-      "lon": -77.0195,
-      "sog": 13.1,
-      "cog": 93,
-      "heading": 91,
-      "length": 140,
-      "beam": 21,
-      "destination": "TORONTO",
-      "lastReport": "2026-11-18T08:31:37Z"
+      "lastReport": "2026-11-18T11:31:11Z"
     }
   ]
 }
