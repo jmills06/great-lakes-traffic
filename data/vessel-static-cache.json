@@ -5684,7 +5684,7 @@
     "type": 70,
     "length": 200,
     "beam": 24,
-    "destination": "USCLE",
+    "destination": "USBNB",
     "callsign": "C6CS3"
   },
   "368391030": {
@@ -5742,5 +5742,13 @@
     "beam": 4,
     "destination": "STGN_BAY",
     "callsign": "--"
+  },
+  "249864000": {
+    "name": "STARA PLANINA",
+    "type": 70,
+    "length": 189,
+    "beam": 23,
+    "destination": "CAHAM",
+    "callsign": "9HA6412"
   }
 }
