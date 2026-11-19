@@ -188,7 +188,7 @@
     "type": 52,
     "length": 164,
     "beam": 23,
-    "destination": "BOWMANVILLE",
+    "destination": "DETROIT SMC ROUGE",
     "callsign": "CZ9891"
   },
   "338888000": {
@@ -836,7 +836,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "NANTICOKE",
+    "destination": "DULUTH",
     "callsign": "WYQ4356"
   },
   "305594000": {
