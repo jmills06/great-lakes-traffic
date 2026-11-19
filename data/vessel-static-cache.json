@@ -1740,7 +1740,7 @@
     "type": 52,
     "length": 45,
     "beam": 22,
-    "destination": "ALPENA",
+    "destination": "SUPERIOR",
     "callsign": "WDC8307"
   },
   "316024256": {
@@ -2028,7 +2028,7 @@
     "type": 52,
     "length": 257,
     "beam": 23,
-    "destination": "DETROIT",
+    "destination": "PORT DOLOMITE",
     "callsign": "WDB9821"
   },
   "367341010": {
