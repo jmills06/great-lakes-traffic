@@ -988,7 +988,7 @@
     "type": 70,
     "length": 191,
     "beam": 20,
-    "destination": "PORT INLAND",
+    "destination": "DETROIT MISTERSKY",
     "callsign": "WDE3568"
   },
   "316002588": {
@@ -5577,10 +5577,10 @@
   },
   "538006786": {
     "name": "FEDERAL WELLAND",
-    "type": 70,
+    "type": 79,
     "length": 200,
     "beam": 24,
-    "destination": "USDET",
+    "destination": "USDET >> CASNI",
     "callsign": "V7RG7"
   },
   "305578000": {
