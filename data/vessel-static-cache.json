@@ -484,7 +484,7 @@
     "type": 70,
     "length": 304,
     "beam": 32,
-    "destination": "SUPERIOR",
+    "destination": "BURNS HBR",
     "callsign": "WDC6027"
   },
   "316015050": {
@@ -2748,7 +2748,7 @@
     "type": 52,
     "length": 222,
     "beam": 22,
-    "destination": "INDIANA HBR",
+    "destination": "SAGINAW 67",
     "callsign": "WDF7019"
   },
   "316034846": {
