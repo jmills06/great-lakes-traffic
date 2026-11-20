@@ -916,7 +916,7 @@
     "type": 52,
     "length": 22,
     "beam": 8,
-    "destination": "CA CSN",
+    "destination": "CA HAM",
     "callsign": "VC9004"
   },
   "316023341": {
@@ -940,7 +940,7 @@
     "type": 70,
     "length": 213,
     "beam": 23,
-    "destination": "USGUV>USMKG",
+    "destination": "USDET>USSKY",
     "callsign": "WL3972"
   },
   "367511590": {
