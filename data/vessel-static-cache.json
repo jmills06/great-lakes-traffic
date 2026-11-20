@@ -4348,7 +4348,7 @@
     "type": 70,
     "length": 143,
     "beam": 16,
-    "destination": "CA MTR",
+    "destination": "CAWND",
     "callsign": "PCIX"
   },
   "338926168": {
@@ -4788,7 +4788,7 @@
     "type": 70,
     "length": 200,
     "beam": 24,
-    "destination": "CASNI",
+    "destination": "CAMTR",
     "callsign": "V7A6611"
   },
   "367409940": {
