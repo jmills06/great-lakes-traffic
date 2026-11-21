@@ -924,7 +924,7 @@
     "type": 70,
     "length": 225,
     "beam": 25,
-    "destination": "WINDSOR",
+    "destination": "TOLEDO",
     "callsign": "CFN6287"
   },
   "316025881": {
@@ -2756,7 +2756,7 @@
     "type": 70,
     "length": 226,
     "beam": 24,
-    "destination": "HAMILTON",
+    "destination": "SILVER BAY",
     "callsign": "CFFO"
   },
   "367649730": {
