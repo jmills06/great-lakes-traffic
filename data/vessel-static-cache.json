@@ -484,7 +484,7 @@
     "type": 70,
     "length": 304,
     "beam": 32,
-    "destination": "BURNS HBR",
+    "destination": "SUPERIOR WISC",
     "callsign": "WDC6027"
   },
   "316015050": {
@@ -676,7 +676,7 @@
     "type": 70,
     "length": 198,
     "beam": 24,
-    "destination": "CLEVELAND",
+    "destination": "THUNDER BAY",
     "callsign": "VABC"
   },
   "316045069": {
@@ -2804,7 +2804,7 @@
     "type": 70,
     "length": 179,
     "beam": 23,
-    "destination": "CATHU",
+    "destination": "CAWIN",
     "callsign": "VDAN"
   },
   "338465871": {
