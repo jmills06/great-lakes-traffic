@@ -5758,5 +5758,13 @@
     "beam": 7,
     "destination": "PORT COLBOURNE",
     "callsign": "CFB9494"
+  },
+  "368273340": {
+    "name": "CAMERON O",
+    "type": 52,
+    "length": 4,
+    "beam": 2,
+    "destination": "STURGEON BAY",
+    "callsign": "WDN3616"
   }
 }
