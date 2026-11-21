@@ -5204,7 +5204,7 @@
     "type": 99,
     "length": 29,
     "beam": 7,
-    "destination": "SECTOR NGL",
+    "destination": "COAST GUARD MOORING",
     "callsign": "NADT"
   },
   "538006783": {
@@ -5750,5 +5750,13 @@
     "beam": 23,
     "destination": "CAHAM",
     "callsign": "9HA6412"
+  },
+  "316002104": {
+    "name": "WESTERN TUGGER",
+    "type": 90,
+    "length": 20,
+    "beam": 7,
+    "destination": "PORT COLBOURNE",
+    "callsign": "CFB9494"
   }
 }
