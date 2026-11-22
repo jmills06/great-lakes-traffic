@@ -1564,7 +1564,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "CLARKSON",
+    "destination": "COLBORNE",
     "callsign": "VDWB"
   },
   "367599370": {
@@ -4040,11 +4040,11 @@
     "callsign": "VA9311"
   },
   "538010365": {
-    "name": "BLUEBILL",
+    "name": "AB MOM",
     "type": 70,
     "length": 200,
     "beam": 24,
-    "destination": "CAMTR",
+    "destination": "MA  CAS>CA WND",
     "callsign": "V7A5944"
   },
   "255806030": {
