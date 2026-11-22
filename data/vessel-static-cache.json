@@ -5774,5 +5774,13 @@
     "beam": 6,
     "destination": "GANANOQUE",
     "callsign": ""
+  },
+  "366999979": {
+    "name": "CG MOBILE BAY",
+    "type": 90,
+    "length": 42,
+    "beam": 12,
+    "destination": "STURGEON BAY",
+    "callsign": "NRUR"
   }
 }
