@@ -740,7 +740,7 @@
     "type": 70,
     "length": 222,
     "beam": 23,
-    "destination": "STONEPORT",
+    "destination": "PORT INLAND",
     "callsign": "WQZ7791"
   },
   "366848350": {
@@ -940,7 +940,7 @@
     "type": 70,
     "length": 213,
     "beam": 23,
-    "destination": "USDET>USSKY",
+    "destination": "USRRJ>USKCH",
     "callsign": "WL3972"
   },
   "367511590": {
@@ -3860,7 +3860,7 @@
     "type": 70,
     "length": 200,
     "beam": 24,
-    "destination": "USCLE",
+    "destination": "USDET",
     "callsign": "V7RG6"
   },
   "244770273": {
@@ -5564,7 +5564,7 @@
     "type": 70,
     "length": 189,
     "beam": 24,
-    "destination": "USMKE",
+    "destination": "USDLH",
     "callsign": "C6ZL4"
   },
   "538012163": {
