@@ -612,7 +612,7 @@
     "type": 89,
     "length": 110,
     "beam": 18,
-    "destination": "USOSW",
+    "destination": "USBCY",
     "callsign": "PCCB"
   },
   "368211020": {
@@ -1546,7 +1546,7 @@
   "316029092": {
     "name": "MARINE 1",
     "type": 55,
-    "length": 12,
+    "length": 10,
     "beam": 4,
     "destination": "",
     "callsign": ""
@@ -5766,5 +5766,13 @@
     "beam": 2,
     "destination": "STURGEON BAY",
     "callsign": "WDN3616"
+  },
+  "316015867": {
+    "name": "THOUSAND ISLANDER",
+    "type": 60,
+    "length": 26,
+    "beam": 6,
+    "destination": "GANANOQUE",
+    "callsign": ""
   }
 }
