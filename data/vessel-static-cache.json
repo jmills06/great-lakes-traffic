@@ -924,7 +924,7 @@
     "type": 70,
     "length": 225,
     "beam": 25,
-    "destination": "TOLEDO",
+    "destination": "HAMILTON",
     "callsign": "CFN6287"
   },
   "316025881": {
@@ -1564,7 +1564,7 @@
     "type": 70,
     "length": 223,
     "beam": 23,
-    "destination": "COLBORNE",
+    "destination": "CLARKSON",
     "callsign": "VDWB"
   },
   "367599370": {
@@ -5748,7 +5748,7 @@
     "type": 70,
     "length": 189,
     "beam": 23,
-    "destination": "CAHAM",
+    "destination": "CAWND",
     "callsign": "9HA6412"
   },
   "316002104": {
