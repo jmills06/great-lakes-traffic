@@ -180,7 +180,7 @@
     "type": 70,
     "length": 222,
     "beam": 24,
-    "destination": "SANDUSKY",
+    "destination": "CLARKSON",
     "callsign": "VGWM"
   },
   "316002063": {
@@ -700,7 +700,7 @@
     "type": 80,
     "length": 144,
     "beam": 23,
-    "destination": "CA SNI",
+    "destination": "CA HAM",
     "callsign": "CQ2445"
   },
   "367350620": {
@@ -1108,7 +1108,7 @@
     "type": 2,
     "length": 305,
     "beam": 32,
-    "destination": "TWO HARBORS",
+    "destination": "SUPERIOR",
     "callsign": "WDD2876"
   },
   "316005305": {
@@ -3860,7 +3860,7 @@
     "type": 70,
     "length": 200,
     "beam": 24,
-    "destination": "USDET",
+    "destination": "USTOL",
     "callsign": "V7RG6"
   },
   "244770273": {
@@ -5332,7 +5332,7 @@
     "type": 90,
     "length": 0,
     "beam": 0,
-    "destination": "NAVAIDS MAINTENANCE",
+    "destination": "PORT COLBORNE",
     "callsign": "VX5564"
   },
   "305758000": {
