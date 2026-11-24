@@ -812,7 +812,7 @@
     "type": 70,
     "length": 140,
     "beam": 21,
-    "destination": "PICTON",
+    "destination": "TORONTO",
     "callsign": "VCAS"
   },
   "316052496": {
@@ -4652,7 +4652,7 @@
     "type": 70,
     "length": 199,
     "beam": 24,
-    "destination": "CATHU",
+    "destination": "CASSM",
     "callsign": "V7A2319"
   },
   "316034372": {
