@@ -188,7 +188,7 @@
     "type": 52,
     "length": 164,
     "beam": 23,
-    "destination": "DETROIT SMC ROUGE",
+    "destination": "HAMILTON",
     "callsign": "CZ9891"
   },
   "338888000": {
@@ -2426,7 +2426,7 @@
   "316009423": {
     "name": "RADIUM YELLOWKNIFE",
     "type": 52,
-    "length": 12,
+    "length": 6,
     "beam": 40,
     "destination": "TORONTO",
     "callsign": "CFN4606"
@@ -3588,7 +3588,7 @@
     "type": 70,
     "length": 200,
     "beam": 24,
-    "destination": "US DLH",
+    "destination": "CA SJB",
     "callsign": "CQ2267"
   },
   "338495664": {
