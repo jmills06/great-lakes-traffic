@@ -1484,7 +1484,7 @@
     "type": 70,
     "length": 306,
     "beam": 32,
-    "destination": "MARQUETTE",
+    "destination": "SUPERIOR",
     "callsign": "WCX2417"
   },
   "316014170": {
@@ -4052,7 +4052,7 @@
     "type": 70,
     "length": 199,
     "beam": 24,
-    "destination": "CA THU",
+    "destination": "CA HAM",
     "callsign": "CQIP5"
   },
   "368077530": {
@@ -5332,7 +5332,7 @@
     "type": 90,
     "length": 0,
     "beam": 0,
-    "destination": "PORT COLBORNE",
+    "destination": "PORT COLBORNE NAVAID",
     "callsign": "VX5564"
   },
   "305758000": {
