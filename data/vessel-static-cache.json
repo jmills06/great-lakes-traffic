@@ -1932,7 +1932,7 @@
     "type": 70,
     "length": 252,
     "beam": 23,
-    "destination": "TOLEDO",
+    "destination": "INDIANA HARBOR",
     "callsign": "WUR8857"
   },
   "367725510": {
@@ -2852,7 +2852,7 @@
     "type": 79,
     "length": 226,
     "beam": 24,
-    "destination": "QUEBEC",
+    "destination": "SARNIA CARGILL",
     "callsign": "XJBT"
   },
   "244014000": {
@@ -4890,7 +4890,7 @@
   "367744840": {
     "name": "CHICAGO TRADER",
     "type": 57,
-    "length": 142,
+    "length": 81,
     "beam": 11,
     "destination": "USLMJ<>USLMJ",
     "callsign": "WDI9059"
