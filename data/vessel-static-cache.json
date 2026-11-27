@@ -836,7 +836,7 @@
     "type": 70,
     "length": 305,
     "beam": 32,
-    "destination": "DULUTH",
+    "destination": "INDIANA HARBOR",
     "callsign": "WYQ4356"
   },
   "305594000": {
@@ -1428,7 +1428,7 @@
     "type": 70,
     "length": 207,
     "beam": 24,
-    "destination": "CALCITE",
+    "destination": "TOLEDO",
     "callsign": "WZE4539"
   },
   "316001834": {
@@ -3708,7 +3708,7 @@
     "type": 70,
     "length": 143,
     "beam": 16,
-    "destination": "GB TIL",
+    "destination": "CA THU",
     "callsign": "PCSQ"
   },
   "367054810": {
@@ -5660,7 +5660,7 @@
     "type": 31,
     "length": 40,
     "beam": 10,
-    "destination": "SS MARIE",
+    "destination": "SST MARIE",
     "callsign": "VOLP"
   },
   "369493752": {
