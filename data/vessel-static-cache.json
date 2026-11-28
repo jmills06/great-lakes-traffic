@@ -3268,7 +3268,7 @@
     "type": 70,
     "length": 200,
     "beam": 24,
-    "destination": "CAMTR",
+    "destination": "USDET",
     "callsign": "V7RE7"
   },
   "369493763": {
@@ -3692,7 +3692,7 @@
     "type": 70,
     "length": 200,
     "beam": 24,
-    "destination": "CAMTR",
+    "destination": "USBNB",
     "callsign": "CQ2753"
   },
   "256251000": {
